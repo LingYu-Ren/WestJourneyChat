@@ -1,0 +1,29 @@
+{
+  "name": "閣門大使",
+  "aliases": [],
+  "description": "寶象國負責朝門文牒驗核與通報的高級禮官",
+  "personality": [
+    "恪守職制",
+    "謹慎持重"
+  ],
+  "traits": [
+    "朝服冠帶",
+    "手持文牒",
+    "立於朝門"
+  ],
+  "abilities": [
+    "文牒審驗",
+    "儀典通報",
+    "外交接洽"
+  ],
+  "summary": "在朝門外依制受理玄奘倒牒，確認文牒合規後即刻通報國王，推動正式召見流程。",
+  "events": [
+    {
+      "event_id": "ch029_006",
+      "event_name": "倒牒面駕",
+      "event_status": "奉命值守朝門，待驗西來僧牒",
+      "character_decision": "驗牒並通報國王",
+      "decision_result": "國王准奏召見"
+    }
+  ]
+}

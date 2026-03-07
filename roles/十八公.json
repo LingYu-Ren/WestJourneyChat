@@ -1,0 +1,42 @@
+{
+  "name": "十八公",
+  "aliases": [
+    "十八公"
+  ],
+  "description": "松树成精，荆棘岭木仙庵四操之一",
+  "personality": [
+    "清雅",
+    "好文",
+    "守礼",
+    "迂阔"
+  ],
+  "traits": [
+    "松树本体",
+    "自号十八公",
+    "擅诗论道",
+    "长者风范"
+  ],
+  "abilities": [
+    "吟诗",
+    "论玄",
+    "设宴邀宾",
+    "媒妁牵线"
+  ],
+  "summary": "作为‘荆棘岭四操’之首，参与主持诗会并促成杏仙逼婚，展现其重文尚礼却难察人情险恶的矛盾性。",
+  "events": [
+    {
+      "event_id": "ch064_006",
+      "event_name": "四操談詩",
+      "event_status": "阴风骤起，群精设宴邀僧论道",
+      "character_decision": "自报名号吟诗论道",
+      "decision_result": "确立四操本体身份"
+    },
+    {
+      "event_id": "ch064_007",
+      "event_name": "杏仙逼婚",
+      "event_status": "杏仙慕才求配，四老共为媒妁",
+      "character_decision": "协同保亲促成婚议",
+      "decision_result": "遭三藏严拒致群妖惶惧"
+    }
+  ]
+}

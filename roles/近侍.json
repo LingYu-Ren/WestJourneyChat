@@ -1,0 +1,37 @@
+{
+  "name": "近侍",
+  "aliases": [],
+  "description": "朱紫國王身邊貼身服侍的宮廷侍從",
+  "personality": [
+    "謹慎",
+    "順從",
+    "機敏"
+  ],
+  "traits": [
+    "隨侍御前",
+    "應召即至",
+    "儀態端肅"
+  ],
+  "abilities": [
+    "奉命傳遞",
+    "協理藥事",
+    "察言觀色"
+  ],
+  "summary": "在寶殿御前奉命接引丹藥，協助國王完成吞丹試水與病後驗證，展現關鍵時刻的即時響應力。",
+  "events": [
+    {
+      "event_id": "ch069_004",
+      "event_name": "御前吞丹試水",
+      "event_status": "國王臨殿服藥，眾官屏息以待",
+      "character_decision": "接上烏金丹供國王服用",
+      "decision_result": "丹藥順利入腹，療效初顯"
+    },
+    {
+      "event_id": "ch069_005",
+      "event_name": "腹響行穢解疾",
+      "event_status": "國王病發排穢，妃子近前關切",
+      "character_decision": "侍立旁側照應起居",
+      "decision_result": "佐證病源確為驚恐所結"
+    }
+  ]
+}

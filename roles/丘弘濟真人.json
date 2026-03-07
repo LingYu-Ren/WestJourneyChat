@@ -1,0 +1,39 @@
+{
+  "name": "丘弘濟真人",
+  "aliases": [],
+  "description": "天庭高阶真人，玉帝近臣，司职奏事传谕",
+  "personality": [
+    "庄重",
+    "尽责",
+    "谨慎",
+    "通达"
+  ],
+  "traits": [
+    "启奏者",
+    "金阙云宫常驻",
+    "持笏肃立",
+    "殿前导引"
+  ],
+  "abilities": [
+    "通禀奏事",
+    "天庭仪轨娴熟",
+    "面圣引陈"
+  ],
+  "summary": "在灵霄宝殿当廷启奏，促成玉帝对东海龙王控诉的即时回应。　于灵霄殿外主持殿前陈情，依制引悟空面奏玉帝，促成天界查勘程序启动。",
+  "events": [
+    {
+      "event_id": "ch003_011",
+      "event_name": "龍王告狀",
+      "event_status": "龙王陈情之际，天庭议政关键节点",
+      "character_decision": "及时启奏呈报",
+      "decision_result": "推动玉帝决意遣将"
+    },
+    {
+      "event_id": "ch051_003",
+      "event_name": "殿前陳情",
+      "event_status": "四天师共议，取经受阻紧急关头",
+      "character_decision": "依制引悟空面奏",
+      "decision_result": "启动天界查勘"
+    }
+  ]
+}

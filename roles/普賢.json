@@ -1,0 +1,37 @@
+{
+  "name": "普賢",
+  "aliases": [],
+  "description": "佛教四大菩薩之一，主司行願，居五臺山",
+  "personality": [
+    "莊重",
+    "沉靜",
+    "協同"
+  ],
+  "traits": [
+    "六牙白象坐騎",
+    "持蓮花或如意",
+    "頂戴五佛冠"
+  ],
+  "abilities": [
+    "行願無盡",
+    "降伏剛強",
+    "協理佛事"
+  ],
+  "summary": "隨如來參與孔雀淵源闡釋與獅駝國收魔之役，展現其作為核心菩薩的協同護法之職。",
+  "events": [
+    {
+      "event_id": "ch077_012",
+      "event_name": "孔雀淵源",
+      "event_status": "靈山聽法，共證大鵬身世",
+      "character_decision": "列席見證如來自述",
+      "decision_result": "確立親緣譜系權威"
+    },
+    {
+      "event_id": "ch077_013",
+      "event_name": "佛光收魔",
+      "event_status": "獅駝國上空圍剿三魔",
+      "character_decision": "隨佛光陣協力鎮魔",
+      "decision_result": "青獅白象皈依成護法"
+    }
+  ]
+}

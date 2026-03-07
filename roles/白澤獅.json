@@ -1,0 +1,35 @@
+{
+  "name": "白澤獅",
+  "aliases": [],
+  "description": "玉華縣黃獅精麾下七獅精之一，通靈白澤之裔",
+  "personality": [
+    "兇悍",
+    "忠勇"
+  ],
+  "traits": [
+    "白毛如雪",
+    "額有澤紋",
+    "獅形獸身"
+  ],
+  "abilities": [
+    "群戰協攻",
+    "夜戰擅長"
+  ],
+  "summary": "參與七獅圍攻師徒的聯合作戰，後隨眾出城伏擊，於毫毛擒雙之役中被孫悟空所變小聖圍捕。",
+  "events": [
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七獅合圍，勢壓師兄弟",
+      "character_decision": "協同圍攻孫悟空等三人",
+      "decision_result": "八戒被擒"
+    },
+    {
+      "event_id": "ch090_003",
+      "event_name": "毫毛擒雙",
+      "event_status": "城外夜戰，遭行者變化突襲",
+      "character_decision": "隨眾出戰應援",
+      "decision_result": "被百十小聖圍困"
+    }
+  ]
+}

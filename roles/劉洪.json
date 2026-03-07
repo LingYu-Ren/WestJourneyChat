@@ -1,0 +1,52 @@
+{
+  "name": "劉洪",
+  "aliases": [],
+  "description": "冒官殺夫奪妻的江州水賊",
+  "personality": [
+    "貪色",
+    "兇殘",
+    "狡詐",
+    "妄悖"
+  ],
+  "traits": [
+    "偽裝官員",
+    "恃力脅迫",
+    "狼心狗肺"
+  ],
+  "abilities": [
+    "偽裝",
+    "謀殺",
+    "權術冒用"
+  ],
+  "summary": "劉洪從行兇奪權到被剜心祭奠，其罪行全程推動玄奘身世線索展開，最終伏誅引發光蕊還魂。",
+  "events": [
+    {
+      "event_id": "ch009_005",
+      "event_name": "洪江殺劫",
+      "event_status": "洪江渡口設伏，四下無援",
+      "character_decision": "勾結李彪殺害光蕊",
+      "decision_result": "光蕊沉江，奪妻得逞"
+    },
+    {
+      "event_id": "ch009_007",
+      "event_name": "賊代州主",
+      "event_status": "江州衙署內外矇蔽，權柄在握",
+      "character_decision": "冒充光蕊執掌江州",
+      "decision_result": "穩據州主之位"
+    },
+    {
+      "event_id": "ch009_013",
+      "event_name": "假病還願",
+      "event_status": "私衙中受溫嬌蒙蔽，驕橫輕信",
+      "character_decision": "應允製僧鞋赴金山寺",
+      "decision_result": "為母子相認埋下契機"
+    },
+    {
+      "event_id": "ch009_018",
+      "event_name": "剜心祭奠",
+      "event_status": "法場被圍，罪證確鑿，束手就擒",
+      "character_decision": "伏法受剜心之刑",
+      "decision_result": "心肝祭光蕊，引龍王送魂"
+    }
+  ]
+}

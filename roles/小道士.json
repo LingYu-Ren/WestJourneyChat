@@ -1,0 +1,29 @@
+{
+  "name": "小道士",
+  "aliases": [],
+  "description": "車遲國三清觀中負責供奉香火的年輕道士",
+  "personality": [
+    "警觉",
+    "慌乱",
+    "尽职"
+  ],
+  "traits": [
+    "持铃侍立",
+    "道袍整洁",
+    "年少稚嫩"
+  ],
+  "abilities": [
+    "守殿巡香",
+    "辨声察异"
+  ],
+  "summary": "因八戒失笑而惊惶跌铃，意外暴露众僧盗食真相，成为鬥法事件的导火索。",
+  "events": [
+    {
+      "event_id": "ch044_011",
+      "event_name": "鈴碎露蹤",
+      "event_status": "殿内值勤，突闻异响",
+      "character_decision": "受惊跌落铜铃",
+      "decision_result": "真相败露"
+    }
+  ]
+}

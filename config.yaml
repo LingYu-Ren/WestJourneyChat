@@ -1,0 +1,13 @@
+api_key: sk-**********************
+
+neo4j:
+  uri: "neo4j://127.0.0.1:7687"
+  user: "neo4j"
+  password: "*******"
+
+project_id: "******-****-****-****-****"
+
+qwen:
+  model: "qwen-plus"
+  base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
+  delay: 0.5

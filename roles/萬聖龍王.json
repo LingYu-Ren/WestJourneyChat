@@ -1,0 +1,55 @@
+{
+  "name": "萬聖龍王",
+  "aliases": [],
+  "description": "西海龍族旁支，萬聖公主之父，金光寺血雨盜寶主謀者",
+  "personality": [
+    "貪婪",
+    "權欲熏心",
+    "陰鷙",
+    "怯懦",
+    "昏聩"
+  ],
+  "traits": [
+    "龍形威壓",
+    "擅布血雨",
+    "重門第聲望",
+    "畏強凌弱"
+  ],
+  "abilities": [
+    "呼風喚雨",
+    "夜行隱蹤",
+    "龍宮統御",
+    "喪禮儀制"
+  ],
+  "summary": "三年前孟秋朔日夜半，為彰顯龍宮威勢、攫取佛寶與靈芝，聯合九頭駙馬及萬聖公主於金光寺寶塔施行血雨盜寶，致四夷絕貢、僧眾蒙冤、寶塔失光。　面對齊天大聖與天蓬元帥的連番征討，屢失防備、決策失當，終致龍宮破滅、龍子殞命、自身頭顱被擊碎。",
+  "events": [
+    {
+      "event_id": "ch062_006",
+      "event_name": "血雨盜寶",
+      "event_status": "龍宮勢微，亟需奇功立威",
+      "character_decision": "策動血雨污塔盜舍利",
+      "decision_result": "寶塔失光，四夷絕貢"
+    },
+    {
+      "event_id": "ch063_003",
+      "event_name": "禍事急報",
+      "event_status": "二妖負傷報信，大聖索寶臨門",
+      "character_decision": "驚懼遲疑未即應對",
+      "decision_result": "駙馬輕敵請戰"
+    },
+    {
+      "event_id": "ch063_007",
+      "event_name": "鈀破宮闕",
+      "event_status": "八戒怒闖龍宮，防禦崩潰",
+      "character_decision": "驚惶失措無力統御",
+      "decision_result": "頭顱遭悟空擊碎"
+    },
+    {
+      "event_id": "ch063_010",
+      "event_name": "晨破麻殯",
+      "event_status": "停喪掛孝，防備鬆懈",
+      "character_decision": "倚仗喪禮避戰",
+      "decision_result": "龍子被築殺"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "伏狸獅",
+  "aliases": [],
+  "description": "玉華縣一帶作亂的獅子精之一，屬黃獅精麾下七獅將",
+  "personality": [
+    "兇悍",
+    "忠勇",
+    "協同作戰"
+  ],
+  "traits": [
+    "獅形妖身",
+    "群戰習性",
+    "聽令於黃獅精"
+  ],
+  "abilities": [
+    "武藝精熟",
+    "結陣圍攻",
+    "夜戰應變"
+  ],
+  "summary": "伏狸獅參與七獅圍攻師徒的聯合作戰，並在夜間隨眾獅再戰，配合金毛獅怪佈局擒敵。",
+  "events": [
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七獅合圍，對抗取經三人",
+      "character_decision": "協同圍攻孫悟空等",
+      "decision_result": "八戒被擒"
+    },
+    {
+      "event_id": "ch090_003",
+      "event_name": "毫毛擒雙",
+      "event_status": "夜襲城外，遭行者變化突襲",
+      "character_decision": "隨眾獅迎戰行者分身",
+      "decision_result": "未能阻截，二獅被擒"
+    }
+  ]
+}

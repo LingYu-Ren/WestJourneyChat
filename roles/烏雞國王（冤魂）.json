@@ -1,0 +1,39 @@
+{
+  "name": "烏雞國王（冤魂）",
+  "aliases": [],
+  "description": "被妖道推入井中溺亡三年的烏雞國真君冤魂",
+  "personality": [
+    "悲憤",
+    "執念深",
+    "懇切",
+    "威儀未失"
+  ],
+  "traits": [
+    "帝王儀仗",
+    "水浸衣冠",
+    "夜現形骸",
+    "自陳籍貫"
+  ],
+  "abilities": [
+    "托夢訴冤",
+    "顯聖證身",
+    "借神風通訊"
+  ],
+  "summary": "於寶林寺禪堂夜現冤魂之形，以帝王儀仗自證身份，向玄奘詳述被推井三年之冤，並透露太子尚存、妖魔篡位之關鍵線索。",
+  "events": [
+    {
+      "event_id": "ch037_002",
+      "event_name": "鬼王謁師",
+      "event_status": "水淹三載冤氣未散，夜遊神引路入寺",
+      "character_decision": "現形訴冤並陳妖魔篡位",
+      "decision_result": "獲三藏初步信任"
+    },
+    {
+      "event_id": "ch037_003",
+      "event_name": "御容顯聖",
+      "event_status": "懇求取信而顯本相，威儀猶存",
+      "character_decision": "顯帝王儀仗自陳國籍",
+      "decision_result": "三藏確信非妖願轉告悟空"
+    }
+  ]
+}

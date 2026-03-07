@@ -1,0 +1,57 @@
+{
+  "name": "玉龍",
+  "aliases": [
+    "小白龍",
+    "西海龍王三太子"
+  ],
+  "description": "西海龍王敖閏之子，因縱火燒殿明珠被貶鷹愁澗",
+  "personality": [
+    "高傲",
+    "怯戰",
+    "隱忍",
+    "順從"
+  ],
+  "traits": [
+    "龍形",
+    "白鱗",
+    "潛水善遁",
+    "可化白馬"
+  ],
+  "abilities": [
+    "騰雲駕霧",
+    "翻江攪海",
+    "變化之術",
+    "水性通神"
+  ],
+  "summary": "初與孫悟空兩度交鋒皆敗，潛蹤變形；後經觀音點化，摘珠拂露化為白龍馬，正式承擔取經腳力之職。",
+  "events": [
+    {
+      "event_id": "ch015_004",
+      "event_name": "澗邊初鬥",
+      "event_status": "遭行者叫罵挑戰，威嚴受損",
+      "character_decision": "應戰賭鬥",
+      "decision_result": "力怯潛水"
+    },
+    {
+      "event_id": "ch015_005",
+      "event_name": "翻江再戰",
+      "event_status": "被行者攪澗逼迫，退路將絕",
+      "character_decision": "變水蛇遁草",
+      "decision_result": "暫避追索"
+    },
+    {
+      "event_id": "ch015_008",
+      "event_name": "菩薩訓猴",
+      "event_status": "菩薩親臨上空，身處裁決中心",
+      "character_decision": "靜聽訓示未辯",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch015_009",
+      "event_name": "龍馬化形",
+      "event_status": "菩薩奉旨點化，契機已至",
+      "character_decision": "受拂露摘珠化形",
+      "decision_result": "化為白龍馬"
+    }
+  ]
+}

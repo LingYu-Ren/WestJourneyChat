@@ -1,0 +1,37 @@
+{
+  "name": "洪福寺僧",
+  "aliases": [],
+  "description": "长安洪福寺中协助玄奘西行的僧人",
+  "personality": [
+    "恭谨",
+    "尽责",
+    "虔诚"
+  ],
+  "traits": [
+    "持戒",
+    "守职",
+    "守约"
+  ],
+  "abilities": [
+    "文书协助",
+    "寺院事务管理",
+    "仪轨验期"
+  ],
+  "summary": "在御弟辞行事件中，作为洪福寺代表参与送行，见证并协助玄奘领受文牒紫钵启程。　于三藏归国当日，在洪福寺主持松枝东向验期之仪，依昔年誓约确认真经已回，率众迎师。",
+  "events": [
+    {
+      "event_id": "ch012_012",
+      "event_name": "御弟辭行",
+      "event_status": "随行送别，见证取经启程",
+      "character_decision": "陪同玄奘辞行太宗",
+      "decision_result": "完成寺院使命交接"
+    },
+    {
+      "event_id": "ch100_004",
+      "event_name": "松東迎師",
+      "event_status": " awaiting return, verifying prophecy",
+      "character_decision": "主持松枝东向验期",
+      "decision_result": "确信三藏已携真经归来"
+    }
+  ]
+}

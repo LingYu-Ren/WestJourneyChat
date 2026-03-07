@@ -1,0 +1,37 @@
+{
+  "name": "善財童子",
+  "aliases": [],
+  "description": "觀音菩薩座下侍者，南海落伽山潮音洞隨侍童子",
+  "personality": [
+    "恭謹",
+    "沉靜",
+    "敏察"
+  ],
+  "traits": [
+    "赤足",
+    "持蓮",
+    "垂目低眉"
+  ],
+  "abilities": [
+    "通曉佛理",
+    "協理聖境",
+    "護法應機"
+  ],
+  "summary": "於潮音洞見證真假悟空之辯，默然隨侍菩薩左右，未發一言而恪守護法之職。　於路傍高柳陰下隨菩薩化現老母點化取經眾，默然承擔護持聖意之責，展現臨機應變之覺性。",
+  "events": [
+    {
+      "event_id": "ch058_004",
+      "event_name": "菩薩難辨",
+      "event_status": "二聖並立難分，眾神束手",
+      "character_decision": "隨侍觀音靜觀不語",
+      "decision_result": "維持聖境秩序"
+    },
+    {
+      "event_id": "ch084_002",
+      "event_name": "菩薩現形",
+      "event_status": "菩薩化身老母警示，眾僧未識聖意",
+      "character_decision": "隨侍護法靜默應機",
+      "decision_result": "助顯聖威確證劫難"
+    }
+  ]
+}

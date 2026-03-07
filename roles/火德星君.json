@@ -1,0 +1,53 @@
+{
+  "name": "火德星君",
+  "aliases": [],
+  "description": "天庭火部正神，掌管三昧真火与火部神兵",
+  "personality": [
+    "恪尽职守",
+    "听令迅疾",
+    "临危不乱"
+  ],
+  "traits": [
+    "赤甲朱缨",
+    "执火旗",
+    "驾火龙",
+    "火器随身"
+  ],
+  "abilities": [
+    "纵火焚妖",
+    "统御火部神兵",
+    "驾驭火龙火马",
+    "协战布阵"
+  ],
+  "summary": "奉悟空之请赴彤华宫助阵，率火部神兵攻金洞口，然火器尽被金刚琢收摄，首次显出法力受制于先天至宝。　再战金洞口时协同诸神齐攻，然火器再度被金刚琢收摄，陷入赤手困局；于铁棒得胜之刻列阵贺喜，显其奉命如仪、进退有节之职守本色。",
+  "events": [
+    {
+      "event_id": "ch051_009",
+      "event_name": "請火助陣",
+      "event_status": "悟空登宫恳请，水火克妖计议已定",
+      "character_decision": "应召调集火部神兵",
+      "decision_result": "神兵齐至金山放火"
+    },
+    {
+      "event_id": "ch051_010",
+      "event_name": "火劫不侵",
+      "event_status": "奉命攻洞，遭金刚琢突袭收摄火器",
+      "character_decision": "率火龙火马纵火攻洞",
+      "decision_result": "火器全被套走"
+    },
+    {
+      "event_id": "ch052_001",
+      "event_name": "鐵棒得勝",
+      "event_status": "众神列阵贺捷，士气高涨",
+      "character_decision": "列阵贺喜",
+      "decision_result": "彰天庭威仪"
+    },
+    {
+      "event_id": "ch052_007",
+      "event_name": "再戰復失",
+      "event_status": "趁势再攻反遭金刚琢突袭",
+      "character_decision": "率火部再施烈焰",
+      "decision_result": "火器尽被套走"
+    }
+  ]
+}

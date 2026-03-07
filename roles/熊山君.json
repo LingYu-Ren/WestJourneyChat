@@ -1,0 +1,30 @@
+{
+  "name": "熊山君",
+  "aliases": [],
+  "description": "盤踞雙叉嶺坑坎的妖怪，與寅將軍、特處士結義",
+  "personality": [
+    "兇悍",
+    "結黨",
+    "貪食"
+  ],
+  "traits": [
+    "山君",
+    "妖形",
+    "夜行"
+  ],
+  "abilities": [
+    "擒人",
+    "分食",
+    "據險"
+  ],
+  "summary": "與寅將軍、特處士共劫玄奘師徒，參與分食二從者，展現其作為山野妖王的殘暴本性。",
+  "events": [
+    {
+      "event_id": "ch013_006",
+      "event_name": "虎穴遭劫",
+      "event_status": "群妖伏擊墜坑僧侶，地利在握",
+      "character_decision": "合謀擒殺從者",
+      "decision_result": "分食二從者"
+    }
+  ]
+}

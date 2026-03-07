@@ -1,0 +1,92 @@
+{
+  "name": "劉伯欽",
+  "aliases": [],
+  "description": "大唐西陲雙叉嶺獵戶，通曉山情，孝義剛直",
+  "personality": [
+    "勇毅",
+    "孝順",
+    "質樸",
+    "敬佛",
+    "守界",
+    "重諾"
+  ],
+  "traits": [
+    "獵戶裝束",
+    "慣使鋼叉",
+    "熟悉山徑",
+    "重鄉誼",
+    "界畔拱手"
+  ],
+  "abilities": [
+    "驅獸狩獵",
+    "辨識險地",
+    "護送引路",
+    "界域勘定"
+  ],
+  "summary": "劉伯欽於雙叉嶺救玄奘性命，延請至家超薦亡父，親送至兩界山界，見證取經首聲呼喚，完成凡俗護法之責。　劉伯欽親歷石匣喚師、揭帖釋猴、法名初定諸事，於兩界山腳見證取經團隊成形，並在界畔正式辭行，完成凡俗護法最後一程。",
+  "events": [
+    {
+      "event_id": "ch013_008",
+      "event_name": "伯欽援手",
+      "event_status": "玄奘孤身遇虎蛇圍困",
+      "character_decision": "持叉驅獸救僧",
+      "decision_result": "護入劉家莊暫歇"
+    },
+    {
+      "event_id": "ch013_009",
+      "event_name": "超薦亡父",
+      "event_status": "母言父週忌需僧薦度",
+      "character_decision": "請玄奘為父誦經",
+      "decision_result": "薦亡文疏焚化"
+    },
+    {
+      "event_id": "ch013_010",
+      "event_name": "夢證超升",
+      "event_status": "佛事圓滿後全家同夢",
+      "character_decision": "信夢證父魂脫苦",
+      "decision_result": "愈加敬信厚贈"
+    },
+    {
+      "event_id": "ch013_011",
+      "event_name": "兩界分野",
+      "event_status": "行至大唐西境界碑",
+      "character_decision": "止步不越蠻荒界",
+      "decision_result": "玄奘獨入五行山"
+    },
+    {
+      "event_id": "ch013_012",
+      "event_name": "山呼師父",
+      "event_status": "拜別之際忽聞雷吼",
+      "character_decision": "驚立側耳凝聽",
+      "decision_result": "預示悟空將出"
+    },
+    {
+      "event_id": "ch014_001",
+      "event_name": "石匣喚師",
+      "event_status": "石匣封印悟空，雷音隱現",
+      "character_decision": "隨僧駐足聆聽異聲",
+      "decision_result": "確認神異，肅立待變"
+    },
+    {
+      "event_id": "ch014_002",
+      "event_name": "登巔揭帖",
+      "event_status": "山頂壓帖未揭，封印未解",
+      "character_decision": "陪玄奘登山觀禮",
+      "decision_result": "目擊金字帖揭，山搖地動"
+    },
+    {
+      "event_id": "ch014_004",
+      "event_name": "法名初定",
+      "event_status": "悟空初獲沙門稱號",
+      "character_decision": "靜立旁觀賜名儀式",
+      "decision_result": "默認新徒身份確立"
+    },
+    {
+      "event_id": "ch014_005",
+      "event_name": "太保辭行",
+      "event_status": "取經團隊初成，界畔將別",
+      "character_decision": "拱手長揖止步界碑",
+      "decision_result": "大唐西界正式告別"
+    }
+  ]
+}

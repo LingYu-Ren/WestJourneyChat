@@ -1,0 +1,27 @@
+{
+  "name": "當殿官",
+  "aliases": [],
+  "description": "天竺國王宮中負責殿廷禮儀與傳喚的官員",
+  "personality": [
+    "謹慎",
+    "守職"
+  ],
+  "traits": [
+    "儀態端方",
+    "服制嚴整"
+  ],
+  "abilities": [
+    "通傳迎賓",
+    "協理朝儀"
+  ],
+  "summary": "因奉命邀請唐僧徒弟赴齋，親見三徒醜貌而驚退，間接促成小王子質疑與兵器展示之機。",
+  "events": [
+    {
+      "event_id": "ch088_005",
+      "event_name": "醜貌驚官",
+      "event_status": "隨典膳官出迎，未料三徒真容",
+      "character_decision": "依命相請三徒赴齋",
+      "decision_result": "眾官驚退引發質疑"
+    }
+  ]
+}

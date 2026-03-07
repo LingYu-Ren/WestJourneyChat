@@ -1,0 +1,44 @@
+{
+  "name": "皇后",
+  "aliases": [],
+  "description": "天竺國國王之妻，居鳷鵲宮，統攝後宮",
+  "personality": [
+    "順從",
+    "謹慎",
+    "端莊"
+  ],
+  "traits": [
+    "宮衣華麗",
+    "依令行事",
+    "儀態雍容"
+  ],
+  "abilities": [
+    "管理宮藏",
+    "遵旨辦事",
+    "主持內廷禮儀"
+  ],
+  "summary": "皇后依鹿力大仙指令將山河襖裙收存於宮中櫃中， unwittingly 為悟空潛入篡改破鐘提供條件。　在假駙馬現形事件中見證妖氛現形、宮廷大亂；於迎駕取真事件中隨國王赴寺迎回真公主，參與骨肉團圓。",
+  "events": [
+    {
+      "event_id": "ch046_010",
+      "event_name": "宮衣入櫃",
+      "event_status": "奉鹿力之命整備寶物",
+      "character_decision": "置山河襖裙入櫃",
+      "decision_result": "悟空潛入篡改為破鐘"
+    },
+    {
+      "event_id": "ch095_001",
+      "event_name": "假駙馬現形",
+      "event_status": "假公主現妖遁走，宮廷震動",
+      "character_decision": "驚惶退避，靜觀聖僧處置",
+      "decision_result": "真相初顯，威信受撼"
+    },
+    {
+      "event_id": "ch095_009",
+      "event_name": "迎駕取真",
+      "event_status": "國王親赴寺院迎回真公主",
+      "character_decision": "隨駕赴寺迎女歸宮",
+      "decision_result": "母女團聚，內廷重序"
+    }
+  ]
+}

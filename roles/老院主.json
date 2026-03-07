@@ -1,0 +1,66 @@
+{
+  "name": "老院主",
+  "aliases": [],
+  "description": "觀音禪院二百七十歲院主，德高望重而貪念深重",
+  "personality": [
+    "貪婪",
+    "虛榮",
+    "狡黠",
+    "偽善",
+    "畏懼妖邪",
+    "趨利避害"
+  ],
+  "traits": [
+    "高齡僧人",
+    "精於世故",
+    "擅營寺院",
+    "面善心詭",
+    "知情隱忍"
+  ],
+  "abilities": [
+    "主持禪院",
+    "聚斂財物",
+    "煽動眾僧",
+    "密謀算計",
+    "察言觀色",
+    "密報機密"
+  ],
+  "summary": "因見錦襴袈裟起貪心，由獻茶示敬轉為密謀縱火奪寶，暴露其道貌岸然下的險惡本性。　於布金禪寺後園祗園基址發現真公主被囚，暗中密告實情，展現其危機中權衡利害、借勢自保的生存智慧。",
+  "events": [
+    {
+      "event_id": "ch016_005",
+      "event_name": "壽僧獻茶",
+      "event_status": "東土高僧初至，眾僧列迎",
+      "character_decision": "親出後房獻茶示敬",
+      "decision_result": "埋下覬覦袈裟伏筆"
+    },
+    {
+      "event_id": "ch016_006",
+      "event_name": "抖展袈裟",
+      "event_status": "天井集眾炫富，較量法器",
+      "character_decision": "驅眾僧展示七八百件袈裟",
+      "decision_result": "反襯錦襴袈裟殊勝"
+    },
+    {
+      "event_id": "ch016_007",
+      "event_name": "霞光迸現",
+      "event_status": "霞光滿室，眾僧驚嘆失措",
+      "character_decision": "懇求借觀錦襴袈裟",
+      "decision_result": "貪念徹底失控"
+    },
+    {
+      "event_id": "ch016_008",
+      "event_name": "密謀放火",
+      "event_status": "當夜後房密會，危機暗湧",
+      "character_decision": "與廣智廣謀定計縱火",
+      "decision_result": "全寺備柴圍禪堂"
+    },
+    {
+      "event_id": "ch093_005",
+      "event_name": "公主風攝囚園",
+      "event_status": "妖邪盤踞後園，形勢詭譎",
+      "character_decision": "密告真公主被囚實情",
+      "decision_result": "為辨偽埋下關鍵伏筆"
+    }
+  ]
+}

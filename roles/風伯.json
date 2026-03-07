@@ -1,0 +1,27 @@
+{
+  "name": "風伯",
+  "aliases": [],
+  "description": "司風之神，天庭風部正神",
+  "personality": [
+    "恪守職分",
+    "協同從命"
+  ],
+  "traits": [
+    "御風而行",
+    "青袍持幡"
+  ],
+  "abilities": [
+    "呼風",
+    "調節風勢"
+  ],
+  "summary": "在涇河龍王違旨行雨事件中奉命協同施法，雖未抗命但間接助成天條觸犯。",
+  "events": [
+    {
+      "event_id": "ch010_004",
+      "event_name": "違旨行雨",
+      "event_status": "奉天旨布雨，卻隨龍王篡改時辰",
+      "character_decision": "依令施風配合行雨",
+      "decision_result": "助成違制降雨"
+    }
+  ]
+}

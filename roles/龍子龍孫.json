@@ -1,0 +1,27 @@
+{
+  "name": "龍子龍孫",
+  "aliases": [],
+  "description": "碧波潭龍王之子嗣，龍宮繼承者",
+  "personality": [
+    "怯懦",
+    "被動"
+  ],
+  "traits": [
+    "龍族形貌",
+    "居於龍宮"
+  ],
+  "abilities": [
+    "水族法術",
+    "龍宮權柄"
+  ],
+  "summary": "在豬八戒怒闖龍宮時未能抵禦，遭築殺而亡，顯示其戰力薄弱、缺乏應變之能。",
+  "events": [
+    {
+      "event_id": "ch063_007",
+      "event_name": "鈀破宮闕",
+      "event_status": "敵襲突至，宮闕崩毀",
+      "character_decision": "倉皇迎敵",
+      "decision_result": "被築殺"
+    }
+  ]
+}

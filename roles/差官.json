@@ -1,0 +1,27 @@
+{
+  "name": "差官",
+  "aliases": [],
+  "description": "奉旨傳召的朝廷使者，代表官方權威",
+  "personality": [
+    "奉命行事",
+    "嚴謹守制"
+  ],
+  "traits": [
+    "持詔",
+    "驛站往來"
+  ],
+  "abilities": [
+    "傳旨",
+    "協調驛務"
+  ],
+  "summary": "差官奉旨至會同館驛召喚唐僧徒弟入朝，因唐僧爭取緩機而暫停執行，最終促成悟空獲准入朝。",
+  "events": [
+    {
+      "event_id": "ch093_008",
+      "event_name": "詔召入朝護法",
+      "event_status": "奉旨召徒，局勢緊迫",
+      "character_decision": "依詔傳喚三徒入朝",
+      "decision_result": "悟空獲准入朝"
+    }
+  ]
+}

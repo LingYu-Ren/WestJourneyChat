@@ -1,0 +1,46 @@
+{
+  "name": "喇嘛僧",
+  "aliases": [],
+  "description": "鎮海禪林寺內院守持僧，藏傳佛教修行者",
+  "personality": [
+    "警觉",
+    "审慎",
+    "恪守戒律",
+    "尽责"
+  ],
+  "traits": [
+    "喇嘛装束",
+    "疑心敏锐",
+    "居后院清修",
+    "秉烛问事"
+  ],
+  "abilities": [
+    "辨伪识妄",
+    "禅院守持",
+    "察言观色"
+  ],
+  "summary": "于寺内院现身，对东土唐僧来历起疑并当面盘诘，显其护法之责与判别正邪之自觉。　于方丈夜聚之际，见众僧贪看女妖而失持，主动请示女子安置事宜，显其护寺之责与临机警觉。",
+  "events": [
+    {
+      "event_id": "ch080_015",
+      "event_name": "表裏雙境",
+      "event_status": "前殿被寇占据，后院清净持守",
+      "character_decision": "默守后院维持清修格局",
+      "decision_result": "维系寺院正邪分立生态"
+    },
+    {
+      "event_id": "ch080_016",
+      "event_name": "喇嘛問籍",
+      "event_status": "初见唐僧，疑其形貌俊雅非真僧",
+      "character_decision": "当面盘问东土来历",
+      "decision_result": "引出小喇嘛惊见悟空等相"
+    },
+    {
+      "event_id": "ch081_001",
+      "event_name": "方丈夜聚",
+      "event_status": "众僧围聚贪看女子",
+      "character_decision": "请示女子安置事宜",
+      "decision_result": "触发后续辨妖伏魔"
+    }
+  ]
+}

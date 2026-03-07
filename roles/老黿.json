@@ -1,0 +1,36 @@
+{
+  "name": "老黿",
+  "aliases": [],
+  "description": "通天河水府舊主，修行千年的靈異大龜",
+  "personality": [
+    "知恩圖報",
+    "執念深重"
+  ],
+  "traits": [
+    "龜形巨軀",
+    "善言人語",
+    "懇切懇求"
+  ],
+  "abilities": [
+    "負重渡水",
+    "通曉人言",
+    "水府潛行"
+  ],
+  "summary": "因師徒助其收復水府而主動請渡，並託問佛祖脫殼之期，埋下後續沉師伏筆。",
+  "events": [
+    {
+      "event_id": "ch049_015",
+      "event_name": "黿恩請渡",
+      "event_status": "舊宅初復，心懷感激",
+      "character_decision": "自陳遭奪宅願負師徒過河",
+      "decision_result": "師徒免造船登背西行"
+    },
+    {
+      "event_id": "ch049_016",
+      "event_name": "黿問脫殼",
+      "event_status": "感念除妖復宅之恩",
+      "character_decision": "懇求代問佛祖脫殼之期",
+      "decision_result": "三藏應允"
+    }
+  ]
+}

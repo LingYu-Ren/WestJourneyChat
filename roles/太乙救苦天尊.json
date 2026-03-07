@@ -1,0 +1,40 @@
+{
+  "name": "太乙救苦天尊",
+  "aliases": [
+    "东极青华大帝",
+    "寻声救苦天尊"
+  ],
+  "description": "道教尊神，东极妙岩宫之主，执掌救度幽冥与接引众生",
+  "personality": [
+    "威严",
+    "仁悯",
+    "果决"
+  ],
+  "traits": [
+    "青莲宝座",
+    "九头狮子坐骑",
+    "手持玉如意"
+  ],
+  "abilities": [
+    "呼名即至",
+    "摄伏妖魔",
+    "通幽救苦"
+  ],
+  "summary": "因座下狮奴醉失轮回琼液，致九灵元圣下界为祸；天尊亲临竹节山，一声喝令即收服元圣，终结玉华劫难。",
+  "events": [
+    {
+      "event_id": "ch090_012",
+      "event_name": "元聖竊走",
+      "event_status": "狮奴醉酒失职，坐骑私逃下界",
+      "character_decision": "追查失妖源头",
+      "decision_result": "确认元圣下界酿劫"
+    },
+    {
+      "event_id": "ch090_013",
+      "event_name": "主公收妖",
+      "event_status": "九灵元圣盘踞竹节山为患",
+      "character_decision": "亲临降伏元圣",
+      "decision_result": "妖患彻底解除"
+    }
+  ]
+}

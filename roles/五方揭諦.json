@@ -1,0 +1,206 @@
+{
+  "name": "五方揭諦",
+  "aliases": [
+    "金頭揭諦"
+  ],
+  "description": "佛祖座下五位護法神，專司監押與守護之職",
+  "personality": [
+    "忠謹",
+    "服從",
+    "恪盡職守",
+    "機敏應變",
+    "威嚴持正",
+    "果敢急斷",
+    "協同意識強",
+    "善察機宜",
+    "通達根由",
+    "奉令不疑",
+    "精準執行",
+    "使命必達"
+  ],
+  "traits": [
+    "神將裝束",
+    "常駐山嶽",
+    "奉敕行事",
+    "馳騁通靈",
+    "臨機問責",
+    "通曉幽冥典制",
+    "奏事迅捷",
+    "列陣隨征",
+    "陰陽協同",
+    "諜報析源",
+    "旨令傳遞者",
+    "劫數調度樞紐",
+    "化龍池畔侍詔"
+  ],
+  "abilities": [
+    "鎮守",
+    "監押",
+    "供給神餉",
+    "飛報請援",
+    "威攝諸神",
+    "稽查陰籍",
+    "緊急奏稟",
+    "跨域協同",
+    "陰神攝形",
+    "敕令調遣地祇",
+    "溯源勘本",
+    "神系諜報",
+    "法旨繳呈",
+    "劫數補完執行",
+    "雲路傳諭",
+    "墜凡調度",
+    "天龍昇格見證",
+    "正果儀典協理"
+  ],
+  "summary": "五方揭諦受如來敕令，與土地神共同常駐五行山，制度化監押悟空，並承擔定期供給鐵丸銅汁之責。　於靈山聽宣東土教化之旨，復在五行山見證觀音點化悟空，職責由單一監押拓展至取經使命的初始協同環節。　金頭揭諦主動飛赴南海請菩薩降龍，展現臨機應變與使命貫徹之能；復隨菩薩臨澗訓猴，由單純監押者轉為取經初期關鍵協同執行者。　於平頂山山根之下點明悟空取經身份並威脅問罪，迫使山神土地謝罪釋猴，展現其以敕令為憑、統攝地祇的權威執行力。　於幽冥森羅殿見證生死簿查驗，展現其對三界典籍制度的熟稔與協同勘驗之職能，強化其作為如來敕令貫徹樞紐的跨域執法角色。　於小雷音寺危局中主動急奏玉帝求援，展現關鍵時刻的決斷力與天庭樞紐功能；全程協同二十八宿執行救援、受困、再戰等全鏈條行動，強化其作為取經護法體系中承上啟下、貫徹敕令的核心執行者定位。　於比丘國夜間奉行者號令，聯動城隍、土地及六丁六甲等陰陽諸神，同步攝取鵝籠小兒，展現其統籌陰陽神系、貫徹取經主體意志的跨階層協同執行力。　於比丘國官道協同眾神完成鵝籠小兒全數送還，實現從「攝藏」到「歸嬰」的閉環執行，彰顯其統籌陰陽神系、貫徹取經終局善果的全程履職能力。　於玉華州城上參與神眾會議，憑職權協同土地、城隍等神係釐清九靈元聖本源，展現其作為取經護法體系中「情報樞紐」與「根由勘驗者」的關鍵支撐功能。　於雷音寺三層門下呈災難簿繳旨，參與九九劫數終局校驗；奉菩薩敕命追趕金剛補難，以精準時機與隱秘授意促成師徒墜落通天河西岸，展現其作為取經終章「劫數調度樞紐」的關鍵執行功能。　於靈山化龍池親歷白龍馬受封八部天龍之儀，以揭諦身份侍詔見證神格昇華，標誌其職能延伸至取經終局正果授階的典制環節。",
+  "events": [
+    {
+      "event_id": "ch007_016",
+      "event_name": "六字封山",
+      "event_status": "如來施法封山，眾神列陣待命",
+      "character_decision": "協同鎮守封印現場",
+      "decision_result": "封山完成，體制初立"
+    },
+    {
+      "event_id": "ch007_017",
+      "event_name": "敕令監押",
+      "event_status": "如來頒布長期鎮壓指令",
+      "character_decision": "領敕常駐五行山監押",
+      "decision_result": "監押制度正式確立"
+    },
+    {
+      "event_id": "ch008_002",
+      "event_name": "宣示東土",
+      "event_status": "靈山法會聽宣，眾神列席待命",
+      "character_decision": "奉命列陣聆聽敕令",
+      "decision_result": "明悉取經大勢初啟"
+    },
+    {
+      "event_id": "ch008_008",
+      "event_name": "山前點化",
+      "event_status": "觀音臨山勸化，悟空困縛未解",
+      "character_decision": "隨侍護法，靜候法旨",
+      "decision_result": "見證皈依契機確立"
+    },
+    {
+      "event_id": "ch015_007",
+      "event_name": "揭諦請菩",
+      "event_status": "鷹愁澗龍馬失和，土地建言急召",
+      "character_decision": "飛赴南海請觀音",
+      "decision_result": "菩薩即刻動身"
+    },
+    {
+      "event_id": "ch015_008",
+      "event_name": "菩薩訓猴",
+      "event_status": "鷹愁澗上空對峙，行者怨懟未平",
+      "character_decision": "隨侍菩薩訓誨",
+      "decision_result": "見證教化落地"
+    },
+    {
+      "event_id": "ch033_009",
+      "event_name": "神眾請罪",
+      "event_status": "山神土地懇請放猴，形勢緊迫",
+      "character_decision": "點明身份威脅問罪",
+      "decision_result": "眾神釋猴歸位"
+    },
+    {
+      "event_id": "ch058_007",
+      "event_name": "幽冥查簿",
+      "event_status": "森羅殿內查籍無果，諦聽知而不言",
+      "character_decision": "列席稽查猴屬名籍",
+      "decision_result": "確認唯如來可辨真偽"
+    },
+    {
+      "event_id": "ch065_006",
+      "event_name": "揭諦奏天",
+      "event_status": "行者被困金鐃，命懸一線",
+      "character_decision": "急奏玉帝請援",
+      "decision_result": "玉帝敕令星宿下界"
+    },
+    {
+      "event_id": "ch065_007",
+      "event_name": "星宿撬鐃",
+      "event_status": "星宿合力破鐃未果",
+      "character_decision": "列陣協同施力",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch065_009",
+      "event_name": "初戰狼牙",
+      "event_status": "妖王親戰，形勢驟緊",
+      "character_decision": "列陣隨征助戰",
+      "decision_result": "眾神被收入搭包"
+    },
+    {
+      "event_id": "ch065_010",
+      "event_name": "師徒泣訴",
+      "event_status": "被縛地窖，性命垂危",
+      "character_decision": "靜候聆聽師徒對話",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch065_011",
+      "event_name": "遁繩解眾",
+      "event_status": "行者慈悲解縛出逃",
+      "character_decision": "隨眾脫縛奔坡待援",
+      "decision_result": "護師抵西山坡"
+    },
+    {
+      "event_id": "ch065_013",
+      "event_name": "再戰遭收",
+      "event_status": "妖王二次拋包，全軍覆沒",
+      "character_decision": "不及避讓被收地窖",
+      "decision_result": "全軍再陷封禁"
+    },
+    {
+      "event_id": "ch078_003",
+      "event_name": "陰神攝童",
+      "event_status": "全城佈防，鵝籠密佈，時近三更",
+      "character_decision": "協同陰神攝盡小兒",
+      "decision_result": "童子全數解救"
+    },
+    {
+      "event_id": "ch079_016",
+      "event_name": "鵝籠歸嬰",
+      "event_status": "官道夜半風響，眾神列隊待命",
+      "character_decision": "協同送還一千一百一十一籠",
+      "decision_result": "百姓認子歡慶"
+    },
+    {
+      "event_id": "ch090_010",
+      "event_name": "神告根由",
+      "event_status": "行者急詢破妖之策，群神列席待問",
+      "character_decision": "協同勘問土地根由",
+      "decision_result": "確知須請天尊降伏"
+    },
+    {
+      "event_id": "ch099_002",
+      "event_name": "諸神繳旨陳難",
+      "event_status": "聖僧行滿，菩薩查心行",
+      "character_decision": "呈災難簿繳法旨",
+      "decision_result": "確認八十難未圓"
+    },
+    {
+      "event_id": "ch099_003",
+      "event_name": "菩薩補難敕令",
+      "event_status": "九九歸真道行未圓",
+      "character_decision": "領命追金剛補一難",
+      "decision_result": "即刻飛雲啟程"
+    },
+    {
+      "event_id": "ch099_004",
+      "event_name": "揭諦傳令墜凡",
+      "event_status": "東行雲路，師徒懸空",
+      "character_decision": "附耳授意金剛墜師徒",
+      "decision_result": "全體墜於通天河西岸"
+    },
+    {
+      "event_id": "ch100_008",
+      "event_name": "白龍化天",
+      "event_status": "化龍池瑞氣升騰，白龍待詔正果",
+      "character_decision": "侍詔見證化龍儀典",
+      "decision_result": "完成天龍授階見證"
+    }
+  ]
+}

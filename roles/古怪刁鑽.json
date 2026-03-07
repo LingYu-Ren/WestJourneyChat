@@ -1,0 +1,30 @@
+{
+  "name": "古怪刁鑽",
+  "aliases": [],
+  "description": "九曲盤桓洞中伺伏小妖，與刁鑽古怪為伴",
+  "personality": [
+    "狡黠",
+    "兇悍",
+    "恃強"
+  ],
+  "traits": [
+    "青面",
+    "持繩縛人",
+    "洞中伏擊"
+  ],
+  "abilities": [
+    "縛敵",
+    "協同作戰",
+    "守洞"
+  ],
+  "summary": "與刁鑽古怪、青臉兒共縛孫悟空，反遭行者誅殺成肉餅。",
+  "events": [
+    {
+      "event_id": "ch090_009",
+      "event_name": "行者脫縛",
+      "event_status": "夜深洞內，圍困行者失敗",
+      "character_decision": "參與縛猴並守洞",
+      "decision_result": "被誅成肉餅"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "道人",
+  "aliases": [],
+  "description": "寶林寺中隨侍僧官的道人，身份未明但參與寺院事務",
+  "personality": [
+    "順從",
+    "被動",
+    "謹慎"
+  ],
+  "traits": [
+    "寺內隨行",
+    "無顯著言行",
+    "引路導引"
+  ],
+  "abilities": [
+    "識途帶路"
+  ],
+  "summary": "在僧官拒客與悟空震寺兩起事件中全程在場，未發言亦未干預，體現其附庸於僧官權威的從屬地位。　此次主動引領唐僧深入內院，展現其在寺院空間中的熟悉度與功能性角色，成為揭示表裏雙境的關鍵中介。",
+  "events": [
+    {
+      "event_id": "ch036_005",
+      "event_name": "僧官拒客",
+      "event_status": "僧官主導拒客，道人隨侍旁觀",
+      "character_decision": "默然隨行",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch036_006",
+      "event_name": "鐵棒震寺",
+      "event_status": "悟空威懾全寺，眾僧震懾跪迎",
+      "character_decision": "未加阻攔亦未勸解",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch080_015",
+      "event_name": "表裏雙境",
+      "event_status": "前殿破敗後院齊整，正邪雜處",
+      "character_decision": "引唐僧入內院參觀",
+      "decision_result": "揭示寺院真實格局"
+    }
+  ]
+}

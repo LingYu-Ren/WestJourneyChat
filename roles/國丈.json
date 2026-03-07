@@ -1,0 +1,62 @@
+{
+  "name": "國丈",
+  "aliases": [],
+  "description": "比丘國國王岳父，實為鹿精所化妖邪",
+  "personality": [
+    "奸佞",
+    "狂妄",
+    "詭辯",
+    "陰毒",
+    "色厲內荏"
+  ],
+  "traits": [
+    "假托國丈身份",
+    "擅裝神弄鬼",
+    "鼓吹煉丹術",
+    "黑心本相"
+  ],
+  "abilities": [
+    "幻化人形",
+    "驅使陰神",
+    "誣陷構陷",
+    "遁光逃逸"
+  ],
+  "summary": "在金鑾殿公然貶斥佛理、力推採藥煉丹，並藉童子失蹤事件誣指唐僧為藥引，直接促成國王發兵圍驛。　於金鑾殿力促剖心取引，反遭假僧揭破黑心本相；現形後挾美后御空遁逃，終顯外強中乾之態。",
+  "events": [
+    {
+      "event_id": "ch078_005",
+      "event_name": "釋道辯真",
+      "event_status": "朝堂論道，眾目睽睽",
+      "character_decision": "嗤笑釋教，力推煉丹",
+      "decision_result": "確立妖邪本質"
+    },
+    {
+      "event_id": "ch078_006",
+      "event_name": "刮兒詭辯",
+      "event_status": "童子盡失，群臣震懼",
+      "character_decision": "誣指唐僧為新藥引",
+      "decision_result": "國王決意圍驛擒僧"
+    },
+    {
+      "event_id": "ch079_002",
+      "event_name": "索心為引",
+      "event_status": "君臣逼僧剖心，氣焰囂張",
+      "character_decision": "謊稱黑心可治頑疾",
+      "decision_result": "假僧當庭剖腹揭偽"
+    },
+    {
+      "event_id": "ch079_003",
+      "event_name": "現形誅偽",
+      "event_status": "偽術敗露，眾目睽睽",
+      "character_decision": "驚惶欲遁",
+      "decision_result": "現原形化寒光逃竄"
+    },
+    {
+      "event_id": "ch079_004",
+      "event_name": "雲中鏖兵",
+      "event_status": "半空被截，負隅頑抗",
+      "character_decision": "挾美后御光突圍",
+      "decision_result": "不敵悟空，狼狽遁走"
+    }
+  ]
+}

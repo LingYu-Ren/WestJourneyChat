@@ -1,0 +1,107 @@
+{
+  "name": "哪吒",
+  "aliases": [
+    "三太子",
+    "中坛元帅"
+  ],
+  "description": "托塔天王李靖之子，灵珠子转世的神将",
+  "personality": [
+    "勇猛",
+    "忠直",
+    "果决",
+    "严守军令",
+    "恪尽职守",
+    "协同果断",
+    "临机应变",
+    "重诺守义",
+    "辨正明理"
+  ],
+  "traits": [
+    "三头六臂",
+    "风火轮",
+    "混天绫",
+    "乾坤圈",
+    "天罗地网营前值守",
+    "皂雕旗执掌者",
+    "照妖镜协用者",
+    "云楼宫列班神将"
+  ],
+  "abilities": [
+    "降妖伏魔",
+    "腾云驾雾",
+    "变化神通",
+    "统兵征讨",
+    "军前禀报协理",
+    "天器调用",
+    "合围布阵",
+    "真形锁定配合",
+    "妖踪辨识",
+    "旧案溯证"
+  ],
+  "summary": "奉玉帝敕令，随父李靖率天兵下界征讨叛逃的孙悟空，正式承担天庭军事职责。　于花果山天罗地网营前参与军情会商，协同惠岸行者、李天王及四大天王应对首战失利局面，展现其作为先锋神将的临阵协理之责。　于南天门外应孙悟空所请出借皂雕旗，以遮蔽日月助其智取小妖，展现其对天庭法器的权责担当与临机配合之能。　随父李靖与四大金刚合围牛魔王，以风火轮灼其真身、协同照妖镜定形制敌；于芭蕉洞前威压慑服罗刹女，促成铁扇公主献扇，展现跨佛道协同作战与威慑控局之能。　于云楼宫当庭指认老鼠精为结拜恩女，揭破三百年前灵山窃烛旧案；转而协同悟空下界搜剿无底洞，以神目识破黑角暗窟，助救唐僧、擒伏女妖。",
+  "events": [
+    {
+      "event_id": "ch004_009",
+      "event_name": "天庭震怒",
+      "event_status": "天庭震怒，奉命出征",
+      "character_decision": "领命随父兴师下界",
+      "decision_result": "开启征讨悟空之战"
+    },
+    {
+      "event_id": "ch006_004",
+      "event_name": "營前稟報",
+      "event_status": "天兵围山一日未胜，军情紧急",
+      "character_decision": "列席营前军议",
+      "decision_result": "确认首战失利态势"
+    },
+    {
+      "event_id": "ch033_013",
+      "event_name": "借天裝閉",
+      "event_status": "奉命驻守南天门，遇悟空索借天器",
+      "character_decision": "出借皂雕旗予悟空",
+      "decision_result": "助成智取，维系天器威信"
+    },
+    {
+      "event_id": "ch061_007",
+      "event_name": "四面合圍",
+      "event_status": "佛旨密令，四金刚合围牛王",
+      "character_decision": "协同布网擒拿牛魔王",
+      "decision_result": "完成天罗地网合围"
+    },
+    {
+      "event_id": "ch061_008",
+      "event_name": "降伏乞命",
+      "event_status": "牛王被照镜锁定、火轮灼身",
+      "character_decision": "持火轮灼烧牛王真身",
+      "decision_result": "迫其乞降供扇下落"
+    },
+    {
+      "event_id": "ch061_009",
+      "event_name": "羅剎獻扇",
+      "event_status": "神兵压境，罗刹跪献铁扇",
+      "character_decision": "列阵镇守芭蕉洞前",
+      "decision_result": "助成借扇东返大局"
+    },
+    {
+      "event_id": "ch083_008",
+      "event_name": "父子辨親",
+      "event_status": "云楼宫对质，天王否认亲女为妖",
+      "character_decision": "指认老鼠精为结拜恩女",
+      "decision_result": "揭明三妖身份及灵山旧案"
+    },
+    {
+      "event_id": "ch083_009",
+      "event_name": "金星調停",
+      "event_status": "金星斡旋，天庭立场面临转向",
+      "character_decision": "支持改告状为协同降妖",
+      "decision_result": "促成天王点兵随行者下界"
+    },
+    {
+      "event_id": "ch083_010",
+      "event_name": "黑角擒妖",
+      "event_status": "无底洞三百里搜寻未果，形势胶着",
+      "character_decision": "率天兵搜出东南黑角暗窟",
+      "decision_result": "救出唐僧，押缚女妖归天"
+    }
+  ]
+}

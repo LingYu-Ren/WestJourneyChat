@@ -1,0 +1,30 @@
+{
+  "name": "陰魔",
+  "aliases": [],
+  "description": "天地陰氣所化之魔，專伺取經功德而動",
+  "personality": [
+    "陰險",
+    "貪婪",
+    "躁進"
+  ],
+  "traits": [
+    "隨風而至",
+    "隱於霧雷",
+    "畏陽懼光"
+  ],
+  "abilities": [
+    "暗奪法寶",
+    "驅風引霧",
+    "乘隙侵經"
+  ],
+  "summary": "陰魔趁狂風夜襲通天河東岸，欲奪濕經未遂，反被陽氣所驅。",
+  "events": [
+    {
+      "event_id": "ch099_008",
+      "event_name": "陰魔奪經夜鬥",
+      "event_status": "風雷霧閃交作，暗夜奪經",
+      "character_decision": "乘風霧暗奪濕經",
+      "decision_result": "經濕未失，陰魔退散"
+    }
+  ]
+}

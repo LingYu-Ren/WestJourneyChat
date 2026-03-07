@@ -1,0 +1,27 @@
+{
+  "name": "順風耳",
+  "aliases": [],
+  "description": "天庭神將，職司聽察四方異動",
+  "personality": [
+    "忠謹",
+    "敏銳"
+  ],
+  "traits": [
+    "耳大如扇",
+    "側耳凝神"
+  ],
+  "abilities": [
+    "聞千里聲",
+    "辨真偽音"
+  ],
+  "summary": "於靈霄寶殿奉玉帝之命勘驗金光異象，協助確認石猴為天地精華所生。",
+  "events": [
+    {
+      "event_id": "ch001_008",
+      "event_name": "天庭勘驗",
+      "event_status": "天庭詔令查異，同列受命",
+      "character_decision": "稟報所聞異響",
+      "decision_result": "佐證石猴出身"
+    }
+  ]
+}

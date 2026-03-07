@@ -1,0 +1,59 @@
+{
+  "name": "九曜星官",
+  "aliases": [
+    "九曜星",
+    "昴日星官"
+  ],
+  "description": "天庭正神，掌管九星运行的星官群体",
+  "personality": [
+    "奉命行事",
+    "刚勇而轻敌",
+    "临危协防",
+    "应召即赴",
+    "不拘成规"
+  ],
+  "traits": [
+    "星冠星甲",
+    "持兵列阵",
+    "殿前布防",
+    "啼鸣伏妖"
+  ],
+  "abilities": [
+    "布星阵",
+    "协同作战",
+    "殿宇戍守",
+    "克毒降妖",
+    "应召速援"
+  ],
+  "summary": "奉命率先进攻花果山，却遭孙悟空一棒击退，首战失利致天庭调整征讨部署。　于通明殿至灵霄殿外协同四大天王阻截孙悟空，仍未能遏止其突进，被迫退守灵霄殿前。　应孙悟空急请，未奏玉帝即赴毒敌山助战；以鸡鸣天克之性两声伏蝎，解除倒马毒患。",
+  "events": [
+    {
+      "event_id": "ch005_011",
+      "event_name": "首戰九曜",
+      "event_status": "奉命先行討伐，直面猴王",
+      "character_decision": "出戰迎敵",
+      "decision_result": "被一棒擊退"
+    },
+    {
+      "event_id": "ch007_006",
+      "event_name": "橫掃通明",
+      "event_status": "悟空破炉直捣，通明殿告急",
+      "character_decision": "协同天王布防拦截",
+      "decision_result": "未能阻截，退守灵霄殿外"
+    },
+    {
+      "event_id": "ch055_012",
+      "event_name": "星官請降",
+      "event_status": "悟空急召，光明宫待命",
+      "character_decision": "即刻随行赴援",
+      "decision_result": "未奏玉帝而先降魔"
+    },
+    {
+      "event_id": "ch055_013",
+      "event_name": "雞鳴伏蝎",
+      "event_status": "毒敵山對峙蝎精，危機迫在眉睫",
+      "character_decision": "啼鳴兩聲制敵",
+      "decision_result": "蝎精僵死伏誅"
+    }
+  ]
+}

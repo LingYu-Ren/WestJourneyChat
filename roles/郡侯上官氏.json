@@ -1,0 +1,36 @@
+{
+  "name": "郡侯上官氏",
+  "aliases": [],
+  "description": "鳳仙郡地方長官，執掌一郡政務",
+  "personality": [
+    "暴躁",
+    "易怒",
+    "失儀"
+  ],
+  "traits": [
+    "官服冠帶",
+    "齋供失敬",
+    "夫婦不睦"
+  ],
+  "abilities": [
+    "理政",
+    "祭祀"
+  ],
+  "summary": "因與妻爭執推倒齋天素供觸怒上天，致郡界三年無雨；後於衙堂見孫悟空召龍問雨，引發天庭請旨救災之舉。",
+  "events": [
+    {
+      "event_id": "ch087_003",
+      "event_name": "堂前喚龍",
+      "event_status": "旱災肆虐，百姓待救",
+      "character_decision": "默許行者召龍問雨",
+      "decision_result": "龍王拒行，事態升級"
+    },
+    {
+      "event_id": "ch087_005",
+      "event_name": "潑供觸天",
+      "event_status": "與妻爭執怒極失儀",
+      "character_decision": "推倒齋天素供喂狗",
+      "decision_result": "玉帝降三事懲戒"
+    }
+  ]
+}

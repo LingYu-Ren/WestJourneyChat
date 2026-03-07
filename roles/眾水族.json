@@ -1,0 +1,51 @@
+{
+  "name": "眾水族",
+  "aliases": [],
+  "description": "通天河底水府中聽命於靈感大王的水族部眾",
+  "personality": [
+    "順從",
+    "協同",
+    "機警"
+  ],
+  "traits": [
+    "水居",
+    "群聚",
+    "宴侍"
+  ],
+  "abilities": [
+    "施法助術",
+    "聽令行事",
+    "應變周旋"
+  ],
+  "summary": "參與水府定計，配合鱖婆施行凍河之術，為伏擊唐僧師徒提供環境支持。　於碧波潭中參與龍宮宴會，面對悟空變蟹潛入，配合老龍王維持宴席秩序；後在牛王醒悟時被捲入追查風波。",
+  "events": [
+    {
+      "event_id": "ch048_002",
+      "event_name": "水府定計",
+      "event_status": "妖王畏懼悟空，亟需新策擒僧",
+      "character_decision": "協同施行降雪結冰之術",
+      "decision_result": "河面結冰埋伏成形"
+    },
+    {
+      "event_id": "ch060_006",
+      "event_name": "蟹形潛潭",
+      "event_status": "宴席待客，突遇異蟹闖入",
+      "character_decision": "列席守備，未加盤查",
+      "decision_result": "放行悟空混入"
+    },
+    {
+      "event_id": "ch060_007",
+      "event_name": "蟹供瞞天",
+      "event_status": "悟空被擒，宴席氣氛緊張",
+      "character_decision": "默認龍王處置，容其供述",
+      "decision_result": "准其離席覓機"
+    },
+    {
+      "event_id": "ch060_011",
+      "event_name": "龍宮醒悟",
+      "event_status": "金睛獸失蹤，真相將露",
+      "character_decision": "隨眾應對牛王質詢",
+      "decision_result": "牽連入追討風波"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "name": "三犀妖",
+  "aliases": [],
+  "description": "玄英洞三只修成精的犀牛怪，擅摄寒气",
+  "personality": [
+    "凶悍",
+    "狡谲",
+    "畏怯"
+  ],
+  "traits": [
+    "犀角显形",
+    "遁海潜行",
+    "呼寒成雾"
+  ],
+  "abilities": [
+    "控寒",
+    "水遁",
+    "妖云蔽日"
+  ],
+  "summary": "在四木禽星围猎下仓皇现形东逃，继而钻海避战，终被西海龙宫截击，辟尘遭擒、辟寒被井宿咬死。",
+  "events": [
+    {
+      "event_id": "ch092_007",
+      "event_name": "四星圍獵",
+      "event_status": "群妖溃散，四星压境",
+      "character_decision": "现形向东北方遁逃",
+      "decision_result": "群牛精四散"
+    },
+    {
+      "event_id": "ch092_008",
+      "event_name": "海淵追襲",
+      "event_status": "大圣与二星海底围攻",
+      "character_decision": "钻入西洋大海逃命",
+      "decision_result": "引出西海龙王截击"
+    },
+    {
+      "event_id": "ch092_009",
+      "event_name": "龍宮助陣",
+      "event_status": "水晶宫外遭三方合围",
+      "character_decision": "负隅顽抗",
+      "decision_result": "辟尘被擒，辟寒被咬死"
+    }
+  ]
+}

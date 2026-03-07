@@ -1,0 +1,36 @@
+{
+  "name": "龍婆",
+  "aliases": [],
+  "description": "碧波潭龍王之妻，參與盜取金光寺佛寶",
+  "personality": [
+    "畏懼天威",
+    "從夫行事",
+    "伏階認罪"
+  ],
+  "traits": [
+    "龍族婦人",
+    "伏階謝罪",
+    "證供關鍵"
+  ],
+  "abilities": [
+    "水族通訊",
+    "宮廷應對"
+  ],
+  "summary": "龍婆在寶物奪回後伏階認罪，並被揭發三年前默許駙馬盜寶之事，成為洗雪金光寺沉冤的關鍵證人。",
+  "events": [
+    {
+      "event_id": "ch063_012",
+      "event_name": "捧匣歸國",
+      "event_status": "被擒作證，伏階待審",
+      "character_decision": "伏階認罪",
+      "decision_result": "國王謝恩，冤情得雪"
+    },
+    {
+      "event_id": "ch063_013",
+      "event_name": "血雨盜寶",
+      "event_status": "三年前默許駙馬盜寶",
+      "character_decision": "縱容盜寶",
+      "decision_result": "致金光寺百年蒙冤"
+    }
+  ]
+}

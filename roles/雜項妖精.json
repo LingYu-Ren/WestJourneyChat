@@ -1,0 +1,27 @@
+{
+  "name": "雜項妖精",
+  "aliases": [],
+  "description": "虎口洞中負責門禁的雜役類小妖",
+  "personality": [
+    "守職",
+    "輕信"
+  ],
+  "traits": [
+    "持銀牌",
+    "管豬羊供奉"
+  ],
+  "abilities": [
+    "驗牌放行",
+    "看守洞門"
+  ],
+  "summary": "因持銀牌與豬羊而輕易放行偽裝的三徒，致妖巢二層廳堂防禦失守。",
+  "events": [
+    {
+      "event_id": "ch089_005",
+      "event_name": "偽販入洞",
+      "event_status": "守門驗牌，例行盤查",
+      "character_decision": "憑銀牌放行偽裝者",
+      "decision_result": "三徒直抵廳堂"
+    }
+  ]
+}

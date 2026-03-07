@@ -1,0 +1,27 @@
+{
+  "name": "無邊菩薩",
+  "aliases": [],
+  "description": "佛門大菩薩，位列靈山諸聖，參與如來法會",
+  "personality": [
+    "莊嚴",
+    "恭謹"
+  ],
+  "traits": [
+    "蓮臺侍立",
+    "祥光隨身"
+  ],
+  "abilities": [
+    "聽法證道",
+    "護持正法"
+  ],
+  "summary": "於靈山大雷音寺參與如來受賀法會，彰顯其作為核心菩薩的尊崇地位與法會儀軌中的關鍵角色。",
+  "events": [
+    {
+      "event_id": "ch008_001",
+      "event_name": "靈山受賀",
+      "event_status": "如來初定佛門權威，眾聖齊聚",
+      "character_decision": "列席蓮臺，禮敬如來",
+      "decision_result": "共證佛門至高威德"
+    }
+  ]
+}

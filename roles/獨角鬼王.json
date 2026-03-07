@@ -1,0 +1,48 @@
+{
+  "name": "獨角鬼王",
+  "aliases": [],
+  "description": "花果山群猴中富谋略的鬼王，擅察势献策",
+  "personality": [
+    "机敏",
+    "善谏",
+    "识时务",
+    "忠勇",
+    "临危不惧"
+  ],
+  "traits": [
+    "独角",
+    "鬼王形貌",
+    "群臣身份",
+    "战阵随主"
+  ],
+  "abilities": [
+    "献策",
+    "察言观色",
+    "鼓动号召",
+    "协同作战"
+  ],
+  "summary": "在水帘洞酒会间，因悟空自述受辱而主动进言，力劝其称齐天大聖，促成悟空立旗定號。　在九曜星官来讨与天罗鏖战中，率众妖并肩抗敌，最终与七十二洞妖王一同被擒，显其忠勇担当。　本次事件中并未出现獨角鬼王，其角色未参与金洞相关情节。",
+  "events": [
+    {
+      "event_id": "ch004_008",
+      "event_name": "鬼王獻策",
+      "event_status": "群猴歡宴，悟空憤懣未平",
+      "character_decision": "勸稱齊天大聖",
+      "decision_result": "悟空立旗定號"
+    },
+    {
+      "event_id": "ch005_011",
+      "event_name": "首戰九曜",
+      "event_status": "天兵围山，九曜先行讨伐",
+      "character_decision": "协同悟空迎战九曜",
+      "decision_result": "助悟空击退九曜"
+    },
+    {
+      "event_id": "ch005_012",
+      "event_name": "鏖戰天羅",
+      "event_status": "天庭增兵围困铁板桥",
+      "character_decision": "率众死战天神",
+      "decision_result": "与群妖同被擒获"
+    }
+  ]
+}

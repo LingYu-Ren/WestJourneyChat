@@ -1,0 +1,27 @@
+{
+  "name": "智淵寺僧",
+  "aliases": [],
+  "description": "車遲國智淵寺中僅存的守寺僧人",
+  "personality": [
+    "虔誠",
+    "堅守"
+  ],
+  "traits": [
+    "引路者",
+    "敕建寺住持"
+  ],
+  "abilities": [
+    "識途",
+    "安頓行旅"
+  ],
+  "summary": "在國中諸寺盡毀之際，主動引導取經團隊入住未拆的智淵寺，成為國都內唯一接納唐僧師徒的僧侶。",
+  "events": [
+    {
+      "event_id": "ch044_009",
+      "event_name": "投寺安頓",
+      "event_status": "國中寺院多被拆毀，唯此寺尚存",
+      "character_decision": "引路安頓師徒",
+      "decision_result": "確立取經立足點"
+    }
+  ]
+}

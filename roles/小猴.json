@@ -1,0 +1,29 @@
+{
+  "name": "小猴",
+  "aliases": [],
+  "description": "花果山灵猴，孙悟空麾下得力猴将",
+  "personality": [
+    "忠勇",
+    "迅捷",
+    "服从"
+  ],
+  "traits": [
+    "身形矫健",
+    "听令如风"
+  ],
+  "abilities": [
+    "攀跃如飞",
+    "传令迅疾",
+    "协同擒拿"
+  ],
+  "summary": "奉悟空之命参与擒回八戒，展现其作为心腹猴将的执行力与威慑力。",
+  "events": [
+    {
+      "event_id": "ch030_015",
+      "event_name": "怒捉回山",
+      "event_status": "奉命追缉离山辱圣者",
+      "character_decision": "受命擒拿猪八戒",
+      "decision_result": "成功将八戒捉回"
+    }
+  ]
+}

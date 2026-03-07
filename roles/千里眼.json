@@ -1,0 +1,27 @@
+{
+  "name": "千里眼",
+  "aliases": [],
+  "description": "天庭神将，职司远观察异之责",
+  "personality": [
+    "忠谨",
+    "迅敏"
+  ],
+  "traits": [
+    "目运金光",
+    "立侍帝侧"
+  ],
+  "abilities": [
+    "目视千里",
+    "辨精识微"
+  ],
+  "summary": "奉玉帝之命勘验金光异象，确认石猴为天地精华所生，显其察微决疑之能。",
+  "events": [
+    {
+      "event_id": "ch001_008",
+      "event_name": "天庭勘驗",
+      "event_status": "灵霄宝殿受诏查异，与顺风耳同列",
+      "character_decision": "目察金光溯源",
+      "decision_result": "确证天地精華所生"
+    }
+  ]
+}

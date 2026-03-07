@@ -1,0 +1,71 @@
+{
+  "name": "白骨精",
+  "aliases": [
+    "白骨夫人",
+    "尸魔"
+  ],
+  "description": "白虎岭修行千年白骨所化女妖，觊觎唐僧元阳",
+  "personality": [
+    "狡诈",
+    "执拗",
+    "隐忍",
+    "善伪"
+  ],
+  "traits": [
+    "三度幻形",
+    "骷髅本相",
+    "云中潜行",
+    "怨毒眼神"
+  ],
+  "abilities": [
+    "幻形术",
+    "摄魂诱术",
+    "避火避水（有限）",
+    "感知真灵"
+  ],
+  "summary": "白骨精接连三次幻化人形试探唐僧戒心，在屡遭悟空识破击毙后仍不退缩，最终现原形被灭，却成功离间师徒致悟空被逐。",
+  "events": [
+    {
+      "event_id": "ch027_004",
+      "event_name": "白骨顯形",
+      "event_status": "初感金蝉真身，山凹设伏",
+      "character_decision": "幻化少女诱僧",
+      "decision_result": "首次近身试探戒心"
+    },
+    {
+      "event_id": "ch027_005",
+      "event_name": "首擊假屍",
+      "event_status": "少女身被棒打现蛆，当场溃散",
+      "character_decision": "假作无辜倒地",
+      "decision_result": "唐僧初信后动摇"
+    },
+    {
+      "event_id": "ch027_006",
+      "event_name": "再變老婦",
+      "event_status": "云端蓄势，伺机再试慈悲极限",
+      "character_decision": "幻化寻女老妇",
+      "decision_result": "激化师徒信任危机"
+    },
+    {
+      "event_id": "ch027_007",
+      "event_name": "二擊假屍",
+      "event_status": "山坡现老妇身，遭悟空再击",
+      "character_decision": "以哭丧掩妖气",
+      "decision_result": "唐僧怒念紧箍咒"
+    },
+    {
+      "event_id": "ch027_008",
+      "event_name": "三變老翁",
+      "event_status": "半空重整妖形，孤注一掷诈丧",
+      "character_decision": "幻化持杖老翁",
+      "decision_result": "触发最终对峙"
+    },
+    {
+      "event_id": "ch027_009",
+      "event_name": "三擊現骨",
+      "event_status": "山坡直面悟空，召神证伪后被击",
+      "character_decision": "现骷髅本相强辩",
+      "decision_result": "被彻底诛灭，唐僧写贬书"
+    }
+  ]
+}

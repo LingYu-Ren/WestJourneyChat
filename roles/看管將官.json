@@ -1,0 +1,27 @@
+{
+  "name": "看管將官",
+  "aliases": [],
+  "description": "天庭披香殿中执掌刑具锁梃的将官",
+  "personality": [
+    "恪守职分",
+    "敬畏天威"
+  ],
+  "traits": [
+    "持梃肃立",
+    "甲胄齐整"
+  ],
+  "abilities": [
+    "镇守法器",
+    "察验天机征兆"
+  ],
+  "summary": "在披香殿目睹米山麵山鎖梃齊斷之異象，见证善念感天所引發的神蹟轉機。",
+  "events": [
+    {
+      "event_id": "ch087_008",
+      "event_name": "三事頓解",
+      "event_status": "披香殿內異象突現，法器自毀",
+      "character_decision": "靜觀天變，未加阻攔",
+      "decision_result": "玉帝即頒甘雨旨令"
+    }
+  ]
+}

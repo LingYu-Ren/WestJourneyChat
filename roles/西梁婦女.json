@@ -1,0 +1,40 @@
+{
+  "name": "西梁婦女",
+  "aliases": [],
+  "description": "西梁女國中純陰之國的普通女性民眾",
+  "personality": [
+    "好奇",
+    "熱鬧",
+    "從眾",
+    "受困無助",
+    "獲救後安寧"
+  ],
+  "traits": [
+    "蜂擁圍觀",
+    "喧嘩塞道",
+    "被攝禁錮",
+    "重獲自由"
+  ],
+  "abilities": [
+    "集體行動",
+    "圍堵攔路",
+    "倖存待援"
+  ],
+  "summary": "因唐僧男身現於國中，眾婦女一時驚詫蜂擁圍觀，致街巷堵塞，後被取經團隊以幻術驅散。　遭妖攝入琵琶洞囚禁，經取經團隊焚巢得釋，重返故土恢復常序。",
+  "events": [
+    {
+      "event_id": "ch054_002",
+      "event_name": "街巷圍堵",
+      "event_status": "純陰之國突見男子，群情激動",
+      "character_decision": "蜂擁圍觀唐僧",
+      "decision_result": "道路堵塞，需幻術驅散"
+    },
+    {
+      "event_id": "ch055_014",
+      "event_name": "焚巢釋民",
+      "event_status": "身陷妖洞，為傀儡所拘",
+      "character_decision": "靜待救援，配合焚巢",
+      "decision_result": "脫困歸鄉"
+    }
+  ]
+}

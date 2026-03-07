@@ -1,0 +1,28 @@
+{
+  "name": "羽林軍",
+  "aliases": [],
+  "description": "比丘國守衛宮廷的禁衛軍隊",
+  "personality": [
+    "忠職",
+    "服從"
+  ],
+  "traits": [
+    "甲冑齊整",
+    "列陣嚴肅"
+  ],
+  "abilities": [
+    "守衛",
+    "押送",
+    "儀仗"
+  ],
+  "summary": "在朝門外奉命押送假唐僧入見國王，執行驗牒與引導之務。",
+  "events": [
+    {
+      "event_id": "ch079_001",
+      "event_name": "偽僧入朝",
+      "event_status": "奉令守衛朝門，押送可疑僧人",
+      "character_decision": "押送假唐僧至朝門求見",
+      "decision_result": "國王召見並誤認其為真三藏"
+    }
+  ]
+}

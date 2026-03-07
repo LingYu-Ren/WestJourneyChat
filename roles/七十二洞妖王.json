@@ -1,0 +1,77 @@
+{
+  "name": "七十二洞妖王",
+  "aliases": [],
+  "description": "東勝神洲七十二處洞府的妖族首領群體",
+  "personality": [
+    "順勢而為",
+    "識時務",
+    "敬畏強者",
+    "忠誠附勢",
+    "臨危不懾",
+    "共進共退",
+    "士氣同振"
+  ],
+  "traits": [
+    "各具形貌",
+    "率部歸附",
+    "列陣點卯",
+    "進讜獻策",
+    "協防據守",
+    "戰陣被擒",
+    "隨主索戰"
+  ],
+  "abilities": [
+    "統御部眾",
+    "協同作戰",
+    "洞府據守",
+    "諫言佐政",
+    "山地協防",
+    "集團應變",
+    "營前列陣"
+  ],
+  "summary": "次日於花果山水臟洞集結點卯，正式歸附孫悟空，成為其統治體系的核心武力支柱。　於花果山洞天深處聞悟空怒返訴屈，隨眾勸慰並參與鬼王獻袍進讜之舉，展現輔弼之態。　於悟空自陳罪狀時靜聽默從，彰顯臣屬之信；在九曜首戰與天羅鏖戰中並肩抗敵，終至全軍被擒，展現同命共擔之義。　於天羅地網營前隨悟空主動索戰，展現同仇敵愾之勢與戰意共振之態。",
+  "events": [
+    {
+      "event_id": "ch003_004",
+      "event_name": "聚眾點卯",
+      "event_status": "兵器齊備、威勢震懾之下",
+      "character_decision": "率部歸附並列陣點卯",
+      "decision_result": "建成鐵桶金城式統治體系"
+    },
+    {
+      "event_id": "ch004_007",
+      "event_name": "怒返花果",
+      "event_status": "悟空棄官回山，群情激憤",
+      "character_decision": "隨眾勸慰並進讜獻策",
+      "decision_result": "強化君臣認同"
+    },
+    {
+      "event_id": "ch005_009",
+      "event_name": "自陳罪狀",
+      "event_status": "悟空坦白偷盜經過，群情複雜",
+      "character_decision": "靜聽默從，表忠附勢",
+      "decision_result": "穩固內部認同"
+    },
+    {
+      "event_id": "ch005_011",
+      "event_name": "首戰九曜",
+      "event_status": "天兵壓境，九曜先行討伐",
+      "character_decision": "列陣迎敵，協力拒戰",
+      "decision_result": "助悟空擊退九曜"
+    },
+    {
+      "event_id": "ch005_012",
+      "event_name": "鏖戰天羅",
+      "event_status": "四大天王合圍，鐵板橋激戰",
+      "character_decision": "死戰不退，全軍被擒",
+      "decision_result": "盡陷天羅之網"
+    },
+    {
+      "event_id": "ch006_005",
+      "event_name": "猴王索戰",
+      "event_status": "天兵壓境，營前對峙",
+      "character_decision": "隨主出營列陣索戰",
+      "decision_result": "引發惠岸單挑"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "name": "石猴",
+  "aliases": [
+    "孙悟空",
+    "美猴王"
+  ],
+  "description": "仙石感天地灵气所生之灵猴，花果山猴族之始祖，后拜菩提祖师修道得名",
+  "personality": [
+    "勇毅",
+    "机敏",
+    "果决",
+    "领袖气质",
+    "勤勉",
+    "求真",
+    "叛逆",
+    "重情"
+  ],
+  "traits": [
+    "目运金光",
+    "石胎出身",
+    "行动迅捷",
+    "天生异相",
+    "善解暗谕",
+    "好显神通"
+  ],
+  "abilities": [
+    "腾跃如飞",
+    "溯流探源",
+    "洞悉地脉",
+    "号令群猴",
+    "三更赴秘",
+    "觔斗云纵",
+    "七十二变",
+    "避三灾法"
+  ],
+  "summary": "自仙石迸裂出世后，石猴迅速融入猴群，在避暑嬉戏中率先跃入瀑布，发现水帘洞并题碣定名，最终依约登位为美猴王，确立猴族秩序。　石猴拜入斜月三星洞，经洒扫启蒙、六载潜修，终以慧心解谜得授长生妙诀，并习成觔斗云与七十二变；因违戒卖弄被逐，旋即腾云返山剿魔，完成从灵猴到法力强者的蜕变。",
+  "events": [
+    {
+      "event_id": "ch001_007",
+      "event_name": "石猴出世",
+      "event_status": "初诞于天地之间，异象惊动天庭",
+      "character_decision": "仙石迸裂化生",
+      "decision_result": "目运金光惊动玉帝"
+    },
+    {
+      "event_id": "ch001_009",
+      "event_name": "群猴避暑",
+      "event_status": "天热群嬉，松阴之下众猴喧闹",
+      "character_decision": "随群猴松下嬉戏",
+      "decision_result": "引发寻源探瀑之议"
+    },
+    {
+      "event_id": "ch001_010",
+      "event_name": "溯流尋源",
+      "event_status": "涧水奔流，群猴顺流而上探源",
+      "character_decision": "率众溯涧寻源",
+      "decision_result": "发现水帘洞瀑布"
+    },
+    {
+      "event_id": "ch001_011",
+      "event_name": "石猴躍瀑",
+      "event_status": "瀑布垂落，众猴畏缩观望",
+      "character_decision": "纵身跃入瀑布",
+      "decision_result": "发现水帘洞天"
+    },
+    {
+      "event_id": "ch001_012",
+      "event_name": "洞中題碣",
+      "event_status": "初入洞中，四顾幽邃奇绝",
+      "character_decision": "细观石碣题字",
+      "decision_result": "确认福地洞天"
+    },
+    {
+      "event_id": "ch001_013",
+      "event_name": "宣示洞天",
+      "event_status": "群猴围问，亟待确证洞内实情",
+      "character_decision": "详述洞中景致",
+      "decision_result": "群猴信服愿居"
+    },
+    {
+      "event_id": "ch001_014",
+      "event_name": "稱王定分",
+      "event_status": "群猴承诺拜王，君臣之分待立",
+      "character_decision": "依约登位称王",
+      "decision_result": "确立猴族秩序"
+    },
+    {
+      "event_id": "ch002_001",
+      "event_name": "灑掃應對",
+      "event_status": "初入仙门，奉命习礼务",
+      "character_decision": "依命洒扫应对",
+      "decision_result": "获准入室资格"
+    },
+    {
+      "event_id": "ch002_002",
+      "event_name": "洞中六載",
+      "event_status": "日常杂务与基础修学并行",
+      "character_decision": "勤修洒扫道学",
+      "decision_result": "心性渐定，观察力精进"
+    },
+    {
+      "event_id": "ch002_003",
+      "event_name": "四門問道",
+      "event_status": "祖师考问修道意向",
+      "character_decision": "拒学四门唯求长生",
+      "decision_result": "触发密授转机"
+    },
+    {
+      "event_id": "ch002_004",
+      "event_name": "三更赴秘",
+      "event_status": "夜半解谜叩后门",
+      "character_decision": "三更潜行叩后门",
+      "decision_result": "得授长生妙诀"
+    },
+    {
+      "event_id": "ch002_005",
+      "event_name": "三災之警",
+      "event_status": "根基已固，祖师示警三灾",
+      "character_decision": "聆听三灾利害",
+      "decision_result": "明悟变化必要"
+    },
+    {
+      "event_id": "ch002_006",
+      "event_name": "觔斗雲成",
+      "event_status": "腾云笨拙，祖师特授变法",
+      "character_decision": "苦练觔斗云法",
+      "decision_result": "掌握超距移动"
+    },
+    {
+      "event_id": "ch002_007",
+      "event_name": "松樹顯化",
+      "event_status": "众邀演法，当众显化松树",
+      "character_decision": "应请变松树炫技",
+      "decision_result": "惊动祖师惹祸"
+    },
+    {
+      "event_id": "ch002_008",
+      "event_name": "驅逐出山",
+      "event_status": "违戒卖弄，祖师勒令离山",
+      "character_decision": "拜辞祖师离三星洞",
+      "decision_result": "终结求道生涯"
+    },
+    {
+      "event_id": "ch002_009",
+      "event_name": "雲返故園",
+      "event_status": "心系儿孙，腾云瞬返花果山",
+      "character_decision": "驾觔斗云疾返故园",
+      "decision_result": "开启主权保卫战"
+    },
+    {
+      "event_id": "ch002_010",
+      "event_name": "斬魔復洞",
+      "event_status": "水帘洞遭侵，子侄被掳",
+      "character_decision": "纵身斩杀混世魔王",
+      "decision_result": "重掌花果山权柄"
+    }
+  ]
+}

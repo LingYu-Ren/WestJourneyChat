@@ -1,0 +1,29 @@
+{
+  "name": "楊老兒",
+  "aliases": [],
+  "description": "楊家莊主，當地鄉紳，賊首之父",
+  "personality": [
+    "仁厚",
+    "明理",
+    "果決"
+  ],
+  "traits": [
+    "年邁",
+    "莊主身份",
+    "顧念道義"
+  ],
+  "abilities": [
+    "識人辨勢",
+    "臨危應變"
+  ],
+  "summary": "因知子為賊而不願牽連取經僧眾，主動密送師徒從後門潛遁，展現深明大義與果斷擔當。",
+  "events": [
+    {
+      "event_id": "ch056_011",
+      "event_name": "後門潛遁",
+      "event_status": "賊眾環伺，莊內危機四伏",
+      "character_decision": "密送師徒從後門逃離",
+      "decision_result": "引發賊眾追擊"
+    }
+  ]
+}

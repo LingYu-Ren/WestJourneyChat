@@ -1,0 +1,64 @@
+{
+  "name": "辟塵大王",
+  "aliases": [],
+  "description": "青龍山玄英洞三犀妖之一，司掌塵霧之氣",
+  "personality": [
+    "兇悍",
+    "貪食",
+    "多疑",
+    "畏威",
+    "暴烈"
+  ],
+  "traits": [
+    "犀牛精",
+    "持鋼叉",
+    "吐塵霧",
+    "結義為王",
+    "守洞拒敵"
+  ],
+  "abilities": [
+    "駕風",
+    "吐霧迷敵",
+    "武藝高強",
+    "協同作戰",
+    "夜戰頑抗"
+  ],
+  "summary": "與辟寒、辟暑二妖合謀劫持唐僧，初欲煎食取元陽，聞悟空威名後轉為囚禁待擒；與悟空山凹鏖兵百五十合，展現頑強戰力。　於玄英洞石門前與兄長聯手夜戰三僧，展現悍勇協防之態；八戒破門後即刻迎敵，致唐僧師徒陷入被動。",
+  "events": [
+    {
+      "event_id": "ch091_008",
+      "event_name": "金燈攝僧",
+      "event_status": "聯手施法劫僧，奪油挾人",
+      "character_decision": "參與風中攝走唐僧",
+      "decision_result": "成功綁架唐僧"
+    },
+    {
+      "event_id": "ch091_012",
+      "event_name": "洞中供狀",
+      "event_status": "審問唐僧身世以備烹食",
+      "character_decision": "聽審唐僧自陳取經來歷",
+      "decision_result": "獲悉師徒名號與背景"
+    },
+    {
+      "event_id": "ch091_013",
+      "event_name": "鎖僧待援",
+      "event_status": "懼悟空威名改烹為囚",
+      "character_decision": "決議暫不殺僧改為人質",
+      "decision_result": "唐僧轉為待援人質"
+    },
+    {
+      "event_id": "ch091_014",
+      "event_name": "山凹鏖兵",
+      "event_status": "與兄長共戰悟空於山凹",
+      "character_decision": "持叉與悟空鬥百五十合",
+      "decision_result": "未分勝負，悟空暫退"
+    },
+    {
+      "event_id": "ch092_004",
+      "event_name": "三更鏖兵",
+      "event_status": "石門被破，夜戰突發",
+      "character_decision": "持叉出戰八戒沙僧",
+      "decision_result": "擒獲八戒沙僧"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "name": "天竺國假公主",
+  "aliases": [
+    "玉兔精"
+  ],
+  "description": "月宮玉兔下凡所化，偽裝天竺國公主圖採唐僧元陽",
+  "personality": [
+    "狡詐",
+    "陰險",
+    "執念深",
+    "頑抗不屈",
+    "臨危不亂"
+  ],
+  "traits": [
+    "拋繡毬",
+    "偽裝精妙",
+    "彩樓現身",
+    "持搗藥杵",
+    "化清風遁走"
+  ],
+  "abilities": [
+    "幻化人形",
+    "惑人心神",
+    "操縱宮廷",
+    "雲中鬥法",
+    "本命兵器御敵"
+  ],
+  "summary": "假公主於午時三刻在十字街彩樓拋繡毬擊中唐僧，藉婚儀之名行採陽之實，致唐僧被強招為駙馬。　婚期迫近，假公主於鳷鵲宮迎駕以固偽勢；遭悟空識破後連番激戰，從後宮、花園、雲空至西天門，終遁回毛穎山石窟負隅頑抗。",
+  "events": [
+    {
+      "event_id": "ch093_007",
+      "event_name": "繡毬釣僧生禍",
+      "event_status": "偽裝公主，眾目睽睽下施計",
+      "character_decision": "拋繡毬擊中唐僧",
+      "decision_result": "唐僧被強招駙馬"
+    },
+    {
+      "event_id": "ch095_001",
+      "event_name": "鳷鵲迎駕",
+      "event_status": "婚儀在即，宮中備禮迎駙馬",
+      "character_decision": "率眾出迎國王與唐僧",
+      "decision_result": "唐僧戰兢，悟空警覺"
+    },
+    {
+      "event_id": "ch095_003",
+      "event_name": "花園現形",
+      "event_status": "悟空突襲，滿宮驚潰",
+      "character_decision": "解衣遁走",
+      "decision_result": "暫脫圍困"
+    },
+    {
+      "event_id": "ch095_004",
+      "event_name": "取杵鬥聖",
+      "event_status": "逃入土地廟取出本命兵器",
+      "character_decision": "持搗藥杵與悟空激戰",
+      "decision_result": "鬥至空中驚動全城"
+    },
+    {
+      "event_id": "ch095_005",
+      "event_name": "雲霧鏖兵",
+      "event_status": "雲中半日鬥法不分勝負",
+      "character_decision": "憑玉兔本領頑抗",
+      "decision_result": "化清風遁往西天門"
+    },
+    {
+      "event_id": "ch095_006",
+      "event_name": "天門截妖",
+      "event_status": "天神攔阻於西天門",
+      "character_decision": "被迫現形再鬥",
+      "decision_result": "十數合未分高下"
+    },
+    {
+      "event_id": "ch095_007",
+      "event_name": "杵棒再決",
+      "event_status": "無路可逃，天門前再決勝負",
+      "character_decision": "持杵再鬥十數回合",
+      "decision_result": "化金光敗走毛穎山"
+    },
+    {
+      "event_id": "ch095_011",
+      "event_name": "石窟再戰",
+      "event_status": "藏身兔穴，被悟空撬石逼出",
+      "character_decision": "跳起持杵再鬥",
+      "decision_result": "且戰且退復遁空中"
+    }
+  ]
+}

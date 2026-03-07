@@ -1,0 +1,30 @@
+{
+  "name": "龍婆龍女",
+  "aliases": [
+    "龍婆",
+    "龍女"
+  ],
+  "description": "東海水晶宮中龍王配偶與女兒，掌管水族祥瑞異象",
+  "personality": [
+    "敏銳",
+    "善諫"
+  ],
+  "traits": [
+    "霞光瑞氣感知者",
+    "水晶宮內眷"
+  ],
+  "abilities": [
+    "異象辨識",
+    "祥瑞解讀"
+  ],
+  "summary": "龍婆察覺神珍鐵出世引發的霞光瑞氣異象，主動提示龍王，促成金箍棒現世。",
+  "events": [
+    {
+      "event_id": "ch003_007",
+      "event_name": "金箍現世",
+      "event_status": "神珍鐵異動，水晶宮現霞光瑞氣",
+      "character_decision": "龍婆提示異象",
+      "decision_result": "引出定底神珍鐵"
+    }
+  ]
+}

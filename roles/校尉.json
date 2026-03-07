@@ -1,0 +1,27 @@
+{
+  "name": "校尉",
+  "aliases": [],
+  "description": "會同館守衛武官，負責宮廷儀仗與治安",
+  "personality": [
+    "恪守職分",
+    "謹慎從命"
+  ],
+  "traits": [
+    "甲冑齊整",
+    "列班肅立"
+  ],
+  "abilities": [
+    "執勤警戒",
+    "儀仗列陣"
+  ],
+  "summary": "在校尉參與的群臣請醫事件中，其作為會同館門首守衛見證八戒指認與悟空受委，正式進入國王醫療事務的官方見證序列。",
+  "events": [
+    {
+      "event_id": "ch068_006",
+      "event_name": "群臣請醫",
+      "event_status": "群臣列班，神僧未定",
+      "character_decision": "列班值守會同館門首",
+      "decision_result": "見證揭榜認證過程"
+    }
+  ]
+}

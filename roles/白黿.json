@@ -1,0 +1,37 @@
+{
+  "name": "白黿",
+  "aliases": [],
+  "description": "通天河修行千年的神异老黿，曾托唐僧代问寿数",
+  "personality": [
+    "守信",
+    "重诺",
+    "易怒"
+  ],
+  "traits": [
+    "龟身鼋首",
+    "能言人语",
+    "通晓人情"
+  ],
+  "abilities": [
+    "驮渡行者",
+    "涉水不沉",
+    "通灵知时"
+  ],
+  "summary": "白黿主動馱師徒渡河以續前緣，因問壽未果憤而淬水，致經卷盡濕。",
+  "events": [
+    {
+      "event_id": "ch099_006",
+      "event_name": "老黿迎渡現身",
+      "event_status": "久候問壽未果，心懷期盼",
+      "character_decision": "登岸馱師徒過河",
+      "decision_result": "經卷初濕"
+    },
+    {
+      "event_id": "ch099_007",
+      "event_name": "黿問壽年無答",
+      "event_status": "渡至河中，急問佛祖所託壽事",
+      "character_decision": "索問壽數未果後怒淬水",
+      "decision_result": "經卷盡濕"
+    }
+  ]
+}

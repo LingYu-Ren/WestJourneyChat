@@ -1,0 +1,118 @@
+{
+  "name": "山神",
+  "aliases": [],
+  "description": "鎮守五行山與平頂山等地的地祇，掌管山中靈脈與精怪",
+  "personality": [
+    "恭謹",
+    "守職",
+    "應機而動",
+    "畏威知懼",
+    "順勢而為",
+    "臨危不隱",
+    "秉實敢言",
+    "體恤護持"
+  ],
+  "traits": [
+    "山岳化身",
+    "隱於雲霧",
+    "隨機化形",
+    "輪值當差",
+    "聽令聚獸",
+    "隨地列班",
+    "奉饌慰勞"
+  ],
+  "abilities": [
+    "通曉山勢",
+    "稟報神明",
+    "協調地祇",
+    "暗助取經",
+    "承命受責",
+    "驅獸掩跡",
+    "洞悉妖蹤",
+    "詳述妖裔",
+    "指認妖王",
+    "供膳安眾",
+    "審山查穴",
+    "應召即至"
+  ],
+  "summary": "在觀音點化悟空之際奉命現身，協同土地、揭諦等神祇列班聽令，彰顯其守土護法之責。　於鷹愁澗畔據實稟告白龍來歷，化解行者誤責；復於里社祠化形贈鞍轡，補全龍馬行具，展現其承上啟下、護法應變之能。　於平頂山遭妖驅使輪值當差，被迫參與禁錮悟空，事發後與土地一同請罪謝過，展現其身不由己卻恪守神職的雙重境遇。　於寶林寺山門前奉悟空之令拘集山獸偽作獵物，助太子體面回朝，巧妙掩護師徒夜行，展現其權宜應變、協力隱密之務。　於鑽頭號山巔峰遭悟空嚴逼問訊，據實指明火雲洞方位及紅孩兒身世，展現其雖處脅迫仍恪守司職、知無不言的屬地神祇本分。　於金山坡北現身指認金兜洞妖王為獨角兕大王，以屬地神祇之職提供關鍵敵情，助悟空確立對手來歷。　於金山附近官道上與土地一同奉熱飯慰勞脫險師徒，展現其察時知機、敬慎護法之誠。　於毛穎山奉悟空之召即刻現身，據實稟報玉兔所藏三處兔穴及絕頂石窟方位，展現其屬地辨識之精與應召無怠之速。",
+  "events": [
+    {
+      "event_id": "ch008_008",
+      "event_name": "山前點化",
+      "event_status": "菩薩臨山點化，諸神列班聽命",
+      "character_decision": "奉召現身列位",
+      "decision_result": "參與點化儀式"
+    },
+    {
+      "event_id": "ch015_006",
+      "event_name": "神告龍由",
+      "event_status": "行者怒責，情勢緊迫",
+      "character_decision": "據實稟告白龍來歷",
+      "decision_result": "消解誤會，引請菩薩"
+    },
+    {
+      "event_id": "ch015_011",
+      "event_name": "神贈鞍轡",
+      "event_status": "龍馬無鞍，西行受阻",
+      "character_decision": "化廟祝贈全套鞍轡",
+      "decision_result": "龍馬裝備齊全"
+    },
+    {
+      "event_id": "ch033_009",
+      "event_name": "神眾請罪",
+      "event_status": "揭諦威脅問罪，情勢危殆",
+      "character_decision": "懇請釋放悟空並謝罪",
+      "decision_result": "遣歸山位，免遭追責"
+    },
+    {
+      "event_id": "ch033_010",
+      "event_name": "怒斥當值",
+      "event_status": "被妖強令輪值，身份暴露",
+      "character_decision": "自承一日一輪當值",
+      "decision_result": "引發悟空憤慨探洞"
+    },
+    {
+      "event_id": "ch038_004",
+      "event_name": "聚獸掩跡",
+      "event_status": "悟空強令拘獸，情勢不容推諉",
+      "character_decision": "召山獸偽充獵物",
+      "decision_result": "掩護夜行計劃"
+    },
+    {
+      "event_id": "ch040_017",
+      "event_name": "驅神問蹤",
+      "event_status": "悟空暴怒逼問，情勢壓迫",
+      "character_decision": "指明火雲洞方位",
+      "decision_result": "提供妖巢關鍵線索"
+    },
+    {
+      "event_id": "ch040_018",
+      "event_name": "神告妖源",
+      "event_status": "嚴加盤問下需明辨妖裔",
+      "character_decision": "稟明紅孩兒身世來歷",
+      "decision_result": "確證牛魔王親緣關係"
+    },
+    {
+      "event_id": "ch050_008",
+      "event_name": "神告妖源",
+      "event_status": "行者尋師無果，急切問訊",
+      "character_decision": "指明金兜洞妖王身份",
+      "decision_result": "確立敵手為獨角兕大王"
+    },
+    {
+      "event_id": "ch053_001",
+      "event_name": "飯熱待師",
+      "event_status": "老君收牛後師徒脫險",
+      "character_decision": "奉熱飯慰勞師徒",
+      "decision_result": "師徒恢復體力"
+    },
+    {
+      "event_id": "ch095_005",
+      "event_name": "喚神審山",
+      "event_status": "行者急召查妖，情勢迫切",
+      "character_decision": "即時現身稟報山名穴址",
+      "decision_result": "鎖定毛穎山絕頂石窟"
+    }
+  ]
+}

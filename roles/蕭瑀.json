@@ -1,0 +1,44 @@
+{
+  "name": "蕭瑀",
+  "aliases": [],
+  "description": "唐朝重臣，尚書左僕射，以直言敢諫著稱",
+  "personality": [
+    "剛正",
+    "忠直",
+    "務實"
+  ],
+  "traits": [
+    "朝堂重臣",
+    "儒佛兼修",
+    "持節守禮"
+  ],
+  "abilities": [
+    "辯論",
+    "朝議決策",
+    "典章審核"
+  ],
+  "summary": "在朝堂驗證中參與陰司因果的實證確認；於佛道辯難中支持佛教立場，並參與推舉玄奘為水陸大會壇主。",
+  "events": [
+    {
+      "event_id": "ch012_002",
+      "event_name": "朝堂驗證",
+      "event_status": "群臣共證借屍還魂真偽",
+      "character_decision": "參與驗證質詢",
+      "decision_result": "佐證因果不虛"
+    },
+    {
+      "event_id": "ch012_005",
+      "event_name": "佛道辯難",
+      "event_status": "佛道政策爭議白熱化",
+      "character_decision": "駁斥傅奕止浮圖之議",
+      "decision_result": "促成佛教國教化"
+    },
+    {
+      "event_id": "ch012_006",
+      "event_name": "選舉壇主",
+      "event_status": "水陸大會人選待定",
+      "character_decision": "共推玄奘為壇主",
+      "decision_result": "玄奘受封都僧綱"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "name": "仙童",
+  "aliases": [],
+  "description": "菩提祖師座下奉命迎賓的道童",
+  "personality": [
+    "恭谨",
+    "守礼",
+    "机敏",
+    "勤勉",
+    "笃信",
+    "隐忍",
+    "忠职",
+    "坚忍"
+  ],
+  "traits": [
+    "清秀",
+    "素衣",
+    "执拂尘",
+    "常列廊庑",
+    "顶盖念佛",
+    "侍立应答",
+    "庵中值守"
+  ],
+  "abilities": [
+    "通晓玄机",
+    "奉命行事",
+    "导引宾客",
+    "教习洒扫",
+    "持戒应变",
+    "护法守庵",
+    "临危持诵"
+  ],
+  "summary": "仙童奉师命于斜月三星洞外迎候美猴王，依预示准时启门，完成引路之任。　仙童参与悟空初阶礼仪与洒扫训练，协同众童执行祖师之命，在廊庑及二门外协助教习，助其奠定入室弟子根基。　仙童随悟空赴兜率宫丹房索丹，于老君座前侍立应答，展现洞中所学之仪轨与定性。　仙童于朱柜中被悟空剃童化僧所困，顶盖念佛破幻显真，虽致三局皆败，却展露内修定力与师门戒行。　仙童随如意真仙镇守聚仙庵，于钩棒初斗中协防拒敌；再战时遭沙僧击伤仍护泉不退，显其职守之坚与定力之韧。",
+  "events": [
+    {
+      "event_id": "ch001_021",
+      "event_name": "童子迎門",
+      "event_status": "奉師命守洞待客，時機已至",
+      "character_decision": "開門接待美猴王",
+      "decision_result": "引導入洞見祖師"
+    },
+    {
+      "event_id": "ch002_001",
+      "event_name": "灑掃應對",
+      "event_status": "奉祖師命於廊廡教習新徒",
+      "character_decision": "協同眾童教習灑掃禮儀",
+      "decision_result": "助悟空入日常修學階段"
+    },
+    {
+      "event_id": "ch039_003",
+      "event_name": "丹房索丹",
+      "event_status": "丹房侍立，见证悟空求丹",
+      "character_decision": "侍立丹房，应答进退有度",
+      "decision_result": "维系师门仪范"
+    },
+    {
+      "event_id": "ch046_013",
+      "event_name": "剃童化僧",
+      "event_status": "被困朱柜，幻术临身",
+      "character_decision": "顶盖念佛破幻显真",
+      "decision_result": "三局全败，仪范不坠"
+    },
+    {
+      "event_id": "ch053_004",
+      "event_name": "鉤棒初鬥",
+      "event_status": "悟空索水遭拒，真仙震怒出战",
+      "character_decision": "协防庵门，拒敌护泉",
+      "decision_result": "真仙败走，泉未失守"
+    },
+    {
+      "event_id": "ch053_006",
+      "event_name": "庵門再戰",
+      "event_status": "调虎离山之计施行中",
+      "character_decision": "守门护泉，阻截取水",
+      "decision_result": "被沙僧打伤，泉水被夺"
+    }
+  ]
+}

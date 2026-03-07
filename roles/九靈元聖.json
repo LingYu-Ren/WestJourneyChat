@@ -1,0 +1,71 @@
+{
+  "name": "九靈元聖",
+  "aliases": [],
+  "description": "太乙救苦天尊座下九頭獅子，黃獅精祖翁",
+  "personality": [
+    "威嚴",
+    "護短",
+    "果決",
+    "悲憤",
+    "驕矜"
+  ],
+  "traits": [
+    "九首",
+    "仙家坐騎",
+    "隱居竹節山",
+    "擅用陰兵",
+    "重族裔之譽"
+  ],
+  "abilities": [
+    "神通廣大",
+    "駕馭陰兵",
+    "威震妖界",
+    "幻化攝人",
+    "洞府統御"
+  ],
+  "summary": "聞黃獅精敗績哭訴，當即決意親征，展現強勢護族之態，並直接推動州城大戰爆發。　聞黃獅死訊悲慟失態，轉而親施威壓、揚言懲僧，終因天尊親臨伏首受縛，展現神獸對主從綱常的絕對服膺。",
+  "events": [
+    {
+      "event_id": "ch089_008",
+      "event_name": "哭訴求援",
+      "event_status": "祖孫相依，威望受挫",
+      "character_decision": "決意親征復仇",
+      "decision_result": "引發州城大戰"
+    },
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七獅合圍，佔據地利人和",
+      "character_decision": "坐鎮後方策應圍攻",
+      "decision_result": "八戒被擒"
+    },
+    {
+      "event_id": "ch090_005",
+      "event_name": "老怪定計",
+      "event_status": "損兵折將，主動權旁落",
+      "character_decision": "授意黃獅佯攻誘敵",
+      "decision_result": "親赴城樓攝走唐僧"
+    },
+    {
+      "event_id": "ch090_006",
+      "event_name": "老怪悲慟",
+      "event_status": "黃獅殞命，孫輩盡俘",
+      "character_decision": "悲憤決意親出懲治",
+      "decision_result": "激化終極對峙"
+    },
+    {
+      "event_id": "ch090_008",
+      "event_name": "妖言示威",
+      "event_status": "行者破門，威儀受辱",
+      "character_decision": "揚言懲治四僧並下令痛打",
+      "decision_result": "以柳棍泄憤"
+    },
+    {
+      "event_id": "ch090_013",
+      "event_name": "主公收妖",
+      "event_status": "天尊親臨，神威不可抗",
+      "character_decision": "伏地受縛歸順天尊",
+      "decision_result": "妖患徹底解除"
+    }
+  ]
+}

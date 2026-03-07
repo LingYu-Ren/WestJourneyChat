@@ -1,0 +1,74 @@
+{
+  "name": "梅山六兄弟",
+  "aliases": [],
+  "description": "二郎真君麾下结义战将，灌江口草头神统帅",
+  "personality": [
+    "忠勇",
+    "果决",
+    "协同",
+    "悍战",
+    "重义",
+    "应变"
+  ],
+  "traits": [
+    "结义兄弟",
+    "草头神统领",
+    "鹰犬随行",
+    "七圣合阵",
+    "猎归风尘",
+    "幕天席地"
+  ],
+  "abilities": [
+    "变化追踪",
+    "围猎战术",
+    "协同作战",
+    "草头神统御",
+    "临机结盟",
+    "夜战整备"
+  ],
+  "summary": "作为二郎真君核心战力，全程参与花果山征讨，展现高度协同性与战术执行力，在七变逐影中紧密配合真君完成对孙悟空的压制与围捕。　于碧波潭上空应悟空旧谊之邀驰援，星夜叙旧提振士气，展现重义应变之能，并为围剿龙宫完成协同作战准备。",
+  "events": [
+    {
+      "event_id": "ch006_008",
+      "event_name": "真君受調",
+      "event_status": "玉帝降旨，天兵战局胶着",
+      "character_decision": "听令整军随征",
+      "decision_result": "迅速集结赴战"
+    },
+    {
+      "event_id": "ch006_009",
+      "event_name": "七聖赴戰",
+      "event_status": "东洋驰赴花果山，战势紧迫",
+      "character_decision": "率草头神驾鹰牵犬驰援",
+      "decision_result": "布成天罗地网"
+    },
+    {
+      "event_id": "ch006_010",
+      "event_name": "初陣對峙",
+      "event_status": "水帘洞外列阵，直面齐天大圣",
+      "character_decision": "列阵协防真君",
+      "decision_result": "稳固战阵威慑"
+    },
+    {
+      "event_id": "ch006_012",
+      "event_name": "七變逐影",
+      "event_status": "悟空连变逃遁，战局瞬息万变",
+      "character_decision": "协同真君追击围堵",
+      "decision_result": "压缩悟空腾挪空间"
+    },
+    {
+      "event_id": "ch063_008",
+      "event_name": "七聖臨壇",
+      "event_status": "猎归途经碧波潭，突接助战之请",
+      "character_decision": "应约临坛结盟",
+      "decision_result": "确立围剿龙宫策"
+    },
+    {
+      "event_id": "ch063_009",
+      "event_name": "星月敘舊",
+      "event_status": "碧波潭岸幕天席地，夜宴叙旧",
+      "character_decision": "欢会整备待明",
+      "decision_result": "士气提振战备完"
+    }
+  ]
+}

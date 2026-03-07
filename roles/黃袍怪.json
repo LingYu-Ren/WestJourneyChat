@@ -1,0 +1,140 @@
+{
+  "name": "黃袍怪",
+  "aliases": [
+    "奎木狼"
+  ],
+  "description": "原为天界二十八宿之一奎木狼，下界为妖，盘踞碗子山波月洞",
+  "personality": [
+    "凶悍",
+    "狡诈",
+    "自负",
+    "多疑",
+    "刚愎",
+    "偏执",
+    "易怒",
+    "轻信伪证",
+    "护短",
+    "色令智昏"
+  ],
+  "traits": [
+    "黃袍加身",
+    "獠牙利爪",
+    "擅幻化",
+    "信梦兆",
+    "嗜酒现形",
+    "擅编谎术",
+    "内丹藏舍利",
+    "视子为盾"
+  ],
+  "abilities": [
+    "武艺高强",
+    "腾云驾雾",
+    "变化之术",
+    "识破幻术（曾识破百花羞托梦）",
+    "喷水定身",
+    "幻形惑人",
+    "内丹御法",
+    "妖气隐匿"
+  ],
+  "summary": "在波月洞擒获唐僧并缚于定魂桩；后于洞门前与八戒、沙僧激战数十合，战势胶着。　轻信百花羞托梦之说而释唐僧，显露轻率与迷信；再战时击溃八戒、生擒沙僧，凸显压倒性战力。　因疑沙僧通敌而怒审百花羞；听信伪言赴宝象国认亲，以巧言诬陷唐僧为虎精，并施法将其变为猛虎；宴饮醉后现原形噬食宫娥，暴露妖性；遭小白龙刺杀未果，反致其负伤遁逃。　因二子被擒被迫松动囚禁格局；轻信‘浑家’致内丹被骗吞，法力根基遭毁；最终本体溃败现形遁走，天界身份彻底暴露。",
+  "events": [
+    {
+      "event_id": "ch028_011",
+      "event_name": "塔下遭擒",
+      "event_status": "洞中设伏，静待取经人",
+      "character_decision": "突袭擒拿玄奘",
+      "decision_result": "唐僧被缚定魂桩"
+    },
+    {
+      "event_id": "ch028_013",
+      "event_name": "洞門鏖兵",
+      "event_status": "洞前迎敌，以一敌二",
+      "character_decision": "云端迎战八戒沙僧",
+      "decision_result": "战势胶著未分胜负"
+    },
+    {
+      "event_id": "ch029_003",
+      "event_name": "夢誑釋師",
+      "event_status": "洞内听信托梦，心存疑虑",
+      "character_decision": "依梦言释放唐僧",
+      "decision_result": "唐僧从后门脱身"
+    },
+    {
+      "event_id": "ch029_010",
+      "event_name": "再戰潰陣",
+      "event_status": "洞前独战取经二徒",
+      "character_decision": "全力迎击八戒沙僧",
+      "decision_result": "沙僧被擒入洞"
+    },
+    {
+      "event_id": "ch030_001",
+      "event_name": "怒審沙僧",
+      "event_status": "洞内挟持公主审讯",
+      "character_decision": "质问沙僧书信通敌事",
+      "decision_result": "沙僧否认，暂保性命"
+    },
+    {
+      "event_id": "ch030_003",
+      "event_name": "駙馬認親",
+      "event_status": "洞内决意冒认国婿",
+      "character_decision": "拟变形赴宝象国认亲",
+      "decision_result": "埋下殿前诬陷伏笔"
+    },
+    {
+      "event_id": "ch030_004",
+      "event_name": "詐叩朝門",
+      "event_status": "朝门外化身俊貌求见",
+      "character_decision": "化形叩门自称三驸马",
+      "decision_result": "获准入殿行礼"
+    },
+    {
+      "event_id": "ch030_005",
+      "event_name": "巧誣虎精",
+      "event_status": "金殿当众构陷唐僧",
+      "character_decision": "编造虎媒故事诬唐僧",
+      "decision_result": "国王信伪证命验真"
+    },
+    {
+      "event_id": "ch030_006",
+      "event_name": "黑眼定身",
+      "event_status": "金殿受命施法定身",
+      "character_decision": "喷水施法将唐僧变虎",
+      "decision_result": "唐僧被锁铁笼"
+    },
+    {
+      "event_id": "ch030_007",
+      "event_name": "醉現原形",
+      "event_status": "银安殿宴饮失控行凶",
+      "character_decision": "酒醉现妖相噬食宫娥",
+      "decision_result": "宫人奔窜流言四起"
+    },
+    {
+      "event_id": "ch030_009",
+      "event_name": "宮娥戲妖",
+      "event_status": "银安殿遭小龙近身刺杀",
+      "character_decision": "击退变宫娥的小白龙",
+      "decision_result": "小龙腿伤遁水"
+    },
+    {
+      "event_id": "ch031_003",
+      "event_name": "奪子挾質",
+      "event_status": "洞外幼子被擒，软肋暴露",
+      "character_decision": "默许公主解缚沙僧",
+      "decision_result": "囚禁格局被打破"
+    },
+    {
+      "event_id": "ch031_005",
+      "event_name": "偽妻誘丹",
+      "event_status": "洞内误认假妻，心防松懈",
+      "character_decision": "示内丹予‘浑家’",
+      "decision_result": "内丹被夺吞服"
+    },
+    {
+      "event_id": "ch031_006",
+      "event_name": "棍刀決勝",
+      "event_status": "山顶法力不稳，本体迎战",
+      "character_decision": "持刀硬撼金箍棒",
+      "decision_result": "现形遁走"
+    }
+  ]
+}

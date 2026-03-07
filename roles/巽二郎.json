@@ -1,0 +1,28 @@
+{
+  "name": "巽二郎",
+  "aliases": [],
+  "description": "風部正神，司掌東南風之神將",
+  "personality": [
+    "恪守天規",
+    "聽令行事"
+  ],
+  "traits": [
+    "持風幡",
+    "御風而行"
+  ],
+  "abilities": [
+    "呼風",
+    "調巽風",
+    "應敕隨召"
+  ],
+  "summary": "在祈雨壇受悟空元神敕令，與風雲雷雨諸神一同待命，致道士法術失效。",
+  "events": [
+    {
+      "event_id": "ch045_007",
+      "event_name": "元神敕令",
+      "event_status": "天庭奉旨應驗，諸神列陣待命",
+      "character_decision": "遵敕駐壇聽調",
+      "decision_result": "風勢驟止，法術失效"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "玉帝",
+  "aliases": [],
+  "description": "天庭最高统治者，三界共尊的神权领袖",
+  "personality": [
+    "威严",
+    "果决",
+    "仁悯",
+    "明察",
+    "守法",
+    "重信"
+  ],
+  "traits": [
+    "端坐灵霄宝殿",
+    "敕令御笔朱批",
+    "金阙至尊",
+    "御前批状",
+    "示米山麵山金鎖"
+  ],
+  "abilities": [
+    "统御诸天神将",
+    "调遣二十八宿",
+    "裁决三界事务",
+    "受理天庭讼案",
+    "验善恶以定刑赏",
+    "敕令四部神祇行雨"
+  ],
+  "summary": "面对揭谛紧急奏报，玉帝迅速敕令二十八宿下界救厄，展现其临机决断与护佑正道之责。　面对行者持牌位香炉御前呈状，玉帝审慎批旨，敕令太白金星召托塔天王问案，彰显其秉公听讼、依制理政之责。　玉帝以米山、麵山、金鎖立罚，确立「作善可解」天条；亲验全民向善感格，即颁旨降雨，彰显其执宪不苟而应机垂慈之德。",
+  "events": [
+    {
+      "event_id": "ch065_006",
+      "event_name": "揭諦奏天",
+      "event_status": "行者命悬一线，天庭危局初显",
+      "character_decision": "敕令二十八宿下界救厄",
+      "decision_result": "解金鐃困圣之危"
+    },
+    {
+      "event_id": "ch083_007",
+      "event_name": "御前呈狀",
+      "event_status": "行者持证直奏，天庭法度临检",
+      "character_decision": "批旨敕金星召李靖问案",
+      "decision_result": "启动天庭司法勘验"
+    },
+    {
+      "event_id": "ch087_004",
+      "event_name": "三事立罰",
+      "event_status": "郡侯渎祀三年，天律待彰",
+      "character_decision": "示米山麵山金鎖立罚",
+      "decision_result": "确立作善可解天条"
+    },
+    {
+      "event_id": "ch087_007",
+      "event_name": "文牒奏天",
+      "event_status": "僧道文书上达，善信已验",
+      "character_decision": "验三事已解敕令降雨",
+      "decision_result": "准行甘雨三尺零四十二點"
+    },
+    {
+      "event_id": "ch087_008",
+      "event_name": "三事頓解",
+      "event_status": "善念感天动地，锁梃齐断",
+      "character_decision": "颁旨四部神祇降甘雨",
+      "decision_result": "甘霖普降泽被全郡"
+    }
+  ]
+}

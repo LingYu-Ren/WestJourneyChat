@@ -1,0 +1,95 @@
+{
+  "name": "四健將",
+  "aliases": [],
+  "description": "花果山猴群中地位最高的四位部將，輔佐美猴王",
+  "personality": [
+    "忠誠",
+    "勇悍",
+    "機警",
+    "義憤",
+    "沉毅",
+    "謹慎",
+    "察微",
+    "隱忍",
+    "協同"
+  ],
+  "traits": [
+    "猴類",
+    "常隨王側",
+    "松陰水簾洞常駐",
+    "洞天議事常列",
+    "諫言不避",
+    "隱蹤協查",
+    "奉令不怠"
+  ],
+  "abilities": [
+    "統率群猴",
+    "通曉地府傳聞",
+    "迎賓應對",
+    "勸慰進諫",
+    "安撫眾心",
+    "偵察探源",
+    "密行跟蹤",
+    "奉命傳信",
+    "臨危協理"
+  ],
+  "summary": "在悟空魂入幽冥與奉詔上天兩事中全程隨侍，展現核心近臣角色定位，參與天界敘事線啟動。　在悟空怒返花果一事中，與各洞妖王共聽訴屈、參與群議，展現輔弼之責與部族凝聚力。　在悟空自陳罪狀一事中，靜聽坦述、穩鎮群情，展現近臣之持重與部族樞紐作用。　於火雲洞外尾隨六健將探查紅孩兒援兵來源，展現臨機應變與隱蔽行動之能，為後續延請觀音埋下關鍵伏筆。　於六健將奉命請牛魔王之際，四健將雖未親赴號山，然承擔後方戒備與情報接應之責，彰顯其作為核心樞紐在非常態軍務中的穩守功能。",
+  "events": [
+    {
+      "event_id": "ch003_010",
+      "event_name": "魂入幽冥",
+      "event_status": "勾死人突至，群猴驚惶失措",
+      "character_decision": "守護醉臥悟空身側",
+      "decision_result": "見證生死簿銷名"
+    },
+    {
+      "event_id": "ch003_014",
+      "event_name": "奉詔上天",
+      "event_status": "天庭使節臨洞，全族屏息以待",
+      "character_decision": "整肅儀容隨王出迎",
+      "decision_result": "隨入天庭體系"
+    },
+    {
+      "event_id": "ch004_007",
+      "event_name": "怒返花果",
+      "event_status": "悟空訴屈，眾猴譏諷天庭",
+      "character_decision": "列席洞天共聽陳情",
+      "decision_result": "協理鬼王獻袍進讜"
+    },
+    {
+      "event_id": "ch005_009",
+      "event_name": "自陳罪狀",
+      "event_status": "悟空坦白偷盜三寶，群情激越",
+      "character_decision": "肅立靜聽，安撫諸洞妖王",
+      "decision_result": "穩住議事局勢，促成共飲之議"
+    },
+    {
+      "event_id": "ch041_015",
+      "event_name": "尾隨探源",
+      "event_status": "火雲洞外形勢未明，援兵來路成疑",
+      "character_decision": "隱蹤尾隨六健將查探",
+      "decision_result": "獲知背後靠山線索"
+    },
+    {
+      "event_id": "ch042_001",
+      "event_name": "行者變牛",
+      "event_status": "六健將離山請援，洞中戒備升級",
+      "character_decision": "協理洞防，整備接應",
+      "decision_result": "維持花果山防務穩定"
+    },
+    {
+      "event_id": "ch042_002",
+      "event_name": "假父臨門",
+      "event_status": "六健將引偽父入洞，前線形勢懸而未決",
+      "character_decision": "監守水簾洞，待命候召",
+      "decision_result": "確保王庭樞紐不失"
+    },
+    {
+      "event_id": "ch042_004",
+      "event_name": "群妖圍攻",
+      "event_status": "計敗訊息傳回，群情亟待安撫",
+      "character_decision": "列席洞議，疏導眾疑",
+      "decision_result": "穩住軍心，重申待命"
+    }
+  ]
+}

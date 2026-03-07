@@ -1,0 +1,27 @@
+{
+  "name": "巴山虎",
+  "aliases": [],
+  "description": "平頂山蓮花洞二魔麾下小妖，奉命探路",
+  "personality": [
+    "听命",
+    "警觉"
+  ],
+  "traits": [
+    "疾走",
+    "被追踪"
+  ],
+  "abilities": [
+    "奔走传信",
+    "识途"
+  ],
+  "summary": "与倚海龍奉命赴壓龍洞途中遭孙悟空化身苍蝇暗中钉梢， unwittingly led the Monkey King to the location of the Yaolong Cave and the old demoness.",
+  "events": [
+    {
+      "event_id": "ch034_003",
+      "event_name": "釘身追蹤",
+      "event_status": "途中被悟空化身苍蝇暗中跟踪",
+      "character_decision": "疾走赴壓龍洞探路",
+      "decision_result": "暴露压龙洞方位"
+    }
+  ]
+}

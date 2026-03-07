@@ -1,0 +1,43 @@
+{
+  "name": "僧官",
+  "aliases": [],
+  "description": "寶林寺負責接待與寺務的僧職人員",
+  "personality": [
+    "勢利",
+    "傲慢",
+    "怯懦"
+  ],
+  "traits": [
+    "以貌取人",
+    "輕慢外客",
+    "畏強屈服"
+  ],
+  "abilities": [
+    "寺務管理",
+    "僧眾統御"
+  ],
+  "summary": "初以貌拒唐僧，後因悟空威懾被迫跪迎供奉，權威被徹底顛覆。",
+  "events": [
+    {
+      "event_id": "ch036_005",
+      "event_name": "僧官拒客",
+      "event_status": "主導接待權，輕視陌生僧人",
+      "character_decision": "拒留玄奘並出言貶斥",
+      "decision_result": "三藏含淚離寺"
+    },
+    {
+      "event_id": "ch036_006",
+      "event_name": "鐵棒震寺",
+      "event_status": "面對悟空暴力威懾，眾僧動搖",
+      "character_decision": "拒不妥協反遭壓制",
+      "decision_result": "全寺僧眾跪迎"
+    },
+    {
+      "event_id": "ch036_007",
+      "event_name": "禮逆轉正",
+      "event_status": "權力結構崩解，被迫轉向服從",
+      "character_decision": "率眾改行隆重接待",
+      "decision_result": "師徒獲安寢與供奉"
+    }
+  ]
+}

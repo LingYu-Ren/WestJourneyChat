@@ -1,0 +1,27 @@
+{
+  "name": "監丞監副",
+  "aliases": [],
+  "description": "天庭靈霄寶殿中負責監察與輔佐的中級神官",
+  "personality": [
+    "恪守職分",
+    "謹慎奏報"
+  ],
+  "traits": [
+    "執掌文牒",
+    "通報上達"
+  ],
+  "abilities": [
+    "奏事傳令",
+    "協理天務"
+  ],
+  "summary": "在悟空叛逃後，與監官、天丁共同向玉帝緊急奏報，促成天兵征討決策。",
+  "events": [
+    {
+      "event_id": "ch004_009",
+      "event_name": "天庭震怒",
+      "event_status": "天庭震怒，調兵遣將",
+      "character_decision": "聯同監官天丁奏報叛情",
+      "decision_result": "玉帝下令李靖哪吒下界"
+    }
+  ]
+}

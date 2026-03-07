@@ -1,0 +1,93 @@
+{
+  "name": "黑風怪",
+  "aliases": [],
+  "description": "黑風山妖怪，覬覦佛寶並辦佛衣會",
+  "personality": [
+    "貪婪",
+    "機敏",
+    " opportunistic",
+    "opportunistic",
+    "驕矜",
+    "頑抗"
+  ],
+  "traits": [
+    "黑風",
+    "夜行",
+    "擅竊",
+    "慶壽",
+    "守洞"
+  ],
+  "abilities": [
+    "縱風",
+    "隱蹤",
+    "乘亂取物",
+    "化風遁走",
+    "持槍鏖兵"
+  ],
+  "summary": "黑風怪因火光驚動而趕至觀音禪院，趁亂竊走錦襴袈裟，首次暴露其覬覦佛寶的野心與行動力。　黑風怪竊寶後籌辦佛衣會，面對孫悟空追索屢拒交還，歷經潛蹤、鏖戰、詐騙與收伏，終被觀音菩薩以金箍降伏皈依。",
+  "events": [
+    {
+      "event_id": "ch016_012",
+      "event_name": "黑怪竊寶",
+      "event_status": "禪院失火，混亂四起",
+      "character_decision": "趁亂盜取錦襴袈裟",
+      "decision_result": "成功竊寶，引出追索線索"
+    },
+    {
+      "event_id": "ch017_001",
+      "event_name": "潛蹤竊聽",
+      "event_status": "密議佛衣會，三妖聚於芳草坡",
+      "character_decision": "與二妖商議慶壽展佛衣",
+      "decision_result": "暴露袈裟下落與計畫"
+    },
+    {
+      "event_id": "ch017_002",
+      "event_name": "怒棒驚遁",
+      "event_status": "行者突襲，白蛇精當場被誅",
+      "character_decision": "化風遁逃回洞",
+      "decision_result": "暫避鋒芒，保全性命"
+    },
+    {
+      "event_id": "ch017_003",
+      "event_name": "叩洞索衣",
+      "event_status": "洞門緊閉，小妖戒備森嚴",
+      "character_decision": "拒見行者，閉門不出",
+      "decision_result": "引發正面對峙"
+    },
+    {
+      "event_id": "ch017_004",
+      "event_name": "洞口鏖兵",
+      "event_status": "初戰十數合不分勝負",
+      "character_decision": "假稱進膳退入洞中",
+      "decision_result": "暫緩交戰，固守洞府"
+    },
+    {
+      "event_id": "ch017_007",
+      "event_name": "幻形詐洞",
+      "event_status": "行者變長老混入洞中",
+      "character_decision": "信以為真召見金池長老",
+      "decision_result": "袈裟現形，計謀敗露"
+    },
+    {
+      "event_id": "ch017_008",
+      "event_name": "晝夜再戰",
+      "event_status": "從洞前鬥至雲外，天色將晚",
+      "character_decision": "持槍怒刺，力戰不退",
+      "decision_result": "罷戰閉門，僵持不下"
+    },
+    {
+      "event_id": "ch017_011",
+      "event_name": "變相獻丹",
+      "event_status": "凌虛子登門獻仙丹",
+      "character_decision": "欣然吞服不明丹藥",
+      "decision_result": "頭疼現形，失智跪降"
+    },
+    {
+      "event_id": "ch017_012",
+      "event_name": "金箍收心",
+      "event_status": "菩薩施咒，金箍鎖頂",
+      "character_decision": "交出錦襴袈裟求饒",
+      "decision_result": "皈依守山，脫離妖籍"
+    }
+  ]
+}

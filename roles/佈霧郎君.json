@@ -1,0 +1,27 @@
+{
+  "name": "佈霧郎君",
+  "aliases": [],
+  "description": "天庭司霧之神，風雲雷雨諸神之一",
+  "personality": [
+    "恪守天規",
+    "聽令行事"
+  ],
+  "traits": [
+    "霧氣環身",
+    "持霧旌"
+  ],
+  "abilities": [
+    "佈霧",
+    "應詔巡天"
+  ],
+  "summary": "受悟空元神敕令，與風雲雷雨諸神一同待命，致道士祈雨法術失效。",
+  "events": [
+    {
+      "event_id": "ch045_007",
+      "event_name": "元神敕令",
+      "event_status": "天庭奉旨應驗，諸神列陣待命",
+      "character_decision": "遵令駐壇候召",
+      "decision_result": "法術中斷"
+    }
+  ]
+}

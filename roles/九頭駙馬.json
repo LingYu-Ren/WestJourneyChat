@@ -1,0 +1,71 @@
+{
+  "name": "九頭駙馬",
+  "aliases": [],
+  "description": "萬聖龍王之婿，九首妖仙，擅幻化與陰邪法術",
+  "personality": [
+    "貪婪",
+    "陰鷙",
+    "桀驁",
+    "輕敵",
+    "暴戾"
+  ],
+  "traits": [
+    "九首異相",
+    "夜行習性",
+    "血雨詣法",
+    "水戰擅長",
+    "負傷遁逃"
+  ],
+  "abilities": [
+    "呼風喚雨",
+    "盜寶秘術",
+    "妖氣蔽光",
+    "九首協攻",
+    "水中隱形"
+  ],
+  "summary": "三年前孟秋朔日夜半，聯手萬聖龍王於金光寺寶塔降下血雨，盜取佛舍利與王母靈芝，致四夷絕貢、寶塔失光。　面對齊天大聖索寶，輕敵請戰，與悟空八戒激戰三十餘合不分勝負；後遭細犬咬首，負創遁逃，威勢盡喪。",
+  "events": [
+    {
+      "event_id": "ch062_006",
+      "event_name": "血雨盜寶",
+      "event_status": "龍宮密謀已定，夜襲佛塔",
+      "character_decision": "施血雨污塔掩護盜寶",
+      "decision_result": "成功竊得舍利與靈芝"
+    },
+    {
+      "event_id": "ch063_003",
+      "event_name": "禍事急報",
+      "event_status": "二妖負傷入宮，龍宮震懼",
+      "character_decision": "輕敵請戰應對悟空",
+      "decision_result": "促成水面叫陣"
+    },
+    {
+      "event_id": "ch063_004",
+      "event_name": "水面叫陣",
+      "event_status": "悟空八戒壓境，龍宮危急",
+      "character_decision": "現九首真身挑戰悟空",
+      "decision_result": "三十餘合不分勝負"
+    },
+    {
+      "event_id": "ch063_005",
+      "event_name": "鏟棒鏖兵",
+      "event_status": "八戒背襲失手，局勢逆轉",
+      "character_decision": "反擊拖八戒入水",
+      "decision_result": "八戒被擒龍宮"
+    },
+    {
+      "event_id": "ch063_007",
+      "event_name": "鈀破宮闕",
+      "event_status": "八戒破宮，龍族潰亂",
+      "character_decision": "協防龍宮前殿",
+      "decision_result": "龍子被築殺，龍王殞命"
+    },
+    {
+      "event_id": "ch063_010",
+      "event_name": "晨破麻殯",
+      "event_status": "龍族停喪鬆備，突遭襲擊",
+      "character_decision": "迎戰八戒護喪",
+      "decision_result": "被細犬咬首遁逃"
+    }
+  ]
+}

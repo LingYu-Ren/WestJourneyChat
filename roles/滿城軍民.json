@@ -1,0 +1,30 @@
+{
+  "name": "滿城軍民",
+  "aliases": [],
+  "description": "寶象國都城的普通百姓與守備軍隊",
+  "personality": [
+    "敬畏神明",
+    "從眾虔誠",
+    "易受感召"
+  ],
+  "traits": [
+    "集體觀瞻",
+    "禮佛習俗",
+    "尊崇真仙"
+  ],
+  "abilities": [
+    "集體跪拜",
+    "辨識神通",
+    "傳頌聖跡"
+  ],
+  "summary": "目睹三徒雲中演武，全城震懾而禮佛，推動王室決意拜師。",
+  "events": [
+    {
+      "event_id": "ch088_007",
+      "event_name": "雲中授威",
+      "event_status": "仰觀天際演武，驚疑真偽未定",
+      "character_decision": "集體跪拜禮佛",
+      "decision_result": "王室決意拜師"
+    }
+  ]
+}

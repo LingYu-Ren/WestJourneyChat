@@ -1,0 +1,85 @@
+{
+  "name": "六耳獼猴",
+  "aliases": [
+    "假行者",
+    "二心猿"
+  ],
+  "description": "混世四猴之一，善聆音、能察理、知前后、万物皆明",
+  "personality": [
+    "狡黠",
+    "桀骜",
+    "隐忍",
+    "自负"
+  ],
+  "traits": [
+    "形声无异",
+    "金箍同受",
+    "蜂形遁术",
+    "通晓万般言语"
+  ],
+  "abilities": [
+    "听音辨微",
+    "拟态幻形",
+    "通晓天机",
+    "避劫趋吉"
+  ],
+  "summary": "六耳猕猴冒充孙悟空霸占水帘洞，引发三界辩真风波，最终于雷音寺被如来识破本相并伏诛。",
+  "events": [
+    {
+      "event_id": "ch058_002",
+      "event_name": "洞前對峙",
+      "event_status": "伪作悟空占据水帘洞，群猴惑乱",
+      "character_decision": "拒退洞府，迎战真身",
+      "decision_result": "首次交手难分高下"
+    },
+    {
+      "event_id": "ch058_003",
+      "event_name": "雲中鏖兵",
+      "event_status": "与真悟空空中死战，沙僧莫辨",
+      "character_decision": "升空续斗，缠战不休",
+      "decision_result": "迫使沙僧回禀唐僧"
+    },
+    {
+      "event_id": "ch058_004",
+      "event_name": "菩薩難辨",
+      "event_status": "观音及众神共观仍不能识真假",
+      "character_decision": "静立示真，不言不避",
+      "decision_result": "菩萨推诿至天庭"
+    },
+    {
+      "event_id": "ch058_005",
+      "event_name": "天門陳情",
+      "event_status": "南天门外齐诉被逐始末，众神难断",
+      "character_decision": "同步陈情，声形无异",
+      "decision_result": "照妖镜影亦无差"
+    },
+    {
+      "event_id": "ch058_006",
+      "event_name": "照鏡無痕",
+      "event_status": "灵霄殿内照妖镜映双影毫发不差",
+      "character_decision": "坦然受照，不动声色",
+      "decision_result": "天庭权威失效"
+    },
+    {
+      "event_id": "ch058_007",
+      "event_name": "幽冥查簿",
+      "event_status": "地府查生死簿无名，谛听知而不言",
+      "character_decision": "默然待判，不争不辩",
+      "decision_result": "谛听指唯如来可辨"
+    },
+    {
+      "event_id": "ch058_008",
+      "event_name": "四猴定種",
+      "event_status": "雷音寺外被如来揭为混世四猴之一",
+      "character_decision": "闻本相欲遁",
+      "decision_result": "身份本源确立"
+    },
+    {
+      "event_id": "ch058_009",
+      "event_name": "缽盂伏妖",
+      "event_status": "七宝莲台遭如来金钵镇压",
+      "character_decision": "化蜂欲遁，被悟空击毙",
+      "decision_result": "当场伏诛，绝种灭迹"
+    }
+  ]
+}

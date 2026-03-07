@@ -1,0 +1,91 @@
+{
+  "name": "妃子",
+  "aliases": [],
+  "description": "天竺國國王后妃，隨駕迎僧、親歷降妖始末",
+  "personality": [
+    "端莊",
+    "隱忍",
+    "細察",
+    "恭慎",
+    "忠謹"
+  ],
+  "traits": [
+    "宮裝素雅",
+    "靜立御前",
+    "默觀病情",
+    "垂首隨班",
+    "俯首拭淚"
+  ],
+  "abilities": [
+    "侍疾經驗",
+    "察言觀色",
+    "宮廷應對",
+    "危局守儀"
+  ],
+  "summary": "在寶殿親歷國王腹鳴排穢，確認其三年前端陽驚恐為病根，展現長期伴君察疾的敏銳與沉靜。　在鳷鵲宮迎駕、花園現形、殿前陳情、夜述緣由及朝議尋女等事件中，全程隨侍國王身側，見證妖氛揭破與真公主真相披露，展現後宮嬪妃於非常之變中的沉靜守位之態。　於假駙馬現形之亂中屏息持禮，復於明辨真假、夜述緣由等關鍵對話中以靜默參與決策進程；見證敕建寶華與辭國西行全程，展現後宮在國事轉圜間的穩定依存之態。",
+  "events": [
+    {
+      "event_id": "ch069_005",
+      "event_name": "腹響行穢解疾",
+      "event_status": "御前診疾關鍵時刻",
+      "character_decision": "靜立旁觀全程",
+      "decision_result": "佐證病源確立"
+    },
+    {
+      "event_id": "ch095_001",
+      "event_name": "鳷鵲迎駕",
+      "event_status": "假公主率眾迎駙馬，妖氛暗伏",
+      "character_decision": "垂首隨班迎駕",
+      "decision_result": "佐證宮儀如常"
+    },
+    {
+      "event_id": "ch095_003",
+      "event_name": "花園現形",
+      "event_status": "悟空現相擒妖，滿宮驚潰",
+      "character_decision": "屏息退立旁觀",
+      "decision_result": "保全儀態未亂"
+    },
+    {
+      "event_id": "ch095_008",
+      "event_name": "殿前陳情",
+      "event_status": "悟空稟報妖蹤，國王震懾",
+      "character_decision": "默立殿角聽諭",
+      "decision_result": "知悉降妖部署"
+    },
+    {
+      "event_id": "ch095_015",
+      "event_name": "夜述緣由",
+      "event_status": "太陰秘事初聞，國王慚惶",
+      "character_decision": "垂首靜聆始末",
+      "decision_result": "明瞭公主降生因由"
+    },
+    {
+      "event_id": "ch095_016",
+      "event_name": "老僧詳陳",
+      "event_status": "朝議尋女，悲聲動殿",
+      "character_decision": "隨班俯首拭淚",
+      "decision_result": "共感君父哀慟"
+    },
+    {
+      "event_id": "ch095_004",
+      "event_name": "明辨真假",
+      "event_status": "國王震懾求救當前",
+      "character_decision": "隨班懇請辨明真偽",
+      "decision_result": "推動降妖部署啟動"
+    },
+    {
+      "event_id": "ch095_010",
+      "event_name": "敕建寶華",
+      "event_status": "論功封賞朝議正隆",
+      "character_decision": "隨班列席聽諭",
+      "decision_result": "共證國恩昭彰"
+    },
+    {
+      "event_id": "ch095_011",
+      "event_name": "辭國西行",
+      "event_status": "師徒謝宴辭行在即",
+      "character_decision": "隨班俯首送駕",
+      "decision_result": "禮成閉環守位如初"
+    }
+  ]
+}

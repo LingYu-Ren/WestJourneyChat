@@ -1,0 +1,28 @@
+{
+  "name": "李元吉",
+  "aliases": [],
+  "description": "唐高祖李渊第四子，玄武门之变中被杀的皇子",
+  "personality": [
+    "怨愤",
+    "执拗",
+    "不甘"
+  ],
+  "traits": [
+    "冤魂形态",
+    "索命姿态"
+  ],
+  "abilities": [
+    "阴魂聚形",
+    "纠缠索偿"
+  ],
+  "summary": "死后化为冤魂，在森羅殿前街纠集李建成共同拦驾索命，显其未解之恨与执念。",
+  "events": [
+    {
+      "event_id": "ch011_005",
+      "event_name": "兄弟索命",
+      "event_status": "阴司街巷，冤魂聚拦",
+      "character_decision": "纠缠太宗索命",
+      "decision_result": "被崔珏喝退"
+    }
+  ]
+}

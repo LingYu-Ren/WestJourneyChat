@@ -1,0 +1,36 @@
+{
+  "name": "夫人",
+  "aliases": [],
+  "description": "殷開山之妻，丞相府主母，玄奘外祖母",
+  "personality": [
+    "明察",
+    "果決",
+    "仁厚"
+  ],
+  "traits": [
+    "端莊",
+    "持重",
+    "深居內宅而通曉大義"
+  ],
+  "abilities": [
+    "識斷冤情",
+    "協理家國大事"
+  ],
+  "summary": "面對玄奘呈遞血書鳴冤，夫人與殷開山共審實情，迅速推動奏請唐王發兵剿賊。　雖未直接參與鳳仙郡潑供事件，然其作為朝廷重臣眷屬與德望所繫之主母，此等天譴異象必引其關注民生疾苦與天人感應之理。",
+  "events": [
+    {
+      "event_id": "ch009_016",
+      "event_name": "呈書鳴冤",
+      "event_status": "血書驚動相府，案情重大",
+      "character_decision": "協同丞相審閱血書",
+      "decision_result": "促成奏請發兵"
+    },
+    {
+      "event_id": "ch087_005",
+      "event_name": "潑供觸天",
+      "event_status": "天降懲戒，郡界大旱三年",
+      "character_decision": "默察天變，諭示家人慎行敬天",
+      "decision_result": "強化府中齋戒禮敬之風"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "四老猴",
+  "aliases": [],
+  "description": "花果山資深老猴，通曉世務，為悟空早期謀士",
+  "personality": [
+    "智謀",
+    "忠誠",
+    "果決",
+    "堅忍"
+  ],
+  "traits": [
+    "年長",
+    "經驗豐富",
+    "獻策頻繁",
+    "臨危不亂"
+  ],
+  "abilities": [
+    "獻策建言",
+    "洞悉形勢",
+    "協調群猴",
+    "守節待援"
+  ],
+  "summary": "在悟空初掌猴群時期，連續三次獻策推動關鍵行動：先建議取凡兵、再提議索仙器、最終見證並參與金箍棒立威儀式，奠定其核心幕僚地位。　于木仙庵杏仙逼婚之危中，與三老同守唐僧至天明，展現長者定力與護法之志。",
+  "events": [
+    {
+      "event_id": "ch003_002",
+      "event_name": "獻策取兵",
+      "event_status": "群猴憂無鋒利兵器守山",
+      "character_decision": "建議赴傲來國取兵器",
+      "decision_result": "悟空決意劫械"
+    },
+    {
+      "event_id": "ch003_005",
+      "event_name": "問寶龍宮",
+      "event_status": "凡兵不趁手，欲求仙器",
+      "character_decision": "獻計入海索寶",
+      "decision_result": "引發東海奪寶"
+    },
+    {
+      "event_id": "ch003_009",
+      "event_name": "顯棒鎮山",
+      "event_status": "披掛齊備、神兵在手",
+      "character_decision": "列席鐵板橋頭助威",
+      "decision_result": "封為四健將"
+    },
+    {
+      "event_id": "ch064_008",
+      "event_name": "掙門待援",
+      "event_status": "木仙庵內群妖逼婚，形勢危殆",
+      "character_decision": "守護唐僧苦撐待援",
+      "decision_result": "迎來悟空及時解圍"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "二郎真君",
+  "aliases": [
+    "显圣真君",
+    "清源妙道真君"
+  ],
+  "description": "听调不听宣的灌江口神祇，玉帝特许统兵之权",
+  "personality": [
+    "沉毅果决",
+    "傲岸自信",
+    "敏锐凌厉",
+    "重诺守责",
+    "重义通变",
+    "务实应机"
+  ],
+  "traits": [
+    "三只眼",
+    "银弹金弓",
+    "细犬随身",
+    "鹰犬仪仗",
+    "听调不听宣",
+    "猎装临坛",
+    "协战敏断"
+  ],
+  "abilities": [
+    "七十二变",
+    "法天象地",
+    "照妖鉴形",
+    "神目通幽",
+    "统御草头神",
+    "协战布阵",
+    "识破隐机",
+    "临机制变"
+  ],
+  "summary": "奉旨率梅山六圣与天将围剿花果山，与孙悟空展开变化、法相、智谋三重对决，最终协同老君擒获大圣，彰显其作为天庭最强战力之一的实战统御力与神通压制力。　应悟空旧谊之邀率梅山六圣驰援碧波潭，星夜叙旧结盟，展现其超越天庭职分的江湖信义与灵活务实的协作格局。　本次事件中未直接出场，但其‘识破隐机’与‘临机制变’能力在既有战绩基础上进一步印证为天庭应对诡谲妖氛的核心倚仗；其江湖信义与跨阵营协作范式，亦为后续类似危机（如狮驼岭变局）提供隐性范式参照。",
+  "events": [
+    {
+      "event_id": "ch006_008",
+      "event_name": "真君受調",
+      "event_status": "玉帝急旨召令，天兵久战不利",
+      "character_decision": "接旨点兵即发",
+      "decision_result": "战局转入新阶段"
+    },
+    {
+      "event_id": "ch006_009",
+      "event_name": "七聖赴戰",
+      "event_status": "东洋至花果山途中，军情紧迫",
+      "character_decision": "率草头神驾鹰牵犬疾进",
+      "decision_result": "重布天罗地网"
+    },
+    {
+      "event_id": "ch006_010",
+      "event_name": "初陣對峙",
+      "event_status": "水帘洞外两军列阵，互探虚实",
+      "character_decision": "当面揭悟空出身激其怒",
+      "decision_result": "引爆三百合搏杀"
+    },
+    {
+      "event_id": "ch006_011",
+      "event_name": "法天象地",
+      "event_status": "武斗难分高下，天地气机激荡",
+      "character_decision": "施展法天象地神通对撼",
+      "decision_result": "悟空心慌率先收法"
+    },
+    {
+      "event_id": "ch006_012",
+      "event_name": "七變逐影",
+      "event_status": "悟空溃营逃遁，变化周旋求生",
+      "character_decision": "随形追变七次不辍",
+      "decision_result": "逼出变化极限"
+    },
+    {
+      "event_id": "ch006_013",
+      "event_name": "廟宇欺敵",
+      "event_status": "悟空弹伤伪装土地庙",
+      "character_decision": "识破旗竿破绽逼其现形",
+      "decision_result": "断其藏匿退路"
+    },
+    {
+      "event_id": "ch006_014",
+      "event_name": "竄入灌廟",
+      "event_status": "悟空潜入灌江庙反客为主",
+      "character_decision": "火速回援当场揭穿",
+      "decision_result": "重启花果山决战"
+    },
+    {
+      "event_id": "ch006_016",
+      "event_name": "金剛琢擊",
+      "event_status": "悟空被照妖镜锁定，负隅顽抗",
+      "character_decision": "配合老君完成合围",
+      "decision_result": "助擒悟空成功"
+    },
+    {
+      "event_id": "ch006_017",
+      "event_name": "押解上界",
+      "event_status": "大圣就擒，天庭亟待定谳",
+      "character_decision": "亲押悟空赴通明殿",
+      "decision_result": "交付斩妖台处置"
+    },
+    {
+      "event_id": "ch063_008",
+      "event_name": "七聖臨壇",
+      "event_status": "猎归途经碧波潭，突接求援",
+      "character_decision": "应约率众即刻赴援",
+      "decision_result": "结成围剿同盟"
+    },
+    {
+      "event_id": "ch063_009",
+      "event_name": "星月敘舊",
+      "event_status": "潭岸夜驻，群圣欢会待明",
+      "character_decision": "提议幕天席地暂歇叙旧",
+      "decision_result": "士气提振协同完备"
+    }
+  ]
+}

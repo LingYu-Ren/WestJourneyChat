@@ -1,0 +1,62 @@
+{
+  "name": "銀角大王",
+  "aliases": [],
+  "description": "平頂山蓮花洞二大王，金角大王之弟",
+  "personality": [
+    "聽命行事",
+    "果斷行動",
+    "兇悍",
+    "輕敵自負",
+    "易受詐語所惑"
+  ],
+  "traits": [
+    "持紫金紅葫蘆",
+    "戴蓮花冠",
+    "率小妖巡山",
+    "信賴法寶神效"
+  ],
+  "abilities": [
+    "擒拿術",
+    "調兵遣將",
+    "識破取經動向",
+    "法寶操控"
+  ],
+  "summary": "銀角大王接受金角指令主動出擊，首度親率部眾巡邏並成功擒獲豬八戒，標誌蓮花洞勢力正式介入取經線。　銀角大王在葫蘆問源中不慎洩露真言，又於雌雄相試時因輕信互喚規則反遭己寶所制；最終身世揭明，證實為老君爐童下界。",
+  "events": [
+    {
+      "event_id": "ch032_008",
+      "event_name": "二魔議捕",
+      "event_status": "蓮花洞內受命待發",
+      "character_decision": "領圖受令巡山擒僧",
+      "decision_result": "率三十小怪出洞"
+    },
+    {
+      "event_id": "ch032_009",
+      "event_name": "八戒遭擒",
+      "event_status": "山徑伏擊遇巡山豬妖",
+      "character_decision": "當場擒拿豬八戒",
+      "decision_result": "八戒被擄入洞"
+    },
+    {
+      "event_id": "ch035_002",
+      "event_name": "葫蘆問源",
+      "event_status": "洞外對峙，疑悟空知寶來歷",
+      "character_decision": "主動告知葫蘆出處",
+      "decision_result": "真言外洩"
+    },
+    {
+      "event_id": "ch035_003",
+      "event_name": "雌雄相試",
+      "event_status": "恃寶邀鬥，輕信呼名即應",
+      "character_decision": "與悟空互喚應聲",
+      "decision_result": "被裝入自葫蘆"
+    },
+    {
+      "event_id": "ch035_012",
+      "event_name": "爐童下界",
+      "event_status": "被老君當場收服，身世揭明",
+      "character_decision": "伏首認歸本主",
+      "decision_result": "重返兜率宮"
+    }
+  ]
+}

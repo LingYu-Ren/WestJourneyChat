@@ -1,0 +1,38 @@
+{
+  "name": "紅鱗大蟒",
+  "aliases": [],
+  "description": "盤踞七絕山稀柿衕的陰氣巨妖，原形為通體赤鱗之巨蟒",
+  "personality": [
+    "畏陽",
+    "兇戾",
+    "狡遁"
+  ],
+  "traits": [
+    "紅鱗覆體",
+    "信子如槍",
+    "不諳人語",
+    "陰氣深重"
+  ],
+  "abilities": [
+    "雲中騰挪",
+    "現原形遁走",
+    "舞槍格擋"
+  ],
+  "summary": "於駝羅莊上空與孫悟空僵持至三更，因畏陽氣不敢近身；天明時遁入稀柿衕，暴露巨蟒本體及信子化槍之特徵。",
+  "events": [
+    {
+      "event_id": "ch067_005",
+      "event_name": "雲中僵持",
+      "event_status": "陽氣未盛，懸於上空對峙",
+      "character_decision": "舞槍遮架鐵棒",
+      "decision_result": "確證不諳人語"
+    },
+    {
+      "event_id": "ch067_006",
+      "event_name": "追妖入衕",
+      "event_status": "東方發白，陽氣升騰迫退",
+      "character_decision": "遁入稀柿衕現原形",
+      "decision_result": "暴露信子即軟柄槍"
+    }
+  ]
+}

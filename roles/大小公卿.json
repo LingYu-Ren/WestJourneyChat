@@ -1,0 +1,27 @@
+{
+  "name": "大小公卿",
+  "aliases": [],
+  "description": "祭賽國朝廷中地位顯赫的文武官員群體",
+  "personality": [
+    "恭謹",
+    "順從"
+  ],
+  "traits": [
+    "朝服冠帶",
+    "列班朝堂"
+  ],
+  "abilities": [
+    "朝儀禮節",
+    "奏對應變"
+  ],
+  "summary": "在塔頂擒賊後，於王宮前見證孫悟空、豬八戒挾二妖離朝赴潭，全程隨侍國王，未發一言而恪守臣職。",
+  "events": [
+    {
+      "event_id": "ch063_001",
+      "event_name": "攝妖赴潭",
+      "event_status": "國王親臨送行，妖氛未靖",
+      "character_decision": "列班朝前，靜觀奉命",
+      "decision_result": "默然從命，維持朝綱"
+    }
+  ]
+}

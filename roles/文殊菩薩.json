@@ -1,0 +1,47 @@
+{
+  "name": "文殊菩薩",
+  "aliases": [],
+  "description": "佛教四大菩萨之一，主司智慧，奉佛旨降妖度化",
+  "personality": [
+    "威严",
+    "慈悲",
+    "果决",
+    "沉静"
+  ],
+  "traits": [
+    "骑青狮",
+    "持慧剑",
+    "顶结五髻",
+    "随佛赴会"
+  ],
+  "abilities": [
+    "收伏妖魔",
+    "洞悉因缘",
+    "显圣降旨",
+    "协佛镇魔"
+  ],
+  "summary": "文殊菩薩于烏雞國上空現身，收伏青毛獅子，揭示其本為坐騎下界、受佛旨考驗的因緣。　文殊菩薩随如来赴狮驼国收魔之役，协同普贤共镇三魔；此前亦参与灵山法会，见证大鹏渊源揭示。",
+  "events": [
+    {
+      "event_id": "ch039_014",
+      "event_name": "文殊收獅",
+      "event_status": "三徒不敵妖魔，局勢危急",
+      "character_decision": "現身收伏青毛獅子",
+      "decision_result": "揭曉妖魔來歷與佛旨因緣"
+    },
+    {
+      "event_id": "ch077_012",
+      "event_name": "孔雀淵源",
+      "event_status": "灵山法会，如来自述亲缘",
+      "character_decision": "列席听法，默然佐证",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch077_013",
+      "event_name": "佛光收魔",
+      "event_status": "佛光阵中围擒三魔，局势已定",
+      "character_decision": "随如来现身收伏青狮",
+      "decision_result": "青狮皈依，重归坐骑"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "法明長老",
+  "aliases": [],
+  "description": "金山寺方丈，玄奘出家受戒與身世揭示的關鍵引導者",
+  "personality": [
+    "慈悲",
+    "睿智",
+    "持重",
+    "果決"
+  ],
+  "traits": [
+    "方丈身份",
+    "血書保管者",
+    "身世知情者"
+  ],
+  "abilities": [
+    "度化弟子",
+    "辨識根器",
+    "保守機密",
+    "驗證親緣"
+  ],
+  "summary": "在玄奘十八歲時主持削髮受戒，並於其誠求下出示血書揭示身世；後參與趾驗親緣，確認母子關係並勸速離避禍，成為推動主角行動轉折的核心導師。",
+  "events": [
+    {
+      "event_id": "ch009_010",
+      "event_name": "削髮玄奘",
+      "event_status": "依例度化慧根深厚弟子",
+      "character_decision": "主持受戒確立法名",
+      "decision_result": "確立「玄奘」法名"
+    },
+    {
+      "event_id": "ch009_011",
+      "event_name": "血書示親",
+      "event_status": "面對弟子哀求尋親",
+      "character_decision": "出示血書告知身世",
+      "decision_result": "玄奘知父母冤情"
+    },
+    {
+      "event_id": "ch009_014",
+      "event_name": "趾驗親緣",
+      "event_status": "母子相認關鍵時刻",
+      "character_decision": "主持趾驗並勸速離",
+      "decision_result": "母子徹底相認啟報仇"
+    }
+  ]
+}

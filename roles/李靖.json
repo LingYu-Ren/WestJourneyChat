@@ -1,0 +1,156 @@
+{
+  "name": "李靖",
+  "aliases": [
+    "李天王"
+  ],
+  "description": "天庭托塔天王，统率天兵天将的高级神将",
+  "personality": [
+    "忠谨",
+    "果决",
+    "刚毅",
+    "审慎",
+    "持重",
+    "善谋",
+    "坚韧",
+    "临危不乱",
+    "恪守天规",
+    "奉令唯谨",
+    "协同御外",
+    "威压慑敌",
+    "明辨亲疏",
+    "顾全大局"
+  ],
+  "traits": [
+    "托塔",
+    "披甲持戟",
+    "威严",
+    "阵前督战",
+    "临机权衡",
+    "营帐调度",
+    "金甲耀日",
+    "令旗不坠",
+    "持镜验真",
+    "殿前承旨",
+    "布网合围",
+    "照镜定形",
+    "云楼宫列班",
+    "父子同殿辨伪"
+  ],
+  "abilities": [
+    "统兵布阵",
+    "降妖伏魔",
+    "临阵指挥",
+    "承旨协断",
+    "调遣星君",
+    "阵势部署",
+    "协同攻坚",
+    "逆境整军",
+    "法宝辨伪",
+    "天律执行",
+    "跨界协同",
+    "真形锁定",
+    "亲族稽核",
+    "案情溯证"
+  ],
+  "summary": "李靖受玉帝敕令，与哪吒一同率天兵下界征讨叛逃的孙悟空，正式介入平乱行动。　李靖亲临花果山铁板桥布阵鏖战，虽率天兵围剿，却未能擒获悟空，反致群妖被俘、战局胶着。　李靖于营前听取惠岸行者禀报，确认首战失利，转而支持木吒请战；后协同二郎真君押解孙悟空回天庭，完成阶段性围剿任务。　李靖于金山南坡扎营列阵，遣哪吒出战失利后，协同火德星君火攻金洞，然火势反遭金钢琢所制，显其倚重天界协作却受限于法宝克制之局。　李靖于金洞外高峰督战，见悟空得铁棒士气大振，仍率众神再攻；然金剛琢再现，致全軍兵器尽失，被迫赤手对峙，显其屡挫不退、持续组织反制之韧劲。　李靖奉玉帝之命取照妖镜查验真假悟空，镜中双影难分，凸显其执掌天律却面临神界辨真极限的困境。　李靖协同四大金刚于翠云山布网围擒牛魔王，以照妖镜锁定本相并配合火轮灼真，迫其乞降；继而率众压境芭蕉洞，促成罗刹女献扇，显其统摄佛道协力、威势慑服妖属之能。　李靖于云楼宫当庭否认老鼠精为其亲女，直面哪吒指认与悟空诘问，显其严守神籍谱系、拒徇私情之立场；后在太白金星调停下转主协同收妖，体现其权衡天威与实效、化讼为征的统帅智慧。",
+  "events": [
+    {
+      "event_id": "ch004_009",
+      "event_name": "天庭震怒",
+      "event_status": "天庭震怒，奉旨出征",
+      "character_decision": "领命兴师下界征讨",
+      "decision_result": "开启围剿悟空之战"
+    },
+    {
+      "event_id": "ch005_012",
+      "event_name": "鏖戰天羅",
+      "event_status": "身陷持久鏖战，群妖溃散",
+      "character_decision": "辰时布阵混杀至日落",
+      "decision_result": "七十二洞妖王尽被擒"
+    },
+    {
+      "event_id": "ch006_004",
+      "event_name": "營前稟報",
+      "event_status": "围山一日未克，亟待上界裁示",
+      "character_decision": "听取禀报并确认战况",
+      "decision_result": "为木吒请战铺垫"
+    },
+    {
+      "event_id": "ch006_017",
+      "event_name": "押解上界",
+      "event_status": "擒猴成功，奉旨押赴天庭问罪",
+      "character_decision": "协同真君押解悟空",
+      "decision_result": "悟空被押赴斩妖台"
+    },
+    {
+      "event_id": "ch051_007",
+      "event_name": "天兵列陣",
+      "event_status": "查無所獲後調兵列陣，形勢待破",
+      "character_decision": "扎营南坡并遣哪吒出战",
+      "decision_result": "哪吒六般兵器被套"
+    },
+    {
+      "event_id": "ch051_010",
+      "event_name": "火劫不侵",
+      "event_status": "火攻受挫，法寶剋制顯現",
+      "character_decision": "协同火德放火攻洞",
+      "decision_result": "火龙火马尽被套走"
+    },
+    {
+      "event_id": "ch052_001",
+      "event_name": "鐵棒得勝",
+      "event_status": "悟空得棒士氣大振，妖魔惱怒追擊",
+      "character_decision": "高峰督戰賀喜穩陣",
+      "decision_result": "維持天軍建制未潰"
+    },
+    {
+      "event_id": "ch052_007",
+      "event_name": "再戰復失",
+      "event_status": "全軍兵器被收，赤手對峙形勢危殆",
+      "character_decision": "率眾再攻欲一舉擒之",
+      "decision_result": "全軍赤手，門戶被砌"
+    },
+    {
+      "event_id": "ch058_006",
+      "event_name": "照鏡無痕",
+      "event_status": "照妖镜难辨真伪，天权威信动摇",
+      "character_decision": "奉旨取镜验真",
+      "decision_result": "双影无别，辩谜升级"
+    },
+    {
+      "event_id": "ch061_007",
+      "event_name": "四面合圍",
+      "event_status": "佛令密授，四金刚合围牛王",
+      "character_decision": "布天罗网协同擒拿",
+      "decision_result": "完成合围之势"
+    },
+    {
+      "event_id": "ch061_008",
+      "event_name": "降伏乞命",
+      "event_status": "牛王欲变脱身，镜火双制",
+      "character_decision": "持镜定形施压逼降",
+      "decision_result": "牛王乞饶供扇下落"
+    },
+    {
+      "event_id": "ch061_009",
+      "event_name": "羅剎獻扇",
+      "event_status": "神兵压境，罗刹跪献素服",
+      "character_decision": "率众临洞威摄受扇",
+      "decision_result": "扇归悟空东返护送"
+    },
+    {
+      "event_id": "ch083_008",
+      "event_name": "父子辨親",
+      "event_status": "哪吒指认妖女，天威家法交锋",
+      "character_decision": "当庭否認親女下界",
+      "decision_result": "揭發靈山竊燭舊案"
+    },
+    {
+      "event_id": "ch083_009",
+      "event_name": "金星調停",
+      "event_status": "告狀僵持，亟需轉圜破局",
+      "character_decision": "點兵隨行者下界",
+      "decision_result": "轉為協同收妖"
+    }
+  ]
+}

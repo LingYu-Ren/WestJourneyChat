@@ -1,0 +1,30 @@
+{
+  "name": "三幻妖",
+  "aliases": [],
+  "description": "青狮、白象、大鹏三妖合称，西行路上强力妖魔组合",
+  "personality": [
+    "狡诈",
+    "协同",
+    "果决"
+  ],
+  "traits": [
+    "分瓣梅花计",
+    "三处 simultaneous 出击",
+    "山野伏击"
+  ],
+  "abilities": [
+    "分袭战术",
+    "摄人神通",
+    "地形利用"
+  ],
+  "summary": "三幻妖以分瓣梅花计同时分袭师兄弟三人，成功调开取经团队主力，趁机掳走唐僧。",
+  "events": [
+    {
+      "event_id": "ch085_007",
+      "event_name": "三處鏖兵",
+      "event_status": "三妖分袭山坡三处，战局分散",
+      "character_decision": "同步发难调开三人",
+      "decision_result": "唐僧被老怪摄走"
+    }
+  ]
+}

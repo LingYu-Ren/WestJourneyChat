@@ -1,0 +1,36 @@
+{
+  "name": "眾師兄",
+  "aliases": [],
+  "description": "斜月三星洞中與悟空同門修道的眾多師兄",
+  "personality": [
+    "好奇",
+    "從眾",
+    "熱絡"
+  ],
+  "traits": [
+    "同門群體",
+    "松下觀演",
+    "日常灑掃"
+  ],
+  "abilities": [
+    "基礎道學",
+    "變化初階"
+  ],
+  "summary": "眾師兄在洞中六載間與悟空共修雜務與道學，後又於松樹下邀其演法，促成悟空顯化惹禍之變故。",
+  "events": [
+    {
+      "event_id": "ch002_002",
+      "event_name": "洞中六載",
+      "event_status": "同門共修，日日灑掃應對",
+      "character_decision": "與悟空勤修雜務道學",
+      "decision_result": "助悟空積蓄心性觀察力"
+    },
+    {
+      "event_id": "ch002_007",
+      "event_name": "松樹顯化",
+      "event_status": "松樹下集會，驗試所學變化",
+      "character_decision": "邀悟空當眾演變化之術",
+      "decision_result": "驚動祖師致悟空被逐"
+    }
+  ]
+}

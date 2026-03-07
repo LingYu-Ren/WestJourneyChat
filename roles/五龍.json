@@ -1,0 +1,28 @@
+{
+  "name": "五龍",
+  "aliases": [],
+  "description": "武當山神兵，奉真武大帝之命助戰的五位龍神",
+  "personality": [
+    "忠勇",
+    "果決"
+  ],
+  "traits": [
+    "龍形",
+    "聽調赴援"
+  ],
+  "abilities": [
+    "騰雲",
+    "司雨",
+    "協戰"
+  ],
+  "summary": "五龍應悟空召喚馳援小雷音寺，卻再度被黃眉老佛搭包收攝，與龜蛇二將同陷地窖。",
+  "events": [
+    {
+      "event_id": "ch066_002",
+      "event_name": "龍蛇再敗",
+      "event_status": "山門外迎敵，妖王設伏",
+      "character_decision": "隨悟空出戰助陣",
+      "decision_result": "被裝入地窖"
+    }
+  ]
+}

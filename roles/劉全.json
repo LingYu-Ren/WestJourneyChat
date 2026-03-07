@@ -1,0 +1,60 @@
+{
+  "name": "劉全",
+  "aliases": [],
+  "description": "長安城平民，李翠蓮之夫，以信義赴陰司進瓜",
+  "personality": [
+    "重諾",
+    "剛烈",
+    "忠貞",
+    "篤實"
+  ],
+  "traits": [
+    "頂瓜入冥",
+    "服毒殉命",
+    "魂靈不散",
+    "朝堂驗身"
+  ],
+  "abilities": [
+    "踐約赴死",
+    "陰陽通達",
+    "借屍還魂"
+  ],
+  "summary": "劉全揭榜服毒，以魂承瓜直抵鬼門關，終得閻王許借屍還魂，完成信義與孝節的雙重實踐。　劉全於金鑾殿當廷與太宗互證陰司經歷，復得夫妻相認，獲賜妝奩、永免差徭，信義之行終獲人間王權正式肯認。　劉全雖未直接參與超薦法事，然其陰司往返之實績，為鄉里所傳頌，間接彰顯佛法薦亡之效，強化其作為陰陽信使的民間信仰地位。",
+  "events": [
+    {
+      "event_id": "ch011_015",
+      "event_name": "劉全進瓜",
+      "event_status": "皇榜招賢，生死攸關",
+      "character_decision": "揭榜服毒頂瓜入陰",
+      "decision_result": "啟動信義通陰陽線索"
+    },
+    {
+      "event_id": "ch011_016",
+      "event_name": "魂頂南瓜",
+      "event_status": "魂離肉身，直赴鬼門",
+      "character_decision": "以魂承瓜抵森羅殿",
+      "decision_result": "促成閻王查簿定案"
+    },
+    {
+      "event_id": "ch011_017",
+      "event_name": "借屍還魂",
+      "event_status": "生死簿證登仙之壽",
+      "character_decision": "受閻王特許借屍還陽",
+      "decision_result": "完成道德三重閉環"
+    },
+    {
+      "event_id": "ch012_002",
+      "event_name": "朝堂驗證",
+      "event_status": "群臣環伺，君王親詢陰司實情",
+      "character_decision": "當廷對證借屍還魂細節",
+      "decision_result": "群臣信實因果不虛"
+    },
+    {
+      "event_id": "ch012_003",
+      "event_name": "夫婦相認",
+      "event_status": "白玉階前重聚，宿緣即刻印證",
+      "character_decision": "默然受認，神識如舊",
+      "decision_result": "太宗賜妝奩永免差徭"
+    }
+  ]
+}

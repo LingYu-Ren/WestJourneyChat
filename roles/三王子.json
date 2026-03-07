@@ -1,0 +1,111 @@
+{
+  "name": "三王子",
+  "aliases": [],
+  "description": "玉華國王第三子，習武慕道的年輕王子",
+  "personality": [
+    "謹慎",
+    "求真",
+    "尊師重道",
+    "警覺",
+    "果決",
+    "重情",
+    "篤行"
+  ],
+  "traits": [
+    "持兵質問",
+    "倒身下拜",
+    "勤學苦練",
+    "巡守兵器",
+    "臨危登樓",
+    "聞訊動容",
+    "受藝精進"
+  ],
+  "abilities": [
+    "武藝基礎",
+    "神力承載",
+    "兵器操演",
+    "協同鑄器",
+    "辨盜應變",
+    "解數通達"
+  ],
+  "summary": "從懷疑三徒身份到誠心求教，經行者暗授真言而脫胎換骨，具備駕馭神兵之力，並參與凡器仿鑄，成為妖魔覬覦的關鍵人物。　神兵失竊後迅速協同追查，於城樓與師徒共御妖眾，展現危機應對之能與護國之志。　於九曲盤桓洞中親歷妖氛壓境，悲憤與警醒並存；終得行者授完七十二道解數，武藝圓滿，為護國頌詩奠定實質根基。",
+  "events": [
+    {
+      "event_id": "ch088_006",
+      "event_name": "亭前問怪",
+      "event_status": "群臣惶惑，王室疑竇叢生",
+      "character_decision": "持兵質問三徒真偽",
+      "decision_result": "引發空中演武驗身"
+    },
+    {
+      "event_id": "ch088_007",
+      "event_name": "雲中授威",
+      "event_status": "全城仰觀，民心震懾",
+      "character_decision": "觀神技以辨真偽",
+      "decision_result": "確信仙佛化身"
+    },
+    {
+      "event_id": "ch088_008",
+      "event_name": "跪請收徒",
+      "event_status": "目睹神技，誠惶誠恐",
+      "character_decision": "隨父跪請授藝",
+      "decision_result": "開啟玉華授法"
+    },
+    {
+      "event_id": "ch088_009",
+      "event_name": "靜室傳炁",
+      "event_status": "體弱難持神兵",
+      "character_decision": "靜心受行者授炁",
+      "decision_result": "脫胎換骨獲神力"
+    },
+    {
+      "event_id": "ch088_010",
+      "event_name": "依樣鑄器",
+      "event_status": "神兵過重難久持",
+      "character_decision": "協同鑄造減重凡器",
+      "decision_result": "招致豹頭山妖盜取"
+    },
+    {
+      "event_id": "ch089_001",
+      "event_name": "兵器失竊",
+      "event_status": "神兵夜間不翼而飛，王府震動",
+      "character_decision": "巡查兵器發現失竊",
+      "decision_result": "確立盜源指向豹頭山"
+    },
+    {
+      "event_id": "ch089_010",
+      "event_name": "城樓待敵",
+      "event_status": "群妖飛沙走石直逼州城",
+      "character_decision": "隨師登樓列陣迎敵",
+      "decision_result": "參與終極對峙首戰"
+    },
+    {
+      "event_id": "ch090_006",
+      "event_name": "老怪悲慟",
+      "event_status": "洞中聞喪，妖氣翻湧",
+      "character_decision": "隨父列席聽聞噩耗",
+      "decision_result": "深感禍患迫近"
+    },
+    {
+      "event_id": "ch090_008",
+      "event_name": "妖言示威",
+      "event_status": "群妖環伺，威壓逼人",
+      "character_decision": "默然戒備靜觀其變",
+      "decision_result": "識破妖詐蓄勢待發"
+    },
+    {
+      "event_id": "ch090_014",
+      "event_name": "暴紗安歇",
+      "event_status": "妖滅歸城，百廢待興",
+      "character_decision": "隨王迎師返亭休整",
+      "decision_result": "重整心志再習武道"
+    },
+    {
+      "event_id": "ch090_015",
+      "event_name": "授藝完滿",
+      "event_status": "王府設壇，授武收官",
+      "character_decision": "習得七十二道解數",
+      "decision_result": "武藝精熟圓滿"
+    }
+  ]
+}

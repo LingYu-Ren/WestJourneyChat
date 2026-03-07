@@ -1,0 +1,62 @@
+{
+  "name": "阿儺",
+  "aliases": [],
+  "description": "如來佛祖座下二弟子之一，執掌經藏的尊者",
+  "personality": [
+    "恭謹",
+    "沉靜",
+    "忠恪",
+    "守例",
+    "務實"
+  ],
+  "traits": [
+    "持金鐧",
+    "侍立佛側",
+    "梵音清越",
+    "奉敕傳經"
+  ],
+  "abilities": [
+    "誦經護法",
+    "協理佛事",
+    "通曉真言",
+    "掌藏授經"
+  ],
+  "summary": "阿儺全程隨侍如來參與降伏悟空之役，在靈霄門外見證佛祖問因與賭賽之議，並於五行山親歷六字真言封山，確立監押體制。　阿儺與伽葉依舊遵行舊例索人事，致初傳無字經；後奉如來敕令重授有字真經，以紫金缽易得一藏之數，體現其執法守制亦順承佛意之雙重角色。",
+  "events": [
+    {
+      "event_id": "ch007_010",
+      "event_name": "佛祖問因",
+      "event_status": "佛前聽命，共襄降魔大局",
+      "character_decision": "侍立如來身側，襄理問對",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch007_016",
+      "event_name": "六字封山",
+      "event_status": "隨佛鎮壓妖聖，守護真言封印",
+      "character_decision": "協同迦葉護持真言施法",
+      "decision_result": "五行山合縫生根"
+    },
+    {
+      "event_id": "ch098_006",
+      "event_name": "索賄傳白",
+      "event_status": "依例索人事，唐僧無物可奉",
+      "character_decision": "索要人事後傳無字經",
+      "decision_result": "三十五部皆為雪白無字"
+    },
+    {
+      "event_id": "ch098_007",
+      "event_name": "如來釋偽",
+      "event_status": "殿前受詰，直面佛祖明訓",
+      "character_decision": "默然聽佛宣示法界鐵律",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch098_008",
+      "event_name": "缽易真經",
+      "event_status": "再奉敕傳經，仍循舊例索酬",
+      "character_decision": "以紫金缽換授有字真經",
+      "decision_result": "五千零四十八卷交付完畢"
+    }
+  ]
+}

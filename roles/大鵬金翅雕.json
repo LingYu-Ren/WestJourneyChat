@@ -1,0 +1,50 @@
+{
+  "name": "大鵬金翅雕",
+  "aliases": [
+    "金翅大鵬鳥",
+    "大鵬"
+  ],
+  "description": "如來佛祖之舅，孔雀大明王同胞兄弟",
+  "personality": [
+    "警覺",
+    "多疑",
+    "果斷",
+    "驕傲"
+  ],
+  "traits": [
+    "雷公嘴",
+    "金翅",
+    "識破偽裝",
+    "血脈尊貴"
+  ],
+  "abilities": [
+    "辨偽",
+    "捆縛術",
+    "飛行迅疾",
+    "先天神力"
+  ],
+  "summary": "在偽鑽風詐事件中被擾亂心神而閉門自守；隨即憑察覺力識破悟空偽裝，迅速下令捆縛。　在「孔雀淵源」事件中被揭示與如來的親族關係，確立其神聖血脈出身與神通本源。",
+  "events": [
+    {
+      "event_id": "ch075_002",
+      "event_name": "偽鑽風詐",
+      "event_status": "洞內議事，突聞敵訊",
+      "character_decision": "驚懼閉門防備",
+      "decision_result": "暫避擾亂，延緩應對"
+    },
+    {
+      "event_id": "ch075_003",
+      "event_name": "雷公嘴露形",
+      "event_status": "察覺異常，直面偽裝者",
+      "character_decision": "當場識破並擒拿",
+      "decision_result": "捆縛悟空成功"
+    },
+    {
+      "event_id": "ch077_012",
+      "event_name": "孔雀淵源",
+      "event_status": "面對諸佛質詢，身世被當眾揭明",
+      "character_decision": "靜聽如來闡述血緣",
+      "decision_result": "身份正名，根源顯現"
+    }
+  ]
+}

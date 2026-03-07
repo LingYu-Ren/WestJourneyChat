@@ -1,0 +1,37 @@
+{
+  "name": "三十餘賊徒",
+  "aliases": [],
+  "description": "一夥結夥行劫的山野盜匪，慣於夜間作案",
+  "personality": [
+    "貪婪",
+    "兇悍",
+    " opportunistic"
+  ],
+  "traits": [
+    "持械",
+    "結隊行動",
+    "分贓途中"
+  ],
+  "abilities": [
+    "夜襲",
+    "攔路劫掠",
+    "山地機動"
+  ],
+  "summary": "賊徒在分贓途中截堵唐僧師徒，因貪圖行李而強索買路錢，反被悟空定身制伏，贓物遭奪回。",
+  "events": [
+    {
+      "event_id": "ch097_004",
+      "event_name": "分贓遇僧",
+      "event_status": "分贓途中遭遇取經隊伍",
+      "character_decision": "持械攔截唐僧師徒",
+      "decision_result": "引發路劫衝突"
+    },
+    {
+      "event_id": "ch097_005",
+      "event_name": "定身縛賊",
+      "event_status": "官道路口遭悟空突襲",
+      "character_decision": "索要買路錢",
+      "decision_result": "全員被定身制伏"
+    }
+  ]
+}

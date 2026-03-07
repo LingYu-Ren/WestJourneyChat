@@ -1,0 +1,94 @@
+{
+  "name": "魏徵",
+  "aliases": [],
+  "description": "唐朝諫臣，太宗朝宰相，以直言敢諫著稱",
+  "personality": [
+    "剛正",
+    "忠直",
+    "務實",
+    "果決",
+    "通陰陽",
+    "重禮教"
+  ],
+  "traits": [
+    "諫官",
+    "奏請頻繁",
+    "金殿議政",
+    "棋局斬龍",
+    "陰司通契",
+    "朝堂立諫",
+    "驗證因果",
+    "推舉德僧",
+    "賜寶佐儀"
+  ],
+  "abilities": [
+    "識人",
+    "理政",
+    "建言",
+    "通神明",
+    "執天律",
+    "輔君宣化",
+    "驗證幽冥",
+    "甄選壇主",
+    "承敕授寶"
+  ],
+  "summary": "魏徵奏請開科取士，促成陳光蕊中狀元並授江州，間接推動取經人玄奘身世線索展開。　魏徵於棋局間奉敕夢斬涇河龍王，展現通達天律之能；後獻崔珏書信助太宗還魂，成為陰陽兩界關鍵樞紐。　魏徵參與朝堂宣夢，助太宗昭示地府見聞，推動仁政落地，強化其作為帝王教化樞紐之職能。　魏徵參與朝堂驗證，確立陰司因果之信；於選舉壇主時共議推玄奘為水陸大會主持；並在賜寶授職中襄贊儀典，強化其作為陰陽與政教雙重樞紐之實質功能。",
+  "events": [
+    {
+      "event_id": "ch009_001",
+      "event_name": "開科取士",
+      "event_status": "天下初定，亟需選賢任能",
+      "character_decision": "奏請太宗開科選才",
+      "decision_result": "太宗准奏，設科取士"
+    },
+    {
+      "event_id": "ch009_003",
+      "event_name": "欽授江州",
+      "event_status": "廷試結束，狀元待授職",
+      "character_decision": "參與朝議定職",
+      "decision_result": "陳光蕊授江州州主"
+    },
+    {
+      "event_id": "ch010_005",
+      "event_name": "夢斬龍首",
+      "event_status": "玉帝敕令在身，龍王違律當斬",
+      "character_decision": "棋局中神遊斬龍",
+      "decision_result": "龍首墜市，天律得行"
+    },
+    {
+      "event_id": "ch010_008",
+      "event_name": "陰司託書",
+      "event_status": "太宗病危將逝，陰陽隔絕",
+      "character_decision": "呈獻崔珏地府書信",
+      "decision_result": "開啟太宗地府遊歷"
+    },
+    {
+      "event_id": "ch011_014",
+      "event_name": "朝堂宣夢",
+      "event_status": "太宗初甦，亟需整肅綱常",
+      "character_decision": "列班聽宣，佐理政教",
+      "decision_result": "仁政綱領確立"
+    },
+    {
+      "event_id": "ch012_002",
+      "event_name": "朝堂驗證",
+      "event_status": "玉英甦醒言語吻合，群臣將信將疑",
+      "character_decision": "列班驗證因果",
+      "decision_result": "陰司信實得彰"
+    },
+    {
+      "event_id": "ch012_006",
+      "event_name": "選舉壇主",
+      "event_status": "三朝臣共審眾僧，亟需德行卓絕者",
+      "character_decision": "共議推舉玄奘",
+      "decision_result": "玄奘受封都僧綱"
+    },
+    {
+      "event_id": "ch012_009",
+      "event_name": "賜寶授職",
+      "event_status": "觀音寶物已至，需隆重授與高僧",
+      "character_decision": "襄贊賜寶儀典",
+      "decision_result": "玄奘威儀震長安"
+    }
+  ]
+}

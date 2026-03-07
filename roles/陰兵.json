@@ -1,0 +1,28 @@
+{
+  "name": "陰兵",
+  "aliases": [],
+  "description": "受召出战的阴间兵卒，隶属地府体系",
+  "personality": [
+    "悍勇",
+    "服从"
+  ],
+  "traits": [
+    "阴气缭绕",
+    "甲胄森然",
+    "无声列阵"
+  ],
+  "abilities": [
+    "夜战不疲",
+    "阴煞侵体"
+  ],
+  "summary": "于积雷山摩云洞前参与三方混战，彻夜不休，展现阴兵持久战力与协同作战特性。",
+  "events": [
+    {
+      "event_id": "ch061_002",
+      "event_name": "夜戰不休",
+      "event_status": "三方混战至天明，局势胶着",
+      "character_decision": "奉令参战，持续围攻牛王",
+      "decision_result": "牵制敌方主力，助势未溃"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "白鹿精",
+  "aliases": [],
+  "description": "南极老人座下白鹿所化妖精，占据清华仙府",
+  "personality": [
+    "凶悍",
+    "机警",
+    "依势而动"
+  ],
+  "traits": [
+    "化寒光遁走",
+    "擅幻形",
+    "通晓人情"
+  ],
+  "abilities": [
+    "武艺精熟",
+    "变化之术",
+    "腾云驾雾"
+  ],
+  "summary": "在清华仙府洞中与孙悟空激战不敌，败走时化作寒光东遁，因南极老人现身劝止而免遭诛戮。",
+  "events": [
+    {
+      "event_id": "ch079_010",
+      "event_name": "洞前再戰",
+      "event_status": "洞府突遭闯入，美后在侧",
+      "character_decision": "弃美后迎战悟空",
+      "decision_result": "八戒闻声赶至"
+    },
+    {
+      "event_id": "ch079_011",
+      "event_name": "壽星止戈",
+      "event_status": "败走化寒光东遁，遭追杀",
+      "character_decision": "化寒光遁逃",
+      "decision_result": "寿星现身劝止"
+    }
+  ]
+}

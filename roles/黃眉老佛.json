@@ -1,0 +1,77 @@
+{
+  "name": "黃眉老佛",
+  "aliases": [],
+  "description": "原為東來佛祖座下司磬黃眉童子，偷寶下界假佛稱尊",
+  "personality": [
+    "狡詐",
+    "驕矜",
+    "兇悍",
+    "執拗",
+    "輕敵"
+  ],
+  "traits": [
+    "金鐃",
+    "人種袋",
+    "狼牙棒",
+    "偽裝佛相",
+    "後天袋"
+  ],
+  "abilities": [
+    "法寶操控",
+    "武藝高強",
+    "幻化佈寺",
+    "重複施術"
+  ],
+  "summary": "憑金鐃困住孫悟空，連敗天兵與取經四眾，展現壓倒性戰力與戰略優勢。　屢以人種袋收盡援兵，終因輕信變瓜之計遭悟空潛腹制伏，被彌勒佛收歸本相。",
+  "events": [
+    {
+      "event_id": "ch065_004",
+      "event_name": "金鐃困聖",
+      "event_status": "假寺設伏，以寶制敵",
+      "character_decision": "拋出金鐃合困行者",
+      "decision_result": "八戒沙僧被擒，三藏遭縛"
+    },
+    {
+      "event_id": "ch065_009",
+      "event_name": "初戰狼牙",
+      "event_status": "行者破鐃逼戰，群神助陣",
+      "character_decision": "持狼牙棒與行者對戰",
+      "decision_result": "拋搭包收盡諸神三徒"
+    },
+    {
+      "event_id": "ch065_013",
+      "event_name": "再戰遭收",
+      "event_status": "諸天再援，形勢膠著",
+      "character_decision": "二次拋出人種袋",
+      "decision_result": "全軍再陷地窖"
+    },
+    {
+      "event_id": "ch066_002",
+      "event_name": "龍蛇再敗",
+      "event_status": "援兵再至，故技重施",
+      "character_decision": "再拋人種袋收龍蛇五靈",
+      "decision_result": "全軍復陷地窖"
+    },
+    {
+      "event_id": "ch066_005",
+      "event_name": "太子遭擒",
+      "event_status": "泗洲援兵逼近，形勢未變",
+      "character_decision": "拋搭包收太子與四將",
+      "decision_result": "悟空徹底孤立"
+    },
+    {
+      "event_id": "ch066_007",
+      "event_name": "瓜田設局",
+      "event_status": "腹中受制，劇痛失能",
+      "character_decision": "吞食變瓜不察異常",
+      "decision_result": "悟空潛入腹中夾擊"
+    },
+    {
+      "event_id": "ch066_008",
+      "event_name": "金袋收妖",
+      "event_status": "哀求饒命，本相暴露",
+      "character_decision": "跪求彌勒赦免",
+      "decision_result": "被裝入後天袋"
+    }
+  ]
+}

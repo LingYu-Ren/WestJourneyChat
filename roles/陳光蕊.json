@@ -1,0 +1,64 @@
+{
+  "name": "陳光蕊",
+  "aliases": [],
+  "description": "新科狀元，後授江州州主，玄奘生父",
+  "personality": [
+    "端方",
+    "忠厚",
+    "守禮"
+  ],
+  "traits": [
+    "儀容出眾",
+    "狀元跨馬",
+    "儒雅書生"
+  ],
+  "abilities": [
+    "科舉應試",
+    "為政理民"
+  ],
+  "summary": "從狀元及第、繡球招婿，到赴任遇害、沉江還魂，歷經政治聯姻、職務任命、家庭離散與死而復生，最終沉冤得雪、官拜學士。　本次事件中未直接登場，但其子玄奘率眾抵達陳家莊，間接推動通天河救童、降妖等情節展開，彰顯其遺澤所繫之家庭倫理與因果脈絡。",
+  "events": [
+    {
+      "event_id": "ch009_002",
+      "event_name": "繡球招婿",
+      "event_status": "遊街途經相府，被擇為駙馬",
+      "character_decision": "坦然受繡球成婚",
+      "decision_result": "結成政治婚姻"
+    },
+    {
+      "event_id": "ch009_003",
+      "event_name": "欽授江州",
+      "event_status": "金鑾殿面聖，待授外任",
+      "character_decision": "領旨赴江州任州主",
+      "decision_result": "攜妻離京赴任"
+    },
+    {
+      "event_id": "ch009_004",
+      "event_name": "母病留店",
+      "event_status": "母親染病滯留客店",
+      "character_decision": "與妻先行赴任",
+      "decision_result": "張氏獨留萬花店"
+    },
+    {
+      "event_id": "ch009_005",
+      "event_name": "洪江殺劫",
+      "event_status": "渡口遭賊伏擊，孤立無援",
+      "character_decision": "力抗劉洪李彪",
+      "decision_result": "被殺沉江"
+    },
+    {
+      "event_id": "ch009_019",
+      "event_name": "光蕊還魂",
+      "event_status": "屍浮江面，龍王送還魂魄",
+      "character_decision": "接受龍王救贖還陽",
+      "decision_result": "一家團圓"
+    },
+    {
+      "event_id": "ch009_020",
+      "event_name": "團圓奏捷",
+      "event_status": "朝堂重現，申述冤情",
+      "character_decision": "隨丞相奏報始末",
+      "decision_result": "授弘文館學士"
+    }
+  ]
+}

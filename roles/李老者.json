@@ -1,0 +1,58 @@
+{
+  "name": "李老者",
+  "aliases": [],
+  "description": "駝羅莊德高望重的長者，莊民代表",
+  "personality": [
+    "仁厚",
+    "虔誠",
+    "憂患意識強"
+  ],
+  "traits": [
+    "年邁",
+    "持重",
+    "善言談"
+  ],
+  "abilities": [
+    "協調眾人",
+    "述事清晰",
+    "篤信因果"
+  ],
+  "summary": "李老者主動引師徒入莊借宿，詳述三年蟒患始末，並在降妖後率眾感恩、承諾開路，展現莊中領袖之責與民間信仰之力。",
+  "events": [
+    {
+      "event_id": "ch067_002",
+      "event_name": "投莊借宿",
+      "event_status": "天色將晚，莊外遇僧侶求宿",
+      "character_decision": "開門迎師徒入莊",
+      "decision_result": "獲知稀柿衕與蟒患實情"
+    },
+    {
+      "event_id": "ch067_003",
+      "event_name": "蟒患肇始",
+      "event_status": "回溯三年前妖風肆虐之困局",
+      "character_decision": "向行者詳述蟒患起源",
+      "decision_result": "助行者掌握妖物來歷"
+    },
+    {
+      "event_id": "ch067_004",
+      "event_name": "風夜現妖",
+      "event_status": "妖風驟至，雙目如燈現形於天井",
+      "character_decision": "與眾莊老共觀妖蹤",
+      "decision_result": "見證行者主動迎戰"
+    },
+    {
+      "event_id": "ch067_007",
+      "event_name": "拖蟒獻捷",
+      "event_status": "巨蟒屍身被拖回莊外示眾",
+      "character_decision": "率眾跪拜感恩",
+      "decision_result": "盛情款留師徒五七日"
+    },
+    {
+      "event_id": "ch067_008",
+      "event_name": "約定開路",
+      "event_status": "師徒將離，莊民集議報恩之舉",
+      "character_decision": "承諾助開稀柿衕",
+      "decision_result": "確立八戒拱路之策"
+    }
+  ]
+}

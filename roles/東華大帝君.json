@@ -1,0 +1,29 @@
+{
+  "name": "東華大帝君",
+  "aliases": [],
+  "description": "上古仙神，司掌東方與仙籍，位尊權重",
+  "personality": [
+    "持重",
+    "坦誠",
+    "務實"
+  ],
+  "traits": [
+    "貝闕宮主",
+    "九轉丹掌管者"
+  ],
+  "abilities": [
+    "煉丹",
+    "通曉仙藥",
+    "辨識靈根"
+  ],
+  "summary": "面對悟空求方救樹之急，坦承九轉丹無效，展現其不虛飾、重實效的處事風格。",
+  "events": [
+    {
+      "event_id": "ch026_005",
+      "event_name": "帝君無策",
+      "event_status": "悟空懇請援手救樹，情勢緊迫",
+      "character_decision": "坦言九轉丹不能醫樹",
+      "decision_result": "悟空辭別赴瀛洲"
+    }
+  ]
+}

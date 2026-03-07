@@ -1,0 +1,37 @@
+{
+  "name": "兩道士",
+  "aliases": [],
+  "description": "車遲國壓僧掌權的道教執事，依附虎力等三仙",
+  "personality": [
+    "傲慢",
+    "專橫",
+    "愚忠"
+  ],
+  "traits": [
+    "道袍",
+    "持戒尺",
+    "口稱御賜"
+  ],
+  "abilities": [
+    "監工僧眾",
+    "傳達國令",
+    "攀附權貴"
+  ],
+  "summary": "在城門腳下被悟空偽裝探問國情，隨後於沙灘遭當眾擊斃，威懾瓦解，暴露其倚勢欺僧、外強中乾之本質。",
+  "events": [
+    {
+      "event_id": "ch044_005",
+      "event_name": "假道探情",
+      "event_status": "誤認悟空為同道，輕信套話",
+      "character_decision": "主動透露三清觀與滅僧內情",
+      "decision_result": "洩露關鍵情報"
+    },
+    {
+      "event_id": "ch044_007",
+      "event_name": "怒斃監工",
+      "event_status": "拒釋僧眾，倚仗御賜令逞威",
+      "character_decision": "以御賜為由拒絕放僧",
+      "decision_result": "被當場擊斃"
+    }
+  ]
+}

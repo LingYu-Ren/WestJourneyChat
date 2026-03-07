@@ -1,0 +1,44 @@
+{
+  "name": "猱獅",
+  "aliases": [],
+  "description": "九靈元聖座下孫輩妖王之一",
+  "personality": [
+    "忠勇",
+    "悍烈",
+    "兇悍"
+  ],
+  "traits": [
+    "獅形",
+    "迅捷如猱",
+    "善圍戰"
+  ],
+  "abilities": [
+    "點兵統軍",
+    "騰雲駕霧",
+    "協同圍攻"
+  ],
+  "summary": "隨九靈元聖應黃獅精哭訴而點兵出征，參與壓境玉華州之役。　參與七獅圍戰，與雪獅精合力擒獲豬八戒，助老怪奪回兵器並索換同族。",
+  "events": [
+    {
+      "event_id": "ch089_009",
+      "event_name": "諸孫點兵",
+      "event_status": "奉祖命集結待發，妖氛彌漫",
+      "character_decision": "隨眾孫列陣聽調",
+      "decision_result": "妖風蔽日壓境"
+    },
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七獅合圍城頭，氣勢壓境",
+      "character_decision": "列陣圍攻孫悟空三人",
+      "decision_result": "八戒力竭被擒"
+    },
+    {
+      "event_id": "ch090_002",
+      "event_name": "八戒遭擒",
+      "event_status": "坎宮之地久戰疲乏",
+      "character_decision": "與雪獅精夾擊八戒",
+      "decision_result": "成功擒獲八戒"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "name": "獨角兕大王",
+  "aliases": [],
+  "description": "太上老君坐騎青牛下界為妖，佔金兜山金洞",
+  "personality": [
+    "驕矜",
+    "悍勇",
+    "機警",
+    "沉著",
+    "多疑",
+    "警醒"
+  ],
+  "traits": [
+    "獨角",
+    "金鋼琢",
+    "金甲黑袍",
+    "洞居深險",
+    "左臂緊勒金剛琢"
+  ],
+  "abilities": [
+    "套取法寶",
+    "水火不侵",
+    "力敵大聖",
+    "識破分身",
+    "夜寐戒備",
+    "臨危判勢"
+  ],
+  "summary": "憑金鋼琢連挫哪吒、火德、水伯與孫悟空，展現壓倒性法寶優勢與戰場主導力；雖被悟空奪回鐵棒，仍穩守金洞，未露敗相。　三時鏖兵展現持久戰力；屢遭悟空潛入試探仍堅守金剛琢不卸，顯極度警覺與防備意識；最終因老君親至而敗，非戰之罪。",
+  "events": [
+    {
+      "event_id": "ch051_008",
+      "event_name": "太子失兵",
+      "event_status": "天兵列陣，哪吒主動索戰",
+      "character_decision": "以金鋼琢套六器",
+      "decision_result": "哪吒失兵潰退"
+    },
+    {
+      "event_id": "ch051_010",
+      "event_name": "火劫不侵",
+      "event_status": "火德星君率火龍火馬攻洞",
+      "character_decision": "祭金鋼琢收火器",
+      "decision_result": "火攻全數被套"
+    },
+    {
+      "event_id": "ch051_012",
+      "event_name": "傾水漫門",
+      "event_status": "黃河水伯傾水渰洞",
+      "character_decision": "固守洞門不懼水勢",
+      "decision_result": "水不能入毫髮無損"
+    },
+    {
+      "event_id": "ch051_013",
+      "event_name": "拳鬥洞前",
+      "event_status": "悟空憤而親戰，徒手搏擊",
+      "character_decision": "近身力搏並識破分身",
+      "decision_result": "套去毫毛化身"
+    },
+    {
+      "event_id": "ch051_015",
+      "event_name": "鐵棒歸主",
+      "event_status": "悟空化蒼蠅潛入洞中奪棒",
+      "character_decision": "洞內對峙，失守本體兵器",
+      "decision_result": "金箍棒被奪，血路脫出"
+    },
+    {
+      "event_id": "ch052_002",
+      "event_name": "三時鏖兵",
+      "event_status": "率眾追擊悟空，坡地激戰",
+      "character_decision": "全力鏖戰三個時辰",
+      "decision_result": "假意罷戰實則防夜襲"
+    },
+    {
+      "event_id": "ch052_003",
+      "event_name": "促織探秘",
+      "event_status": "悟空變促織潛入後房窺寶",
+      "character_decision": "靜臥不動以臂圈示警",
+      "decision_result": "圈子緊勒難盜確證"
+    },
+    {
+      "event_id": "ch052_004",
+      "event_name": "虼蚤叮臂",
+      "event_status": "悟空化虼蚤咬臂擾眠",
+      "character_decision": "驚覺加防仍不卸圈",
+      "decision_result": "徹夜戒備未鬆懈"
+    },
+    {
+      "event_id": "ch052_006",
+      "event_name": "醒悟賊猴",
+      "event_status": "洞中突起火災兵器盡失",
+      "character_decision": "醒悟火災係悟空所為",
+      "decision_result": "揚言刮骨懲猴"
+    },
+    {
+      "event_id": "ch052_011",
+      "event_name": "老君收牛",
+      "event_status": "老君現身一扇定乾坤",
+      "character_decision": "現形被縛金剛琢歸還",
+      "decision_result": "青牛本相暴露被收"
+    }
+  ]
+}

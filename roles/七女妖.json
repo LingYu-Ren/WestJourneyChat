@@ -1,0 +1,88 @@
+{
+  "name": "七女妖",
+  "aliases": [],
+  "description": "盤絲洞修行的蜘蛛精，擅結蛛絲幻術",
+  "personality": [
+    "狡詐",
+    "輕敵",
+    "驕矜",
+    "慣性依賴外力",
+    "善讒構陷",
+    "趨利避害"
+  ],
+  "traits": [
+    "每日三浴",
+    "裸身洗濯",
+    "結絲成篷",
+    "呼子拒敵",
+    "投庇同門",
+    "誣告嫁禍"
+  ],
+  "abilities": [
+    "幻化人形",
+    "吐絲結網",
+    "念咒收縛",
+    "召喚蟲兵",
+    "攀附權勢",
+    "構陷中傷"
+  ],
+  "summary": "從設齋誘擒唐僧，到泉畔裸浴遭窺、水戰失利、結絲困敵失敗，最終被迫召乾兒子助戰，展現其陰險與實力局限並存的妖性特徵。　盤絲洞敗後投奔黃花觀道士，藉同門之誼誣告唐僧師徒以激其報復；復助道士施毒、吐絲困敵，展現其依附強者、借勢逞凶的生存策略。",
+  "events": [
+    {
+      "event_id": "ch072_003",
+      "event_name": "假齋誘擒",
+      "event_status": "識得三藏純陽之體，設局誘捕",
+      "character_decision": "偽供人肉齋食騙入茅屋",
+      "decision_result": "綑懸梁上稱「仙人指路」"
+    },
+    {
+      "event_id": "ch072_005",
+      "event_name": "泉畔解衣",
+      "event_status": "依慣例赴濯垢泉洗浴",
+      "character_decision": "於泉畔解衣裸身入浴",
+      "decision_result": "本相暴露，衣被盜取"
+    },
+    {
+      "event_id": "ch072_007",
+      "event_name": "水戲鮎精",
+      "event_status": "裸身浴於濯垢泉中",
+      "character_decision": "輕敵應對八戒變鮎挑釁",
+      "decision_result": "反被絲繩絆倒困於絲篷"
+    },
+    {
+      "event_id": "ch072_008",
+      "event_name": "絲篷蔽日",
+      "event_status": "水中受挫，急欲制敵",
+      "character_decision": "念真言施法結絲篷蔽日",
+      "decision_result": "八戒跌撲昏厥"
+    },
+    {
+      "event_id": "ch072_009",
+      "event_name": "召子拒敵",
+      "event_status": "自知不敵，洞府臨危",
+      "character_decision": "返洞呼喚七蟲妖助戰",
+      "decision_result": "引發蟲群幻化大戰"
+    },
+    {
+      "event_id": "ch073_003",
+      "event_name": "同門結怨",
+      "event_status": "盤絲洞覆敗，亟尋庇護",
+      "character_decision": "投奔同窗道士誣告取信",
+      "decision_result": "激發道士報復之心"
+    },
+    {
+      "event_id": "ch073_004",
+      "event_name": "煉毒備害",
+      "event_status": "道士煉毒，女怪從旁協謀",
+      "character_decision": "附和讒言助備毒茶",
+      "decision_result": "三藏等飲毒暈厥"
+    },
+    {
+      "event_id": "ch073_006",
+      "event_name": "蛛網困聖",
+      "event_status": "悟空怒打道士，局勢逆轉",
+      "character_decision": "聯手吐絲成篷罩敵",
+      "decision_result": "悟空破篷遁走"
+    }
+  ]
+}

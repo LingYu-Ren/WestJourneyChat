@@ -1,0 +1,27 @@
+{
+  "name": "李建成",
+  "aliases": [],
+  "description": "唐高祖李渊长子，原太子，玄武门之变中被杀",
+  "personality": [
+    "执念深",
+    "怨愤重"
+  ],
+  "traits": [
+    "冤魂形态",
+    "索命姿态"
+  ],
+  "abilities": [
+    "阴司显形",
+    "聚众纠缠"
+  ],
+  "summary": "于森羅殿前街以冤魂之身糾纏太宗索命，展現未解執念與陰界滯留之力。",
+  "events": [
+    {
+      "event_id": "ch011_005",
+      "event_name": "兄弟索命",
+      "event_status": "陰司街市顯形，糾纏舊主",
+      "character_decision": "糾纏太宗索命",
+      "decision_result": "被崔珏喝退"
+    }
+  ]
+}

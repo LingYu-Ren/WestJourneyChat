@@ -1,0 +1,35 @@
+{
+  "name": "眾門人",
+  "aliases": [],
+  "description": "菩提祖師門下修道弟子群體",
+  "personality": [
+    "守規",
+    "敬畏",
+    "旁觀"
+  ],
+  "traits": [
+    "集體行動",
+    "靜默見證"
+  ],
+  "abilities": [
+    "基礎騰雲",
+    "道法修習"
+  ],
+  "summary": "作為斜月三星洞修行群體，見證悟空習得觔斗雲及遭驅逐全過程，處於被動旁觀與集體遵從的宗門秩序中。",
+  "events": [
+    {
+      "event_id": "ch002_006",
+      "event_name": "觔斗雲成",
+      "event_status": "同門見證神通初成",
+      "character_decision": "靜觀領悟",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch002_008",
+      "event_name": "驅逐出山",
+      "event_status": "宗門戒律威嚴當前",
+      "character_decision": "默然目送",
+      "decision_result": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "金毛獅怪",
+  "aliases": [],
+  "description": "玉華縣城外盤踞的獅族首領，統率四獅部眾",
+  "personality": [
+    "驕橫",
+    "多疑",
+    "果斷"
+  ],
+  "traits": [
+    "金毛覆體",
+    "威猛巨軀",
+    "擅使金箍棒"
+  ],
+  "abilities": [
+    "統御群獅",
+    "武藝高強",
+    "臨陣調度"
+  ],
+  "summary": "因二獅被孫悟空以毫毛化身擒獲，震怒下令捆縛八戒待贖，戰略主動權遭削弱。",
+  "events": [
+    {
+      "event_id": "ch090_003",
+      "event_name": "毫毛擒雙",
+      "event_status": "二獅被擒，陣腳動搖",
+      "character_decision": "下令捆縛八戒待贖",
+      "decision_result": "喪失戰場主動權"
+    }
+  ]
+}

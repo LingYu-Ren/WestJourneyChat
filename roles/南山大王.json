@@ -1,0 +1,37 @@
+{
+  "name": "南山大王",
+  "aliases": [],
+  "description": "隱霧山折岳連環洞妖王，鐵背蒼狼精所化",
+  "personality": [
+    "狡詐",
+    "怯懦",
+    "善奉承"
+  ],
+  "traits": [
+    "偽裝人頭",
+    "倚重先鋒",
+    "擅用計謀"
+  ],
+  "abilities": [
+    "幻化",
+    "設伏",
+    "欺瞞"
+  ],
+  "summary": "以柳根假首哄騙孫悟空未果，復借假哭鬆懈防備，終致群妖潰散、自身敗逃堵門。",
+  "events": [
+    {
+      "event_id": "ch086_003",
+      "event_name": "假首誑聖",
+      "event_status": "假首被識破，威信動搖",
+      "character_decision": "獻柳根假人頭哄騙行者",
+      "decision_result": "行者怒斥群妖"
+    },
+    {
+      "event_id": "ch086_005",
+      "event_name": "山場鏖兵",
+      "event_status": "群妖放鬆戒備，遭突襲圍攻",
+      "character_decision": "採假哭計鬆懈防禦",
+      "decision_result": "老怪敗逃堵門"
+    }
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "name": "捲簾大將（沙悟淨）",
+  "aliases": [
+    "沙僧",
+    "沙和尚",
+    "流沙河妖怪"
+  ],
+  "description": "原為天庭捲簾大將，因失手打碎琉璃盞被貶凡間，在流沙河為妖",
+  "personality": [
+    "忠厚",
+    "隱忍",
+    "悔悟",
+    "恭順",
+    "執念深重",
+    "服契守約",
+    "堅定",
+    "寡言守分",
+    "沉靜內斂",
+    "恪盡本分",
+    "體恤同門",
+    "臨事果決",
+    "慎言守默",
+    "信受不疑",
+    "和合圓融",
+    "篤信師命",
+    "危局持重",
+    "奉令必行",
+    "警覺應變",
+    "臨危不亂",
+    "忠誠護主",
+    "危難不棄",
+    "順承協力",
+    "忍辱承擔",
+    "捨身護弱",
+    "義諱護善",
+    "機敏協從",
+    "隱忍待機",
+    "忠樞不搖",
+    "危境默隨",
+    "信受不辯",
+    "臨危護持",
+    "沉毅應機",
+    "默守節度",
+    "隨順證理",
+    "諧和補闕",
+    "慎守密機",
+    "見證不語",
+    "護持如儀",
+    "應機佐理",
+    "默隨定勢",
+    "感恩知止",
+    "禮敬守序",
+    "協和佐成",
+    "踐諾不渝",
+    "肅立承恩",
+    "明理佐策",
+    "臨機點要",
+    "援手回生",
+    "主動尋援",
+    "水府獨闖",
+    "佯敗引援",
+    "協力破洞",
+    "全程隨行",
+    "隨眾夜闖",
+    "默守寺規",
+    "安頓隨侍",
+    "察異護師",
+    "隨機應詭",
+    "默證偽聖",
+    "持敬戲道",
+    "順承施詐",
+    "壇前護持",
+    "調虎離山之能",
+    "庵門奪水之勇",
+    "解胎護持之責",
+    "臨危驅眾",
+    "假虎嚇民",
+    "護印守牒",
+    "西門搶師",
+    "風月劫中默隨",
+    "危局默隨",
+    "隨師驚遁",
+    "荒塚默侍",
+    "投莊隨行",
+    "後門潛遁",
+    "辨真持正",
+    "孤身赴險",
+    "誦牒驗偽",
+    "三晝尋蹤",
+    "直面偽陣",
+    "同赴勘驗",
+    "遠望疑山之慎",
+    "臨崖察勢之靜",
+    "誤拜假寺之信",
+    "金鐃困聖之承",
+    "地窖泣訴之共",
+    "遁繩解眾之隨",
+    "再戰遭收之守",
+    "六聖鏖兵之承",
+    "殿前悲訴之共",
+    "揭籠解縛之隨",
+    "爬牆失機之守",
+    "假訊惑心之信",
+    "鐵櫃救師之隨",
+    "即刻進攻之決",
+    "夜襲請命之誠",
+    "信受承屈",
+    "獄中默守",
+    "堂前肅立",
+    "幽冥見證之位",
+    "索物護儀之能",
+    "冤屈共承之態",
+    "復活對證之隨"
+  ],
+  "traits": [
+    "頸懸骷髏串",
+    "手持降妖杖",
+    "藍臉赤髮",
+    "水性通神",
+    "九宮骷髏法器",
+    "持戒嚴謹",
+    "松林肅立之姿",
+    "解縛援手之態",
+    "殿前默立之形",
+    "果會列席之容",
+    "澗邊默侍之影",
+    "揪耳喚醒之舉",
+    "雲端護陣之勢",
+    "松林隨行之影",
+    "荊棘藏身之候",
+    "階前默立之容",
+    "奉旨騰雲之影",
+    "洞前被縛之形",
+    "洞中護諱之態",
+    "審下不屈之容",
+    "金殿肅立之影",
+    "噀水見證之位",
+    "辭國隨行之影",
+    "山徑隨行之影",
+    "洞中懸吊之形",
+    "攝行不抗之態",
+    "分吊受縛之容",
+    "洞中默立之影",
+    "縛中守節之態",
+    "禪堂默隨之影",
+    "月庭靜聆之姿",
+    "西行整裝之態",
+    "堂屋隨侍之形",
+    "禪堂靜聆之容",
+    "禪堂門前默立之影",
+    "寺門夜守之影",
+    "灌丹護持之位",
+    "度氣見證之側",
+    "易衣隨侍之形",
+    "朝門引路之影",
+    "辨偽默立之容",
+    "收獅觀禮之位",
+    "復位見證之列",
+    "金殿謝恩之位",
+    "東閣隨宴之影",
+    "辭國肅立之容",
+    "半月默行之影",
+    "峻嶺警隨之姿",
+    "紅雲察變之位",
+    "風息尋師之態",
+    "結同心進之勢",
+    "松林論策之位",
+    "按摩回生之手",
+    "林間迎師之影",
+    "洞中破障之勢",
+    "黑水臨岸之候",
+    "水府潛行之影",
+    "佯敗誘敵之態",
+    "乾河引路之側",
+    "官道隨行之影",
+    "雪中默進之姿",
+    "寺門安頓之態",
+    "三清殿外默隨之影",
+    "鈴碎驚變之候",
+    "壇前肅立之影",
+    "觀中默隨之形",
+    "殿外警戒之影",
+    "偽聖默證之位",
+    "壇下護持之姿",
+    "剖水開道之勢",
+    "泥中默候之態",
+    "蝦婆旁觀之位",
+    "岸上待機之影",
+    "水底鏖兵之姿",
+    "揭匣馱師之手",
+    "雪路西行之影",
+    "谷口警隨之姿",
+    "畫圈默守之態",
+    "破圈隨入之影",
+    "幻宅默隨之形",
+    "盜衣未阻之候",
+    "妖堂肅立之容",
+    "村舍默侍之影",
+    "聚仙庵奪水之勢",
+    "落胎泉取水之功",
+    "解胎護師之位",
+    "女國界口默隨之影",
+    "街巷裝虎驅眾之態",
+    "迎陽驛廳肅立之容",
+    "金殿印牒護持之位",
+    "西門搶師之勢",
+    "風月攝師默隨之影",
+    "峻嶺隨行之影",
+    "登崖默察之姿",
+    "佯戲隨行之態",
+    "驚遁隨師之影",
+    "荒塚默侍之位",
+    "投莊隨行之影",
+    "後門潛遁之影",
+    "花果山雲路之跡",
+    "水簾洞前誦牒之影",
+    "偽陣默察之姿",
+    "雙線並行見證之位",
+    "潮音洞同赴之影",
+    "火焰山道旁默隨之影",
+    "假扇火熾狼狽東遁之際默護師側",
+    "土地揭偽時肅立聽喻之姿",
+    "山崖臨眺之影",
+    "祥光惑目之候",
+    "假寺跪拜之形",
+    "金鐃困聖之縛",
+    "地窖懸梁之影",
+    "夜泣共感之位",
+    "遁繩解縛之隨",
+    "坡前再陷之守",
+    "焚寺西行之隨",
+    "春行庵林之影",
+    "盤絲嶺石橋默隨之影",
+    "盤絲洞內斷縛護師之態",
+    "黃花觀客位昏厥之狀",
+    "後堂嘔毒甦醒之影",
+    "毒茶初飲即倒之候",
+    "獅駝嶺坡下默隨之影",
+    "城邊突襲默護之態",
+    "香藤抬轎隨行之影",
+    "師徒重聚默立之容",
+    "揪鼻跪降見證之位",
+    "半山鏖兵之影",
+    "殿前綑縛之形",
+    "揭籠解縛之隨",
+    "爬牆失機之態",
+    "假訊惑心之容",
+    "鐵櫃救師之影",
+    "比丘國冬臨之候",
+    "驛館默隨之影",
+    "鵝籠驚疑之容",
+    "泥臉易貌之隨",
+    "錦衣圍驛之靜",
+    "假僧赴朝之承",
+    "黑松林默隨之影",
+    "鎮海禪林寺山門肅立之形",
+    "峻嶺駐馬之姿",
+    "冬盡春初隨行之影",
+    "辭國西行之影",
+    "陷空山尾隨之影",
+    "無底洞接應之態",
+    "洞口默候之影",
+    "拾繩見證之位",
+    "持牌默隨之影",
+    "告狀隨行之態",
+    "柳陰肅立之姿",
+    "坑坎默隨之影",
+    "易裝隨行之態",
+    "櫃中默守之影",
+    "慈雲寺肅立之影",
+    "金燈橋默隨之影",
+    "玄英洞夜闖之影",
+    "塔頂掃塔見證之位",
+    "元宵觀燈隨行之影",
+    "夜襲請命之姿",
+    "官道默隨之影",
+    "衙門肅立之形",
+    "棺中見證之位",
+    "索物護儀之態",
+    "冤屈共承之影",
+    "幽冥顯聖之側",
+    "復活對證之隨"
+  ],
+  "abilities": [
+    "水戰擅長",
+    "降妖伏魔",
+    "力大無窮",
+    "護法持戒",
+    "結筏渡弱水",
+    "識聖辨幻",
+    "解縛助援",
+    "應時察變",
+    "協理調和",
+    "危局穩陣",
+    "默守護陣",
+    "信受承順",
+    "宴禮隨侍",
+    "和合證盟",
+    "隨行護持",
+    "見證斷義",
+    "奉命尋蹤",
+    "雲端鏖兵",
+    "警戒追蹤",
+    "晝夜疾行",
+    "顯聖協力",
+    "奉旨征妖",
+    "臨危受縛",
+    "諱實護善",
+    "危境諫默",
+    "激敵協策",
+    "噀水見證",
+    "辭國承命",
+    "山徑警隨",
+    "攝行應變",
+    "洞中護持",
+    "懸吊不屈",
+    "默應節度",
+    "縛中護持",
+    "整裝續進之能",
+    "隨行安頓之功",
+    "靜聆玄機之養",
+    "補諧五行之識",
+    "靜聆佐證之能",
+    "門前見證之能",
+    "夜守護持之能",
+    "灌丹協理之能",
+    "度氣見證之能",
+    "易裝隨侍之能",
+    "引路導正之能",
+    "辨偽默證之能",
+    "收獅觀禮之能",
+    "復位佐證之能",
+    "金殿承恩之能",
+    "東閣隨宴之能",
+    "辭國整隊之能",
+    "長途默行之能",
+    "險嶺察氛之能",
+    "紅雲辨妖之能",
+    "風息尋蹤之能",
+    "同心再進之能",
+    "相剋析理之能",
+    "援手回生之能",
+    "林間迎師之能",
+    "破洞解縛之能",
+    "水府獨戰之能",
+    "佯敗誘援之能",
+    "乾河引路之能",
+    "雪路隨行之能",
+    "投寺安頓之能",
+    "夜闖隨行之能",
+    "察異護師之能",
+    "默隨辨蹤之能",
+    "殿外警戒之能",
+    "偽聖默證之能",
+    "壇前護持之能",
+    "隨詐施聖之能",
+    "靜功佐持之能",
+    "壇下護法之能",
+    "剖水開道之能",
+    "泥中待命之能",
+    "蝦婆旁觀之能",
+    "岸上伏擊之能",
+    "水底鏖兵之能",
+    "揭匣救師之能",
+    "馱師出水之能",
+    "雪中西行之能",
+    "谷口警戒之能",
+    "畫圈默守之能",
+    "破圈隨入之能",
+    "幻宅默隨之能",
+    "盜衣未阻之能",
+    "妖堂肅立之能",
+    "調虎離山之能",
+    "庵門奪水之勇",
+    "落胎泉取水之功",
+    "解胎護持之責",
+    "村舍隨侍之能",
+    "子母河飲水應變之能",
+    "女國驅眾之能",
+    "假虎嚇民之能",
+    "印牒護持之能",
+    "西門搶師之能",
+    "風月劫中默隨之能",
+    "峻嶺隨行之能",
+    "登崖察勢之能",
+    "佯戲隨行之能",
+    "驚遁護師之能",
+    "荒塚默侍之能",
+    "投莊安頓之能",
+    "後門潛遁之能",
+    "三晝尋蹤之能",
+    "誦牒辨偽之能",
+    "直面偽陣之能",
+    "同赴勘驗之能",
+    "雙線見證之能",
+    "潮音洞請旨之能",
+    "隨行安頓之能",
+    "火焰山酷熱中默隨護師之能",
+    "叩門問訊時靜候隨行之能",
+    "獻扇報捷時肅立見證之能",
+    "三扇火熾狼狽東遁時護持不離之能",
+    "土地揭偽時默聆指認之能",
+    "遠望辨山之能",
+    "臨崖察勢之能",
+    "信受拜寺之能",
+    "金鐃困聖之承應之能",
+    "地窖共泣之共感之能",
+    "遁繩解縛之隨護之能",
+    "再戰遭收之默守之能",
+    "焚寺整裝之能",
+    "偽寺毀滅之證",
+    "劫難終結之隨",
+    "春行隨師之能",
+    "石橋警隨之能",
+    "洞中斷縛護師之能",
+    "黃花觀毒茶即倒之應變之能",
+    "嘔毒甦醒之回生之能",
+    "毘藍贈丹見證之能",
+    "獅駝嶺坡下見證之能",
+    "城邊突襲護持之能",
+    "香藤抬轎隨行之能",
+    "師徒重聚默立之能",
+    "揪鼻跪降見證之能",
+    "半山鏖兵之能",
+    "殿前悲訴之共感之能",
+    "揭籠解縛之隨護之能",
+    "爬牆失機之承擔之能",
+    "假訊惑心之信受之能",
+    "鐵櫃救師之隨護之能",
+    "驛館問謎之隨",
+    "鵝籠察異之能",
+    "泥臉易貌之承",
+    "錦衣圍驛之靜守之能",
+    "假僧赴朝之默證之能",
+    "峻嶺駐馬之能",
+    "黑松林隨行之能",
+    "鎮海禪林寺叩門見證之能",
+    "冬盡春初默行之能",
+    "辭國西行之能",
+    "陷空山尾隨之能",
+    "無底洞接應之能",
+    "洞口默候之能",
+    "拾繩見證之能",
+    "持牌隨行之能",
+    "告狀協理之能",
+    "柳陰警隨之能",
+    "坑坎議策之隨",
+    "易裝協理之能",
+    "櫃中默守之能",
+    "慈雲寺安頓之能",
+    "元宵觀燈隨行之能",
+    "塔頂掃塔護願之能",
+    "金燈橋默隨護師之能",
+    "玄英洞夜闖協攻之能",
+    "即刻夜襲決斷之能",
+    "請命連攻之誠",
+    "索物護儀之能",
+    "冤屈共承之能",
+    "幽冥顯聖之側之能",
+    "復活對證之隨護之能"
+  ],
+  "summary": "於流沙河與惠岸行者交戰後自陳身世，誠心皈依觀音菩薩，受戒得名沙悟淨，正式成為取經第三徒。　於流沙河連番拒敵、水陸交鋒，終因菩薩所授法名召降而誠心歸順，並以骷髏結筏助師渡河，標誌其從食人河妖徹底轉為護法行者。　於四聖試禪心全程持守本分，堅辭招婿之誘，並於幻境消散後主動取頌帖呈師，展現日益純熟的護法覺性與團隊樞紐作用。　於西行初入西牛賀洲全程默然隨行，深秋寒路不言疲苦；四聖試禪心期間堅拒招婿、幻境消散後肅立呈偈、協力解救八戒，展現日益純熟的定力與團隊樞紐功能。　於松林中主動解縛羞愧受懲之八戒，展現同門體恤與行動果決；隨師入萬壽山、謁五莊觀，全程默然持敬，於殿前誣罵危機中沉靜列陣，強化團隊樞紐與道德錨點功能。　於五莊觀正殿當堂對質與佯謊鎖門兩度危局中，始終肅立不辯、默然護陣，展現日益純熟的戒定之力與團隊錨定功能。　於五莊觀人參果會中列席見證鎮元子與悟空結義，展現其作為團隊樞紐在化解恩怨、凝聚情誼中的穩定參與；全程默然隨侍，以持敬之姿彰顯護法行者之圓融定力。　於五莊觀辭別後全程隨師西行入白虎嶺，面對嶺峻妖生之勢默然警戒；在白骨精三戲致悟空遭貶之危局中，始終澗邊默侍、不諫不辯，以沉靜持守維繫團隊最後樞紐。　於白虎嶺澗邊悟空遭貶後，主動承擔護師之責，默隨三藏入松林；八戒失察昏睡時奉命揪耳喚醒，展現臨機應變與職守不怠；於波月洞門前與八戒聯袂鏖兵黃袍怪，雖未克敵卻堅守護法陣位，強化其危局中不可替代的樞紐支撐功能。　於波月洞外荊棘叢中默然藏身待喚，展現極致隱忍與團隊協同意識；晝夜兼程三百里赴寶象國，強化其作為取經隊伍穩定支點的行動力與責任感；於金殿階前默立見證八戒顯聖，復於奉旨征妖中主動赴險、再戰被擒，凸顯其不避危難、甘為樞紐的護法本色。　於波月洞內遭黃袍怪怒審，為護百花羞性命主動否認書信一事，展現其以身護弱、諱實守義的深層道德自持；於絕境中仍持守護法者之默然與信諾，強化其作為團隊倫理錨點的不可替代性。　於寶象國金鑾殿與八戒合力摜子激敵，展現默契協從與隱忍待機之能；於朝房見證行者噀水解虎復師人身，以肅立之姿完成護法樞紐的關鍵見證；辭國西行時全程隨侍，標誌其作為團隊忠樞角色的徹底成熟與不可動搖。　於寶象國辭行後全程隨師西行官道，默然推進取經行程，標誌其作為團隊穩定樞紐已完全融入新階段劫難預備態。　於平頂山山徑全程默隨師行，面對二魔幻化誘騙仍恪守護持本分；遭攝入蓮花洞後與師同吊，展現危局中不抗不辯、以身承劫的樞紐定力。　於蓮花洞群妖痛哭之際默然旁觀，未隨八戒解嘲亦不勸阻，展現極致節制與危局定力；洞中獲釋後安齋護師，以行動承接休整之責，強化其作為團隊韌性支點的不可替代性。　於平頂山脫困後整裝西行，全程默隨師徒離洞入道；於寶林寺禪堂外月夜靜聆悟空論月相煉丹之理，並以「土火相諧」補益師兄玄機，展現其日益精進的修行體悟與團隊協和之能。　於寶林寺禪堂內靜聆悟空為化身命名『立帝貨』，以默然佐證之姿參與話語建構，展現其在虛實敘事中不可或缺的見證者與協成者角色。　於寶林寺禪堂門前面對皇帝屍首突現，默然肅立見證事態升級，展現其作為團隊倫理錨點在極端衝突情境下的穩定持守與無聲承擔。　於寶林寺夜決醫主之際全程默守禪堂門前，展現對師命與大局的絕對信受；於金丹灌喉、雷嘴度氣、僧衣易主、引主入朝諸環節中始終隨侍在側、見證不語，強化其作為取經隊伍倫理錨點與儀軌支點的不可替代性。　於烏雞國金殿謝恩、東閣赴宴、辭國西行全程肅立隨侍，展現其作為取經樞紐在功德圓滿後的禮敬守序與踐諾不渝；於鑽頭號山風息失師之際勸心八戒、結同心再進，強化其危局中協和佐成、穩定軍心的團隊錨點功能。　於枯松澗松林中點破水剋火之理，助悟空轉向借龍降雨之策；於悟空氣阻丹田時主動施以按摩回生之術，展現其臨機應變與同門援護的關鍵樞紐功能。　於枯松澗畔林中，面對偽裝失敗、救師無策之絕境，默然承順悟空親赴南海請觀音之決斷，展現其作為團隊樞紐在重大轉折關頭的絕對信受與無言托付。　於號山至妖洞途中主動出尋悟空，林間重聚共赴破洞；獨闖黑水河底水府與鼉龍交鋒，佯敗引援確證妖蹤，展現日益成熟的獨立判斷與戰略協同能力。　過黑水河後冒雪西行，於車遲國智淵寺安頓立足；隨行夜闖三清觀，默守殿外配合戲弄三仙，展現日益成熟的宗教情境適應力與團隊協同默契。　於三清觀偽聖戲道全程默隨，以持敬之姿完成對「偽聖」情境的協同建構；於祈雨壇靜默護持，助師依令默念《心經》，展現其在宗教儀式性行動中日益純熟的節制力與樞紐支撐功能。　於車遲國金鑾殿面對三國師跪諫阻行，仍肅立承命、默然護持，展現其在政治性對峙中作為團隊倫理錨點與儀軌支點的穩定功能。　於車遲國頒榜招僧後全程隨師西行入秋，抵通天河東岸；循聲投宿陳家莊，靜聆靈感大王索祭之實，展現其作為團隊倫理錨點在民間苦厄敘事中的穩定見證功能。　於通天河冰面全程隨行護師，冰裂劫起時與八戒共負行囊返莊報信，展現危局中不離不棄的樞紐定力；整械赴河索敵，標誌其作為取經隊伍穩定支點在水戰新階段的持續承擔。　於通天河底與悟空、八戒協力潛淵探穴、分水入府，展現純熟水戰統合能力；在泥中誤判、假身消散之際仍持守不亂，並於最終揭匣馱師出水，標誌其作為水戰核心樞紐與團隊穩定支點的徹底成熟。　於金山谷口隨師踏雪西行，面對兇雲隱現仍默然警隨；於行者畫圈護師後恪守禁令、未破圈亦未勸阻，展現極致節制與團隊錨定功能；於八戒鼓動破圈、竊衣中計、妖堂問籍諸環節中全程默隨不諫，強化其作為危局中倫理定錨與行動樞紐的不可替代性。　於子母河誤飲成胎後，沉靜隨師求醫問藥；在解陽山聚仙庵執行調虎離山之計，成功奪取落胎泉水，展現其臨機協作與果敢行動的雙重能力，標誌其從被動護持邁向主動破局的關鍵轉進。　於西梁女國界口全程默隨，街巷圍堵時裝虎嚇民以護師；投驛後肅立見證求親議定，東閣赴宴、金殿印牒皆穩守護法本位；西門送別時果斷搶師，展現危局中樞紐角色的臨機果決與不可替代性。　於毒敵山以西峻嶺全程隨師遇劫，登崖默察、佯戲隨行，展現危局中不離不棄的樞紐定力；於三藏驚遁失序、荒塚禱祝、投莊借宿、後門潛遁諸環節中始終默隨不諫，強化其作為團隊倫理錨點在世俗暴力衝突中的沉靜支撐功能。　於花果山水簾洞前直面假悟空與偽造師徒，以誦牒質問揭其儀仗虛妄；駕雲三晝夜孤身尋蹤，確證分裂危局，並隨真悟空同赴勘驗，展現其作為取經樞紐在信仰動搖時的辨真定錨功能。　於潮音洞外隨悟空辭別菩薩，駕雲直赴花果山驗真；在水簾洞前親歷真假二聖對峙，以行動見證分裂危局之實；最終參與師徒重圓儀式，標誌其作為辨真錨點與團隊復歸樞紐功能的徹底完備。　於火焰山酷熱途中全程默隨護師，見悟空借扇、呈扇、搧扇至火熾東遁，始終不離左右；於土地揭偽之際肅立聽喻，展現其在新一輪因果轉折中作為團隊倫理錨點與危局默持者的穩定功能。　於火焰山邊親歷悟空連搧三扇平息烈焰，見證火滅風生雨落之奇效，標誌其作為團隊穩定樞紐在終極自然障礙清除過程中的全程見證與協同完滿。　於祭賽國辭王西行二十里，全程默隨不離；遇八百里荊棘嶺，靜觀八戒開路、行者探情，展現其在新地形障礙中一如既往的沉靜協從與地理適應力。　於小雷音寺一役中，沙僧隨師誤拜假佛，全軍覆沒；地窖懸縛之際與三藏共泣，展現深切師徒共命之誠；行者遁繩解眾時默然隨出，復於坡前再陷而不墮其志，標誌其作為團隊倫理錨點在極端信仰危機中的終極持守。　於小雷音寺劫難終結之際，沙僧隨師焚毀偽寺、整裝西行，標誌其作為團隊倫理錨點與行動樞紐在信仰危機徹底清除後的穩定復歸與持續承擔。　於朱紫國城外隨師遙辨國號，入會同館依制安歇，為倒換關文與後續揭榜診病奠定合法基礎；於館中默隨悟空、八戒市買調和，靜默參與探榜行動起點。　於盤絲嶺石橋隨行護師，見蟲妖圍攻即刻協力應變；入盤絲洞後默隨行者直搗核心，親歷斷縛脫險全過程，展現其在新一輪妖氛突襲中不動如山的樞紐定力與即時協同能力。　於黃花觀飲毒茶即刻昏厥，與唐僧、八戒同陷生死危局；得毘藍婆解毒丹救治後嘔毒甦醒，展現其在集體中毒情境中仍具備關鍵見證與同步恢復的護法韌性。　於獅駝嶺山腳隨師駐馬，默然警戒；面對金星化身老叟報險，沉靜隨行不驚不問，展現其在新一重極惡妖境前的危局定力與樞紐持守。　於獅駝嶺東坡見悟空歸來怒斥八戒，默立見證師徒重聚與威信重建；於洞外坡下肅立見證三藏慈悲赦命、老魔假意送行；全程隨轎西行，於城邊突襲中默護師側，展現其在極惡妖境中不動如山的樞紐定力與危局默持功能。　於獅駝嶺半山鏖兵中與八戒並肩抗敵，雖先後被擒仍堅守護法本位；於金鑾殿綑縛悲訴、揭籠解縛、爬牆失機諸環節中始終默隨不躁，展現極致危局定力；面對「師父已被夾生吃」之謠言亦信以為真而共悲，凸顯其對師命的絕對信受與情感深度。　於比丘國冬臨之際隨師投驛，默然參與鵝籠異象的初步探查；在錦衣官圍驛危局中，配合行者以臊泥互易面貌，以靜默承擔假僧赴朝之關鍵轉折，展現其在政治性妖謀危局中日益成熟的隱忍協從與身份轉化支撐能力。　於比丘國辭別後全程默隨西行，歷冬殘春盡抵峻嶺山腳；入黑松大林途中始終警戒隨行，於鎮海禪林寺山門肅立叩門，展現其作為團隊倫理錨點在新一重表裡雙重空間劫難前的沉靜持守。　於陷空山深處尾隨女妖探洞，展現持續警覺與行動默契；在無底洞口成功接應被釋唐僧，標誌其作為團隊穩定支點在新型空間型劫難中關鍵的協同護持能力再度昇華。　於陷空山無底洞洞口，沙僧全程默候、見證唐僧兩度失蹤與悟空悲泣拾繩，展現其在極端資訊混亂中不躁不辯的樞紐定力；隨行持牌告狀，標誌其對天庭介入機制的深度參與與團隊協理功能的持續昇華。　於滅法國境路旁柳陰遇菩薩化身老母示警，全程肅立默隨、信受不疑；參與坑坎議策、授衣易裝、櫃中藏身等環節，展現其在新型政治性劫難中對偽裝策略的絕對承順與隱忍協從能力。　於金平府慈雲寺滯留期間，全程隨侍唐僧觀燈、掃塔，展現虔敬持守；元宵夜金燈橋遇偽佛攝師，沉靜默隨未及護持；歸寺後力主「停留長智」，果斷提議即刻夜襲玄英洞，凸顯其在危機升級時的果決判斷與團隊樞紐主動性。　於天竺國金殿面對國王垂詢，坦陳捲簾將軍舊職與流沙受罰始末，展現其對過往罪愆的清醒自省與對當下護法身份的坦然承認；以史為證、不飾不諱，強化其作為取經隊伍中「歷史見證者」與「道德自省者」的雙重樞紐功能。　於天竺國金殿面對國王垂詢，坦陳捲簾將軍舊職與流沙受罰始末，展現其對過往罪愆的清醒自省與對當下護法身份的坦然承認；以史為證、不飾不諱，強化其作為取經隊伍中「歷史見證者」與「道德自省者」的雙重樞紐功能。　於銅臺府返寇家途中遭官兵誤捕下獄，全程默然承屈、肅立堂前，展現其在世俗權力誤判下的極致忍辱與倫理定持；於寇洪魂歸復活對證之際隨侍見證，強化其作為取經隊伍「冤屈共承者」與「幽冥顯聖見證者」的雙重樞紐功能。",
+  "events": [
+    {
+      "event_id": "ch008_005",
+      "event_name": "流沙降魔",
+      "event_status": "誤認菩薩為凡僧，暴起襲擊",
+      "character_decision": "戰敗後自陳身世並求皈依",
+      "decision_result": "受戒得名，成為取經第三徒"
+    },
+    {
+      "event_id": "ch022_004",
+      "event_name": "河妖突襲",
+      "event_status": "感知取經人至，欲食其肉",
+      "character_decision": "鑽出水面搶奪唐僧",
+      "decision_result": "被悟空擊退登岸"
+    },
+    {
+      "event_id": "ch022_005",
+      "event_name": "岸上初鬥",
+      "event_status": "搶師未遂遭截擊",
+      "character_decision": "與八戒岸上交戰二十合",
+      "decision_result": "不敵潛水暫避"
+    },
+    {
+      "event_id": "ch022_006",
+      "event_name": "行者助戰",
+      "event_status": "八戒戰酣未決",
+      "character_decision": "被悟空掄棒驚走",
+      "decision_result": "懼而潛水退卻"
+    },
+    {
+      "event_id": "ch022_008",
+      "event_name": "水中再鬥",
+      "event_status": "八戒誘敵水戰僵持",
+      "character_decision": "水下與八戒鬥三十合",
+      "decision_result": "拒登岸固守水域"
+    },
+    {
+      "event_id": "ch022_010",
+      "event_name": "法名召降",
+      "event_status": "菩薩點化在先，法名具契約效力",
+      "character_decision": "聞「悟淨」即棄械歸順",
+      "decision_result": "拜唐僧為師"
+    },
+    {
+      "event_id": "ch022_011",
+      "event_name": "結筏渡河",
+      "event_status": "奉菩薩密法渡師過弱水",
+      "character_decision": "以九顆骷髏結法船",
+      "decision_result": "唐僧穩渡，骷髏化風消散"
+    },
+    {
+      "event_id": "ch023_001",
+      "event_name": "西行續進",
+      "event_status": "流沙河障礙已除，初入西牛賀洲",
+      "character_decision": "隨師西行不離左右",
+      "decision_result": "穩步推進取經行程"
+    },
+    {
+      "event_id": "ch023_002",
+      "event_name": "時屆深秋",
+      "event_status": "季節轉換，天候漸寒",
+      "character_decision": "默然隨行察時應變",
+      "decision_result": "保持警覺未發一言"
+    },
+    {
+      "event_id": "ch023_003",
+      "event_name": "覓宿求安",
+      "event_status": "天色已晚，八戒疲憊訴苦",
+      "character_decision": "靜候師命不主張",
+      "decision_result": "依令同行尋宿"
+    },
+    {
+      "event_id": "ch023_005",
+      "event_name": "招婿明志",
+      "event_status": "寡婦提議四女配四僧",
+      "character_decision": "斬釘截鐵堅辭招婿",
+      "decision_result": "守戒不動如山"
+    },
+    {
+      "event_id": "ch023_008",
+      "event_name": "幻境頓消",
+      "event_status": "莊院忽逝，醒於松柏林中",
+      "character_decision": "肅立待命不驚不問",
+      "decision_result": "沉穩持重以待指示"
+    },
+    {
+      "event_id": "ch023_009",
+      "event_name": "頌揭真機",
+      "event_status": "頌帖懸於古柏樹梢",
+      "character_decision": "取帖呈師明示真機",
+      "decision_result": "助師解惑彰顯護法之責"
+    },
+    {
+      "event_id": "ch023_010",
+      "event_name": "解縛歸真",
+      "event_status": "八戒仍縛於莊內",
+      "character_decision": "協同救出悟能師兄",
+      "decision_result": "團隊重凝共赴西行"
+    },
+    {
+      "event_id": "ch023_004",
+      "event_name": "佛仙點化",
+      "event_status": "莊院祥瑞籠罩，悟空已識破幻相",
+      "character_decision": "默然隨行不加質疑",
+      "decision_result": "信受默持配合試煉"
+    },
+    {
+      "event_id": "ch024_001",
+      "event_name": "松林解縛",
+      "event_status": "八戒被縛樹上羞愧難當",
+      "character_decision": "解繩救下八戒",
+      "decision_result": "八戒認錯立誓"
+    },
+    {
+      "event_id": "ch024_002",
+      "event_name": "啟程入山",
+      "event_status": "四聖試煉完滿，西行續進",
+      "character_decision": "隨師離林西行",
+      "decision_result": "抵萬壽山"
+    },
+    {
+      "event_id": "ch024_003",
+      "event_name": "觀門初謁",
+      "event_status": "行至五莊觀外見仙家氣象",
+      "character_decision": "隨師入觀禮謁",
+      "decision_result": "確認為仙府洞天"
+    },
+    {
+      "event_id": "ch024_009",
+      "event_name": "殿前誣罵",
+      "event_status": "童子當眾指責偷果，信任動搖",
+      "character_decision": "肅立不辯默然護陣",
+      "decision_result": "穩守師徒陣型"
+    },
+    {
+      "event_id": "ch025_001",
+      "event_name": "當堂對質",
+      "event_status": "師徒被誣盜果，三藏當眾質問",
+      "character_decision": "肅立不辯默然護陣",
+      "decision_result": "穩守師徒陣型"
+    },
+    {
+      "event_id": "ch025_004",
+      "event_name": "佯謊鎖門",
+      "event_status": "童子假稱果數無誤閉門囚僧",
+      "character_decision": "默然隨師受困不躁不語",
+      "decision_result": "維持團隊沉靜氣場"
+    },
+    {
+      "event_id": "ch026_009",
+      "event_name": "果會結盟",
+      "event_status": "五莊觀設果會，仙佛群賢畢至",
+      "character_decision": "列席隨侍默然見證",
+      "decision_result": "共證結盟圓滿"
+    },
+    {
+      "event_id": "ch027_001",
+      "event_name": "辭觀西行",
+      "event_status": "五莊觀結盟完滿，即將啟程",
+      "character_decision": "隨師辭別鎮元子",
+      "decision_result": "進入白虎嶺"
+    },
+    {
+      "event_id": "ch027_002",
+      "event_name": "嶺峻生精",
+      "event_status": "白虎嶺地勢險惡妖氣藴藏",
+      "character_decision": "默然隨行警戒",
+      "decision_result": "預備應變"
+    },
+    {
+      "event_id": "ch027_009",
+      "event_name": "三擊現骨",
+      "event_status": "悟空滅妖現骷髏，唐僧震怒",
+      "character_decision": "肅立不語不勸",
+      "decision_result": "未加干預"
+    },
+    {
+      "event_id": "ch027_010",
+      "event_name": "貶書斷義",
+      "event_status": "唐僧寫貶書驅逐悟空",
+      "character_decision": "澗邊默侍不諫",
+      "decision_result": "護持師命餘緒"
+    },
+    {
+      "event_id": "ch028_008",
+      "event_name": "師徒西行",
+      "event_status": "悟空被逐，護持重任轉移",
+      "character_decision": "默隨三藏入松林西行",
+      "decision_result": "延續取經行程"
+    },
+    {
+      "event_id": "ch028_012",
+      "event_name": "沙僧喚醒",
+      "event_status": "八戒久出不歸，師徒失聯",
+      "character_decision": "揪耳喚醒昏睡八戒",
+      "decision_result": "啟動搜救行動"
+    },
+    {
+      "event_id": "ch028_013",
+      "event_name": "洞門鏖兵",
+      "event_status": "強闖妖洞救師，遭黃袍怪迎擊",
+      "character_decision": "與八戒雲端廝殺數十合",
+      "decision_result": "戰勢膠著未破敵"
+    },
+    {
+      "event_id": "ch029_004",
+      "event_name": "荊棘藏身",
+      "event_status": "前門妖眾環伺，公主囑其避險",
+      "character_decision": "藏身荊棘靜候召喚",
+      "decision_result": "師徒三人成功會合"
+    },
+    {
+      "event_id": "ch029_005",
+      "event_name": "晝夜兼程",
+      "event_status": "攜書急赴國都通報下落",
+      "character_decision": "隨師疾行近三百里",
+      "decision_result": "順利入城投驛"
+    },
+    {
+      "event_id": "ch029_008",
+      "event_name": "階前顯聖",
+      "event_status": "國王質疑降妖能力",
+      "character_decision": "默立階前見證顯聖",
+      "decision_result": "國王心信授命"
+    },
+    {
+      "event_id": "ch029_009",
+      "event_name": "奉旨征妖",
+      "event_status": "國王頒旨、唐僧授意協力",
+      "character_decision": "騰雲赴波月洞討妖",
+      "decision_result": "再啟洞前衝突"
+    },
+    {
+      "event_id": "ch029_010",
+      "event_name": "再戰潰陣",
+      "event_status": "護法神離，實力不敵黃袍怪",
+      "character_decision": "洞前鏖兵遭擒入洞",
+      "decision_result": "四馬攢蹄捆縛"
+    },
+    {
+      "event_id": "ch030_001",
+      "event_name": "怒審沙僧",
+      "event_status": "被擒囚於妖洞，面臨威逼審問",
+      "character_decision": "否認書信以保公主性命",
+      "decision_result": "暫緩百花羞遇害"
+    },
+    {
+      "event_id": "ch030_002",
+      "event_name": "捨身護主",
+      "event_status": "黃袍怪欲殺百花羞，情勢危急",
+      "character_decision": "謊稱無書掩護實情",
+      "decision_result": "黃袍怪轉而哄慰公主"
+    },
+    {
+      "event_id": "ch031_004",
+      "event_name": "摜子激敵",
+      "event_status": "玉階當眾摔子引妖離朝",
+      "character_decision": "協同八戒摜子激敵",
+      "decision_result": "黃袍怪疑竇返洞"
+    },
+    {
+      "event_id": "ch031_009",
+      "event_name": "噀水解虎",
+      "event_status": "行者施法解咒復師人身",
+      "character_decision": "肅立朝房見證噀水",
+      "decision_result": "師徒建制恢復完整"
+    },
+    {
+      "event_id": "ch031_010",
+      "event_name": "辭國西行",
+      "event_status": "黃袍伏誅、公主歸位、師復人身",
+      "character_decision": "隨師受封辭國西行",
+      "decision_result": "隊伍閉合波月線索"
+    },
+    {
+      "event_id": "ch032_001",
+      "event_name": "師徒西行",
+      "event_status": "波月洞線閉合，進入平頂山地界",
+      "character_decision": "隨師西進不離左右",
+      "decision_result": "觸發新劫難預備"
+    },
+    {
+      "event_id": "ch033_002",
+      "event_name": "師徒西行",
+      "event_status": "八戒巡山未返，師徒三人續進",
+      "character_decision": "默隨三藏西行入山深處",
+      "decision_result": "推進取經行程"
+    },
+    {
+      "event_id": "ch033_004",
+      "event_name": "幻化騙僧",
+      "event_status": "二魔偽裝跌傷道士誘僧施救",
+      "character_decision": "默然隨行未加勸阻",
+      "decision_result": "師陷誘局"
+    },
+    {
+      "event_id": "ch033_007",
+      "event_name": "攝師入洞",
+      "event_status": "悟空被壓，沙僧不敵遭挾",
+      "character_decision": "被攝同入蓮花洞",
+      "decision_result": "與師同吊洞中"
+    },
+    {
+      "event_id": "ch033_008",
+      "event_name": "分吊三僧",
+      "event_status": "全數擒獲後按身份區隔安置",
+      "character_decision": "受縛懸吊於洞中",
+      "decision_result": "充作人質護師"
+    },
+    {
+      "event_id": "ch035_005",
+      "event_name": "八戒解嘲",
+      "event_status": "群妖痛哭，局勢混亂",
+      "character_decision": "默然旁觀不附和",
+      "decision_result": "維持自身節度"
+    },
+    {
+      "event_id": "ch035_009",
+      "event_name": "解縛安齋",
+      "event_status": "金角敗走，洞中初定",
+      "character_decision": "協助安齋護師休整",
+      "decision_result": "恢復團隊行動力"
+    },
+    {
+      "event_id": "ch036_001",
+      "event_name": "師徒離洞",
+      "event_status": "老君收寶、舅甥伏誅、洞中初定",
+      "character_decision": "整裝隨師西行",
+      "decision_result": "進入新險境"
+    },
+    {
+      "event_id": "ch036_002",
+      "event_name": "堂屋論程",
+      "event_status": "三藏歎西行久遠，眾徒共處廳堂",
+      "character_decision": "默然隨侍聽喻",
+      "decision_result": "領會路遠修長"
+    },
+    {
+      "event_id": "ch036_007",
+      "event_name": "禮逆轉正",
+      "event_status": "寶林寺拒宿轉為跪迎供奉",
+      "character_decision": "隨師受供默立禪堂",
+      "decision_result": "得安寢休整"
+    },
+    {
+      "event_id": "ch036_008",
+      "event_name": "月談玄機",
+      "event_status": "三藏對月懷鄉吟詩，悟空闡煉丹之理",
+      "character_decision": "靜聆補土火之諧",
+      "decision_result": "助師解悟真言"
+    },
+    {
+      "event_id": "ch037_009",
+      "event_name": "立帝貨名",
+      "event_status": "禪堂共議應對太子質詢",
+      "character_decision": "靜聆默隨不發一言",
+      "decision_result": "佐證命名合法性"
+    },
+    {
+      "event_id": "ch038_009",
+      "event_name": "屍現驚僧",
+      "event_status": "禪堂門前突現皇帝屍首",
+      "character_decision": "默然肅立見證事態",
+      "decision_result": "穩守護法本位"
+    },
+    {
+      "event_id": "ch039_001",
+      "event_name": "夜決醫主",
+      "event_status": "屍首驚僧，三藏拒赴陰司",
+      "character_decision": "默立禪堂門前隨侍",
+      "decision_result": "信受不辯靜候指令"
+    },
+    {
+      "event_id": "ch039_005",
+      "event_name": "金丹灌喉",
+      "event_status": "悟空攜丹返寺急施救治",
+      "character_decision": "護持旁側見證灌丹",
+      "decision_result": "穩守護法位置"
+    },
+    {
+      "event_id": "ch039_006",
+      "event_name": "雷嘴度氣",
+      "event_status": "金丹未甦，性命垂危",
+      "character_decision": "肅立度氣之側見證",
+      "decision_result": "國王甦醒復位"
+    },
+    {
+      "event_id": "ch039_007",
+      "event_name": "僧衣易主",
+      "event_status": "國王甦醒需掩行跡",
+      "character_decision": "隨眾為王易布衲僧衣",
+      "decision_result": "偽裝成行童隨師"
+    },
+    {
+      "event_id": "ch039_009",
+      "event_name": "引主入朝",
+      "event_status": "直抵金鑾殿面見假王",
+      "character_decision": "隨行引路護持真主",
+      "decision_result": "朝堂對峙啟動"
+    },
+    {
+      "event_id": "ch039_013",
+      "event_name": "緊箍辨偽",
+      "event_status": "真假唐僧難辨朝堂",
+      "character_decision": "默立殿前見證辨偽",
+      "decision_result": "妖魔露餡被築退"
+    },
+    {
+      "event_id": "ch039_014",
+      "event_name": "文殊收獅",
+      "event_status": "三徒圍攻不果危局",
+      "character_decision": "雲端肅立觀禮收妖",
+      "decision_result": "揭曉佛旨因緣"
+    },
+    {
+      "event_id": "ch039_015",
+      "event_name": "群臣拜真",
+      "event_status": "文殊收妖真相大白",
+      "character_decision": "殿前默立佐證復位",
+      "decision_result": "國王復位功成"
+    },
+    {
+      "event_id": "ch040_001",
+      "event_name": "金殿謝恩",
+      "event_status": "君臣拜謝，恩典隆重",
+      "character_decision": "肅立金殿承恩受禮",
+      "decision_result": "彰顯護法莊敬之儀"
+    },
+    {
+      "event_id": "ch040_004",
+      "event_name": "復位稱孤",
+      "event_status": "國王重登皇位，政權初穩",
+      "character_decision": "默立殿前見證復位",
+      "decision_result": "佐證正統恢復"
+    },
+    {
+      "event_id": "ch040_005",
+      "event_name": "設宴酬恩",
+      "event_status": "國王設宴款待取經僧",
+      "character_decision": "東閣隨宴默然承供",
+      "decision_result": "恪守護法賓禮之分"
+    },
+    {
+      "event_id": "ch040_006",
+      "event_name": "辭國西行",
+      "event_status": "功德圓滿，即刻啟程",
+      "character_decision": "整隊隨師辭國西行",
+      "decision_result": "銜接新劫難預備"
+    },
+    {
+      "event_id": "ch040_007",
+      "event_name": "半月行途",
+      "event_status": "離國西行半個多月",
+      "character_decision": "默隨長途不言疲苦",
+      "decision_result": "維持行程穩定推進"
+    },
+    {
+      "event_id": "ch040_008",
+      "event_name": "峻嶺當道",
+      "event_status": "摩天礙日，險峻阻路",
+      "character_decision": "警戒隨行察勢應變",
+      "decision_result": "預備突發妖氛"
+    },
+    {
+      "event_id": "ch040_009",
+      "event_name": "紅雲現妖",
+      "event_status": "紅雲冒空，妖氛初顯",
+      "character_decision": "凝神察變默護師側",
+      "decision_result": "協悟空急護三藏"
+    },
+    {
+      "event_id": "ch040_016",
+      "event_name": "風息師失",
+      "event_status": "風停後唐僧不見",
+      "character_decision": "勸心八戒共振悟空",
+      "decision_result": "穩住師兄弟同心"
+    },
+    {
+      "event_id": "ch040_019",
+      "event_name": "結同心進",
+      "event_status": "重整信心奔赴妖洞",
+      "character_decision": "牽馬結誠直赴火雲",
+      "decision_result": "抵達枯松澗入口"
+    },
+    {
+      "event_id": "ch041_006",
+      "event_name": "相剋論策",
+      "event_status": "悟空火攻失利，眾議破敵之策",
+      "character_decision": "點破水剋火之理",
+      "decision_result": "悟空決意赴東海借龍"
+    },
+    {
+      "event_id": "ch041_010",
+      "event_name": "按摩回生",
+      "event_status": "悟空氣阻丹田不能出聲",
+      "character_decision": "揉擦救醒悟空",
+      "decision_result": "悟空甦醒請觀音"
+    },
+    {
+      "event_id": "ch042_005",
+      "event_name": "決意請菩",
+      "event_status": "偽裝失敗，救師無策",
+      "character_decision": "默然承順悟空請菩決定",
+      "decision_result": "啟動菩薩降魔主線"
+    },
+    {
+      "event_id": "ch043_004",
+      "event_name": "林間重聚",
+      "event_status": "悟空返程，沙僧久候出尋",
+      "character_decision": "主動出尋悟空共赴妖洞",
+      "decision_result": "師徒聯手破洞"
+    },
+    {
+      "event_id": "ch043_005",
+      "event_name": "破洞解縛",
+      "event_status": "妖洞內群妖環伺，師徒俱陷",
+      "character_decision": "協同悟空剿妖解縛救師",
+      "decision_result": "四眾重聚恢復建制"
+    },
+    {
+      "event_id": "ch043_006",
+      "event_name": "一月西行",
+      "event_status": "脫離號山劫難，持續西進",
+      "character_decision": "全程隨行不離左右",
+      "decision_result": "抵達黑水河畔"
+    },
+    {
+      "event_id": "ch043_007",
+      "event_name": "臨河駐馬",
+      "event_status": "黑水滔天渾黑異常",
+      "character_decision": "隨師駐馬觀望待命",
+      "decision_result": "引出假梢公誘局"
+    },
+    {
+      "event_id": "ch043_009",
+      "event_name": "水府鬥妖",
+      "event_status": "師父被攝入水，妖蹤未明",
+      "character_decision": "獨闖水府與鼉龍交鋒",
+      "decision_result": "佯敗引援確證妖蹤"
+    },
+    {
+      "event_id": "ch043_013",
+      "event_name": "阻水開路",
+      "event_status": "妖伏而黑水未退，通行受阻",
+      "character_decision": "隨河神施法乾河開路",
+      "decision_result": "師徒安然渡河"
+    },
+    {
+      "event_id": "ch044_001",
+      "event_name": "師徒西行",
+      "event_status": "過黑水河迎風冒雪",
+      "character_decision": "隨師西行不離左右",
+      "decision_result": "抵達車遲國境"
+    },
+    {
+      "event_id": "ch044_002",
+      "event_name": "異響驚師",
+      "event_status": "官道聞拽車吆喝聲",
+      "character_decision": "默然隨行駐馬觀望",
+      "decision_result": "待悟空探查異狀"
+    },
+    {
+      "event_id": "ch044_009",
+      "event_name": "投寺安頓",
+      "event_status": "入敕建智淵寺歇宿",
+      "character_decision": "隨師入寺安頓休整",
+      "decision_result": "確立國都立足點"
+    },
+    {
+      "event_id": "ch044_010",
+      "event_name": "夜闖三清",
+      "event_status": "三徒潛入三清觀",
+      "character_decision": "隨行變神盜食戲仙",
+      "decision_result": "褻瀆聖像激化對立"
+    },
+    {
+      "event_id": "ch044_011",
+      "event_name": "鈴碎露蹤",
+      "event_status": "小道士跌鈴驚覺盜食",
+      "character_decision": "默隨殿外警戒待變",
+      "decision_result": "鬥法序幕揭開"
+    },
+    {
+      "event_id": "ch045_001",
+      "event_name": "偽聖戲道",
+      "event_status": "道士誤認天尊降臨，虔誠供奉",
+      "character_decision": "隨行假扮三清默受香火",
+      "decision_result": "協成戲道全局"
+    },
+    {
+      "event_id": "ch045_002",
+      "event_name": "溺詐聖水",
+      "event_status": "道士跪求延壽聖水",
+      "character_decision": "佯撒尿液充作聖水",
+      "decision_result": "引發追打衝突"
+    },
+    {
+      "event_id": "ch045_004",
+      "event_name": "朝門驗牒",
+      "event_status": "戲道事件傳至宮中，君臣質疑",
+      "character_decision": "肅立朝門隨師驗牒",
+      "decision_result": "靜待太師勸諫"
+    },
+    {
+      "event_id": "ch045_008",
+      "event_name": "靜功代號",
+      "event_status": "道士法術失靈，國王允登壇祈雨",
+      "character_decision": "壇下肅立護持師父",
+      "decision_result": "五序如令而至"
+    },
+    {
+      "event_id": "ch046_001",
+      "event_name": "國師跪諫",
+      "event_status": "三道士跪奏阻西行",
+      "character_decision": "肅立金殿默然護持",
+      "decision_result": "承命不辯維持陣型"
+    },
+    {
+      "event_id": "ch047_001",
+      "event_name": "頒榜招僧",
+      "event_status": "車遲國朝堂頒榜恢復佛門",
+      "character_decision": "肅立朝堂隨師承恩",
+      "decision_result": "見證正統重建"
+    },
+    {
+      "event_id": "ch047_002",
+      "event_name": "秋行通河",
+      "event_status": "西行歷春秋至通天河畔",
+      "character_decision": "默隨長途不離左右",
+      "decision_result": "抵達通天河東岸"
+    },
+    {
+      "event_id": "ch047_003",
+      "event_name": "夜臨通河",
+      "event_status": "暮色蒼茫遇通天河阻路",
+      "character_decision": "隨師駐岸觀碑辨名",
+      "decision_result": "確認八百里通天河"
+    },
+    {
+      "event_id": "ch047_004",
+      "event_name": "投宿陳莊",
+      "event_status": "循鼓鈸聲尋至陳家莊",
+      "character_decision": "隨師入莊借宿問渡",
+      "decision_result": "誤驚眾僧獲知妖情"
+    },
+    {
+      "event_id": "ch047_005",
+      "event_name": "預修亡齋",
+      "event_status": "廳堂聞齋事揭出索祭慘狀",
+      "character_decision": "靜聆老者述靈感惡行",
+      "decision_result": "默證民間苦厄實情"
+    },
+    {
+      "event_id": "ch048_004",
+      "event_name": "雪寒驚僧",
+      "event_status": "大雪封境，三藏憂限",
+      "character_decision": "默隨師徒驚覺雪寒",
+      "decision_result": "承命不語靜候指示"
+    },
+    {
+      "event_id": "ch048_005",
+      "event_name": "踏冰勘路",
+      "event_status": "冰面可渡，師徒決意即刻過河",
+      "character_decision": "隨行踏冰確認路況",
+      "decision_result": "穩步推進過河行程"
+    },
+    {
+      "event_id": "ch048_006",
+      "event_name": "包蹄架杖",
+      "event_status": "冰面滑險，恐履凌眼墜水",
+      "character_decision": "依八戒教裹馬足防陷",
+      "decision_result": "穩步前進避冰裂危"
+    },
+    {
+      "event_id": "ch048_007",
+      "event_name": "冰裂劫師",
+      "event_status": "妖王迸冰擒走唐僧",
+      "character_decision": "隨師行至冰心遭劫",
+      "decision_result": "師父被擄石匣囚禁"
+    },
+    {
+      "event_id": "ch048_008",
+      "event_name": "負水返莊",
+      "event_status": "白馬落水、師父失蹤",
+      "character_decision": "負水而出報信陳家",
+      "decision_result": "陳家悲泣悟空斷言"
+    },
+    {
+      "event_id": "ch048_009",
+      "event_name": "整械尋師",
+      "event_status": "確知師父被靈感大王所擒",
+      "character_decision": "整備兵器赴河索敵",
+      "decision_result": "直指水府開啟營救"
+    },
+    {
+      "event_id": "ch049_001",
+      "event_name": "河岸議水",
+      "event_status": "冰裂劫師後師父沉入水府",
+      "character_decision": "參與岸邊商議下水順序",
+      "decision_result": "協定共赴水府救師"
+    },
+    {
+      "event_id": "ch049_002",
+      "event_name": "潛淵分水",
+      "event_status": "三徒共赴水府救師",
+      "character_decision": "剖水開道同入河底",
+      "decision_result": "抵達水黿之第門前"
+    },
+    {
+      "event_id": "ch049_004",
+      "event_name": "泥中認錯",
+      "event_status": "假身消散致誤判悟空失蹤",
+      "character_decision": "默候八戒跪泥請罪",
+      "decision_result": "三人續進不輟"
+    },
+    {
+      "event_id": "ch049_005",
+      "event_name": "蝦婆探穴",
+      "event_status": "未知水府虛實需偵察",
+      "character_decision": "旁觀悟空變蝦婆入府",
+      "decision_result": "獲知師父囚於石匣"
+    },
+    {
+      "event_id": "ch049_007",
+      "event_name": "岸上待機",
+      "event_status": "已知師父被困需引妖出水",
+      "character_decision": "隨八戒返水佯攻",
+      "decision_result": "悟空岸上伏擊成勢"
+    },
+    {
+      "event_id": "ch049_008",
+      "event_name": "水底三鬥",
+      "event_status": "水底激戰兩時辰膠著",
+      "character_decision": "與八戒詐敗誘敵",
+      "decision_result": "妖王追出水面"
+    },
+    {
+      "event_id": "ch049_012",
+      "event_name": "竹籃收魚",
+      "event_status": "菩薩親臨收妖解封在即",
+      "character_decision": "肅立岸邊見證收妖",
+      "decision_result": "水府群妖盡斃"
+    },
+    {
+      "event_id": "ch049_014",
+      "event_name": "揭匣救師",
+      "event_status": "水府威脅已除石匣待揭",
+      "character_decision": "入府揭匣馱師出水",
+      "decision_result": "師徒重聚陳家叩謝"
+    },
+    {
+      "event_id": "ch050_001",
+      "event_name": "踏雪西行",
+      "event_status": "離通天河冒雪西進",
+      "character_decision": "隨師踏雪西行不離左右",
+      "decision_result": "抵金山前遇幻樓閣"
+    },
+    {
+      "event_id": "ch050_002",
+      "event_name": "山前警戒",
+      "event_status": "路窄崖高兇雲隱現",
+      "character_decision": "默然隨行警戒師側",
+      "decision_result": "行者畫圈護師化齋"
+    },
+    {
+      "event_id": "ch050_003",
+      "event_name": "金箍畫界",
+      "event_status": "疑樓閣為妖所化",
+      "character_decision": "默守畫圈不違不勸",
+      "decision_result": "唐僧違令出圈遭擒"
+    },
+    {
+      "event_id": "ch050_005",
+      "event_name": "破圈入宅",
+      "event_status": "八戒鼓動破圈赴幻宅",
+      "character_decision": "隨八戒破圈入幻樓",
+      "decision_result": "誤入金洞遭擒"
+    },
+    {
+      "event_id": "ch050_006",
+      "event_name": "盜衣中計",
+      "event_status": "八戒竊背心反被綑縛",
+      "character_decision": "默隨未加阻攔",
+      "decision_result": "驚動獨角兕大王現形"
+    },
+    {
+      "event_id": "ch050_007",
+      "event_name": "妖堂問籍",
+      "event_status": "擒獲師徒三人",
+      "character_decision": "肅立妖堂不辯不懼",
+      "decision_result": "聞悟空名號妖設伏"
+    },
+    {
+      "event_id": "ch053_001",
+      "event_name": "飯熱待師",
+      "event_status": "老君收牛後師徒脫險",
+      "character_decision": "隨師受饋默然承供",
+      "decision_result": "恢復體力續行西進"
+    },
+    {
+      "event_id": "ch053_002",
+      "event_name": "誤飲子河",
+      "event_status": "師徒飲子母河水成胎",
+      "character_decision": "隨師飲水腹痛腫脹",
+      "decision_result": "現懷孕徵兆"
+    },
+    {
+      "event_id": "ch053_003",
+      "event_name": "揭破女國",
+      "event_status": "師徒腹痛求醫問藥",
+      "character_decision": "靜聆婆婆道出秘辛",
+      "decision_result": "確知需落胎泉水解厄"
+    },
+    {
+      "event_id": "ch053_005",
+      "event_name": "調虎離山",
+      "event_status": "單獨取水屢遭鉤阻失敗",
+      "character_decision": "奉命協悟空共施計策",
+      "decision_result": "確立分兵取水之策"
+    },
+    {
+      "event_id": "ch053_006",
+      "event_name": "庵門再戰",
+      "event_status": "執行調虎離山之計",
+      "character_decision": "佯攻奪水打傷道童",
+      "decision_result": "滿取落胎泉水"
+    },
+    {
+      "event_id": "ch053_007",
+      "event_name": "飲水解胎",
+      "event_status": "取得落胎泉水",
+      "character_decision": "護師服水解胎消腫",
+      "decision_result": "恢復常態"
+    },
+    {
+      "event_id": "ch053_008",
+      "event_name": "辭莊西行",
+      "event_status": "胎氣盡解，體力恢復",
+      "character_decision": "隨師謝恩離村西行",
+      "decision_result": "進入西梁女國境域"
+    },
+    {
+      "event_id": "ch054_001",
+      "event_name": "抵國界口",
+      "event_status": "初入純陰之國，市井全為婦女",
+      "character_decision": "默隨師徒抵界口",
+      "decision_result": "預備應變"
+    },
+    {
+      "event_id": "ch054_002",
+      "event_name": "街巷圍堵",
+      "event_status": "婦女蜂擁圍觀唐僧喧嘩塞道",
+      "character_decision": "裝虎嚇民驅散圍眾",
+      "decision_result": "暫緩混亂"
+    },
+    {
+      "event_id": "ch054_003",
+      "event_name": "投驛註名",
+      "event_status": "女官攔路引至驛館登記",
+      "character_decision": "隨師投驛肅立待命",
+      "decision_result": "見證啟奏女王"
+    },
+    {
+      "event_id": "ch054_005",
+      "event_name": "當堂求親",
+      "event_status": "太師奉旨求親，三藏默然",
+      "character_decision": "肅立廳中默然隨侍",
+      "decision_result": "佐證密謀定策"
+    },
+    {
+      "event_id": "ch054_006",
+      "event_name": "鳳輦迎駕",
+      "event_status": "女王擺駕出城迎唐僧入轎",
+      "character_decision": "隨行護師登龍車",
+      "decision_result": "入城赴宴"
+    },
+    {
+      "event_id": "ch054_007",
+      "event_name": "東閣會宴",
+      "event_status": "設素葷雙席，八戒大啖筵席",
+      "character_decision": "東閣隨宴默然護持",
+      "decision_result": "見證索印關文"
+    },
+    {
+      "event_id": "ch054_008",
+      "event_name": "印牒畫押",
+      "event_status": "女王親印關文並添註法名",
+      "character_decision": "金殿護持印牒完備",
+      "decision_result": "通關文牒正式獲認可"
+    },
+    {
+      "event_id": "ch054_009",
+      "event_name": "西門送別",
+      "event_status": "女王陪送至城外信以為真",
+      "character_decision": "西門搶師脫網",
+      "decision_result": "局勢驟變"
+    },
+    {
+      "event_id": "ch054_010",
+      "event_name": "風月攝師",
+      "event_status": "神秘女子旋風攝走唐僧",
+      "character_decision": "風月劫中默隨護持",
+      "decision_result": "再陷劫難"
+    },
+    {
+      "event_id": "ch056_001",
+      "event_name": "峻嶺遇劫",
+      "event_status": "草寇攔路，形勢突變",
+      "character_decision": "隨師登嶺警戒",
+      "decision_result": "默然隨行未發一言"
+    },
+    {
+      "event_id": "ch056_002",
+      "event_name": "登崖觀勢",
+      "event_status": "山巔險峻，疑有伏妖",
+      "character_decision": "隨師登崖默察地形",
+      "decision_result": "確認無妖仍持戒備"
+    },
+    {
+      "event_id": "ch056_004",
+      "event_name": "佯戲探情",
+      "event_status": "三藏被吊，需智取賊情",
+      "character_decision": "隨行佯戲不露破綻",
+      "decision_result": "助行者誘賊鬆懈"
+    },
+    {
+      "event_id": "ch056_007",
+      "event_name": "驚遁失序",
+      "event_status": "三藏棄徒獨逃，隊形大亂",
+      "character_decision": "隨師驚遁未加勸阻",
+      "decision_result": "護持師命餘緒不墜"
+    },
+    {
+      "event_id": "ch056_008",
+      "event_name": "荒塚禱祝",
+      "event_status": "行者殺人，三藏掩屍念經",
+      "character_decision": "荒塚默侍不辯不語",
+      "decision_result": "穩守護法本位"
+    },
+    {
+      "event_id": "ch056_009",
+      "event_name": "投莊借宿",
+      "event_status": "天色已晚，莊院拒宿",
+      "character_decision": "隨師投莊靜候指示",
+      "decision_result": "見證莊主父子伏筆"
+    },
+    {
+      "event_id": "ch056_011",
+      "event_name": "後門潛遁",
+      "event_status": "莊主密送，賊眾將至",
+      "character_decision": "隨師後門潛遁離莊",
+      "decision_result": "避過當場圍捕"
+    },
+    {
+      "event_id": "ch057_004",
+      "event_name": "路畔驚見屍靈",
+      "event_status": "師倒馬跳、行李全無",
+      "character_decision": "返見現場默然察情",
+      "decision_result": "隨八戒誤判餘黨"
+    },
+    {
+      "event_id": "ch057_005",
+      "event_name": "莊前剖白辯真",
+      "event_status": "老婆婆疑有兩批取經人",
+      "character_decision": "靜聆三藏親述劫包實情",
+      "decision_result": "確認真悟空所為"
+    },
+    {
+      "event_id": "ch057_006",
+      "event_name": "洞前誦牒辨偽",
+      "event_status": "直抵水簾洞面見假悟空",
+      "character_decision": "誦通關文牒質問其意",
+      "decision_result": "暴露偽造師徒意圖"
+    },
+    {
+      "event_id": "ch057_007",
+      "event_name": "猴精偽造師徒",
+      "event_status": "假悟空幻化全套取經隊伍",
+      "character_decision": "默察偽陣不辯不懼",
+      "decision_result": "見證雙線並行結構"
+    },
+    {
+      "event_id": "ch057_008",
+      "event_name": "沙僧三晝尋洞",
+      "event_status": "奉命討包獨赴花果山",
+      "character_decision": "駕雲三晝夜抵水簾洞",
+      "decision_result": "親證假悟空存在"
+    },
+    {
+      "event_id": "ch057_010",
+      "event_name": "同赴花果辨真",
+      "event_status": "真假並存已成危局",
+      "character_decision": "隨真悟空同赴勘驗",
+      "decision_result": "啟動實地辨真機制"
+    },
+    {
+      "event_id": "ch058_001",
+      "event_name": "雙聖離海",
+      "event_status": "奉菩薩敕命赴花果山驗真",
+      "character_decision": "隨悟空駕雲西返",
+      "decision_result": "直抵水簾洞外"
+    },
+    {
+      "event_id": "ch058_002",
+      "event_name": "洞前對峙",
+      "event_status": "六耳佔洞惑猴，真假初遇",
+      "character_decision": "肅立洞前見證對峙",
+      "decision_result": "親證偽聖實存"
+    },
+    {
+      "event_id": "ch058_010",
+      "event_name": "師徒重圓",
+      "event_status": "菩薩宣旨，冤解同心",
+      "character_decision": "隨眾跪聽菩薩敕令",
+      "decision_result": "團隊建制恢復完整"
+    },
+    {
+      "event_id": "ch059_002",
+      "event_name": "秋行酷熱",
+      "event_status": "西行遇異常酷熱，氣候反常",
+      "character_decision": "默隨師徒歷秋行路",
+      "decision_result": "持續護持行程推進"
+    },
+    {
+      "event_id": "ch059_003",
+      "event_name": "叩門問訊",
+      "event_status": "天蒸地熱、路阻名晦",
+      "character_decision": "隨悟空叩莊靜候問訊",
+      "decision_result": "獲知火焰山與鐵扇仙"
+    },
+    {
+      "event_id": "ch059_010",
+      "event_name": "獻扇報捷",
+      "event_status": "悟空持扇返莊，眾喜稱功",
+      "character_decision": "肅立莊院見證呈扇",
+      "decision_result": "啟程赴火焰山試扇"
+    },
+    {
+      "event_id": "ch059_011",
+      "event_name": "三扇火熾",
+      "event_status": "假扇搧火反致烈焰暴漲",
+      "character_decision": "護師東遁不離左右",
+      "decision_result": "狼狽避火暫退"
+    },
+    {
+      "event_id": "ch059_012",
+      "event_name": "土地揭偽",
+      "event_status": "火勢失控，土地突現指偽",
+      "character_decision": "肅立聽喻領會轉機",
+      "decision_result": "確知真扇在牛魔王處"
+    },
+    {
+      "event_id": "ch061_010",
+      "event_name": "三扇息焰",
+      "event_status": "火焰山烈焰熾盛，師徒燥熱難行",
+      "character_decision": "隨師靜候悟空搧扇",
+      "decision_result": "火滅風生雨落"
+    },
+    {
+      "event_id": "ch064_001",
+      "event_name": "辭王西行",
+      "event_status": "國王厚謝送行，伏龍寺僧追隨",
+      "character_decision": "隨師出城二十里",
+      "decision_result": "全程默隨不離"
+    },
+    {
+      "event_id": "ch064_003",
+      "event_name": "嶺橫荊棘",
+      "event_status": "八百里荊棘阻道，通行受困",
+      "character_decision": "默然隨行警戒師側",
+      "decision_result": "靜觀應對預備開路"
+    },
+    {
+      "event_id": "ch064_004",
+      "event_name": "鈀破荊途",
+      "event_status": "八戒變身揮鈀連開百十里",
+      "character_decision": "隨師默觀開路進程",
+      "decision_result": "抵石碣確立地理坐標"
+    },
+    {
+      "event_id": "ch064_009",
+      "event_name": "指木辨妖",
+      "event_status": "行者指認樹精本體，驗證妖蹤",
+      "character_decision": "隨行見證指木辨妖",
+      "decision_result": "確認精怪起源實存"
+    },
+    {
+      "event_id": "ch065_001",
+      "event_name": "遠望疑山",
+      "event_status": "脫出荊棘嶺後冬殘春初",
+      "character_decision": "隨師遠望高山",
+      "decision_result": "信以為靈山將近"
+    },
+    {
+      "event_id": "ch065_002",
+      "event_name": "策馬臨崖",
+      "event_status": "攀行至山勢高峻處",
+      "character_decision": "策馬抵達崖邊",
+      "decision_result": "預備見祥光殿閣"
+    },
+    {
+      "event_id": "ch065_003",
+      "event_name": "誤拜假寺",
+      "event_status": "祥光彩霧鐘磬悠揚",
+      "character_decision": "隨師跪拜小雷音寺",
+      "decision_result": "全軍入彀遭擒"
+    },
+    {
+      "event_id": "ch065_004",
+      "event_name": "金鐃困聖",
+      "event_status": "行者揭偽動手反被合困",
+      "character_decision": "隨師被擒縛於殿內",
+      "decision_result": "全軍覆沒封入地窖"
+    },
+    {
+      "event_id": "ch065_010",
+      "event_name": "師徒泣訴",
+      "event_status": "被綑懸梁性命垂危",
+      "character_decision": "夜中與師共泣憶念行者",
+      "decision_result": "引發行者慈悲解縛"
+    },
+    {
+      "event_id": "ch065_011",
+      "event_name": "遁繩解眾",
+      "event_status": "行者遁身解縛眾人",
+      "character_decision": "隨眾解縛牽馬出逃",
+      "decision_result": "奔坡待援護師不離"
+    },
+    {
+      "event_id": "ch065_013",
+      "event_name": "再戰遭收",
+      "event_status": "妖王二次拋包形勢惡化",
+      "character_decision": "隨眾再陷地窖",
+      "decision_result": "全軍徹底受制"
+    },
+    {
+      "event_id": "ch066_009",
+      "event_name": "焚寺西行",
+      "event_status": "偽寺已毀，諸神獲釋",
+      "character_decision": "隨師焚寺整裝啟程",
+      "decision_result": "邁向下一關隘"
+    },
+    {
+      "event_id": "ch068_001",
+      "event_name": "遙辨國號",
+      "event_status": "行至城池近處，三藏不識旗字",
+      "character_decision": "隨師駐馬遙望待命",
+      "decision_result": "確認朱紫國名"
+    },
+    {
+      "event_id": "ch068_002",
+      "event_name": "入館安歇",
+      "event_status": "抵會同館待驗關文",
+      "character_decision": "隨師入館安頓待命",
+      "decision_result": "確立合法落腳點"
+    },
+    {
+      "event_id": "ch068_004",
+      "event_name": "市買調和",
+      "event_status": "館中缺油鹽醬醋需購調料",
+      "character_decision": "隨悟空、八戒出館",
+      "decision_result": "參與探榜行動起點"
+    },
+    {
+      "event_id": "ch072_001",
+      "event_name": "春行遇庵",
+      "event_status": "春光明媚，師徒行至山原水道",
+      "character_decision": "隨師西行見庵林",
+      "decision_result": "預備化齋探查"
+    },
+    {
+      "event_id": "ch072_010",
+      "event_name": "鷹蟲相剋",
+      "event_status": "蟲妖幻化無窮圍攻師徒",
+      "character_decision": "隨行協力應變",
+      "decision_result": "掃清門戶直搗洞中"
+    },
+    {
+      "event_id": "ch072_011",
+      "event_name": "斷縛脫險",
+      "event_status": "洞中尋得吊縛之師性命垂危",
+      "character_decision": "隨行斷縛護師",
+      "decision_result": "師徒重聚焚洞斷根"
+    },
+    {
+      "event_id": "ch073_001",
+      "event_name": "師徒西行",
+      "event_status": "火焚妖窟後續行，抵黃花觀前",
+      "character_decision": "隨師西行不離左右",
+      "decision_result": "觸發新劫難"
+    },
+    {
+      "event_id": "ch073_005",
+      "event_name": "毒發暈倒",
+      "event_status": "道士以毒茶暗害，三人同飲",
+      "character_decision": "飲毒茶即刻昏厥",
+      "decision_result": "悟空獨醒揭破陰謀"
+    },
+    {
+      "event_id": "ch073_013",
+      "event_name": "解毒回生",
+      "event_status": "三日爛骨之毒亟待解救",
+      "character_decision": "服毘藍丹嘔毒甦醒",
+      "decision_result": "性命無虞恢復行動"
+    },
+    {
+      "event_id": "ch074_001",
+      "event_name": "西行遇嶺",
+      "event_status": "抵獅駝嶺山腳，山勢險惡",
+      "character_decision": "隨師駐馬默然警戒",
+      "decision_result": "預備應變"
+    },
+    {
+      "event_id": "ch074_002",
+      "event_name": "老叟報險",
+      "event_status": "金星化老者警示妖魔兇險",
+      "character_decision": "默隨聽喻不驚不問",
+      "decision_result": "穩守護法本位"
+    },
+    {
+      "event_id": "ch076_006",
+      "event_name": "師徒重聚",
+      "event_status": "悟空歸來怒斥八戒分贓",
+      "character_decision": "默立見證師徒重聚",
+      "decision_result": "穩守護法本位"
+    },
+    {
+      "event_id": "ch076_010",
+      "event_name": "揪鼻跪降",
+      "event_status": "二魔被制，三藏發善念赦命",
+      "character_decision": "肅立坡下見證跪降",
+      "decision_result": "確證老魔偽善伏筆"
+    },
+    {
+      "event_id": "ch076_011",
+      "event_name": "香藤抬轎",
+      "event_status": "三魔偽裝護送，實行調虎離山",
+      "character_decision": "隨師登轎西行",
+      "decision_result": "不察偽計深入險境"
+    },
+    {
+      "event_id": "ch076_012",
+      "event_name": "城邊突襲",
+      "event_status": "三妖齊攻，十六小妖劫轎擄僧",
+      "character_decision": "默護師側應對突襲",
+      "decision_result": "隨師直入虎狼城"
+    },
+    {
+      "event_id": "ch077_001",
+      "event_name": "六聖鏖兵",
+      "event_status": "半山空中六人激戰至天晚",
+      "character_decision": "與八戒聯袂鏖兵三魔",
+      "decision_result": "先後被擒"
+    },
+    {
+      "event_id": "ch077_002",
+      "event_name": "殿前悲訴",
+      "event_status": "四眾綑縛殿內泣訴危機",
+      "character_decision": "綑縛殿中與師共泣",
+      "decision_result": "心志動搖未墮護法"
+    },
+    {
+      "event_id": "ch077_006",
+      "event_name": "揭籠解縛",
+      "event_status": "守衛已眠，行者現身解縛",
+      "character_decision": "隨眾解縛牽馬待逃",
+      "decision_result": "未及出城即被覺察"
+    },
+    {
+      "event_id": "ch077_007",
+      "event_name": "爬牆失機",
+      "event_status": "前後門封鎖，攀牆欲逃",
+      "character_decision": "隨眾爬牆失機被截",
+      "decision_result": "復遭綁縛"
+    },
+    {
+      "event_id": "ch077_010",
+      "event_name": "假訊惑心",
+      "event_status": "三魔散播謠言封鎖消息",
+      "character_decision": "同稱師父已被夾生吃",
+      "decision_result": "行者信以為真悲極欲棄"
+    },
+    {
+      "event_id": "ch077_014",
+      "event_name": "鐵櫃救師",
+      "event_status": "大鵬招供藏僧之所",
+      "character_decision": "隨行開櫃迎出唐僧",
+      "decision_result": "師徒重圓西行續啟"
+    },
+    {
+      "event_id": "ch078_001",
+      "event_name": "冬臨比丘",
+      "event_status": "師徒西行入冬抵比丘國",
+      "character_decision": "隨師抵國默然警戒",
+      "decision_result": "觸發鵝籠疑案"
+    },
+    {
+      "event_id": "ch078_002",
+      "event_name": "投驛問謎",
+      "event_status": "街見家家設鵝籠藏小兒",
+      "character_decision": "隨師入驛靜聆問訊",
+      "decision_result": "獲知國丈妖謀"
+    },
+    {
+      "event_id": "ch078_007",
+      "event_name": "泥臉互易",
+      "event_status": "錦衣官率兵圍驛索僧取心",
+      "character_decision": "配合行者泥臉易貌",
+      "decision_result": "假唐僧赴朝避禍"
+    },
+    {
+      "event_id": "ch080_001",
+      "event_name": "辭國西行",
+      "event_status": "君民遠送二十里，國事已畢",
+      "character_decision": "隨師辭國西行",
+      "decision_result": "正式啟程赴險山"
+    },
+    {
+      "event_id": "ch080_002",
+      "event_name": "冬盡春初",
+      "event_status": "季節推移，冬末春初之際",
+      "character_decision": "默隨長途不言疲苦",
+      "decision_result": "維持行程穩定推進"
+    },
+    {
+      "event_id": "ch080_003",
+      "event_name": "抵嶺駐馬",
+      "event_status": "峻嶺當道，山勢險秀",
+      "character_decision": "隨師駐馬觀望待命",
+      "decision_result": "預備應變"
+    },
+    {
+      "event_id": "ch080_004",
+      "event_name": "峻嶺奇景",
+      "event_status": "山道延伸，花木繁盛",
+      "character_decision": "默然隨行靜觀景致",
+      "decision_result": "反襯後文黑松林詭異"
+    },
+    {
+      "event_id": "ch080_006",
+      "event_name": "入林驚林",
+      "event_status": "黑松大林深遠詭異",
+      "character_decision": "隨師駛入黑松林",
+      "decision_result": "林中祥雲轉黑氣"
+    },
+    {
+      "event_id": "ch080_007",
+      "event_name": "林中歇馬",
+      "event_status": "腹飢疲乏，林中清雅宜歇",
+      "character_decision": "隨師停歇待命",
+      "decision_result": "悟空離隊妖氛現形"
+    },
+    {
+      "event_id": "ch080_013",
+      "event_name": "夜近古剎",
+      "event_status": "日暮趕路，破敗寺院在望",
+      "character_decision": "隨師攜妖行至古剎",
+      "decision_result": "觸發鎮海禪林寺雙重空間"
+    },
+    {
+      "event_id": "ch080_014",
+      "event_name": "叩破寺門",
+      "event_status": "天晚投宿，門牆傾頹",
+      "character_decision": "隨師叩破寺門",
+      "decision_result": "揭示寺院被妖賊佔據"
+    },
+    {
+      "event_id": "ch082_003",
+      "event_name": "尾隨失蹤",
+      "event_status": "依女妖行跡潛行探洞",
+      "character_decision": "尾隨三藏至牌樓前",
+      "decision_result": "發現無底洞入口"
+    },
+    {
+      "event_id": "ch082_009",
+      "event_name": "洞口釋僧",
+      "event_status": "妖精背僧出洞，情勢緊迫",
+      "character_decision": "與八戒接應唐僧",
+      "decision_result": "師徒重聚危機暫解"
+    },
+    {
+      "event_id": "ch083_001",
+      "event_name": "洞口釋僧",
+      "event_status": "女妖送僧出洞，腹中搗魄受挫",
+      "character_decision": "默然接應唐僧",
+      "decision_result": "師徒短暫重聚"
+    },
+    {
+      "event_id": "ch083_003",
+      "event_name": "遺鞋識偽",
+      "event_status": "妖精拋鞋化形掩護脫身",
+      "character_decision": "隨八戒察異辨偽",
+      "decision_result": "發現唐僧再度失蹤"
+    },
+    {
+      "event_id": "ch083_004",
+      "event_name": "韁斷尋師",
+      "event_status": "唐僧連人帶馬被攝走，唯留斷繩",
+      "character_decision": "拾繩見證悲泣",
+      "decision_result": "默隨悟空決意再搜"
+    },
+    {
+      "event_id": "ch083_006",
+      "event_name": "持牌告狀",
+      "event_status": "見李天王牌位，天庭介入啟動",
+      "character_decision": "持牌隨行告狀",
+      "decision_result": "觸發李靖父子應對"
+    },
+    {
+      "event_id": "ch084_001",
+      "event_name": "柳陰遇母",
+      "event_status": "西行至滅法國境，氣候轉炎",
+      "character_decision": "肅立柳陰默隨師側",
+      "decision_result": "獲知殺僧危局"
+    },
+    {
+      "event_id": "ch084_002",
+      "event_name": "菩薩現形",
+      "event_status": "觀音化老母點化警示",
+      "character_decision": "默然信受菩薩示現",
+      "decision_result": "確證滅法國兇險"
+    },
+    {
+      "event_id": "ch084_003",
+      "event_name": "坑坎議策",
+      "event_status": "菩薩退隱後需自主應對危局",
+      "character_decision": "默隨行者議策不發一言",
+      "decision_result": "啟動偽裝計畫"
+    },
+    {
+      "event_id": "ch084_007",
+      "event_name": "授衣易裝",
+      "event_status": "四眾換俗裝改稱呼",
+      "character_decision": "依令易裝改稱十兄弟",
+      "decision_result": "建立新身份體系"
+    },
+    {
+      "event_id": "ch084_008",
+      "event_name": "三樣待客",
+      "event_status": "行者詐問店規套取情報",
+      "character_decision": "默隨聽喻不露破綻",
+      "decision_result": "誘出櫃中安寢方案"
+    },
+    {
+      "event_id": "ch084_009",
+      "event_name": "櫃中藏身",
+      "event_status": "四眾入櫃避光就寢",
+      "character_decision": "隨眾入櫃默守不語",
+      "decision_result": "引發連鎖劫難事件"
+    },
+    {
+      "event_id": "ch091_001",
+      "event_name": "西行抵金平",
+      "event_status": "離玉華州五日，抵金平府東關廂",
+      "character_decision": "隨師西行不離左右",
+      "decision_result": "暫駐慈雲寺"
+    },
+    {
+      "event_id": "ch091_002",
+      "event_name": "投寺歇馬",
+      "event_status": "途經見寺，眾僧禮迎",
+      "character_decision": "隨師入寺借宿打齋",
+      "decision_result": "獲僧眾禮遇"
+    },
+    {
+      "event_id": "ch091_003",
+      "event_name": "元宵挽留",
+      "event_status": "眾僧盛情勸留觀燈",
+      "character_decision": "默然隨師應允挽留",
+      "decision_result": "滯留慈雲寺"
+    },
+    {
+      "event_id": "ch091_004",
+      "event_name": "園中賞春",
+      "event_status": "僧眾款待，暫無急務",
+      "character_decision": "隨師遊園觀景娛心",
+      "decision_result": "禪心鬆動伏筆"
+    },
+    {
+      "event_id": "ch091_005",
+      "event_name": "元夜掃塔",
+      "event_status": "元宵節至，唐僧踐掃塔誓願",
+      "character_decision": "隨師至塔下默然護願",
+      "decision_result": "見證宗教儀式完成"
+    },
+    {
+      "event_id": "ch091_006",
+      "event_name": "橋觀金燈",
+      "event_status": "入城觀燈，駐足金燈橋",
+      "character_decision": "隨師駐橋觀燈默隨",
+      "decision_result": "直面三盞金燈"
+    },
+    {
+      "event_id": "ch091_007",
+      "event_name": "風現偽佛",
+      "event_status": "妖風起處現三佛身誘拜",
+      "character_decision": "默隨唐僧跪拜未察偽",
+      "decision_result": "唐僧被攝失蹤"
+    },
+    {
+      "event_id": "ch091_015",
+      "event_name": "歸寺議策",
+      "event_status": "悟空單戰未克返寺通報",
+      "character_decision": "肅立聽喻共商對策",
+      "decision_result": "決意連夜進攻"
+    },
+    {
+      "event_id": "ch091_016",
+      "event_name": "夜襲定策",
+      "event_status": "恐妖夜害唐僧，機不可失",
+      "character_decision": "力主即刻夜襲玄英洞",
+      "decision_result": "三人連夜赴敵"
+    },
+    {
+      "event_id": "ch094_005",
+      "event_name": "沙僧陳卷簾事",
+      "event_status": "國王垂詢第三高徒身世",
+      "character_decision": "自述捲簾將軍舊職與流沙受罰",
+      "decision_result": "國王驚喜交加"
+    },
+    {
+      "event_id": "ch094_004",
+      "event_name": "沙僧陳罪",
+      "event_status": "國王垂詢第三高徒身世",
+      "character_decision": "自述捲簾將軍舊職與流沙受罰",
+      "decision_result": "國王驚喜交加"
+    },
+    {
+      "event_id": "ch097_006",
+      "event_name": "官兵誤捕",
+      "event_status": "贓物為證，官兵緝拿入監",
+      "character_decision": "默隨受捕不辯不抗",
+      "decision_result": "四眾下獄受辱"
+    },
+    {
+      "event_id": "ch097_012",
+      "event_name": "堂上索還",
+      "event_status": "堂審受辱，需正名補損",
+      "character_decision": "肅立堂前見證索還",
+      "decision_result": "確立師徒威信"
+    },
+    {
+      "event_id": "ch097_014",
+      "event_name": "魂歸復活",
+      "event_status": "寇洪魂返肉身甦醒",
+      "character_decision": "隨侍棺前見證對證",
+      "decision_result": "當堂澄清誣告"
+    }
+  ]
+}

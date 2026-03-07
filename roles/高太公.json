@@ -1,0 +1,28 @@
+{
+  "name": "高太公",
+  "aliases": [],
+  "description": "高老莊富户，为养老招婿而引祸上身",
+  "personality": [
+    "务实",
+    "短视",
+    "焦虑"
+  ],
+  "traits": [
+    "重世俗礼法",
+    "惧妖畏祸"
+  ],
+  "abilities": [
+    "择婿议亲",
+    "延请法师"
+  ],
+  "summary": "三年前为养老之需招猪刚鬣入赘，未察其妖性，致后宅囚女、家门不安，终不得不延请法師除妖。",
+  "events": [
+    {
+      "event_id": "ch018_005",
+      "event_name": "妖婿入贅",
+      "event_status": "妖物假形入赘，家宅渐生异象",
+      "character_decision": "招猪刚鬣为婿",
+      "decision_result": "家门不安，囚禁翠兰"
+    }
+  ]
+}

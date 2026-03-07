@@ -1,0 +1,28 @@
+{
+  "name": "王小二婆子",
+  "aliases": [],
+  "description": "王小二之妻，經營客棧的市井婦人",
+  "personality": [
+    "謹慎",
+    "務實",
+    "警覺"
+  ],
+  "traits": [
+    "持家有道",
+    "夜間巡視"
+  ],
+  "abilities": [
+    "防盜察異",
+    "應變周旋"
+  ],
+  "summary": "面對孫悟空竊衣企圖，與丈夫協力戒備，雖遭鼠戲擾亂，反因應對得宜贏得信任。",
+  "events": [
+    {
+      "event_id": "ch084_006",
+      "event_name": "夜耗成精",
+      "event_status": "店內疑有失竊，嚴加戒備",
+      "character_decision": "配合丈夫防範失物",
+      "decision_result": "穩住局面獲取信任"
+    }
+  ]
+}

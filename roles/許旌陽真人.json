@@ -1,0 +1,37 @@
+{
+  "name": "許旌陽真人",
+  "aliases": [],
+  "description": "晉代著名道教真人，淨明道祖師，天庭重要仙官",
+  "personality": [
+    "諫言果決",
+    "憂患意識強",
+    "審慎務實"
+  ],
+  "traits": [
+    "持正守律",
+    "善察機微",
+    "殿前陳情慣例"
+  ],
+  "abilities": [
+    "洞悉妖氛",
+    "奏事權臣",
+    "協理天樞"
+  ],
+  "summary": "於齊天大聖受封之際進諫玉帝，主張授職以制其行，體現其審時度勢的輔政之能。　於靈霄殿外參與四天師問訊，據悟空所述金洞受挫情狀，協同啟動天界查勘程序，展現其樞機協調之能。",
+  "events": [
+    {
+      "event_id": "ch005_001",
+      "event_name": "授管蟠園",
+      "event_status": "天庭初封悟空，群仙觀望",
+      "character_decision": "奏稱悟空結黨恐生事",
+      "decision_result": "促成悟空管蟠園"
+    },
+    {
+      "event_id": "ch051_003",
+      "event_name": "殿前陳情",
+      "event_status": "靈霄殿外集議，取經受阻",
+      "character_decision": "詳聽悟空陳述並協議面奏",
+      "decision_result": "獲准面奏玉帝"
+    }
+  ]
+}

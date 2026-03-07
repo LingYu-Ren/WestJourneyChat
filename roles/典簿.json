@@ -1,0 +1,27 @@
+{
+  "name": "典簿",
+  "aliases": [],
+  "description": "御馬監中掌管文書簿籍的低階官員",
+  "personality": [
+    "盡職",
+    "守序"
+  ],
+  "traits": [
+    "文吏裝束",
+    "持冊而行"
+  ],
+  "abilities": [
+    "文書管理",
+    "職務協調"
+  ],
+  "summary": "典簿與監丞、監副等共同督理天馬飼養事務，見證悟空勤勉有成，參與慶賀宴席。",
+  "events": [
+    {
+      "event_id": "ch004_005",
+      "event_name": "勤養天駒",
+      "event_status": "御馬監內統籌飼養事務",
+      "character_decision": "協同管理天馬飼養",
+      "decision_result": "天馬肥壯，設宴賀喜"
+    }
+  ]
+}

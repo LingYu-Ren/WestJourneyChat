@@ -1,0 +1,67 @@
+{
+  "name": "增長天王",
+  "aliases": [],
+  "description": "四大天王之一，鎮守南天門的護法神將",
+  "personality": [
+    "恪守職分",
+    "威嚴持重",
+    "果毅剛決"
+  ],
+  "traits": [
+    "持青光寶劍",
+    "身披鎧甲",
+    "駐守南天門",
+    "統兵征討"
+  ],
+  "abilities": [
+    "統領天丁",
+    "辨識仙籍",
+    "鎮守天闕",
+    "率軍鏖戰"
+  ],
+  "summary": "在南天門外依律攔阻無名無籙的孫悟空，展現其職守之嚴；後於靈霄殿參與議事，見證天庭對悟空叛逃的震怒與應對。　於花果山鐵板橋率部與悟空激戰，雖布天羅地網仍不敵其分身神通，致群妖被擒而天兵受挫。　於天羅地網營前聽取惠岸稟報，見證首戰失利；隨後參與押解悟空回天庭，親歷擒拿功成與刑律啟動。　於南天門見悟空借罩護師，雖未直接介入，然職守所在，默許其暫借辟火罩以全取經大義。",
+  "events": [
+    {
+      "event_id": "ch004_001",
+      "event_name": "天門受阻",
+      "event_status": "南天門外執勤，遇無籍者強闖",
+      "character_decision": "率天丁持械攔阻悟空",
+      "decision_result": "悟空質疑金星，險拒入天"
+    },
+    {
+      "event_id": "ch004_009",
+      "event_name": "天庭震怒",
+      "event_status": "靈霄殿議事，天庭決策征討",
+      "character_decision": "列席聽奏並待命出征",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch005_012",
+      "event_name": "鏖戰天羅",
+      "event_status": "天兵圍山，與悟空正面交鋒",
+      "character_decision": "率天丁佈陣鏖戰",
+      "decision_result": "七十二洞妖王盡被擒"
+    },
+    {
+      "event_id": "ch006_004",
+      "event_name": "營前稟報",
+      "event_status": "圍山一日未克，軍情緊急",
+      "character_decision": "列營聽稟待命",
+      "decision_result": "確認戰況不利"
+    },
+    {
+      "event_id": "ch006_017",
+      "event_name": "押解上界",
+      "event_status": "悟空被擒，押赴天庭受審",
+      "character_decision": "隨隊押解歸案",
+      "decision_result": "直抵斬妖臺"
+    },
+    {
+      "event_id": "ch016_010",
+      "event_name": "借罩護師",
+      "event_status": "南天門值守，遇悟空臨時索器",
+      "character_decision": "默許借出辟火罩",
+      "decision_result": "禪堂免焚，師徒無傷"
+    }
+  ]
+}

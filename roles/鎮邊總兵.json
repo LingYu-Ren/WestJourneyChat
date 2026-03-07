@@ -1,0 +1,27 @@
+{
+  "name": "鎮邊總兵",
+  "aliases": [],
+  "description": "河州衛駐守邊疆的最高軍事長官",
+  "personality": [
+    "恪盡職守",
+    "謹慎持重"
+  ],
+  "traits": [
+    "邊鎮將領",
+    "駐驛主官"
+  ],
+  "abilities": [
+    "邊防統御",
+    "驛站調度"
+  ],
+  "summary": "在河州衛接待玄奘一行歇宿，履行邊境駐驛職責。",
+  "events": [
+    {
+      "event_id": "ch013_005",
+      "event_name": "邊界駐驛",
+      "event_status": "玄奘抵邊需驗照歇宿",
+      "character_decision": "安排驛館安置僧眾",
+      "decision_result": "玄奘次晨順利出界"
+    }
+  ]
+}

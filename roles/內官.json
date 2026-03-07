@@ -1,0 +1,37 @@
+{
+  "name": "內官",
+  "aliases": [],
+  "description": "車遲國皇宮中負責內務的宦官",
+  "personality": [
+    "恭順",
+    "謹慎",
+    "畏上"
+  ],
+  "traits": [
+    "服制整肅",
+    "職守分明",
+    "行止低微"
+  ],
+  "abilities": [
+    "掌櫃藏物",
+    "奉命行事",
+    "通傳應對"
+  ],
+  "summary": "在皇后指令下協助將山河襖裙收存金鑾殿櫃中，成為悟空潛入篡改破鐘的關鍵環節。　於會同館門首參與群臣請醫之儀，列班隨侍，見證悟空受國王委託行醫，其職司延伸至外朝禮儀環節。",
+  "events": [
+    {
+      "event_id": "ch046_010",
+      "event_name": "宮衣入櫃",
+      "event_status": "奉皇后命整理宮衣，受鹿力指派",
+      "character_decision": "依令置山河襖裙入櫃",
+      "decision_result": "櫃中衣物被悟空篡改"
+    },
+    {
+      "event_id": "ch068_006",
+      "event_name": "群臣請醫",
+      "event_status": "列班隨侍，奉命迎候神僧",
+      "character_decision": "依制列班參拜",
+      "decision_result": "確立悟空神僧身份"
+    }
+  ]
+}

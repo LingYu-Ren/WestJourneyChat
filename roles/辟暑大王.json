@@ -1,0 +1,61 @@
+{
+  "name": "辟暑大王",
+  "aliases": [],
+  "description": "青龍山玄英洞三犀妖之一，司掌暑氣",
+  "personality": [
+    "兇悍",
+    "貪食",
+    "畏懼神通",
+    "暴躁"
+  ],
+  "traits": [
+    "犀牛精",
+    "持鋼叉",
+    "畏懼齊天大聖",
+    "夜戰悍勇"
+  ],
+  "abilities": [
+    "駕風",
+    "戰鬥頑強",
+    "辨識元陽",
+    "石門拒敵"
+  ],
+  "summary": "與辟寒、辟塵二妖合謀攝走唐僧，初欲煎食，聞悟空威名後改囚為質；參與山凹鏖兵，百五十合未分勝負。　於玄英洞石門前與二妖聯手夜戰三僧，八戒破門後悍然迎擊，致八戒沙僧先後被擒。",
+  "events": [
+    {
+      "event_id": "ch091_008",
+      "event_name": "金燈攝僧",
+      "event_status": "聯手二妖突襲劫僧",
+      "character_decision": "風中現身攝走唐僧",
+      "decision_result": "師徒分離"
+    },
+    {
+      "event_id": "ch091_012",
+      "event_name": "洞中供狀",
+      "event_status": "審問唐僧確認身份",
+      "character_decision": "聽取取經來歷供述",
+      "decision_result": "獲悉師徒全員背景"
+    },
+    {
+      "event_id": "ch091_013",
+      "event_name": "鎖僧待援",
+      "event_status": "懼悟空威名轉囚唐僧",
+      "character_decision": "暫緩烹食改為看守",
+      "decision_result": "唐僧免死成質"
+    },
+    {
+      "event_id": "ch091_014",
+      "event_name": "山凹鏖兵",
+      "event_status": "與二妖共戰孫悟空",
+      "character_decision": "持叉迎戰百五十合",
+      "decision_result": "未分勝負"
+    },
+    {
+      "event_id": "ch092_004",
+      "event_name": "三更鏖兵",
+      "event_status": "石門被破，夜戰突發",
+      "character_decision": "持叉出戰三僧",
+      "decision_result": "八戒沙僧被擒"
+    }
+  ]
+}

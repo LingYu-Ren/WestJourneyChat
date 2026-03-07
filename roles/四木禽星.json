@@ -1,0 +1,37 @@
+{
+  "name": "四木禽星",
+  "aliases": [],
+  "description": "天庭司职星宿，主掌禽类精怪征伐之神",
+  "personality": [
+    "威严",
+    "果决",
+    "恪守天律"
+  ],
+  "traits": [
+    "星辉缭绕",
+    "禽形法相",
+    "持戈列阵"
+  ],
+  "abilities": [
+    "星宿降妖",
+    "群禽统御",
+    "迅疾围猎"
+  ],
+  "summary": "四木禽星奉命下界围剿犀牛精，以威势震溃群妖，并协同擒获二犀押解归府，促成金平府禁绝邪祀。",
+  "events": [
+    {
+      "event_id": "ch092_007",
+      "event_name": "四星圍獵",
+      "event_status": "玄英洞前群妖环伺，三犀负隅",
+      "character_decision": "现星相震慑群妖",
+      "decision_result": "三犀遁逃，群牛溃散"
+    },
+    {
+      "event_id": "ch092_010",
+      "event_name": "押解歸府",
+      "event_status": "西海至金平途中押送活口",
+      "character_decision": "协同敖摩昂押解二犀",
+      "decision_result": "二犀赴府受审"
+    }
+  ]
+}

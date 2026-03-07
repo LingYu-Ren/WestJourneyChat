@@ -1,0 +1,28 @@
+{
+  "name": "王小二",
+  "aliases": [],
+  "description": "凡间旅店店主，与婆子共同经营小店",
+  "personality": [
+    "谨慎",
+    "务实",
+    "朴实"
+  ],
+  "traits": [
+    "店主装束",
+    "持家勤勉"
+  ],
+  "abilities": [
+    "识人察言",
+    "守店防盗"
+  ],
+  "summary": "因谨防失物而阻挠孙悟空窃衣，反在对方化鼠戏众后认可其神通，主动提供俗装。",
+  "events": [
+    {
+      "event_id": "ch084_006",
+      "event_name": "夜耗成精",
+      "event_status": "店内遭异象侵扰，疑有妖祟",
+      "character_decision": "严防衣物失窃",
+      "decision_result": "反获信任得助"
+    }
+  ]
+}

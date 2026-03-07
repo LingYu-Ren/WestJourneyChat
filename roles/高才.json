@@ -1,0 +1,27 @@
+{
+  "name": "高才",
+  "aliases": [],
+  "description": "高老莊高太公家僕，負責迎賓問訊",
+  "personality": [
+    "謹慎",
+    "知禮"
+  ],
+  "traits": [
+    "熟悉地界",
+    "應對得體"
+  ],
+  "abilities": [
+    "識途",
+    "通曉鄉情"
+  ],
+  "summary": "被孫悟空攔下詢問地名，迅速告知此地為烏斯藏國高老莊，展現其作為莊戶僕從的地緣熟稔與應變能力。",
+  "events": [
+    {
+      "event_id": "ch018_004",
+      "event_name": "攔問地名",
+      "event_status": "行至村口遇僧徒攔問",
+      "character_decision": "據實告知地界名稱",
+      "decision_result": "明確標示高老莊位置"
+    }
+  ]
+}

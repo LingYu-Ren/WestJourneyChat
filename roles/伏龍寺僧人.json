@@ -1,0 +1,45 @@
+{
+  "name": "伏龍寺僧人",
+  "aliases": [],
+  "description": "祭賽國伏龍寺出家僧眾，虔誠護法",
+  "personality": [
+    "虔誠",
+    "執著",
+    "依戀師長",
+    "驚惶守禮"
+  ],
+  "traits": [
+    "僧衣素淨",
+    "追隨不捨",
+    "晨起巡寺"
+  ],
+  "abilities": [
+    "禮佛誦經",
+    "遠途隨行",
+    "察跡尋蹤"
+  ],
+  "summary": "因感念唐僧師徒解救金光寺之恩，伏龍寺僧人主動追隨西行二十里，展現深切信敬與依止之心。　於慈雲寺發現唐僧師徒不告而別，驚惶中仍恪守僧儀；後於布金禪寺參與寅時過關，展現對聖僧行蹤的持續關注與隨順因緣之誠。",
+  "events": [
+    {
+      "event_id": "ch064_001",
+      "event_name": "辭王西行",
+      "event_status": "國王送行已畢，師徒啟程離城",
+      "character_decision": "集眾追隨西行",
+      "decision_result": "引發行者幻虎阻路"
+    },
+    {
+      "event_id": "ch093_001",
+      "event_name": "僧眾驚失聖僧",
+      "event_status": "天明發現聖僧已杳無蹤影",
+      "character_decision": "遍尋寺內外未果",
+      "decision_result": "全城官民知神僧過境"
+    },
+    {
+      "event_id": "ch093_006",
+      "event_name": "雞鳴關過嶺",
+      "event_status": "寅時隨商隊候關待行",
+      "character_decision": "依令整肅隨行",
+      "decision_result": "巳時抵天竺國都"
+    }
+  ]
+}

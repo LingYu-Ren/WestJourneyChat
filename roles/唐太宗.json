@@ -1,0 +1,298 @@
+{
+  "name": "唐太宗",
+  "aliases": [],
+  "description": "大唐天子，開創貞觀之治的明君",
+  "personality": [
+    "英明果斷",
+    "重賢愛才",
+    "威嚴仁厚",
+    "敬畏天命",
+    "懼業承責",
+    "懺悔自省",
+    "悲憫蒼生",
+    "崇正抑邪",
+    "篤信因果",
+    "弘法護教",
+    "感念至誠",
+    "尊經重道"
+  ],
+  "traits": [
+    "金殿理政",
+    "納諫如流",
+    "重視科舉",
+    "夢魘驚悸",
+    "倚重股肱",
+    "魂遊地府",
+    "宣夢立教",
+    "敕建水陸",
+    "親證陰司",
+    "欽定壇主",
+    "賜寶授職",
+    "御弟辭行",
+    "望樓迎聖",
+    "瑞靄親證",
+    "御製頒經"
+  ],
+  "abilities": [
+    "知人善任",
+    "決策斷事",
+    "統御群臣",
+    "陰陽調和",
+    "敕令通神",
+    "因果明察",
+    "超度佈施",
+    "佛道判衡",
+    "法會統籌",
+    "聖凡契證",
+    "經典詮釋",
+    "文治彰化"
+  ],
+  "summary": "主導開科取士選拔陳光蕊，並依制授職江州；後因冤情震怒發兵平賊，最終促成光蕊還魂、玄奘入寺，使取經人身世線索正式進入朝廷視野。　因魏徵夢斬涇河龍王而遭龍魂索命，驚悸成疾，遂啟陰司遊歷之機；倚重將相鎮鬼、託書還魂，展現明君在天律與人倫夾縫中的承擔與轉化。　親歷地府三曹對案、六道巡覽與枉死索償，深懼業報而發願水陸大會；還魂後昭告朝堂、頒榜行善，將陰司所見轉化為陽世政教實踐。　親驗劉全借屍還魂以證陰司不虛；主導佛道辯難確立佛教國教地位；欽點玄奘為水陸大會壇主並賜錦襴袈裟、九環錫杖；於化生寺法會親見觀音點化，敕封御弟聖僧，正式啟動西天取經國策。　於長安關外親送玄奘西行，以帝王之禮完成取經國策最後一環，標誌貞觀政教體系與佛教弘化事業的終極契接。　取經功成之日，親登望經樓迎聖，見瑞靄滿空而知佛果圓滿；次日口占《聖教序》，以帝王之筆確立真經正統，完成從護法到弘化的終極昇華。",
+  "events": [
+    {
+      "event_id": "ch009_001",
+      "event_name": "開科取士",
+      "event_status": "天下初定，亟需擢用賢才",
+      "character_decision": "應魏徵奏請開科選賢",
+      "decision_result": "陳光蕊中狀元"
+    },
+    {
+      "event_id": "ch009_003",
+      "event_name": "欽授江州",
+      "event_status": "廷試已畢，狀元待授實職",
+      "character_decision": "命光蕊為江州州主",
+      "decision_result": "光蕊攜妻赴任"
+    },
+    {
+      "event_id": "ch009_017",
+      "event_name": "天兵討賊",
+      "event_status": "聞陳光蕊被害、溫嬌被占",
+      "character_decision": "怒發御林軍征江州",
+      "decision_result": "劉洪被擒處決"
+    },
+    {
+      "event_id": "ch009_020",
+      "event_name": "團圓奏捷",
+      "event_status": "賊誅冤雪，家國同慶",
+      "character_decision": "嘉許光蕊、安置玄奘",
+      "decision_result": "光蕊授學士，玄奘安禪"
+    },
+    {
+      "event_id": "ch010_005",
+      "event_name": "夢斬龍首",
+      "event_status": "魏徵棋局斬龍，天律顯現",
+      "character_decision": "觀棋未加阻攔",
+      "decision_result": "龍首墜市，業力初動"
+    },
+    {
+      "event_id": "ch010_006",
+      "event_name": "龍魂索命",
+      "event_status": "龍王血首現形索命",
+      "character_decision": "夢中應諾未踐致業纏身",
+      "decision_result": "菩薩現身喝退"
+    },
+    {
+      "event_id": "ch010_007",
+      "event_name": "門神鎮鬼",
+      "event_status": "寢宮夜擾，龍魂頻現",
+      "character_decision": "命秦瓊尉遲恭守宮門",
+      "decision_result": "首創門神習俗"
+    },
+    {
+      "event_id": "ch010_008",
+      "event_name": "陰司託書",
+      "event_status": "病入膏肓，七日限至",
+      "character_decision": "受魏徵崔珏書信",
+      "decision_result": "開啟地府遊歷"
+    },
+    {
+      "event_id": "ch011_001",
+      "event_name": "魂出五鳳",
+      "event_status": "陰司催請，七日限至",
+      "character_decision": "魂離肉身赴地府",
+      "decision_result": "遊歷啟程"
+    },
+    {
+      "event_id": "ch011_002",
+      "event_name": "崔判迎駕",
+      "event_status": "初入幽冥，前途未明",
+      "character_decision": "受崔珏跪迎引路",
+      "decision_result": "獲陰司內應護持"
+    },
+    {
+      "event_id": "ch011_003",
+      "event_name": "引入鬼門",
+      "event_status": "鬼門關前，陰陽界分",
+      "character_decision": "隨童子步入鬼門",
+      "decision_result": "進入地府核心"
+    },
+    {
+      "event_id": "ch011_004",
+      "event_name": "鬼門標界",
+      "event_status": "初見地府界碑",
+      "character_decision": "仰觀「鬼門關」巨匾",
+      "decision_result": "確立陰陽界限"
+    },
+    {
+      "event_id": "ch011_005",
+      "event_name": "兄弟索命",
+      "event_status": "玄武門舊業現形",
+      "character_decision": "遭建成元吉糾纏",
+      "decision_result": "崔判喝退冤魂"
+    },
+    {
+      "event_id": "ch011_006",
+      "event_name": "三曹對案",
+      "event_status": "涇河龍案待審",
+      "character_decision": "於森羅殿自辯申訴",
+      "decision_result": "龍案形式結案"
+    },
+    {
+      "event_id": "ch011_008",
+      "event_name": "十王遣送",
+      "event_status": "對案完結，陽壽已定",
+      "character_decision": "受十王敕令還魂",
+      "decision_result": "崔朱二使護送"
+    },
+    {
+      "event_id": "ch011_009",
+      "event_name": "背陰險境",
+      "event_status": "背陰山險峻可怖",
+      "character_decision": "驚懼過山依判官護",
+      "decision_result": "強化因果畏懼"
+    },
+    {
+      "event_id": "ch011_010",
+      "event_name": "地獄巡覽",
+      "event_status": "十八層地獄列陳",
+      "character_decision": "聽崔判詳述各獄因由",
+      "decision_result": "深懼惡報立誓行善"
+    },
+    {
+      "event_id": "ch011_011",
+      "event_name": "奈河辨道",
+      "event_status": "奈河橋三途並列",
+      "character_decision": "聽解金銀奈河三道",
+      "decision_result": "明忠奸善惡之別"
+    },
+    {
+      "event_id": "ch011_012",
+      "event_name": "枉死攔路",
+      "event_status": "草寇冤魂聚眾索命",
+      "character_decision": "允借相良金銀買路",
+      "decision_result": "確立陽償陰契機制"
+    },
+    {
+      "event_id": "ch011_013",
+      "event_name": "六道明心",
+      "event_status": "六道輪迴之所當前",
+      "character_decision": "聽判官講解輪迴歸趣",
+      "decision_result": "發願舉辦水陸大會"
+    },
+    {
+      "event_id": "ch011_014",
+      "event_name": "朝堂宣夢",
+      "event_status": "還魂甦醒，群臣在列",
+      "character_decision": "登殿詳述地府見聞",
+      "decision_result": "推動赦囚放女仁政"
+    },
+    {
+      "event_id": "ch011_015",
+      "event_name": "劉全進瓜",
+      "event_status": "謝瓜承諾需兌現",
+      "character_decision": "頒榜招賢以謝陰司",
+      "decision_result": "劉全揭榜頂瓜入冥"
+    },
+    {
+      "event_id": "ch012_002",
+      "event_name": "朝堂驗證",
+      "event_status": "玉英甦醒言語吻合",
+      "character_decision": "當廷互證借屍還魂",
+      "decision_result": "群臣信實因果不虛"
+    },
+    {
+      "event_id": "ch012_003",
+      "event_name": "夫婦相認",
+      "event_status": "翠蓮神識未變當庭認夫",
+      "character_decision": "賜妝奩永免差徭",
+      "decision_result": "恩恤民間宿緣"
+    },
+    {
+      "event_id": "ch012_005",
+      "event_name": "佛道辯難",
+      "event_status": "欲修水陸大會超度孤魂",
+      "character_decision": "定佛教為國教",
+      "decision_result": "毀僧謗佛者斷臂"
+    },
+    {
+      "event_id": "ch012_006",
+      "event_name": "選舉壇主",
+      "event_status": "三朝臣共查眾僧德行",
+      "character_decision": "推玄奘為水陸壇主",
+      "decision_result": "玄奘受封都僧綱"
+    },
+    {
+      "event_id": "ch012_007",
+      "event_name": "啟建水會",
+      "event_status": "敕令修建超度冥府孤魂",
+      "character_decision": "貞觀十三年九月初三開會",
+      "decision_result": "四十九日法會展開"
+    },
+    {
+      "event_id": "ch012_009",
+      "event_name": "賜寶授職",
+      "event_status": "觀音願贈寶予有德高僧",
+      "character_decision": "賜錦襴袈裟與九環杖",
+      "decision_result": "玄奘威儀震動長安"
+    },
+    {
+      "event_id": "ch012_010",
+      "event_name": "小乘斥非",
+      "event_status": "玄奘只講小乘經法",
+      "character_decision": "立命求取大乘真經",
+      "decision_result": "取經國策正式確立"
+    },
+    {
+      "event_id": "ch012_011",
+      "event_name": "金蟬顯號",
+      "event_status": "菩薩頌示金蟬轉世",
+      "character_decision": "拜玄奘為御弟聖僧",
+      "decision_result": "取經使命神聖加冕"
+    },
+    {
+      "event_id": "ch012_012",
+      "event_name": "御弟辭行",
+      "event_status": "吉日已定文牒齊備",
+      "character_decision": "親送三藏出關西行",
+      "decision_result": "取經事業正式啟程"
+    },
+    {
+      "event_id": "ch013_001",
+      "event_name": "御弟辭行",
+      "event_status": "水陸大會甫啟，取經使命臨門",
+      "character_decision": "親送三藏出關西行",
+      "decision_result": "取經事業正式啟程"
+    },
+    {
+      "event_id": "ch100_002",
+      "event_name": "金剛送聖",
+      "event_status": "四眾返程，八日限近",
+      "character_decision": "出駕望經樓候迎",
+      "decision_result": "準時迎聖於京郊"
+    },
+    {
+      "event_id": "ch100_003",
+      "event_name": "瑞靄臨京",
+      "event_status": "祥雲現長安，朝野矚目",
+      "character_decision": "率百官出迎瑞靄",
+      "decision_result": "親證取經功成"
+    },
+    {
+      "event_id": "ch100_005",
+      "event_name": "御製序文",
+      "event_status": "真經歸國，亟需定本",
+      "character_decision": "口占《聖教序》頒行",
+      "decision_result": "確立大乘正統地位"
+    }
+  ]
+}

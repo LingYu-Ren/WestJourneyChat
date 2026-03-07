@@ -1,0 +1,151 @@
+{
+  "name": "太上老君",
+  "aliases": [
+    "老君",
+    "道德天尊"
+  ],
+  "description": "三清之一，道教至尊，炼丹炼器之祖",
+  "personality": [
+    "沉稳",
+    "持重",
+    "恪守天规",
+    "临机果决",
+    "谋定后动",
+    "笃信火炼正道",
+    "问责明晰",
+    "溯源归本",
+    "惜丹守度",
+    "应机权变",
+    "器源必溯",
+    "因果彻察"
+  ],
+  "traits": [
+    "八卦紫金炉",
+    "金刚琢",
+    "白发白须",
+    "仙风道骨",
+    "袖藏玄机",
+    "丹炉主宰",
+    "宝物司掌者",
+    "丹房主理者",
+    "青牛驭主",
+    "化胡之器执掌者"
+  ],
+  "abilities": [
+    "炼丹术",
+    "炼器术",
+    "火眼金睛辨妖",
+    "定身法破解",
+    "法宝御敌",
+    "三昧真火掌控",
+    "炉位玄机推演",
+    "因果溯本",
+    "器灵识主",
+    "丹性辨微",
+    " dosage裁量",
+    "dosage裁量",
+    "本源勘定",
+    "坐骑敕返"
+  ],
+  "summary": "在瑶池祸乱后，老君亲赴凌霄殿奏报孙悟空罪状，以司职之责强化天庭问责机制。　于南天门观战时临危献金刚琢，精准击溃悟空，扭转围捕僵局，彰显其实战应变与法宝掌控之能。　于凌霄殿力主以八卦炉焚炼悟空，显其依律施罚之决断；亲掌炉火四十九日，却因巽位疏漏反成火眼金睛之源，暴露天道难测与人为筹算之限。　于平顶山莲花洞外现身索回五件法宝，明示金角银角系炉中童子偷宝下界，既厘清妖魔根源，亦佐证菩萨借宝试禅心之全局安排。　于兜率宫丹房面对悟空索求九转还魂丹，初拒后赐一丸，显其丹药珍重、法度严明；见悟空噙丹藏嗉，默许其携离，暗含对取经使命的隐性襄助。　于兜率宫直陈金刚琢为化胡之器，明示其本源与神圣属性；亲赴金兜洞一扇收伏青牛，以绝对威权终结妖劫，显其器、兽、道三重统摄之力。",
+  "events": [
+    {
+      "event_id": "ch005_010",
+      "event_name": "諸神奏禍",
+      "event_status": "天庭秩序崩坏，诸神紧急回奏",
+      "character_decision": "奏报悟空毁丹盗酒罪状",
+      "decision_result": "促成玉帝调兵围剿"
+    },
+    {
+      "event_id": "ch006_002",
+      "event_name": "菩薩問因",
+      "event_status": "天界秩序崩坏，众仙齐聚待命",
+      "character_decision": "静听玉帝陈情，默察事态",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch006_015",
+      "event_name": "天門觀戰",
+      "event_status": "二郎久战未决，天庭亟需制胜之策",
+      "character_decision": "献金刚琢助擒悟空",
+      "decision_result": "奠定擒拿关键"
+    },
+    {
+      "event_id": "ch006_016",
+      "event_name": "金剛琢擊",
+      "event_status": "悟空与二郎真君激战正酣",
+      "character_decision": "抛金刚琢击中悟空天灵",
+      "decision_result": "悟空跌跤被擒"
+    },
+    {
+      "event_id": "ch007_002",
+      "event_name": "老君獻策",
+      "event_status": "斩妖台诸法无效，天庭亟需终极处置",
+      "character_decision": "奏请投入八卦炉锻造成灰",
+      "decision_result": "玉帝准奏，解送兜率宫"
+    },
+    {
+      "event_id": "ch007_003",
+      "event_name": "推入巽位",
+      "event_status": "炉火初燃，悟空主动避入炉中",
+      "character_decision": "命以文武火炼并推入巽位",
+      "decision_result": "双目烟熏成火眼金睛"
+    },
+    {
+      "event_id": "ch007_004",
+      "event_name": "爐煉四九",
+      "event_status": "四十九日三昧火持续煅烧",
+      "character_decision": "全程监炉，候火候圆满",
+      "decision_result": "火候俱全，开炉取丹"
+    },
+    {
+      "event_id": "ch007_005",
+      "event_name": "蹬倒丹爐",
+      "event_status": "炉门开启，悟空破炉而出",
+      "character_decision": "猝不及防被捽倒",
+      "decision_result": "丹炉倾覆，悟空夺棒再乱天宫"
+    },
+    {
+      "event_id": "ch035_011",
+      "event_name": "老君索寶",
+      "event_status": "悟空携宝西行，阻于莲花洞外",
+      "character_decision": "现身认领五件法宝",
+      "decision_result": "揭明二魔本源与菩萨设试"
+    },
+    {
+      "event_id": "ch035_012",
+      "event_name": "爐童下界",
+      "event_status": "悟空质问纵放家属为邪",
+      "character_decision": "点明二童偷宝托化",
+      "decision_result": "闭合金角银角来历线索"
+    },
+    {
+      "event_id": "ch039_003",
+      "event_name": "丹房索丹",
+      "event_status": "悟空强索仙丹，丹房戒备森严",
+      "character_decision": "初拒后赐一丸还魂丹",
+      "decision_result": "应允救国性命之需"
+    },
+    {
+      "event_id": "ch039_004",
+      "event_name": "噙丹瞞老君",
+      "event_status": "丹已赐出，老君疑其贪多",
+      "character_decision": "默察噙丹未加阻拦",
+      "decision_result": "丹成携离，事遂不究"
+    },
+    {
+      "event_id": "ch052_010",
+      "event_name": "金剛琢源",
+      "event_status": "悟空质问青牛下界与宝失窃",
+      "character_decision": "道出金刚琢乃化胡之器",
+      "decision_result": "确证青牛偷宝本源"
+    },
+    {
+      "event_id": "ch052_011",
+      "event_name": "老君收牛",
+      "event_status": "独角兕大王逞凶，师徒被困金兜洞",
+      "character_decision": "现身一扇定乾坤",
+      "decision_result": "青牛现形被缚"
+    }
+  ]
+}

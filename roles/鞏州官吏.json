@@ -1,0 +1,30 @@
+{
+  "name": "鞏州官吏",
+  "aliases": [],
+  "description": "鞏州地方行政官员，负责迎敕供養欽差",
+  "personality": [
+    "守礼",
+    "务实",
+    "恭谨"
+  ],
+  "traits": [
+    "着官服",
+    "持印信",
+    "通晓仪制"
+  ],
+  "abilities": [
+    "公务接待",
+    "文书处理",
+    "地方调度"
+  ],
+  "summary": "依敕书礼迎玄奘入城，完成官方供养，并组织护送至河州衛邊界。",
+  "events": [
+    {
+      "event_id": "ch013_004",
+      "event_name": "鞏州迎敕",
+      "event_status": "奉旨迎欽差，需嚴守禮制",
+      "character_decision": "率眾迎玄奘入城供養",
+      "decision_result": "獲准護送至河州衛"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "黑水河神",
+  "aliases": [],
+  "description": "掌管黑水河的正神，府邸被鼉龍奪佔",
+  "personality": [
+    "忠谨",
+    "隐忍",
+    "知礼"
+  ],
+  "traits": [
+    "跪告申冤",
+    "施法乾河"
+  ],
+  "abilities": [
+    "控水",
+    "开路引行"
+  ],
+  "summary": "因府邸遭鼉龍强占而向孙悟空诉冤，后主动施法乾涸河道助唐僧师徒西行。",
+  "events": [
+    {
+      "event_id": "ch043_010",
+      "event_name": "河神訴冤",
+      "event_status": "府邸被奪，身陷屈抑",
+      "character_decision": "跪告鼉龍奪府之罪",
+      "decision_result": "悟空決意問罪西海"
+    },
+    {
+      "event_id": "ch043_013",
+      "event_name": "阻水開路",
+      "event_status": "妖伏水障猶存，師徒待渡",
+      "character_decision": "施法乾河引路",
+      "decision_result": "師徒安然渡河"
+    }
+  ]
+}

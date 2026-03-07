@@ -1,0 +1,27 @@
+{
+  "name": "遊奕靈官",
+  "aliases": [],
+  "description": "天庭巡查使，玉帝近侍神官",
+  "personality": [
+    "忠谨",
+    "果决"
+  ],
+  "traits": [
+    "巡天职守",
+    "通禀迅捷"
+  ],
+  "abilities": [
+    "腾云传令",
+    "通晓三界动静"
+  ],
+  "summary": "奉玉帝急命，与翊聖真君一同赴西方请如来降伏孙悟空，展现其作为天庭信使的关键职能。",
+  "events": [
+    {
+      "event_id": "ch007_009",
+      "event_name": "西請如來",
+      "event_status": "雷将溃败，天庭危急",
+      "character_decision": "奉命赴西方请佛老",
+      "decision_result": "如来应诏赴天庭"
+    }
+  ]
+}

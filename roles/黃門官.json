@@ -1,0 +1,74 @@
+{
+  "name": "黃門官",
+  "aliases": [],
+  "description": "朱紫國宮廷中負責通報引見的內侍官",
+  "personality": [
+    "謹慎",
+    "守制",
+    "易受矇蔽",
+    "恪盡職守",
+    "應變從命",
+    "輕信表象"
+  ],
+  "traits": [
+    "朝服佩玉",
+    "持牒傳令",
+    "依制驗人",
+    "捧冠呈儀",
+    "候旨承宣",
+    "奉榜待詔"
+  ],
+  "abilities": [
+    "驗牒辨偽",
+    "通傳奏對",
+    "察言辨貌",
+    "奉儀承制",
+    "應時奏引",
+    "辨形不察神"
+  ],
+  "summary": "在朝門外協助玄奘倒牒面駕，依制核驗大唐文牒並上呈國王。　面對黃袍怪偽裝三駙馬詐叩朝門，依常例放行未加嚴查，致其順利入殿。　於金鑾殿外接報四僧至，依制通傳並引導捧冠入殿，協助完成御服歸正之儀。　於五鳳樓前迎候唐僧獨赴金殿獻牒，依例驗文奏引，促成國王問政東土之對話。　於金亭館驛外迎候唐僧獨赴朝門，依驛丞安排照例驗牒，引導入殿倒換關文，初見國王病容與國丈異態。　於比丘國朝門外面對假唐僧被押求見之非常情狀，依常例驗身放行，未察其陰神附體之異，致國王誤認真僧召見。",
+  "events": [
+    {
+      "event_id": "ch029_006",
+      "event_name": "倒牒面駕",
+      "event_status": "奉命值守朝門，承辦外使驗牒",
+      "character_decision": "接收並轉呈唐僧文牒",
+      "decision_result": "國王准奏召見"
+    },
+    {
+      "event_id": "ch030_004",
+      "event_name": "詐叩朝門",
+      "event_status": "俊貌自稱駙馬，情勢非常",
+      "character_decision": "依貌放行未驗真偽",
+      "decision_result": "准其入殿行禮"
+    },
+    {
+      "event_id": "ch040_002",
+      "event_name": "僧人捧冠",
+      "event_status": "四僧奉冠而至，儀制攸關",
+      "character_decision": "奏報國王並引導入殿",
+      "decision_result": "冠帶順利呈獻國王"
+    },
+    {
+      "event_id": "ch068_003",
+      "event_name": "朝門獻牒",
+      "event_status": "國王出榜招醫，驗文時機緊要",
+      "character_decision": "驗牒奏引三藏入殿",
+      "decision_result": "順利呈關文啟問答"
+    },
+    {
+      "event_id": "ch078_004",
+      "event_name": "朝門驗牒",
+      "event_status": "天曉驗文，關文緊要",
+      "character_decision": "依例驗牒奏引入殿",
+      "decision_result": "順利呈關文啟對"
+    },
+    {
+      "event_id": "ch079_001",
+      "event_name": "偽僧入朝",
+      "event_status": "假僧被押求見，形貌類真",
+      "character_decision": "依貌驗身放行",
+      "decision_result": "國王誤召假僧"
+    }
+  ]
+}

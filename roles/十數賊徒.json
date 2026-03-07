@@ -1,0 +1,30 @@
+{
+  "name": "十數賊徒",
+  "aliases": [],
+  "description": "一夥因家私耗盡而鋌而走險的劫匪",
+  "personality": [
+    "貪婪",
+    "兇殘",
+    " opportunistic"
+  ],
+  "traits": [
+    "夜行",
+    "結夥作案",
+    "乘雨作案"
+  ],
+  "abilities": [
+    "夜襲",
+    "暴力劫掠",
+    "隱蔽行動"
+  ],
+  "summary": "趁夜雨潛入寇員外宅邸，以暴力手段殺害主人、劫掠財物，暴露其為利不擇手段的犯罪本質。",
+  "events": [
+    {
+      "event_id": "ch097_001",
+      "event_name": "夜劫寇宅",
+      "event_status": "夜雨掩護，破院避雨後伺機作案",
+      "character_decision": "乘雨夜劫殺寇洪奪財",
+      "decision_result": "寇洪被踢死，家財遭劫"
+    }
+  ]
+}

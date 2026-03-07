@@ -1,0 +1,47 @@
+{
+  "name": "東海龍王",
+  "aliases": [],
+  "description": "東海之主，掌管東海水族與水晶宮",
+  "personality": [
+    "威嚴",
+    "畏懼強權",
+    "被動應對",
+    "善諭勸化"
+  ],
+  "traits": [
+    "水晶冠冕",
+    "龍鱗甲胄",
+    "持玉圭",
+    "通古博今"
+  ],
+  "abilities": [
+    "控水御浪",
+    "通曉海藏",
+    "奏表天庭",
+    "引典喻理"
+  ],
+  "summary": "因孫悟空強索神兵披掛、驚傷水族而上天告狀；此前更被迫獻出定海神珍鐵，促成金箍棒誕生。　於水晶宮以張良進履典故勸悟空守誠，展現教化之思與隱忍中的智慧引導。",
+  "events": [
+    {
+      "event_id": "ch003_007",
+      "event_name": "金箍現世",
+      "event_status": "水晶宮遭闖，寶物被索",
+      "character_decision": "聽從龍婆提示呈獻神鐵",
+      "decision_result": "神珍鐵化為金箍棒"
+    },
+    {
+      "event_id": "ch003_011",
+      "event_name": "龍王告狀",
+      "event_status": "天庭殿前，孤立陳情",
+      "character_decision": "上表控訴悟空暴行",
+      "decision_result": "玉帝決意遣將擒拿"
+    },
+    {
+      "event_id": "ch014_011",
+      "event_name": "圯橋喻道",
+      "event_status": "水晶宮中，悟空東遁求茶",
+      "character_decision": "以張良進履勸守誠信",
+      "decision_result": "促成悟空內省"
+    }
+  ]
+}

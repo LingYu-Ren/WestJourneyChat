@@ -1,0 +1,51 @@
+{
+  "name": "刺史",
+  "aliases": [],
+  "description": "銅臺府地方行政與司法長官",
+  "personality": [
+    "威嚴",
+    "易懼",
+    "從善"
+  ],
+  "traits": [
+    "穿大衣",
+    "升堂理事",
+    "信神諭"
+  ],
+  "abilities": [
+    "審案",
+    "調兵",
+    "決斷"
+  ],
+  "summary": "初因誣告狀輕信拘捕唐僧師徒，後受顯魂與神諭震懾，迅速轉向查清冤情並當堂釋放，展現權變與敬畏之心。",
+  "events": [
+    {
+      "event_id": "ch097_003",
+      "event_name": "赴府投詞",
+      "event_status": "受理誣告失狀，案情未明",
+      "character_decision": "點兵追捕唐僧師徒",
+      "decision_result": "誤拘取經僧眾"
+    },
+    {
+      "event_id": "ch097_009",
+      "event_name": "畫前誑官",
+      "event_status": "被悟空附畫假託神諭震懾",
+      "character_decision": "決意升堂即放",
+      "decision_result": "轉向查冤"
+    },
+    {
+      "event_id": "ch097_011",
+      "event_name": "解狀陳情",
+      "event_status": "寇家自承誣告，案情逆轉",
+      "character_decision": "疑案有冤，下令提審釋放",
+      "decision_result": "確立重審意向"
+    },
+    {
+      "event_id": "ch097_012",
+      "event_name": "堂上索還",
+      "event_status": "師徒當堂索還馬匹行李",
+      "character_decision": "交還馬匹行李",
+      "decision_result": "恢復師徒名譽"
+    }
+  ]
+}

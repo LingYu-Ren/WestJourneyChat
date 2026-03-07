@@ -1,0 +1,101 @@
+{
+  "name": "清風",
+  "aliases": [],
+  "description": "五莊觀鎮元子座下守觀童子，司掌人參果園",
+  "personality": [
+    "倨傲",
+    "忠谨",
+    "执拗",
+    "惶惧",
+    "机巧",
+    "敬畏神明"
+  ],
+  "traits": [
+    "道童装束",
+    "熟稔礼数",
+    "护果心切",
+    "善饰言辞",
+    "伏地禀事"
+  ],
+  "abilities": [
+    "看守灵园",
+    "奉果仪轨",
+    "辨察异动",
+    "欺瞒周旋",
+    "危机应变",
+    "跪禀陈情"
+  ],
+  "summary": "清風在五莊觀事件中屡次主导礼制应对与失果追查，因坚守师命而态度强硬，终致与取经团队爆发正面冲突。　面对人参树被毁的绝境，清風由刚硬问责转向惶然欺瞒，联合明月锁殿囚僧以拖延问罪，终引镇元子亲临追缉。　在观音菩萨施甘露救树之际，清風与明月侍立后园，目睹神迹重生，由惶惧转为虔敬伏拜，亲证师门至宝得续。",
+  "events": [
+    {
+      "event_id": "ch024_004",
+      "event_name": "天地供奉",
+      "event_status": "殿中独供天地，遭唐僧质疑",
+      "character_decision": "申明三清四帝皆师友",
+      "decision_result": "激化悟空讥讽"
+    },
+    {
+      "event_id": "ch024_005",
+      "event_name": "奉果受拒",
+      "event_status": "奉人参果遭唐僧拒食",
+      "character_decision": "与明月私食余果",
+      "decision_result": "埋下偷窃疑端"
+    },
+    {
+      "event_id": "ch024_008",
+      "event_name": "查園失果",
+      "event_status": "人參園少果且闻八戒言语",
+      "character_decision": "联合明月查园问责",
+      "decision_result": "确认失果并指认偷窃"
+    },
+    {
+      "event_id": "ch024_009",
+      "event_name": "殿前誣罵",
+      "event_status": "当众指控取经团偷果",
+      "character_decision": "于正殿斥责唐僧师徒",
+      "decision_result": "引发团队信任危机"
+    },
+    {
+      "event_id": "ch025_001",
+      "event_name": "當堂對質",
+      "event_status": "三藏当面质询失果真相",
+      "character_decision": "坚持指认取经团盗果",
+      "decision_result": "悟空坦承激化矛盾"
+    },
+    {
+      "event_id": "ch025_003",
+      "event_name": "查園驚變",
+      "event_status": "人参树倾颓魂飞魄散",
+      "character_decision": "与明月密议哄骗锁门",
+      "decision_result": "埋下囚禁伏笔"
+    },
+    {
+      "event_id": "ch025_004",
+      "event_name": "佯謊鎖門",
+      "event_status": "师徒被困正殿内",
+      "character_decision": "假称果数无误闭门",
+      "decision_result": "成功囚禁四众"
+    },
+    {
+      "event_id": "ch025_007",
+      "event_name": "歸觀問罪",
+      "event_status": "镇元子归观听童哭诉",
+      "character_decision": "跪禀悟空推树毁园",
+      "decision_result": "促成大仙亲征"
+    },
+    {
+      "event_id": "ch025_008",
+      "event_name": "雲蹤疾趕",
+      "event_status": "随大仙腾云追截取经团",
+      "character_decision": "指明师徒西行去向",
+      "decision_result": "助大仙路旁截人"
+    },
+    {
+      "event_id": "ch026_008",
+      "event_name": "甘露灌根",
+      "event_status": "菩萨施法救树，众童侍立后园",
+      "character_decision": "伏地恭候甘露施治",
+      "decision_result": "见证果树复生"
+    }
+  ]
+}

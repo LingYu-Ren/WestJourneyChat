@@ -1,0 +1,27 @@
+{
+  "name": "工幹官張魯",
+  "aliases": [],
+  "description": "天庭工部幹官，負責營建事務",
+  "personality": [
+    "奉命行事",
+    "恪守職分"
+  ],
+  "traits": [
+    "職務在身",
+    "天庭官員"
+  ],
+  "abilities": [
+    "營造建築",
+    "執行詔命"
+  ],
+  "summary": "奉玉帝詔命參與齊天大聖府的營建與賜酒花儀式，展現其作為工部幹官的職能執行力。",
+  "events": [
+    {
+      "event_id": "ch004_014",
+      "event_name": "築府受賜",
+      "event_status": "天庭奉詔營建府邸，協同星君賜禮",
+      "character_decision": "主持齊天大聖府營建",
+      "decision_result": "府成酒花俱備"
+    }
+  ]
+}

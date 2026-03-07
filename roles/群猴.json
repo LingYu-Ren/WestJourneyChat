@@ -1,0 +1,142 @@
+{
+  "name": "群猴",
+  "aliases": [],
+  "description": "花果山野生猴群，石猴同族及早期追随者",
+  "personality": [
+    "頑劣",
+    "好奇",
+    "重諾",
+    "從眾",
+    "懼死",
+    "忠眷",
+    "尚武",
+    "慕強",
+    "悲愴",
+    "懷舊",
+    "激憤"
+  ],
+  "traits": [
+    "喜群聚",
+    "善攀躍",
+    "畏暑畏寒",
+    "重儀式",
+    "戀故園",
+    "習兵陣",
+    "重威儀",
+    "傷痕纍纍",
+    "泣訴成習"
+  ],
+  "abilities": [
+    "溯澗尋源",
+    "辨瀑識洞",
+    "設宴餞行",
+    "守土護裔",
+    "操演武藝",
+    "列陣點卯",
+    "觀勢附強",
+    "泣告陳情",
+    "整備山門",
+    "分派戰利"
+  ],
+  "summary": "從避暑嬉戲到共立美猴王，再至憂懼生死、設宴送別，完成由自然群體向具秩序與覺醒意識的猴族轉變。　因美猴王被逐而憂懼失主，雲返見王歸即重振士氣，展現對故園與領袖的深切依歸。　在美猴王統領下習兵演武、列陣點卯，由自然群體進一步轉型為具軍事組織與政治認同的山中自治部族；藉神兵威儀確立統治秩序，展現對強力領袖的主動歸附與集體行動力。　遭天火焚山、獵戶屠掠後呈現創傷性集體悲愴，藉泣告陳情推動報復行動；於廢墟中協力整備山門、豎旗復辟，展現頑強重建意志與政治象徵自覺。",
+  "events": [
+    {
+      "event_id": "ch001_009",
+      "event_name": "群猴避暑",
+      "event_status": "天氣炎熱，松下嬉戲",
+      "character_decision": "松陰下嬉戲消暑",
+      "decision_result": "引發尋源探瀑之議"
+    },
+    {
+      "event_id": "ch001_010",
+      "event_name": "溯流尋源",
+      "event_status": "澗水奔流，興起探尋",
+      "character_decision": "順澗尋瀑布源流",
+      "decision_result": "發現水簾洞瀑布"
+    },
+    {
+      "event_id": "ch001_011",
+      "event_name": "石猴躍瀑",
+      "event_status": "瀑布當前，眾猴待決",
+      "character_decision": "圍觀並約定拜王者",
+      "decision_result": "見證石猴躍入得洞"
+    },
+    {
+      "event_id": "ch001_013",
+      "event_name": "宣示洞天",
+      "event_status": "初入洞外，急欲知詳",
+      "character_decision": "圍問洞內情形",
+      "decision_result": "信服願隨入居"
+    },
+    {
+      "event_id": "ch001_014",
+      "event_name": "稱王定分",
+      "event_status": "洞中齊聚，承諾兌現",
+      "character_decision": "拜石猴為美猴王",
+      "decision_result": "確立君臣秩序"
+    },
+    {
+      "event_id": "ch001_015",
+      "event_name": "宴中憂死",
+      "event_status": "享樂極盛，忽觸無常",
+      "character_decision": "共懼生死無常",
+      "decision_result": "集體生命覺醒"
+    },
+    {
+      "event_id": "ch001_017",
+      "event_name": "設宴餞行",
+      "event_status": "王決遠遊，全族送別",
+      "character_decision": "大設筵宴送王下山",
+      "decision_result": "美猴王正式啟程"
+    },
+    {
+      "event_id": "ch002_009",
+      "event_name": "雲返故園",
+      "event_status": "王被逐離山，群猴惶然失據",
+      "character_decision": "迎王雲返共護花果山",
+      "decision_result": "重聚同心，啟動守土之戰"
+    },
+    {
+      "event_id": "ch003_001",
+      "event_name": "操演武藝",
+      "event_status": "斬魔初定，防禦未固",
+      "character_decision": "隨王操練兵法器械",
+      "decision_result": "引發尋器之議"
+    },
+    {
+      "event_id": "ch003_004",
+      "event_name": "聚眾點卯",
+      "event_status": "兵械齊備，威勢已成",
+      "character_decision": "列陣受閱彰顯歸心",
+      "decision_result": "建成鐵桶金城體系"
+    },
+    {
+      "event_id": "ch003_009",
+      "event_name": "顯棒鎮山",
+      "event_status": "披掛神兵，群怪環伺",
+      "character_decision": "列陣觀威共震服",
+      "decision_result": "徹底臣服封四健將"
+    },
+    {
+      "event_id": "ch028_002",
+      "event_name": "山頹景殘",
+      "event_status": "焦枯倒塌滿目瘡痍",
+      "character_decision": "圍觀慟哭山林毀滅",
+      "decision_result": "激發護群之怒"
+    },
+    {
+      "event_id": "ch028_003",
+      "event_name": "群猴泣告",
+      "event_status": "獵戶肆虐流散失所",
+      "character_decision": "哭訴屠掠流離之苦",
+      "decision_result": "確立獵戶為敵"
+    },
+    {
+      "event_id": "ch028_006",
+      "event_name": "整備山門",
+      "event_status": "獵戶覆滅物資充盈",
+      "character_decision": "分派戰利重建設施",
+      "decision_result": "豎旗宣告復辟"
+    }
+  ]
+}

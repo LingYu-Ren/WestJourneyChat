@@ -1,0 +1,34 @@
+{
+  "name": "黃河水伯",
+  "aliases": [],
+  "description": "掌管黃河水域的水神，隸屬水德星君麾下",
+  "personality": [
+    "盡職",
+    "服從調遣"
+  ],
+  "traits": [
+    "持盂施法",
+    "司水之神"
+  ],
+  "abilities": [
+    "控水",
+    "傾注洪流"
+  ],
+  "summary": "受悟空所請赴烏浩宮協同水德星君調水，後獨自於金洞口傾盂灌洞，然水勢雖漫四野卻未能入洞制敵。",
+  "events": [
+    {
+      "event_id": "ch051_011",
+      "event_name": "請水渰洞",
+      "event_status": "奉命協同調水，應對火劫不侵之困",
+      "character_decision": "攜半盂黃河水赴金山",
+      "decision_result": "抵達烏浩宮待命"
+    },
+    {
+      "event_id": "ch051_012",
+      "event_name": "傾水漫門",
+      "event_status": "立於金洞口施法灌洞，水勢失控",
+      "character_decision": "傾盂灌洞",
+      "decision_result": "水漫民田，妖魔無損"
+    }
+  ]
+}

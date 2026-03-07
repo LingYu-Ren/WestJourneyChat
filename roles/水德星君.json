@@ -1,0 +1,27 @@
+{
+  "name": "水德星君",
+  "aliases": [],
+  "description": "掌管水德之职的天界星君，司雨泽、调水势",
+  "personality": [
+    "恪守天职",
+    "应召即行"
+  ],
+  "traits": [
+    "持水盂",
+    "着玄青仙袍"
+  ],
+  "abilities": [
+    "调御天河",
+    "敕令水伯"
+  ],
+  "summary": "应孙悟空所请，协同黄河水伯赴金山灌洞擒魔，体现其水系统御之权与天庭协作职能。",
+  "events": [
+    {
+      "event_id": "ch051_011",
+      "event_name": "請水渰洞",
+      "event_status": "烏浩宮受召，火劫初平後再議水剋",
+      "character_decision": "應請調水助戰",
+      "decision_result": "水伯攜水赴金山"
+    }
+  ]
+}

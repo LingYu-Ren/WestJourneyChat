@@ -1,0 +1,35 @@
+{
+  "name": "陰陽官",
+  "aliases": [],
+  "description": "天竺國掌管曆法吉凶的官方術士",
+  "personality": [
+    "謹慎",
+    "專業",
+    "順從"
+  ],
+  "traits": [
+    "通曉陰陽曆數",
+    "奏報嚴謹"
+  ],
+  "abilities": [
+    "擇日定吉凶",
+    "推算干支時辰"
+  ],
+  "summary": "在國王催促下，陰陽官準確奏報「十二日壬子」為良辰，成為解局關鍵時間錨點。　在國王急欲速成仙姻以固國運的壓力下，陰陽官於金鑾殿當廷奏報「十二日壬子辰良」，正式欽定合巹之期，使全章節奏錨定於此關鍵日。",
+  "events": [
+    {
+      "event_id": "ch094_006",
+      "event_name": "陰陽定婚期",
+      "event_status": "國王急欲定合巹之期",
+      "character_decision": "奏報十二日壬子良辰",
+      "decision_result": "確立十二日為轉折點"
+    },
+    {
+      "event_id": "ch094_004",
+      "event_name": "婚期既定",
+      "event_status": "國王急欲速成仙姻以固國運",
+      "character_decision": "奏報十二日壬子辰良",
+      "decision_result": "欽定合巹佳期"
+    }
+  ]
+}

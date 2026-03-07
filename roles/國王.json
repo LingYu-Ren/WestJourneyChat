@@ -1,0 +1,650 @@
+{
+  "name": "國王",
+  "aliases": [],
+  "description": "天竺國君主，誤認假公主招僧為駙馬",
+  "personality": [
+    "多疑",
+    "易怒",
+    "輕信權臣",
+    "威儀重",
+    "反覆猶豫",
+    "好面子",
+    "知過能改",
+    "重諾守信",
+    "知恩圖報",
+    "善納諫言",
+    "重禮尚文",
+    "病中焦慮",
+    "誠懇泣訴",
+    "信賴異術",
+    "感恩深切",
+    "倚重僧眾",
+    "主動托付",
+    "悲切坦誠",
+    "虛心聽述",
+    "安民為念",
+    "昏聵受惑",
+    "偏聽偏信",
+    "急躁決斷",
+    "驚惶失措",
+    "羞愧下拜",
+    "虔敬奉謝",
+    "感戴深重",
+    "懺悔篤信",
+    "順應天意",
+    "果斷更名",
+    "優柔寡斷",
+    "重儀輕實",
+    "易受美色所惑",
+    "喜形於色",
+    "虛禮周旋",
+    "敬畏神異",
+    "重儀典而輕察實",
+    "順勢而為",
+    "依禮定序",
+    "崇文重雅",
+    "務實求吉",
+    "畏懼醜陋",
+    "重儀避嫌",
+    "依禮分席",
+    "欽重文才",
+    "順勢驅徒",
+    "隱忍待機",
+    "痛悔失察",
+    "父愛深摯",
+    "誠懇求證",
+    "即刻踐諾",
+    "親力解鎖",
+    "感極而泣",
+    "驚懼求救",
+    "急問下落",
+    "親赴迎女",
+    "抱頭痛哭",
+    "敕建封官",
+    "苦留不捨"
+  ],
+  "traits": [
+    "坐金鑾殿",
+    "執掌關文",
+    "倚重國師",
+    "臨朝裁斷",
+    "頒榜招僧",
+    "設宴謝恩",
+    "御前聽審",
+    "五鳳樓前受牒",
+    "寶殿懸絲診脈",
+    "朝堂頒旨",
+    "御前吞丹",
+    "腹響行穢",
+    "病愈登殿",
+    "東閣酬宴",
+    "避妖樓述劫",
+    "地穴外設酒謝恩",
+    "金鑾殿前問路探山",
+    "階下挑屍報功",
+    "殿內索串為信",
+    "東閣聽戰詳述",
+    "金殿辯道",
+    "詔令圍驛",
+    "朝門驗偽僧",
+    "殿上索心為引",
+    "搜宮尋主",
+    "泥臉復真",
+    "溯妖始末",
+    "獻俘回旨",
+    "授棗祛病",
+    "鵝籠歸嬰",
+    "萬民酬恩",
+    "開櫃拜師",
+    "剃髮皈依",
+    "丹墀受戒",
+    "改國號欽法",
+    "倒換關文",
+    "午門迎駙馬",
+    "金殿賜繡墩",
+    "陰陽定婚期",
+    "御園設春宴",
+    "華夷閣和詩",
+    "昭陽宮聽諫",
+    "丹墀辭行領關",
+    "金殿奏對問籍",
+    "依序詢徒定禮",
+    "欽定良辰合巹",
+    "升殿頒宴令",
+    "園苑觀景設席",
+    "御前命題和詩",
+    "昭陽宮聽乞赦",
+    "丹墀授關遣散",
+    "分席款待",
+    "導覽御苑",
+    "屏風題詠",
+    "奏報完備",
+    "頒關遣徒",
+    "鳷鵲宮親審",
+    "留春亭夜聽",
+    "布金寺開鎖",
+    "山寺敕建封官",
+    "苦留西行",
+    "永鎮華夷閣遊賞",
+    "留春亭夜述",
+    "華夷樓敕建"
+  ],
+  "abilities": [
+    "裁決刑賞",
+    "頒發關文",
+    "主持朝議",
+    "設局賭勝",
+    "頒榜布政",
+    "設宴定策",
+    "臨朝審妖",
+    "驗牒問政",
+    "聽診納醫",
+    "命官取藥",
+    "親試藥引",
+    "登殿謝恩",
+    "密談妖情",
+    "觀樓辨氛",
+    "授地理情報",
+    "賜酒賀功",
+    "獻信物取信",
+    "應對捷報",
+    "聽述安民",
+    "詔令緝捕",
+    "臨朝辯道",
+    "敕令搜驛",
+    "召見偽僧",
+    "當庭索心",
+    "確認妖蹤",
+    "迎僧復貌",
+    "回溯妖源",
+    "受俘定罪",
+    "吞棗延年",
+    "禮敬神明",
+    "頒恩安民",
+    "開櫃迎僧",
+    "剃度皈依",
+    "更國號立新法",
+    "倒換西行關文",
+    "詔召三徒",
+    "賜座抗禮",
+    "定婚良辰",
+    "遊園款待",
+    "命題和詩",
+    "聽請逐徒",
+    "頒關遣散",
+    "奏對問籍定序",
+    "依官奏欽定吉日",
+    "升殿頒令備宴",
+    "園苑導覽設席",
+    "御前命題考文",
+    "聽乞赦而決遣徒",
+    "丹墀頒關贈資",
+    "分席隔離",
+    "導覽賞景",
+    "命題詠和",
+    "奏報備禮",
+    "頒關遣徒",
+    "宮中親勘",
+    "夜廷聽證",
+    "赴寺迎女",
+    "開鎖認親",
+    "敕建護寺",
+    "苦留謝恩",
+    "設香叩拜",
+    "親赴布金寺",
+    "開鎖抱女",
+    "敕改山名",
+    "賜額封官"
+  ],
+  "summary": "因道士誣告而震怒欲誅唐僧師徒，後在求雨賭勝中見證龍王現形，權威判斷遭動搖。　在龍現辨功後動搖卻未徹底醒悟，屢次受道士慫恿追加賭局，展現權威依附性與決策搖擺性。　在三妖伏誅後感念悟空除妖救國之功，主動頒榜招僧、恢復佛門正統，展現悔悟與政令轉向的實質行動。　在金光寺冤案平反後，親令轎押二妖赴朝受審，彰顯司法權威；復設素宴款待取經四眾，主動議定擒妖取寶之策，展現由被惑到倚重、由被動到主導的治理轉向。　於五鳳樓前親驗大唐關文，由驗文引發對東土治世之思，展現其重典章、重源流的君主意識；於寶殿默許悟空懸絲診脈，雖畏其形貌卻肯容異術施治，體現病中務實與權變之態。　病中全程配合悟空診治，依方吞丹、腹鳴排穢，展現對異術的深度信任與務實果敢；痊癒後登殿謝恩、東閣泣訴、避妖樓直面妖風，標誌其由被動求醫轉為主動托付、由畏懼隱忍轉為坦誠承擔。　在妖穴解封後設酒謝恩，展現由被動承治到主動酬功的轉變；面對行者問路、赴嶺、報捷、索信等連環舉措，迅速提供地理情報、即時賜酒、悲泣獻串，體現對取經團深度信任與戰略倚重。　於東閣歡宴之際，靜聽悟空詳述擒妖全過程，展現虛心納述、以實證安民心的君主意識；藉此釐清因果，順勢頒發關文助師徒西行，標誌其治理邏輯由感性依賴轉向理性承續。　於金鑾殿上因求長生而傾聽國丈妖言，輕信其誣陷之辭，決意圍驛擒僧取心，展現權威被妖術徹底蠱惑、理性判斷嚴重崩塌的危機狀態。　於偽僧入朝時誤認其為真三藏，暴露出被妖術深度蒙蔽之態；在悟空揭偽、搜宮、獻俘全過程中由驚惶失措轉為羞愧下拜，最終虔敬奉謝、吞棗祛病，標誌其從迷信妖道徹底回歸正信；鵝籠歸嬰與萬民酬恩更使其完成由昏君到仁主的民心重塑。　因悟空夜剃百官之首而驚懼悔悟，翌日朝會開櫃迎僧、君臣剃髮皈依，遂改國號為「欽法國」，並倒換關文助取經團西行，標誌其由滅法暴君徹底轉向護法仁主。　在天竺國事件中，國王因假公主拋毬選婿而誤認唐僧為駙馬，屢次屈從美色與偽飾之請，展現其重儀式、輕實質的統治慣性；然面對悟空剛正抗禮、三藏禪詩示心，仍能暫時容讓、虛與委蛇，顯示其危機中尚存權變餘地。　於金鑾殿依序聽取三徒身世，展現尊禮重序之治態；欽定十二日婚期並連設春宴、命題和詩，凸顯其以文彰德、借儀固統的君主意圖；面對假公主懇請逐徒，果斷頒關遣散三徒，反映其仍受表象牽制卻亦具務實順勢之能。　面對三徒神異自陳，由震懾轉為謹慎分席以避嫌；於御園觀景中欽重唐僧文才，並依陰陽官奏定婚期，最終順勢頒關遣徒，展現其在美色與儀典牽制下仍具務實權變之能。　面對悟空揭偽，國王由震驚轉為急切求證，親赴布金寺開鎖認女，展現父愛深摯與踐諾果決；事後敕建寺院、封賞老僧，標誌其由被動撥亂轉向主動弘善。　在假駙馬現形後驚懼求救，急問真公主下落並親赴布金寺開鎖迎女，抱頭痛哭完成骨肉團圓；事後敕改寶華山、賜額封官以彰弘善，並苦留師徒五六日終依禮厚贈辭行。",
+  "events": [
+    {
+      "event_id": "ch045_004",
+      "event_name": "朝門驗牒",
+      "event_status": "面見取經僧眾，疑其毀觀犯禁",
+      "character_decision": "質疑關文真偽欲誅四眾",
+      "decision_result": "被太師勸諫暫緩"
+    },
+    {
+      "event_id": "ch045_005",
+      "event_name": "誣告構陷",
+      "event_status": "聽信三仙誣告，認定僧眾殺徒",
+      "character_decision": "擬誅四眾改為賭勝求雨",
+      "decision_result": "確立求雨之約"
+    },
+    {
+      "event_id": "ch045_010",
+      "event_name": "龍現辨功",
+      "event_status": "裁定「能召即有功」，待驗法力",
+      "character_decision": "依龍現結果判定悟空勝出",
+      "decision_result": "道士威信崩塌"
+    },
+    {
+      "event_id": "ch046_001",
+      "event_name": "國師跪諫",
+      "event_status": "欲頒關文放行，遭三仙跪阻",
+      "character_decision": "收回關文同意再賭",
+      "decision_result": "賭約延續"
+    },
+    {
+      "event_id": "ch046_002",
+      "event_name": "雲梯顯聖",
+      "event_status": "道士懼威信崩塌，提坐禪賭法",
+      "character_decision": "設雙禪臺准比試",
+      "decision_result": "坐禪賭局成立"
+    },
+    {
+      "event_id": "ch046_003",
+      "event_name": "禪臺速立",
+      "event_status": "奉旨建禪臺，時限緊迫",
+      "character_decision": "下旨半時建雙臺",
+      "decision_result": "禪臺即刻落成"
+    },
+    {
+      "event_id": "ch046_009",
+      "event_name": "隔板猜枚",
+      "event_status": "虎力敗北，鹿力另提賭局",
+      "character_decision": "命設朱櫃啟第二局",
+      "decision_result": "猜枚賭局開始"
+    },
+    {
+      "event_id": "ch046_014",
+      "event_name": "武藝三賭",
+      "event_status": "連敗三局，道士惱羞成怒",
+      "character_decision": "設殺場啟生死賭",
+      "decision_result": "油鍋砍頭局展開"
+    },
+    {
+      "event_id": "ch047_001",
+      "event_name": "頒榜招僧",
+      "event_status": "三妖伏誅，佛門蒙冤得雪",
+      "character_decision": "頒布招僧榜文四門張掛",
+      "decision_result": "五百僧人入城謝恩"
+    },
+    {
+      "event_id": "ch062_012",
+      "event_name": "轎押赴朝",
+      "event_status": "二妖伏誅，需當廷審明以正國法",
+      "character_decision": "命行者乘轎押妖入宮",
+      "decision_result": "百姓驚觀，權威重塑"
+    },
+    {
+      "event_id": "ch062_013",
+      "event_name": "宴定擒策",
+      "event_status": "冤情昭雪，亟須肅清餘患",
+      "character_decision": "設素宴議定擒賊取寶",
+      "decision_result": "八戒請戰，即刻啟程"
+    },
+    {
+      "event_id": "ch068_003",
+      "event_name": "朝門獻牒",
+      "event_status": "三藏獨呈關文，需驗文定禮",
+      "character_decision": "金殿親受關文並問治世",
+      "decision_result": "觸發論前世敘事"
+    },
+    {
+      "event_id": "ch068_007",
+      "event_name": "懸絲診脈",
+      "event_status": "畏悟空相貌兇惡，拒面診",
+      "character_decision": "准懸絲隔帳診脈",
+      "decision_result": "確立醫國合法性"
+    },
+    {
+      "event_id": "ch069_002",
+      "event_name": "朝堂頒旨取藥",
+      "event_status": "烏金丹方初定，亟需配引",
+      "character_decision": "設朝命官取藥",
+      "decision_result": "全城籌備無根水"
+    },
+    {
+      "event_id": "ch069_004",
+      "event_name": "御前吞丹試水",
+      "event_status": "龍王已降甘霖，藥引齊備",
+      "character_decision": "依方吞丹飲雨",
+      "decision_result": "積滯初除"
+    },
+    {
+      "event_id": "ch069_005",
+      "event_name": "腹響行穢解疾",
+      "event_status": "丹雨合力攻邪，腹內翻湧",
+      "character_decision": "腹鳴排穢痰飯團",
+      "decision_result": "確認端陽驚恐結症"
+    },
+    {
+      "event_id": "ch069_006",
+      "event_name": "病愈登殿謝恩",
+      "event_status": "氣血調和，沉痾盡去",
+      "character_decision": "痊癒登殿拜謝三藏",
+      "decision_result": "開啟東閣酬宴"
+    },
+    {
+      "event_id": "ch069_007",
+      "event_name": "端陽劫后詳述",
+      "event_status": "感念救命之恩，推心置腹",
+      "character_decision": "泣訴金聖宮被攝始末",
+      "decision_result": "確立賽太歲為核心妖魔"
+    },
+    {
+      "event_id": "ch069_008",
+      "event_name": "風起現妖臨樓",
+      "event_status": "避妖樓觀覽觸發妖氛感應",
+      "character_decision": "驚遁避風唯留僧眾",
+      "decision_result": "眾人驚散"
+    },
+    {
+      "event_id": "ch070_002",
+      "event_name": "解穴報捷",
+      "event_status": "妖氣消散，先鋒敗退",
+      "character_decision": "設酒謝恩",
+      "decision_result": "行者撇杯滅火"
+    },
+    {
+      "event_id": "ch070_003",
+      "event_name": "問路探山",
+      "event_status": "須主動迎敵賽太歲",
+      "character_decision": "告知麒麟山距離",
+      "decision_result": "明示三千餘里程"
+    },
+    {
+      "event_id": "ch070_004",
+      "event_name": "觔斗赴嶺",
+      "event_status": "行者嫌備糧緩急",
+      "character_decision": "未及備辦乾糧",
+      "decision_result": "默許瞬息離國"
+    },
+    {
+      "event_id": "ch070_008",
+      "event_name": "挑屍報功",
+      "event_status": "行者奪牌返國獻捷",
+      "character_decision": "大喜賜酒賀功",
+      "decision_result": "接納戰果彰顯權威"
+    },
+    {
+      "event_id": "ch070_009",
+      "event_name": "索串為信",
+      "event_status": "欲取信於被擄娘娘",
+      "character_decision": "悲泣獻出金聖宮金串",
+      "decision_result": "行者套臂為憑"
+    },
+    {
+      "event_id": "ch071_013",
+      "event_name": "戰書詳述",
+      "event_status": "歡宴進行中，需釐清因果",
+      "character_decision": "靜聽悟空陳述全程始末",
+      "decision_result": "舉國稱謝，獲關文辭行"
+    },
+    {
+      "event_id": "ch078_005",
+      "event_name": "釋道辯真",
+      "event_status": "國丈進殿，與唐僧辯長生正道",
+      "character_decision": "問僧道長生之法",
+      "decision_result": "引發國丈嗤笑釋教"
+    },
+    {
+      "event_id": "ch078_006",
+      "event_name": "刮兒詭辯",
+      "event_status": "鵝籠童子盡失，國丈嫁禍唐僧",
+      "character_decision": "詔令圍驛擒僧取心",
+      "decision_result": "取經危機爆發"
+    },
+    {
+      "event_id": "ch079_001",
+      "event_name": "偽僧入朝",
+      "event_status": "偽僧押至朝門求見",
+      "character_decision": "召見偽僧誤認真僧",
+      "decision_result": "信其為唐僧"
+    },
+    {
+      "event_id": "ch079_002",
+      "event_name": "索心為引",
+      "event_status": "國丈誣稱黑心可治頑疾",
+      "character_decision": "當庭索取唐僧心肝",
+      "decision_result": "假僧剖腹示心"
+    },
+    {
+      "event_id": "ch079_003",
+      "event_name": "現形誅偽",
+      "event_status": "假僧現本相指國丈為妖",
+      "character_decision": "驚見悟空現形無措",
+      "decision_result": "國丈遁逃"
+    },
+    {
+      "event_id": "ch079_005",
+      "event_name": "搜宮尋主",
+      "event_status": "國丈挾美后遁走，國王失蹤",
+      "character_decision": "驚藏謹身殿後",
+      "decision_result": "被悟空尋得"
+    },
+    {
+      "event_id": "ch079_006",
+      "event_name": "泥臉復真",
+      "event_status": "三藏戴臊泥不敢見人",
+      "character_decision": "親迎復貌師徒重聚",
+      "decision_result": "君臣僧眾重會金殿"
+    },
+    {
+      "event_id": "ch079_007",
+      "event_name": "妖源溯始",
+      "event_status": "悟空問妖居所需溯本源",
+      "character_decision": "回憶三年前進美女始末",
+      "decision_result": "確立清華莊方位"
+    },
+    {
+      "event_id": "ch079_014",
+      "event_name": "獻俘回旨",
+      "event_status": "壽星攜鹿狐返朝揭偽",
+      "character_decision": "羞愧下拜群臣禮敬",
+      "decision_result": "當殿認罪正法"
+    },
+    {
+      "event_id": "ch079_015",
+      "event_name": "授棗祛病",
+      "event_status": "國王求延年法，壽星贈棗",
+      "character_decision": "吞火棗身輕病退",
+      "decision_result": "獲長生之實"
+    },
+    {
+      "event_id": "ch079_016",
+      "event_name": "鵝籠歸嬰",
+      "event_status": "諸神送還千餘小兒鵝籠",
+      "character_decision": "率百姓歡慶認子",
+      "decision_result": "全民奉謝取經團"
+    },
+    {
+      "event_id": "ch079_017",
+      "event_name": "萬民酬恩",
+      "event_status": "救嬰大恩舉國感戴",
+      "character_decision": "設宴供養盤桓近月",
+      "decision_result": "立影神永世供奉"
+    },
+    {
+      "event_id": "ch085_001",
+      "event_name": "開櫃拜師",
+      "event_status": "百官被剃驚懼，亟待明示去向",
+      "character_decision": "開櫃迎僧剃髮皈依",
+      "decision_result": "國號改欽法倒換關文"
+    },
+    {
+      "event_id": "ch094_001",
+      "event_name": "三徒應詔入朝",
+      "event_status": "假公主拋毬後亟須面聖定儀",
+      "character_decision": "詔召三徒入宮面聖",
+      "decision_result": "師徒進殿開啟自陳"
+    },
+    {
+      "event_id": "ch094_002",
+      "event_name": "行者抗禮爭座",
+      "event_status": "唐僧侍立違背駙馬尊儀",
+      "character_decision": "屈從賜繡墩予三藏",
+      "decision_result": "確立師徒朝班威勢"
+    },
+    {
+      "event_id": "ch094_006",
+      "event_name": "陰陽定婚期",
+      "event_status": "欲速定合巹之期以固國體",
+      "character_decision": "採陰陽官奏定十二日",
+      "decision_result": "鎖定關鍵解局時間錨點"
+    },
+    {
+      "event_id": "ch094_008",
+      "event_name": "御園設春宴",
+      "event_status": "婚期未至需安撫師徒",
+      "character_decision": "排駕邀遊並分席款待",
+      "decision_result": "八戒放浪暴露本相"
+    },
+    {
+      "event_id": "ch094_009",
+      "event_name": "駙馬和四景詩",
+      "event_status": "見三藏賞詩命其即興題和",
+      "character_decision": "命題春夏秋冬四詩",
+      "decision_result": "彰顯禪心反襯內憂"
+    },
+    {
+      "event_id": "ch094_010",
+      "event_name": "宴樂延佳期",
+      "event_status": "婚期定於十二日虛與委蛇",
+      "character_decision": "連宴數日延宕待期",
+      "decision_result": "為悟空暗佈爭取窗口"
+    },
+    {
+      "event_id": "ch094_011",
+      "event_name": "公主懇請逐徒",
+      "event_status": "假公主懼被火眼識破",
+      "character_decision": "決意遣散三徒出城",
+      "decision_result": "落入悟空預設之機"
+    },
+    {
+      "event_id": "ch094_013",
+      "event_name": "假意辭行領關",
+      "event_status": "依公主請旨遣散三徒",
+      "character_decision": "頒關文盤纏作別出城",
+      "decision_result": "掩護悟空真身脫離視線"
+    },
+    {
+      "event_id": "ch094_003",
+      "event_name": "卷簾述本",
+      "event_status": "沙僧陳流沙河因果，神異非常",
+      "character_decision": "再問第三高徒皈依緣由",
+      "decision_result": "驚喜交加疑其妖神"
+    },
+    {
+      "event_id": "ch094_004",
+      "event_name": "婚期既定",
+      "event_status": "陰陽官奏定壬子辰良日",
+      "character_decision": "欽定十二日合巹佳期",
+      "decision_result": "鎖定關鍵解局時間錨點"
+    },
+    {
+      "event_id": "ch094_007",
+      "event_name": "園景觀賞",
+      "event_status": "君臣同遊御苑彰國泰",
+      "character_decision": "導覽御花園賞春景",
+      "decision_result": "觸發長老見屏題詠"
+    },
+    {
+      "event_id": "ch094_012",
+      "event_name": "關文授受",
+      "event_status": "三徒被指醜陋須即刻離境",
+      "character_decision": "頒關文贈盤纏遣三徒",
+      "decision_result": "行者真身離隊隱伏"
+    },
+    {
+      "event_id": "ch095_003",
+      "event_name": "花園現形",
+      "event_status": "悟空現相揪拿假公主",
+      "character_decision": "滿宮驚潰未及阻攔",
+      "decision_result": "假公主解衣遁走"
+    },
+    {
+      "event_id": "ch095_008",
+      "event_name": "殿前陳情",
+      "event_status": "悟空稟明妖蹤請調二徒",
+      "character_decision": "即召八戒沙僧護師",
+      "decision_result": "確立內外分守之局"
+    },
+    {
+      "event_id": "ch095_009",
+      "event_name": "分兵護持",
+      "event_status": "八戒沙僧奉命守殿",
+      "character_decision": "命二徒護師守殿",
+      "decision_result": "悟空得專心追妖"
+    },
+    {
+      "event_id": "ch095_014",
+      "event_name": "月華證偽",
+      "event_status": "太陰率眾當眾揭偽",
+      "character_decision": "率眾設香叩拜",
+      "decision_result": "舉國信服真相"
+    },
+    {
+      "event_id": "ch095_015",
+      "event_name": "夜述緣由",
+      "event_status": "悟空轉述素娥降生始末",
+      "character_decision": "急問真公主下落",
+      "decision_result": "悟空指明布金寺"
+    },
+    {
+      "event_id": "ch095_016",
+      "event_name": "老僧詳陳",
+      "event_status": "三藏備述初遇悲聲經過",
+      "character_decision": "放聲大哭決赴布金",
+      "decision_result": "啟動尋女行動"
+    },
+    {
+      "event_id": "ch095_018",
+      "event_name": "鐵鎖開真",
+      "event_status": "老僧指認後房囚女",
+      "character_decision": "親開鐵鎖抱女痛哭",
+      "decision_result": "一家團圓回宮"
+    },
+    {
+      "event_id": "ch095_019",
+      "event_name": "蜈蚣除害",
+      "event_status": "悟空獻策除百腳山妖患",
+      "character_decision": "敕改山名賜建寺院",
+      "decision_result": "老僧封官弘法"
+    },
+    {
+      "event_id": "ch095_020",
+      "event_name": "辭王西行",
+      "event_status": "四眾謝恩辭行取經",
+      "character_decision": "苦留五六日不捨",
+      "decision_result": "終被巽風送別"
+    },
+    {
+      "event_id": "ch095_001",
+      "event_name": "假駙馬現形",
+      "event_status": "假公主現妖氛宮廷大亂",
+      "character_decision": "滿宮驚潰未及阻攔",
+      "decision_result": "假公主解衣遁走"
+    },
+    {
+      "event_id": "ch095_004",
+      "event_name": "明辨真假",
+      "event_status": "悟空稟報妖蹤國王驚懼",
+      "character_decision": "即召八戒沙僧護師",
+      "decision_result": "確立內外分守之局"
+    },
+    {
+      "event_id": "ch095_007",
+      "event_name": "月宮證偽",
+      "event_status": "太陰率眾押玉兔明證",
+      "character_decision": "率眾設香叩拜",
+      "decision_result": "舉國信服真相"
+    },
+    {
+      "event_id": "ch095_010",
+      "event_name": "敕建寶華",
+      "event_status": "獻策除蜈蚣改山封寺",
+      "character_decision": "敕改山名賜建寺院",
+      "decision_result": "老僧封官弘法"
+    },
+    {
+      "event_id": "ch095_011",
+      "event_name": "辭國西行",
+      "event_status": "師徒謝宴辭行",
+      "character_decision": "苦留五六日不捨",
+      "decision_result": "終被巽風送別"
+    }
+  ]
+}

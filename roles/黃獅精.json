@@ -1,0 +1,71 @@
+{
+  "name": "黃獅精",
+  "aliases": [],
+  "description": "竹節山九曲盤桓洞黃獅，九靈元聖之孫，擅使錘兵",
+  "personality": [
+    "貪婪",
+    "驕矜",
+    "衝動",
+    "依仗勢力",
+    "怯戰善诿",
+    "慣於哭訴"
+  ],
+  "traits": [
+    "黃毛獅形",
+    "持一對鋼錘",
+    "好面飾偽裝",
+    "敗則哭訴",
+    "隨眾附勢"
+  ],
+  "abilities": [
+    "武藝精熟",
+    "善使錘兵",
+    "聚眾結黨",
+    "佯攻惑敵"
+  ],
+  "summary": "因覬覦釘鈀而與三藏徒弟爆發首戰，慘敗後奔逃求援，引動祖翁九靈元聖親征，事態升級。　在七獅圍戰中隨眾合攻卻未能制勝，致八戒被擒；復受祖翁指派參與佯攻，為老怪攝走唐僧鋪設掩護。",
+  "events": [
+    {
+      "event_id": "ch089_006",
+      "event_name": "釘鈀奪械",
+      "event_status": "偽裝周旋中見寶起意，遭當場揭破",
+      "character_decision": "奪鈀激戰現真身",
+      "decision_result": "三徒現形，首戰爆發"
+    },
+    {
+      "event_id": "ch089_007",
+      "event_name": "三僧鏖兵",
+      "event_status": "獨戰三徒至日西，力竭不敵",
+      "character_decision": "拒認盜器反誣虛頭",
+      "decision_result": "敗走竹節山"
+    },
+    {
+      "event_id": "ch089_008",
+      "event_name": "哭訴求援",
+      "event_status": "兵敗負傷，孤身投奔祖翁",
+      "character_decision": "泣告敗績求援",
+      "decision_result": "九靈元聖決意親征"
+    },
+    {
+      "event_id": "ch089_009",
+      "event_name": "諸孫點兵",
+      "event_status": "祖翁震怒，率眾孫整軍壓境",
+      "character_decision": "參與點兵赴州",
+      "decision_result": "妖風蔽日，玉華州戒嚴"
+    },
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七妖合圍，力壓三徒",
+      "character_decision": "隨眾圍攻八戒",
+      "decision_result": "八戒被擒"
+    },
+    {
+      "event_id": "ch090_005",
+      "event_name": "老怪定計",
+      "event_status": "祖翁授意，待機佯攻",
+      "character_decision": "奉命佯攻誘敵",
+      "decision_result": "老怪攝走唐僧"
+    }
+  ]
+}

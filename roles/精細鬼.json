@@ -1,0 +1,45 @@
+{
+  "name": "精細鬼",
+  "aliases": [],
+  "description": "金角大王座下小妖，持紫金紅葫蘆的守寶者",
+  "personality": [
+    "輕信",
+    "忠職",
+    "畏懼",
+    "推諉"
+  ],
+  "traits": [
+    "持葫蘆",
+    "奉命行事",
+    "易慌亂"
+  ],
+  "abilities": [
+    "持寶",
+    "傳令",
+    "謊報"
+  ],
+  "summary": "被悟空以假葫蘆欺騙，失守紫金紅葫蘆與玉淨瓶，導致法寶易主、局勢逆轉。　發現葫蘆失竊後驚懼不敢直報，與伶俐蟲合謀編造遇仙受騙之謊；謊言遭老魔識破，致妖王動用剩餘三寶全力擒猴。",
+  "events": [
+    {
+      "event_id": "ch033_012",
+      "event_name": "葫蘆換寶",
+      "event_status": "奉命持寶裝人，遭遇詐騙",
+      "character_decision": "用真葫蘆交換假葫蘆",
+      "decision_result": "喪失兩件關鍵法寶"
+    },
+    {
+      "event_id": "ch034_001",
+      "event_name": "假葫失竊",
+      "event_status": "返程發現法寶失竊，驚惶失措",
+      "character_decision": "隱瞞實情商議逃遁或推諉",
+      "decision_result": "喪失主子信任基礎"
+    },
+    {
+      "event_id": "ch034_002",
+      "event_name": "詐供露餡",
+      "event_status": "面對大王質問被迫說謊",
+      "character_decision": "謊稱遇神仙換寶反被騙",
+      "decision_result": "謊言當場被識破"
+    }
+  ]
+}

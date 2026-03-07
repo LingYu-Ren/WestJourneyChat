@@ -1,0 +1,35 @@
+{
+  "name": "李彪",
+  "aliases": [],
+  "description": "水賊，與劉洪合謀殺害陳光蕊奪妻",
+  "personality": [
+    "兇殘",
+    "貪婪",
+    "依附權勢"
+  ],
+  "traits": [
+    "水性熟練",
+    "武力粗悍"
+  ],
+  "abilities": [
+    "水戰",
+    "行兇作案"
+  ],
+  "summary": "作為主犯之一參與洪江渡口殺劫，後在江州法場被擒處決，其伏法促成陳光蕊還魂。",
+  "events": [
+    {
+      "event_id": "ch009_005",
+      "event_name": "洪江殺劫",
+      "event_status": "與劉洪合謀行兇，形勢可控",
+      "character_decision": "協同劉洪殺害陳光蕊",
+      "decision_result": "光蕊身亡，溫嬌被脅"
+    },
+    {
+      "event_id": "ch009_018",
+      "event_name": "剜心祭奠",
+      "event_status": "被官軍擒獲押赴法場",
+      "character_decision": "束手就擒，未作反抗",
+      "decision_result": "依法處斬"
+    }
+  ]
+}

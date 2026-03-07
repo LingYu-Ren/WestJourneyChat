@@ -1,0 +1,54 @@
+{
+  "name": "女童",
+  "aliases": [],
+  "description": "琵琶洞中侍奉女怪的童女，参与诱骗唐僧；木仙庵中随杏仙逼婚",
+  "personality": [
+    "恭顺",
+    "机敏",
+    "警觉",
+    "坚韧"
+  ],
+  "traits": [
+    "总角蓬头",
+    "侍女装束",
+    "洞前值守",
+    "庵内随侍"
+  ],
+  "abilities": [
+    "传话",
+    "奉食",
+    "报信",
+    "待援接应"
+  ],
+  "summary": "在蜂形探秘事件中被悟空暗中观察其行止；于饝饝問對中协助女怪以素饝饝设局试探唐僧戒行。　在鈀築洞門事件中于芭蕉洞前值守，闻声即报，促牛王吐扇授妻。　在掙門待援事件中于木仙庵内随侍杏仙，参与围困唐僧至天明，待援未果而群妖溃散。",
+  "events": [
+    {
+      "event_id": "ch055_004",
+      "event_name": "蜂形探秘",
+      "event_status": "洞内密语被窃听，形势未察",
+      "character_decision": "随女怪行动未加防备",
+      "decision_result": "密语外泄，妖谋暴露"
+    },
+    {
+      "event_id": "ch055_005",
+      "event_name": "饝饝問對",
+      "event_status": "花亭设宴，奉饝饝诱破戒",
+      "character_decision": "奉上荤素饝饝试探唐僧",
+      "decision_result": "唐僧巧言避过，计谋未遂"
+    },
+    {
+      "event_id": "ch061_005",
+      "event_name": "鈀築洞門",
+      "event_status": "洞前突遭猛击，形势惊急",
+      "character_decision": "闻声速报牛王藏身",
+      "decision_result": "牛王吐扇授妻"
+    },
+    {
+      "event_id": "ch064_008",
+      "event_name": "掙門待援",
+      "event_status": "木仙庵内群妖围逼，三藏呼救至天明",
+      "character_decision": "随众扯拽守门待援",
+      "decision_result": "援未至而群妖遁形"
+    }
+  ]
+}

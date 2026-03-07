@@ -1,0 +1,37 @@
+{
+  "name": "七蟲妖",
+  "aliases": [],
+  "description": "盤絲洞七女妖乾兒子，擅幻化蟲兵之妖",
+  "personality": [
+    "狡詐",
+    "依附權勢",
+    "頑抗"
+  ],
+  "traits": [
+    "蟲形本相",
+    "呼子拒敵",
+    "幻化無窮"
+  ],
+  "abilities": [
+    "蟲群操控",
+    "本相飛遁",
+    "幻化戰術"
+  ],
+  "summary": "受七女妖召喚迎戰取經團隊，以蟲兵延宕敵勢；最終被孫悟空毫毛化鷹盡滅，標誌其作為盤絲洞外圍防禦力量的徹底瓦解。",
+  "events": [
+    {
+      "event_id": "ch072_009",
+      "event_name": "召子拒敵",
+      "event_status": "妖洞危急，借兵延宕",
+      "character_decision": "應召現身迎戰",
+      "decision_result": "引發蟲群幻化大戰"
+    },
+    {
+      "event_id": "ch072_010",
+      "event_name": "鷹蟲相剋",
+      "event_status": "遭三徒圍攻，蟲兵不敵",
+      "character_decision": "幻化無窮圍攻",
+      "decision_result": "被鷹盡滅"
+    }
+  ]
+}

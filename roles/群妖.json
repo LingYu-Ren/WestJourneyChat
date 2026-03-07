@@ -1,0 +1,87 @@
+{
+  "name": "群妖",
+  "aliases": [
+    "牛頭群妖"
+  ],
+  "description": "青龍山凹聽命於三犀大王的牛頭族群妖",
+  "personality": [
+    "兇悍",
+    "從眾",
+    "畏威",
+    "潰散易驚",
+    "欺弱逞凶",
+    "戒備鬆懈",
+    "疲態顯露",
+    "依勢固守"
+  ],
+  "traits": [
+    "成群結隊",
+    "持兵圍攻",
+    "依勢而動",
+    "偽裝僧形",
+    "假哭惑敵",
+    "野外宿營",
+    "山場據險"
+  ],
+  "abilities": [
+    "圍攻協作",
+    "聽令而動",
+    "陣列守備",
+    "設伏合擊",
+    "山場據險",
+    "晝夜輪駐",
+    "協同抗敵"
+  ],
+  "summary": "在洞前初戰中受妖王號令圍攻悟空，致其金箍棒被收。　在金洞內遭悟空突襲奪棒，防禦崩解，血路被破。　於小雷音寺二層門內奉黃眉之令突施金鐃困住悟空，致取經全軍覆沒。　於麒麟山獬豸洞金聖宮妝臺附近警戒巡守，未察覺悟空化身蒼蠅潛伏竊聽，防禦出現致命疏漏。　於隱霧山折岳連環洞前平地遭悟空、八戒突襲，因輕信假哭計致戒備鬆懈，先鋒現形即潰，老怪敗逃堵門。　當晚於玉華縣城外暫駐休整，戰意鬆弛，為老怪夜襲埋下伏筆。　於青龍山凹奉三犀大王之令列陣助戰，雖未直面悟空單挑，然百五十合鏖兵中持續施壓、輪番接應，展現頑強協防韌性。",
+  "events": [
+    {
+      "event_id": "ch050_009",
+      "event_name": "洞前初戰",
+      "event_status": "妖王與悟空對戰，形勢膠著",
+      "character_decision": "奉命圍攻孫悟空",
+      "decision_result": "悟空棒被收"
+    },
+    {
+      "event_id": "ch051_015",
+      "event_name": "鐵棒歸主",
+      "event_status": "洞內守備，猝遭直擊本體",
+      "character_decision": "據洞攔截悟空",
+      "decision_result": "防線潰散"
+    },
+    {
+      "event_id": "ch065_004",
+      "event_name": "金鐃困聖",
+      "event_status": "偽寺設伏，待機合圍",
+      "character_decision": "啟金鐃夾擊孫悟空",
+      "decision_result": "悟空被困，全軍被擒"
+    },
+    {
+      "event_id": "ch071_001",
+      "event_name": "蒼蠅潛伏",
+      "event_status": "妝臺守備鬆懈，警戒失效",
+      "character_decision": "例行巡守未察異常",
+      "decision_result": "情報遭竊，隱患埋下"
+    },
+    {
+      "event_id": "ch086_005",
+      "event_name": "山場鏖兵",
+      "event_status": "假哭計成，戒備鬆懈",
+      "character_decision": "放鬆警戒迎敵",
+      "decision_result": "先鋒現形潰散"
+    },
+    {
+      "event_id": "ch090_004",
+      "event_name": "群妖安歇",
+      "event_status": "戰事暫息，野外駐營",
+      "character_decision": "集體安歇待命",
+      "decision_result": "警戒減弱"
+    },
+    {
+      "event_id": "ch091_014",
+      "event_name": "山凹鏖兵",
+      "event_status": "三妖主戰，群妖列陣助勢",
+      "character_decision": "隨令列陣協防壓境",
+      "decision_result": "牽制悟空，延緩破陣"
+    }
+  ]
+}

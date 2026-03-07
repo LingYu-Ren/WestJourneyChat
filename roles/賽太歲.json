@@ -1,0 +1,113 @@
+{
+  "name": "賽太歲",
+  "aliases": [],
+  "description": "麒麟山獬豸洞妖王，擅使金铃摄人",
+  "personality": [
+    "倨傲",
+    "暴烈",
+    "自负",
+    "轻信",
+    "多疑",
+    "易醉",
+    "好色",
+    "疏于防备"
+  ],
+  "traits": [
+    "金铃法宝",
+    "腾云驾雾",
+    "妖气凛然",
+    "豹皮包铃",
+    "剥皮亭设宴",
+    "喜饮奉酒",
+    "畏虫痒羞窘",
+    "寝殿解衣验铃"
+  ],
+  "abilities": [
+    "呼风唤雨",
+    "摄魂定身",
+    "腾挪变化",
+    "金铃三响控妖",
+    "醉后失察",
+    "铃动焚山"
+  ],
+  "summary": "赛太岁驾风现身朱紫国御花园上空，欲索宫娥，被孙悟空当空识破名号与洞府所在。　赛太岁屡遭孙悟空戏弄，先失先锋、再被诈哄交出金铃，终致宝物被盗、威势尽丧。　赛太岁在金圣宫内屡遭悟空幻化侵扰，因贪恋美色与酒宴放松戒备，致真铃被窃、假铃不察，终在洞前鏖战溃败，威势彻底崩解。",
+  "events": [
+    {
+      "event_id": "ch069_009",
+      "event_name": "雲中初識賽太歲",
+      "event_status": "风临避妖楼，意图强掳宫娥",
+      "character_decision": "腾空现形，自报妖号",
+      "decision_result": "暴露洞府位置"
+    },
+    {
+      "event_id": "ch070_001",
+      "event_name": "雲空鬥槍",
+      "event_status": "先锋败走，火惊朱紫国",
+      "character_decision": "遣先锋强取宫女",
+      "decision_result": "先锋溃逃放火"
+    },
+    {
+      "event_id": "ch070_011",
+      "event_name": "佯謊瞞王",
+      "event_status": "洞中接报，疑惧国王威势",
+      "character_decision": "听信假报宽慰娘娘",
+      "decision_result": "命速报金圣娘娘"
+    },
+    {
+      "event_id": "ch070_013",
+      "event_name": "誘取金鈴",
+      "event_status": "金圣宫内夫妻情浓",
+      "character_decision": "解衣交付金铃",
+      "decision_result": "豹皮包绵花封口"
+    },
+    {
+      "event_id": "ch070_015",
+      "event_name": "盜鈴敗走",
+      "event_status": "剥皮亭众妖围攻，铃失形露",
+      "character_decision": "锁门搜捕石壁",
+      "decision_result": "识破伪装追捕"
+    },
+    {
+      "event_id": "ch071_001",
+      "event_name": "蒼蠅潛伏",
+      "event_status": "盗铃败走后避祸藏身",
+      "character_decision": "未察苍蝇潜伏门旁",
+      "decision_result": "情报泄露予悟空"
+    },
+    {
+      "event_id": "ch071_004",
+      "event_name": "雙喜遞杯",
+      "event_status": "金圣宫内酒宴初开",
+      "character_decision": "欣然饮下假春娇奉酒",
+      "decision_result": "戒备松懈允准同寝"
+    },
+    {
+      "event_id": "ch071_005",
+      "event_name": "三蟲攻體",
+      "event_status": "寝殿内笑语正浓",
+      "character_decision": "羞窘解衣捉虱蚤",
+      "decision_result": "暴露金铃佩戴位置"
+    },
+    {
+      "event_id": "ch071_006",
+      "event_name": "真鈴易假",
+      "event_status": "解衣验铃之际",
+      "character_decision": "递铃予‘春娇’捉虱",
+      "decision_result": "真铃易手浑然不觉"
+    },
+    {
+      "event_id": "ch071_008",
+      "event_name": "斧棒五十合",
+      "event_status": "洞前叫阵，众妖环伺",
+      "character_decision": "持斧出战悟空",
+      "decision_result": "不敌退入洞中取铃"
+    },
+    {
+      "event_id": "ch071_009",
+      "event_name": "三鈴齊搖",
+      "event_status": "真铃假铃并举对峙",
+      "character_decision": "摇铃欲摄悟空",
+      "decision_result": "假铃无效，真铃焚山溃逃"
+    }
+  ]
+}

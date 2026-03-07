@@ -1,0 +1,27 @@
+{
+  "name": "長安諸神",
+  "aliases": [],
+  "description": "守護長安城的在地神祇群體",
+  "personality": [
+    "恪盡職守",
+    "隱忍低調"
+  ],
+  "traits": [
+    "隱跡凡間",
+    "依令行事"
+  ],
+  "abilities": [
+    "察訪民情",
+    "護境安民"
+  ],
+  "summary": "奉觀音菩薩之命隱跡長安大市街土地廟，配合取經人篩選行動，進入實地協同監察階段。",
+  "events": [
+    {
+      "event_id": "ch008_009",
+      "event_name": "隱跡長安",
+      "event_status": "菩薩化身遊僧入城，神祇需隱形襄助",
+      "character_decision": "隱跡土地廟待命協查",
+      "decision_result": "取經人選進入實地篩選"
+    }
+  ]
+}

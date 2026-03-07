@@ -1,0 +1,96 @@
+{
+  "name": "眾妖",
+  "aliases": [],
+  "description": "獅駝嶺群妖及各路山精野怪，三魔麾下基層戰力",
+  "personality": [
+    "忠誠",
+    "敬畏",
+    "順從",
+    "服從調遣",
+    "躁動",
+    "易受煽動",
+    "盲從",
+    "機警",
+    "畏懼強者"
+  ],
+  "traits": [
+    "群居",
+    "靈動",
+    "山野氣息",
+    "聽令如流",
+    "集體反應強烈",
+    "擅偽裝",
+    "通訊迅捷",
+    "臨陣易潰"
+  ],
+  "abilities": [
+    "攀援",
+    "通靈",
+    "聚眾",
+    "巡守",
+    "圍攻",
+    "協同追捕",
+    "偽裝誘敵",
+    "抬轎馱運",
+    "列陣助威"
+  ],
+  "summary": "在二度招安事件中，眾妖見證孫悟空受天庭正式承認齊天大聖名號，隨之整裝待命，彰顯其作為核心班底的集體歸附態勢。　在平頂山巡山行動中，眾妖受銀角大王調遣執行偵察任務，展現其作為妖族基層戰力的組織性與執行力。　在麒麟山獬豸洞盜鈴敗走事件中，眾妖因三毒暴發集體圍攻偽裝的孫悟空，展現出強烈的群體情緒響應與即時戰鬥協同能力。　在獅駝嶺系列事件中，眾妖展現出高度配合三魔戰略的執行力，既參與洞內制敵與破門衝突，亦承擔偽裝護送的詭譎任務，凸顯其作為大型妖國常備力量的多維適應性。　在山凹路口衝突中，眾妖受命圍攻變矮僧的八戒，卻被其現原身築退，首次直面天蓬元帥之勇悍，集體士氣受挫並引發上位妖王的畏懼心理。",
+  "events": [
+    {
+      "event_id": "ch004_013",
+      "event_name": "二度招安",
+      "event_status": "天庭使節再臨，形勢轉向招撫",
+      "character_decision": "靜候並擁護悟空應召",
+      "decision_result": "隨主入天，地位獲間接認可"
+    },
+    {
+      "event_id": "ch033_003",
+      "event_name": "遣妖巡山",
+      "event_status": "奉銀角之命集結巡山，目標鎖定唐僧",
+      "character_decision": "五十妖奉令出發覓敵",
+      "decision_result": "助二魔定位唐僧方位"
+    },
+    {
+      "event_id": "ch070_015",
+      "event_name": "盜鈴敗走",
+      "event_status": "三毒暴發，群妖集體失控圍攻",
+      "character_decision": "隨妖王圍攻變蠅行者",
+      "decision_result": "助鎖門搜捕，逼其匿石壁"
+    },
+    {
+      "event_id": "ch076_004",
+      "event_name": "鼻竅遁形",
+      "event_status": "悟空匿老魔鼻竅，群妖環伺待命",
+      "character_decision": "圍觀戒備，未加干預",
+      "decision_result": "繩扣生效，悟空脫困"
+    },
+    {
+      "event_id": "ch076_007",
+      "event_name": "釘鈀敗陣",
+      "event_status": "二魔挑戰八戒，群妖列陣助威",
+      "character_decision": "列陣助勢，圍觀擒敵",
+      "decision_result": "八戒遭擒浸池"
+    },
+    {
+      "event_id": "ch076_009",
+      "event_name": "棒鈑破門",
+      "event_status": "悟空強攻救八戒，洞門連破",
+      "character_decision": "驚退避讓，未敢攔阻",
+      "decision_result": "二魔驚退，門毀"
+    },
+    {
+      "event_id": "ch076_011",
+      "event_name": "香藤抬轎",
+      "event_status": "三魔獻計偽裝護送，調虎離山",
+      "character_decision": "偽裝力士抬轎誘行",
+      "decision_result": "師徒登轎西行中計"
+    },
+    {
+      "event_id": "ch085_004",
+      "event_name": "釘鈀破陣",
+      "event_status": "奉令圍堵矮僧，突遭暴起反擊",
+      "character_decision": "圍攻變矮僧八戒",
+      "decision_result": "被築退潰散"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "玉華王",
+  "aliases": [],
+  "description": "玉華州國王，三王子之父，崇敬仙佛",
+  "personality": [
+    "虔誠",
+    "謙恭",
+    "識禮",
+    "果決",
+    "仁厚",
+    "悲愴"
+  ],
+  "traits": [
+    "王服冠冕",
+    "跪拜禮重",
+    "愛子心切",
+    "重情重義"
+  ],
+  "abilities": [
+    "治國理政",
+    "識人辨賢",
+    "撫民安邦"
+  ],
+  "summary": "目睹唐僧師徒展現神技後，率子跪請收徒，主動開啟授法情節。　親歷妖亂之痛，於暴紗亭休整後見三子武藝大成，欣慰頌詩；身陷妖洞時雖被挾持，仍堅守君臣之節。",
+  "events": [
+    {
+      "event_id": "ch088_008",
+      "event_name": "跪請收徒",
+      "event_status": "親見神技，信為仙佛臨凡",
+      "character_decision": "率子倒身下拜求授武藝",
+      "decision_result": "啟動玉華授法核心情節"
+    },
+    {
+      "event_id": "ch090_006",
+      "event_name": "老怪悲慟",
+      "event_status": "身陷妖洞，聞子死訊",
+      "character_decision": "默然垂淚，憂懼交加",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch090_008",
+      "event_name": "妖言示威",
+      "event_status": "被囚洞中，遭妖威脅",
+      "character_decision": "靜默不語，護子不離",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch090_014",
+      "event_name": "暴紗安歇",
+      "event_status": "妖滅歸國，師徒暫駐",
+      "character_decision": "迎師入亭，設宴安頓",
+      "decision_result": "重續授藝因緣"
+    },
+    {
+      "event_id": "ch090_015",
+      "event_name": "授藝完滿",
+      "event_status": "三子武藝大成，國本得固",
+      "character_decision": "率子謝恩，頌詩頌德",
+      "decision_result": "奠定海晏河清頌詩根基"
+    }
+  ]
+}

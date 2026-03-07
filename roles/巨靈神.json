@@ -1,0 +1,30 @@
+{
+  "name": "巨靈神",
+  "aliases": [],
+  "description": "天庭正神，托塔天王麾下先锋大将",
+  "personality": [
+    "勇猛",
+    "自负",
+    "恪守军令"
+  ],
+  "traits": [
+    "巨斧为兵",
+    "身形魁梧",
+    "披甲持斧"
+  ],
+  "abilities": [
+    "神力过人",
+    " wield巨斧",
+    "天将战技"
+  ],
+  "summary": "奉玉帝旨意征讨花果山，首战即被孙悟空一棒击溃，斧断败走，致托塔天王震怒。",
+  "events": [
+    {
+      "event_id": "ch004_010",
+      "event_name": "首戰巨靈",
+      "event_status": "奉旨征讨，初临水帘洞外",
+      "character_decision": "持斧挑战孙悟空",
+      "decision_result": "斧断败走"
+    }
+  ]
+}

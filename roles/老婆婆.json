@@ -1,0 +1,51 @@
+{
+  "name": "老婆婆",
+  "aliases": [],
+  "description": "西梁女國邊境村舍中通曉子母河與落胎泉秘辛的年長婦人",
+  "personality": [
+    "慈藹",
+    "睿智",
+    "沉穩"
+  ],
+  "traits": [
+    "白髮",
+    "布衣",
+    "熟知國俗"
+  ],
+  "abilities": [
+    "辨症施藥",
+    "解說風土",
+    "通曉禁忌"
+  ],
+  "summary": "老婆婆向師徒揭破子母河懷胎之秘，並協助確認落胎泉水療效；其知識成為破解危局的關鍵依憑。",
+  "events": [
+    {
+      "event_id": "ch053_003",
+      "event_name": "揭破女國",
+      "event_status": "師徒腹痛求醫，眾婦人環伺",
+      "character_decision": "道出子母河與西梁國秘",
+      "decision_result": "確知懷胎源於河水"
+    },
+    {
+      "event_id": "ch053_005",
+      "event_name": "調虎離山",
+      "event_status": "取水屢遭阻撓，形勢膠著",
+      "character_decision": "配合悟空沙僧定計",
+      "decision_result": "確立分兵取水之策"
+    },
+    {
+      "event_id": "ch053_007",
+      "event_name": "飲水解胎",
+      "event_status": "落胎泉水已得，師徒待解厄",
+      "character_decision": "見證服水化胎全程",
+      "decision_result": "腹痛止、腫脹消、恢復常態"
+    },
+    {
+      "event_id": "ch053_008",
+      "event_name": "辭莊西行",
+      "event_status": "師徒康復，即將離村西行",
+      "character_decision": "送別師徒並致謝意",
+      "decision_result": "師徒正式進入西梁女國境域"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "車遲國君王",
+  "aliases": [],
+  "description": "車遲國最高統治者，信奉道教國師",
+  "personality": [
+    "昏庸",
+    "輕信",
+    "專斷"
+  ],
+  "traits": [
+    "崇道抑佛",
+    "迷信方術",
+    "重儀禮"
+  ],
+  "abilities": [
+    "決策權",
+    "封授權",
+    "頒詔權"
+  ],
+  "summary": "二十年前因大旱焚香求雨，親迎三仙為國師，隨即頒布毀佛政策，確立道家獨尊國策。",
+  "events": [
+    {
+      "event_id": "ch044_004",
+      "event_name": "三仙降世",
+      "event_status": "國遭大旱，民心惶惶",
+      "character_decision": "封三道士為國師",
+      "decision_result": "拆寺毀佛，奴僧追牒"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "鎮元子",
+  "aliases": [],
+  "description": "地仙之祖，五莊觀主人，與世同君",
+  "personality": [
+    "尊崇道统",
+    "重礼守约",
+    "威严刚正",
+    "护短执拗",
+    "信诺重义",
+    "识才容人",
+    "豁达守信"
+  ],
+  "traits": [
+    "穿鹤氅",
+    "戴星冠",
+    "持玉麈",
+    "腾云疾行",
+    "善使袖里乾坤",
+    "设宴结盟",
+    "亲送西行"
+  ],
+  "abilities": [
+    "袖里乾坤",
+    "地仙级丹道修为",
+    "人参果栽培",
+    "龙皮鞭刑施术",
+    "油镬炼形之法",
+    "甘露灌根协同施法",
+    "观主待客之仪"
+  ],
+  "summary": "應元始天尊之邀赴彌羅宮聽講，暫離五莊觀，委託清風明月看守人參果園。　镇元子听闻人参果树被毁后震怒返观，连番施以擒拿、鞭刑、油镬等手段欲惩悟空，却屡遭反制，威仪受挫。　因悟空承諾醫樹而釋唐僧，信約守信；見果樹復生、菩薩親臨，遂化敵為友，與悟空結為兄弟。　次日天明，镇元子于五莊觀親送唐僧師徒西行，展現地仙之祖的禮儀風範與守信胸襟。",
+  "events": [
+    {
+      "event_id": "ch024_010",
+      "event_name": "大仙赴講",
+      "event_status": "受邀赴彌羅宮聽混元道果",
+      "character_decision": "赴講並留弟子看家",
+      "decision_result": "觀內防護出現真空"
+    },
+    {
+      "event_id": "ch025_007",
+      "event_name": "歸觀問罪",
+      "event_status": "甫返觀中聞童子哭訴樹毀",
+      "character_decision": "聽訟問責清風明月",
+      "decision_result": "確認悟空所為"
+    },
+    {
+      "event_id": "ch025_008",
+      "event_name": "雲蹤疾趕",
+      "event_status": "鎖定唐僧師徒去向急追",
+      "character_decision": "騰雲截路擒拿四眾",
+      "decision_result": "路旁樹下成功攔截"
+    },
+    {
+      "event_id": "ch025_009",
+      "event_name": "袖裡乾坤",
+      "event_status": "對峙中遭悟空拒認揮棒",
+      "character_decision": "一袖籠盡四僧一馬",
+      "decision_result": "全體綁回五莊觀"
+    },
+    {
+      "event_id": "ch025_010",
+      "event_name": "龍皮鞭刑",
+      "event_status": "悟空獨攬罪責拒不悔改",
+      "character_decision": "命打悟空三十龍皮鞭",
+      "decision_result": "鐵腿硬抗毫髮無傷"
+    },
+    {
+      "event_id": "ch025_012",
+      "event_name": "油鍋詭計",
+      "event_status": "二次擒獲後決意極刑",
+      "character_decision": "設油鑊欲炸悟空",
+      "decision_result": "反炸石獅威儀盡失"
+    },
+    {
+      "event_id": "ch026_001",
+      "event_name": "袖籠釋師",
+      "event_status": "悟空承諾醫樹換師脫困",
+      "character_decision": "信言釋放三藏等三人",
+      "decision_result": "唐僧師徒恢復自由"
+    },
+    {
+      "event_id": "ch026_003",
+      "event_name": "辭觀東行",
+      "event_status": "三日之約既立亟待求方",
+      "character_decision": "目送悟空離觀赴東洋",
+      "decision_result": "啟動三島訪仙行程"
+    },
+    {
+      "event_id": "ch026_008",
+      "event_name": "甘露灌根",
+      "event_status": "菩薩親臨施治果樹將枯",
+      "character_decision": "恭迎協同甘露灌根",
+      "decision_result": "果樹青綠結二十三果"
+    },
+    {
+      "event_id": "ch026_009",
+      "event_name": "果會結盟",
+      "event_status": "恩怨消解情誼昇華",
+      "character_decision": "設果會與悟空結拜",
+      "decision_result": "結為兄弟共飲歡宴"
+    },
+    {
+      "event_id": "ch027_001",
+      "event_name": "辭觀西行",
+      "event_status": "師徒辭行，取經事急",
+      "character_decision": "親送四眾離觀",
+      "decision_result": "目送西行入白虎嶺"
+    }
+  ]
+}

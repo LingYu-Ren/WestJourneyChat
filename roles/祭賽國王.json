@@ -1,0 +1,35 @@
+{
+  "name": "祭賽國王",
+  "aliases": [],
+  "description": "祭賽國一國之君，統治金光寺所在國度",
+  "personality": [
+    "虔誠",
+    "知禮",
+    "明辨"
+  ],
+  "traits": [
+    "重佛敬僧",
+    "納諫"
+  ],
+  "abilities": [
+    "治國",
+    "斷案"
+  ],
+  "summary": "在寶塔失寶後誠心求助唐僧師徒，親見妖邪伏罪、寶物歸還，遂謝恩安塔並徹查盜寶始末。",
+  "events": [
+    {
+      "event_id": "ch063_001",
+      "event_name": "攝妖赴潭",
+      "event_status": "寶塔失寶，國威受損",
+      "character_decision": "禮敬悟空八戒放行",
+      "decision_result": "促成碧波潭索寶之戰"
+    },
+    {
+      "event_id": "ch063_012",
+      "event_name": "捧匣歸國",
+      "event_status": "寶物奪回，龍婆伏階",
+      "character_decision": "謝恩安塔揭盜始末",
+      "decision_result": "恢復國寺清譽"
+    }
+  ]
+}

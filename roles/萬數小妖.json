@@ -1,0 +1,27 @@
+{
+  "name": "萬數小妖",
+  "aliases": [],
+  "description": "獅駝洞前駐守的龐大妖兵群體",
+  "personality": [
+    "怯懦",
+    "盲從"
+  ],
+  "traits": [
+    "數量眾多",
+    "缺乏統御"
+  ],
+  "abilities": [
+    "守營",
+    "列陣"
+  ],
+  "summary": "在孫悟空虛言恫嚇下集體潰散，暴露出組織鬆散、抗壓能力薄弱的特點。",
+  "events": [
+    {
+      "event_id": "ch074_007",
+      "event_name": "誑退群妖",
+      "event_status": "遭行者威嚇，群龍無首",
+      "character_decision": "聞風潰逃",
+      "decision_result": "洞口通行無阻"
+    }
+  ]
+}

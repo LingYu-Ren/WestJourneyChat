@@ -1,0 +1,28 @@
+{
+  "name": "青牛童子",
+  "aliases": [],
+  "description": "太上老君座下看守青牛的童子",
+  "personality": [
+    "忠谨",
+    "隐忍"
+  ],
+  "traits": [
+    "青牛化身",
+    "持金刚琢",
+    "兜率宫侍者"
+  ],
+  "abilities": [
+    "变化之术",
+    "持守法宝"
+  ],
+  "summary": "因私自下界化为妖魔并盗用金刚琢，其真实身份与罪责在兜率宫被老君当众揭明。",
+  "events": [
+    {
+      "event_id": "ch052_010",
+      "event_name": "金剛琢源",
+      "event_status": "老君当面勘问，真相待揭",
+      "character_decision": "被指证后未辩驳",
+      "decision_result": "身份与罪行确证"
+    }
+  ]
+}

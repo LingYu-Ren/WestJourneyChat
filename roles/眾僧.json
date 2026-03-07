@@ -1,0 +1,204 @@
+{
+  "name": "眾僧",
+  "aliases": [],
+  "description": "鎮海禪林寺遭女妖食僧的倖存僧人群體",
+  "personality": [
+    "虔誠",
+    "莊重",
+    "敬慎",
+    "貪執",
+    "畏懼",
+    "悔懼",
+    "依賴",
+    "順從",
+    "怯懦",
+    "服威",
+    "屈辱",
+    "隱忍",
+    "誠愨",
+    "感通",
+    "悲慟",
+    "惶怖",
+    "乞援"
+  ],
+  "traits": [
+    "身著袈裟",
+    "合十誦經",
+    "迎奉禮敬",
+    "集體行動",
+    "惶然無措",
+    "俯首聽命",
+    "跪迎送別",
+    "齊整伏地",
+    "畏威而從",
+    "拽磚運瓦",
+    "沙灘勞役",
+    "夢中祈禱",
+    "鎖妖見證",
+    "泣訴冤情",
+    "捧骨呈衣",
+    "顫聲告狀"
+  ],
+  "abilities": [
+    "誦經",
+    "禮佛",
+    "參禪",
+    "迎送高僧",
+    "集議定策",
+    "縱火焚害",
+    "聽訟受教",
+    "還願送行",
+    "伏地受攝",
+    "跪迎供奉",
+    "負重營造",
+    "默然承役",
+    "夢兆通神",
+    "鎖押妖邪",
+    "呈驗骸骨",
+    "哭訴陳情",
+    "懇請除妖"
+  ],
+  "summary": "在觀音菩薩頌示取經使命之際，眾僧見證玄奘被驗明為金蟬子轉世，並參與太宗敕封御弟聖僧的莊嚴儀式。　玄奘抵法門寺時，眾僧迎奉齋供，並於山門辭別；期間議論取經之險，見玄奘指心明志，益增敬信。　於觀音禪院中朝拜金像、炫示袈裟，因貪錦襴寶衣而密謀放火，終致寺院焚毀、方丈自盡，集體威信與道行徹底崩解。　在行者報明黑風怪竊衣始末後，眾僧知性命得保而心神稍安；及至錦襴袈裟完璧歸還，全寺默然承接，威信雖喪而道統勉存。　火災餘悸未消，眾僧於次日清晨整肅儀容，集體跪送玄奘師徒離院西行，以示懺悔與再託正信。　於寶林寺因僧官輕慢遭悟空震懾，五百僧齊跪迎師徒入寺；由拒宿轉為虔誠供奉，展現對神通威勢的即時屈服與秩序重構。　於車遲國城門外沙灘遭道士監工，被迫拽磚運瓦修築道觀，展現宗教壓迫下集體屈辱與隱忍生存之態。　於金光寺方丈中自陳夜夢東土聖僧來救，展現冤屈積久而誠感通神之態；參與鎖押二妖於寺中待審，成為取經團隊伸張正義的見證者與協力者。　於鎮海禪林寺香積廚中哭訴六僧被食、僅存骸骨僧衣，懇求悟空除妖；後於寺中見證三藏被攝、女妖真身敗露，隨師徒辭寺東尋，展現極度悲懣與依賴正法之態。",
+  "events": [
+    {
+      "event_id": "ch012_011",
+      "event_name": "金蟬顯號",
+      "event_status": "菩薩降臨上空，天象異動",
+      "character_decision": "集體禮敬觀音與玄奘",
+      "decision_result": "確立取經正統性"
+    },
+    {
+      "event_id": "ch013_002",
+      "event_name": "法門駐錫",
+      "event_status": "玄奘初至法門寺，眾僧迎奉齋供",
+      "character_decision": "集體迎奉玄奘並設齋",
+      "decision_result": "共議取經艱險，見志愈堅"
+    },
+    {
+      "event_id": "ch013_003",
+      "event_name": "辭別眾僧",
+      "event_status": "玄奘齋畢整頓鞍馬，即將西行",
+      "character_decision": "集體山門禮送玄奘",
+      "decision_result": "目送師徒離大唐腹地"
+    },
+    {
+      "event_id": "ch016_003",
+      "event_name": "朝拜金像",
+      "event_status": "三藏叩拜觀音金像，全寺驚動",
+      "character_decision": "集體朝拜金像",
+      "decision_result": "被行者撞鐘驚擾"
+    },
+    {
+      "event_id": "ch016_004",
+      "event_name": "鐘鼓驚眾",
+      "event_status": "行者戲謔撞鐘不止，聲震殿宇",
+      "character_decision": "集體驚懼退避",
+      "decision_result": "始知行者神通非常"
+    },
+    {
+      "event_id": "ch016_006",
+      "event_name": "抖展袈裟",
+      "event_status": "老院主率眾炫示七八百件袈裟",
+      "character_decision": "集體抖展袈裟炫富",
+      "decision_result": "反襯錦襴殊勝激化貪念"
+    },
+    {
+      "event_id": "ch016_007",
+      "event_name": "霞光迸現",
+      "event_status": "錦襴袈裟展開紅光滿室",
+      "character_decision": "集體注視寶衣失神",
+      "decision_result": "老僧徹底動奸心"
+    },
+    {
+      "event_id": "ch016_008",
+      "event_name": "密謀放火",
+      "event_status": "老僧煽動眾僧夜謀縱火奪衣",
+      "character_decision": "集體附議定計放火",
+      "decision_result": "搬柴圍禪堂預備焚殺"
+    },
+    {
+      "event_id": "ch016_011",
+      "event_name": "風助火勢",
+      "event_status": "行者吹巽風助火蔓延全院",
+      "character_decision": "集體束手無策待焚",
+      "decision_result": "寺院盡成灰燼"
+    },
+    {
+      "event_id": "ch016_013",
+      "event_name": "火後勘驗",
+      "event_status": "火熄後廢墟惶然，袈裟不見",
+      "character_decision": "集體隨師徒勘驗火場",
+      "decision_result": "目睹方丈撞牆自盡"
+    },
+    {
+      "event_id": "ch017_005",
+      "event_name": "報信明因",
+      "event_status": "方丈已亡，禪院廢墟，人心惶惶",
+      "character_decision": "集體靜聽行者陳情",
+      "decision_result": "確知金池勾結妖邪"
+    },
+    {
+      "event_id": "ch017_013",
+      "event_name": "捧衣歸寺",
+      "event_status": "禪院焦土未冷，袈裟重現山門",
+      "character_decision": "集體跪迎寶衣歸還",
+      "decision_result": "西行正統再獲印證"
+    },
+    {
+      "event_id": "ch018_003",
+      "event_name": "辭院啟程",
+      "event_status": "禪院焦土初整，晨光微明",
+      "character_decision": "集體跪送師徒離院",
+      "decision_result": "目送西行進入荒路"
+    },
+    {
+      "event_id": "ch036_006",
+      "event_name": "鐵棒震寺",
+      "event_status": "悟空碎石獅威懾全寺",
+      "character_decision": "齊整跪迎師徒入寺",
+      "decision_result": "接師徒入方丈安頓"
+    },
+    {
+      "event_id": "ch036_007",
+      "event_name": "禮逆轉正",
+      "event_status": "由拒宿轉為虔誠供奉",
+      "character_decision": "伏地供奉師徒安寢",
+      "decision_result": "建立暫時權力秩序"
+    },
+    {
+      "event_id": "ch044_003",
+      "event_name": "敬道滅僧",
+      "event_status": "道士監工，僧人沙灘勞役",
+      "character_decision": "集體拽磚運瓦修觀",
+      "decision_result": "強化滅僧崇道格局"
+    },
+    {
+      "event_id": "ch062_005",
+      "event_name": "夢兆認聖",
+      "event_status": "三年冤屈無處申訴，誠感通神",
+      "character_decision": "自陳夜夢聖僧來救",
+      "decision_result": "強化取經神聖性"
+    },
+    {
+      "event_id": "ch062_010",
+      "event_name": "鎖妖待審",
+      "event_status": "二妖穿琵琶骨鎖於寺中",
+      "character_decision": "集體見證鎖妖待審",
+      "decision_result": "奠定面君奏事實證"
+    },
+    {
+      "event_id": "ch081_004",
+      "event_name": "僧泣告禍",
+      "event_status": "六僧被食，僅存骸骨僧衣",
+      "character_decision": "集體泣訴妖蹤懇請除妖",
+      "decision_result": "悟空決意降妖"
+    },
+    {
+      "event_id": "ch081_008",
+      "event_name": "辭寺東尋",
+      "event_status": "女妖真身已破，三藏被攝",
+      "character_decision": "集體目送師徒辭寺追蹤",
+      "decision_result": "啟動陷空山救師線索"
+    }
+  ]
+}

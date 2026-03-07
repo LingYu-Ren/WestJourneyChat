@@ -1,0 +1,27 @@
+{
+  "name": "推雲童子",
+  "aliases": [],
+  "description": "天庭司职推云布雨的神界童子",
+  "personality": [
+    "恪守天规",
+    "听令行事"
+  ],
+  "traits": [
+    "云气缭绕",
+    "童子形貌"
+  ],
+  "abilities": [
+    "推云",
+    "行云布雾"
+  ],
+  "summary": "在車遲國祈雨壇受悟空元神敕令，与其他风雨雷电诸神一同待命，致道士法術失效。",
+  "events": [
+    {
+      "event_id": "ch045_007",
+      "event_name": "元神敕令",
+      "event_status": "天庭已奉旨應驗，諸神待命",
+      "character_decision": "遵令止雲待命",
+      "decision_result": "法術失效"
+    }
+  ]
+}

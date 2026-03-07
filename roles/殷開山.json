@@ -1,0 +1,59 @@
+{
+  "name": "殷開山",
+  "aliases": [],
+  "description": "唐朝丞相，殷溫嬌之父，玄奘之外祖父",
+  "personality": [
+    "剛正",
+    "果決",
+    "重情",
+    "忠君"
+  ],
+  "traits": [
+    "宰輔威儀",
+    "雷厲風行",
+    "孝義兼備"
+  ],
+  "abilities": [
+    "奏對理政",
+    "調兵遣將",
+    "明察冤獄"
+  ],
+  "summary": "殷開山聞女蒙冤、婿被害，即刻啟奏唐王，親率御林軍剿賊雪恨，促成一家團圓與光蕊還魂，展現其作為朝廷重臣的權責擔當與家族倫常的堅守。",
+  "events": [
+    {
+      "event_id": "ch009_016",
+      "event_name": "呈書鳴冤",
+      "event_status": "血書驚動，事關女婿生死",
+      "character_decision": "接血書即奏請發兵",
+      "decision_result": "唐王准奏，六萬軍出征"
+    },
+    {
+      "event_id": "ch009_017",
+      "event_name": "天兵討賊",
+      "event_status": "金殿面聖，案情緊迫",
+      "character_decision": "詳奏劉洪罪狀與冤情",
+      "decision_result": "御林軍直赴江州擒賊"
+    },
+    {
+      "event_id": "ch009_018",
+      "event_name": "剜心祭奠",
+      "event_status": "法場圍衙，正法賊首",
+      "character_decision": "依律處決劉洪祭亡婿",
+      "decision_result": "龍王感應，即送光蕊還魂"
+    },
+    {
+      "event_id": "ch009_019",
+      "event_name": "光蕊還魂",
+      "event_status": "江岸浮屍，神異突現",
+      "character_decision": "親迎還魂女婿歸家",
+      "decision_result": "一家團圓，倫理得彰"
+    },
+    {
+      "event_id": "ch009_020",
+      "event_name": "團圓奏捷",
+      "event_status": "早朝覆命，功成薦賢",
+      "character_decision": "奏報始末並薦光蕊復職",
+      "decision_result": "光蕊授學士，玄奘入寺修行"
+    }
+  ]
+}

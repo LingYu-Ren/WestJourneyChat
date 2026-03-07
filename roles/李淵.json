@@ -1,0 +1,28 @@
+{
+  "name": "李淵",
+  "aliases": [],
+  "description": "唐朝開國皇帝，太宗李世民之父",
+  "personality": [
+    "威嚴",
+    "被動",
+    "震懾"
+  ],
+  "traits": [
+    "帝王儀態",
+    "陰司受審者"
+  ],
+  "abilities": [
+    "統御之資",
+    "陰司通行"
+  ],
+  "summary": "於森羅殿前街遭建成、元吉冤魂索命，處境危殆，賴崔珏喝退方得暫安。",
+  "events": [
+    {
+      "event_id": "ch011_005",
+      "event_name": "兄弟索命",
+      "event_status": "遭亡子冤魂糾纏索命",
+      "character_decision": "默然受審，倚賴崔判護駕",
+      "decision_result": "冤魂退散，權柄可信度提升"
+    }
+  ]
+}

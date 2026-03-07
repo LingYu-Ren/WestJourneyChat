@@ -1,0 +1,27 @@
+{
+  "name": "陳光蕊魂魄",
+  "aliases": [],
+  "description": "唐僧生父，被殺後魂魄受龍王庇護於水府",
+  "personality": [
+    "仁厚",
+    "善緣"
+  ],
+  "traits": [
+    "含定顏珠",
+    "真魂不散"
+  ],
+  "abilities": [
+    "受水府供奉",
+    "待還魂復生"
+  ],
+  "summary": "因曾放生金色鯉魚（即龍王），得其報恩救護魂魄，留居洪江水府為都領，屍身以定顏珠保存。",
+  "events": [
+    {
+      "event_id": "ch009_006",
+      "event_name": "龍王報恩",
+      "event_status": "魂魄滯留水府，屍身未腐",
+      "character_decision": "曾放生金色鯉魚結善緣",
+      "decision_result": "魂魄得留水府為都領"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "八大金剛",
+  "aliases": [
+    "四大金剛"
+  ],
+  "description": "佛門護法神將，如來座前鎮守靈山的八位金剛力士",
+  "personality": [
+    "威嚴",
+    "忠謹",
+    "肅穆",
+    "果決",
+    "協同",
+    "沉靜",
+    "恪守儀軌",
+    "奉令如律",
+    "迅疾應變",
+    "全程持守",
+    "時序精準",
+    "使命必達"
+  ],
+  "traits": [
+    "金甲耀目",
+    "手持法器",
+    "身形魁梧",
+    "列陣如一",
+    "梵音震懾",
+    "垂目凝神",
+    "山門肅立",
+    "殿前承敕",
+    "香風引路",
+    "雲路護行",
+    "瑞靄隨行",
+    "金風送聖"
+  ],
+  "abilities": [
+    "降魔伏妖",
+    "護持正法",
+    "騰雲駕霧",
+    "結界合圍",
+    "定形制變",
+    "辨妄破幻",
+    "駕雲限時",
+    "奉旨行令",
+    "奉敕東返",
+    "臨機接引",
+    "瑞靄顯聖",
+    "金風定程"
+  ],
+  "summary": "於靈山大雷音寺參與如來受賀大典，列班護法，彰顯佛門威儀與秩序。　奉佛祖密令參與翠雲山圍剿牛魔王，與天王父子協力布網擒妖；後見羅剎女獻扇乞命，共證降伏之功，彰顯護法之實效與威信。　於鷲峰法會中靜立如儀，見悟空悲泣而未輕言，待如來敕令方動，彰顯護法之定力與節制。　於靈山山門外依禮導引取經團入寺，標誌取經終程之正式啟幕；復於大雄寶殿親承如來敕命，負起八日返東之嚴限押送職責，彰顯護法在佛國儀典與時序法度中的樞紐角色。　於靈山三山門外奉旨啟程，全程護送取經團東返；中途依菩薩敕令墜凡補難，復於陳家莊上空香風接引升空，確保功果圓滿終章收束。　於長安望經樓瑞靄臨京之際彰顯功果圓滿；於雁塔寺高臺突現召返，確保八日嚴限毫無愆誤，展現對時序法度的絕對執守。",
+  "events": [
+    {
+      "event_id": "ch008_001",
+      "event_name": "靈山受賀",
+      "event_status": "靈山法會莊嚴，諸佛菩薩齊聚",
+      "character_decision": "列班護持如來蓮臺",
+      "decision_result": "確立護法職分，強化佛門權威"
+    },
+    {
+      "event_id": "ch061_007",
+      "event_name": "四面合圍",
+      "event_status": "空中布網，圍剿妖王",
+      "character_decision": "四金剛聯手結界擒拿",
+      "decision_result": "制其多頭再生之術"
+    },
+    {
+      "event_id": "ch061_009",
+      "event_name": "羅剎獻扇",
+      "event_status": "洞前神兵壓境，妖氛盡斂",
+      "character_decision": "列陣受降，護持正果",
+      "decision_result": "確保芭蕉扇順承東返"
+    },
+    {
+      "event_id": "ch077_011",
+      "event_name": "靈山哭訴",
+      "event_status": "行者泣告師亡，法會驟然凝滯",
+      "character_decision": "垂目列班，靜候佛旨",
+      "decision_result": "維持法會威儀，不亂秩序"
+    },
+    {
+      "event_id": "ch098_005",
+      "event_name": "入寺謁佛",
+      "event_status": "取經團初登靈山核心，儀式場域開啟",
+      "character_decision": "山門外列班導引",
+      "decision_result": "完成終極位移認證"
+    },
+    {
+      "event_id": "ch098_010",
+      "event_name": "繳旨定限",
+      "event_status": "如來殿前核定功果，時限敕令頒布",
+      "character_decision": "殿前受命駕送返東",
+      "decision_result": "確立八日嚴限執行權"
+    },
+    {
+      "event_id": "ch099_001",
+      "event_name": "金剛奉旨東返",
+      "event_status": "初離佛境，雲路啟程",
+      "character_decision": "奉旨護送師徒離靈山",
+      "decision_result": "開啟東返行程"
+    },
+    {
+      "event_id": "ch099_004",
+      "event_name": "揭諦傳令墜凡",
+      "event_status": "揭諦授意，雲中受命",
+      "character_decision": "依令墜師徒於通天河西岸",
+      "decision_result": "完成補難關鍵一環"
+    },
+    {
+      "event_id": "ch099_012",
+      "event_name": "金剛接引升空",
+      "event_status": "夜遁被察，香風現身",
+      "character_decision": "凌空接引師徒升空",
+      "decision_result": "直赴長安終章收束"
+    },
+    {
+      "event_id": "ch100_002",
+      "event_name": "金剛送聖",
+      "event_status": "八日限內駕風抵京，時限將屆",
+      "character_decision": "全速護送四眾抵長安",
+      "decision_result": "準時繳旨，未誤藏數"
+    },
+    {
+      "event_id": "ch100_003",
+      "event_name": "瑞靄臨京",
+      "event_status": "祥雲覆都，朝野矚目迎聖",
+      "character_decision": "瑞靄隨行標誌功成",
+      "decision_result": "確立取經終局正統性"
+    },
+    {
+      "event_id": "ch100_006",
+      "event_name": "金剛召返",
+      "event_status": "東土弘法初啟，時限將屆",
+      "character_decision": "突現高臺即刻召返",
+      "decision_result": "直赴靈山完旨受職"
+    }
+  ]
+}

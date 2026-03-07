@@ -1,0 +1,29 @@
+{
+  "name": "刁鑽古怪",
+  "aliases": [],
+  "description": "盤桓洞中看守洞門的小妖，與古怪刁鑽為伴",
+  "personality": [
+    "兇悍",
+    "輕敵",
+    "恃強"
+  ],
+  "traits": [
+    "青面",
+    "持繩縛人",
+    "與古怪刁鑽形影不離"
+  ],
+  "abilities": [
+    "縛人",
+    "守洞"
+  ],
+  "summary": "與古怪刁鑽、青臉兒一同縛住孫悟空，卻因輕敵疏防，反被行者脫縛誅殺。",
+  "events": [
+    {
+      "event_id": "ch090_009",
+      "event_name": "行者脫縛",
+      "event_status": "洞內夜深，縛住行者後鬆懈戒備",
+      "character_decision": "持繩看守行者",
+      "decision_result": "被誅成肉餅"
+    }
+  ]
+}

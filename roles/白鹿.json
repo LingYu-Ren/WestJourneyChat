@@ -1,0 +1,29 @@
+{
+  "name": "白鹿",
+  "aliases": [],
+  "description": "比丘國偽國師座下妖仙，南極老人坐騎",
+  "personality": [
+    "狡黠",
+    "依附权势"
+  ],
+  "traits": [
+    "白毛鹿形",
+    "通人言",
+    "擅幻化"
+  ],
+  "abilities": [
+    "幻化人形",
+    "协同作恶",
+    "遁地潜行"
+  ],
+  "summary": "被孫悟空與南極老人擒獲，於金鑾殿當眾揭穿偽國師身份，失勢被俘。",
+  "events": [
+    {
+      "event_id": "ch079_014",
+      "event_name": "獻俘回旨",
+      "event_status": "洞府已毀，身陷重圍",
+      "character_decision": "隨眾返朝受審",
+      "decision_result": "當殿現原形被拘"
+    }
+  ]
+}

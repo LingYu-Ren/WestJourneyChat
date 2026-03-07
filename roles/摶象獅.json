@@ -1,0 +1,36 @@
+{
+  "name": "摶象獅",
+  "aliases": [],
+  "description": "玉華縣黃獅精麾下七獅精之一，擅搏象之力",
+  "personality": [
+    "兇悍",
+    "忠勇"
+  ],
+  "traits": [
+    "獅首人身",
+    "力大無窮",
+    "披鱗甲"
+  ],
+  "abilities": [
+    "群戰協同",
+    "近身搏擊",
+    "妖雲騰挪"
+  ],
+  "summary": "摶象獅參與七獅圍攻師徒之戰，後於城外伏擊中被孫悟空以毫毛分身所制，顯其為核心戰力之一。",
+  "events": [
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七獅合圍，形勢壓倒性優勢",
+      "character_decision": "協同圍攻孫悟空三人",
+      "decision_result": "八戒被擒"
+    },
+    {
+      "event_id": "ch090_003",
+      "event_name": "毫毛擒雙",
+      "event_status": "城外伏擊遭行者突襲",
+      "character_decision": "與白澤獅等聯防應敵",
+      "decision_result": "被毫毛分身所擒"
+    }
+  ]
+}

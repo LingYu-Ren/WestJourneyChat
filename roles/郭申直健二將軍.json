@@ -1,0 +1,34 @@
+{
+  "name": "郭申直健二將軍",
+  "aliases": [],
+  "description": "天庭正神，二郎真君麾下得力部將",
+  "personality": [
+    "忠勇",
+    "果決"
+  ],
+  "traits": [
+    "草頭神將",
+    "駕鷹牽犬"
+  ],
+  "abilities": [
+    "協同作戰",
+    "天羅地網布陣"
+  ],
+  "summary": "隨二郎真君率草頭神緊急馳援花果山，參與重布針對變化之術的天羅地網。　雖未直接現身水簾洞，然其參與布設之天羅地網已被大聖所破，標誌舊有天庭鎮壓體系瓦解，間接促成花果山重聚舊部、重整建制。",
+  "events": [
+    {
+      "event_id": "ch006_009",
+      "event_name": "七聖赴戰",
+      "event_status": "玉帝旨意緊迫，天兵困局待解",
+      "character_decision": "隨真君馳赴花果山",
+      "decision_result": "天羅地網重布完成"
+    },
+    {
+      "event_id": "ch028_004",
+      "event_name": "重聚舊部",
+      "event_status": "天羅地網已破，天庭威懾暫消",
+      "character_decision": "未臨現場，陣法被破",
+      "decision_result": null
+    }
+  ]
+}

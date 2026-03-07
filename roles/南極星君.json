@@ -1,0 +1,59 @@
+{
+  "name": "南極星君",
+  "aliases": [
+    "南極老人",
+    "壽星"
+  ],
+  "description": "奉观音法旨执掌送子、延寿之职的天界星君",
+  "personality": [
+    "恪守法旨",
+    "庄重肃穆",
+    "慈悯宽厚",
+    "临机持正"
+  ],
+  "traits": [
+    "白发鹤颜",
+    "执寿杖",
+    "着星纹绛袍",
+    "携火枣",
+    "乘白鹿"
+  ],
+  "abilities": [
+    "通晓因果",
+    "御使星轨",
+    "奉旨降瑞",
+    "止戈化戾",
+    "祛病延年"
+  ],
+  "summary": "南極星君依觀音法旨親赴江州衙署花亭送子，促成玄奘誕生並賜神諭，正式啟動取經因果主軸。　南極星君现身清華仙府止戈息战，携白鹿精返朝献俘，并于比丘國東閣授火棗祛病延年，彰顯其司職延壽、調和因果之實權。",
+  "events": [
+    {
+      "event_id": "ch009_008",
+      "event_name": "星君送子",
+      "event_status": "奉观音法旨下界，時機嚴苛",
+      "character_decision": "親送金蟬轉世之子",
+      "decision_result": "玄奘誕生，獲神諭定因果"
+    },
+    {
+      "event_id": "ch079_011",
+      "event_name": "壽星止戈",
+      "event_status": "白鹿精敗遁化寒光，悟空追殺正急",
+      "character_decision": "現身罩住寒光勸止追殺",
+      "decision_result": "悟空知其身份暫緩誅戮"
+    },
+    {
+      "event_id": "ch079_014",
+      "event_name": "獻俘回旨",
+      "event_status": "洞府已毀妖物俱獲，須面君覆命",
+      "character_decision": "隨悟空返朝當殿證偽",
+      "decision_result": "國王羞愧下拜"
+    },
+    {
+      "event_id": "ch079_015",
+      "event_name": "授棗祛病",
+      "event_status": "國王求延年而無丹可賜",
+      "character_decision": "贈三枚火棗令吞服",
+      "decision_result": "國王身輕病愈得長生"
+    }
+  ]
+}

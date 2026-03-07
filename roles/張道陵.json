@@ -1,0 +1,39 @@
+{
+  "name": "張道陵",
+  "aliases": [
+    "張天師"
+  ],
+  "description": "道教正一派創始人，玉帝座前四天師之一",
+  "personality": [
+    "持重",
+    "公正",
+    "通達"
+  ],
+  "traits": [
+    "鶴髮童顏",
+    "執玉圭",
+    "著雲紋道袍"
+  ],
+  "abilities": [
+    "通曉天機",
+    "奏對玉帝",
+    "協理天界稽查"
+  ],
+  "summary": "作為四天師之一參與殿前陳情，聽取悟空申述後支持啟動天界查勘程序。　雖未親臨朱紫國寶殿，然以天師職權默許紫陽真人臨凡解魘，彰顯其統籌仙真、因時制宜之務實風範。",
+  "events": [
+    {
+      "event_id": "ch051_003",
+      "event_name": "殿前陳情",
+      "event_status": "靈霄殿外集議，金環事件緊急通報",
+      "character_decision": "傾聽申述並協同奏請玉帝",
+      "decision_result": "獲准面奏，啟動查勘"
+    },
+    {
+      "event_id": "ch071_012",
+      "event_name": "棕衣解魘",
+      "event_status": "朱紫國寶殿毒刺危局",
+      "character_decision": "默許紫陽真人臨凡施救",
+      "decision_result": "皇后毒解，倫理障礙消除"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "馬流二元帥",
+  "aliases": [],
+  "description": "花果山舊部將領，大聖重聚之核心執事",
+  "personality": [
+    "忠誠",
+    "穩健",
+    "服從"
+  ],
+  "traits": [
+    "武將裝束",
+    "洞中執事"
+  ],
+  "abilities": [
+    "統御部眾",
+    "山門管理"
+  ],
+  "summary": "應大聖召喚重返水簾洞，參與重整山門組織，恢復花果山軍政架構。",
+  "events": [
+    {
+      "event_id": "ch028_004",
+      "event_name": "重聚舊部",
+      "event_status": "洞中殘存將領，待命歸位",
+      "character_decision": "應召赴水簾洞聽令",
+      "decision_result": "重編職司，恢復架構"
+    }
+  ]
+}

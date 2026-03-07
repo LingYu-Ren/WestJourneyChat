@@ -1,0 +1,29 @@
+{
+  "name": "翊聖真君",
+  "aliases": [],
+  "description": "玉帝座下辅佐重臣，北极四圣之一",
+  "personality": [
+    "忠谨",
+    "果决"
+  ],
+  "traits": [
+    "持剑",
+    "玄服",
+    "威仪肃穆"
+  ],
+  "abilities": [
+    "通神御炁",
+    "敕令驱邪",
+    "奉诏传命"
+  ],
+  "summary": "受玉帝急命，与遊奕靈官同赴西方礼请如来，承担天庭危局中的关键传谕使命。",
+  "events": [
+    {
+      "event_id": "ch007_009",
+      "event_name": "西請如來",
+      "event_status": "天庭围猴失利，形势危殆",
+      "character_decision": "奉诏赴灵山请佛",
+      "decision_result": "如来应诏赴天庭"
+    }
+  ]
+}

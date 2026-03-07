@@ -1,0 +1,28 @@
+{
+  "name": "寶象國王",
+  "aliases": [],
+  "description": "寶象國一國之君，統治寶象國的凡間帝王",
+  "personality": [
+    "仁厚",
+    "感恩",
+    "守禮"
+  ],
+  "traits": [
+    "金鑾殿理政",
+    "重視綱常"
+  ],
+  "abilities": [
+    "封賞臣工",
+    "頒旨授爵"
+  ],
+  "summary": "在黃袍怪伏誅、公主歸位、玄奘復原後，於金鑾殿親自封賞師徒四人並賜宴送行，展現明君風範。",
+  "events": [
+    {
+      "event_id": "ch031_010",
+      "event_name": "辭國西行",
+      "event_status": "國患已平，國體重振",
+      "character_decision": "封賞師徒並賜宴送行",
+      "decision_result": "閉合波月洞線索"
+    }
+  ]
+}

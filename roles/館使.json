@@ -1,0 +1,27 @@
+{
+  "name": "館使",
+  "aliases": [],
+  "description": "朱紫國會同館負責接待外國使節的官員",
+  "personality": [
+    "盡職",
+    "守制"
+  ],
+  "traits": [
+    "依禮行事",
+    "重規矩"
+  ],
+  "abilities": [
+    "驗文牒",
+    "安頓使團"
+  ],
+  "summary": "館使依制接納唐僧師徒入住會同館，完成通關文牒初審程序，為後續醫治國王事務提供合法駐留依據。",
+  "events": [
+    {
+      "event_id": "ch068_002",
+      "event_name": "入館安歇",
+      "event_status": "奉命接待西行僧團，需核驗關文",
+      "character_decision": "安排師徒入住會同館",
+      "decision_result": "取得合法落腳點"
+    }
+  ]
+}

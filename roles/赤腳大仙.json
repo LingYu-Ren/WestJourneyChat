@@ -1,0 +1,57 @@
+{
+  "name": "赤腳大仙",
+  "aliases": [],
+  "description": "天庭正神，司掌瑤池禮儀事務的散仙",
+  "personality": [
+    "忠職",
+    "輕信",
+    "守禮",
+    "惶懼",
+    "恭謹"
+  ],
+  "traits": [
+    "赤腳",
+    "持麈尾",
+    "常赴瑤池",
+    "面聖頻繁",
+    "獻瑞承歡"
+  ],
+  "abilities": [
+    "通曉天庭典禮",
+    "騰雲駕霧",
+    "識得仙籍",
+    "奏對陳情",
+    "奉禮獻瑞"
+  ],
+  "summary": "被悟空詐騙離崗，致瑤池防備空虛；後與諸神同奏其罪，促成天兵圍剿決策。　於靈霄寶殿參與菩薩問因之會，親歷玉帝詳述悟空威脅，意識自身失職已成天界秩序崩壞關鍵一環。　於安天大會中隨壽星等群仙獻寶賀會，以儀典之誠強化天佛聯盟正統性，展現其禮官本分之不可替代。",
+  "events": [
+    {
+      "event_id": "ch005_006",
+      "event_name": "誑仙賺道",
+      "event_status": "奉命巡守瑤池路，防備嚴密",
+      "character_decision": "信悟空之言赴通明殿",
+      "decision_result": "瑤池防備空虛"
+    },
+    {
+      "event_id": "ch005_010",
+      "event_name": "諸神奏禍",
+      "event_status": "瑤池失職後緊急面聖",
+      "character_decision": "奏報悟空竊蟠桃罪狀",
+      "decision_result": "玉帝震怒調兵"
+    },
+    {
+      "event_id": "ch006_002",
+      "event_name": "菩薩問因",
+      "event_status": "瑤池荒涼，天界秩序崩壞",
+      "character_decision": "隨眾面聖陳情",
+      "decision_result": "佐證禍始於瑤池失防"
+    },
+    {
+      "event_id": "ch007_015",
+      "event_name": "群仙獻瑞",
+      "event_status": "安天大會盛況空前",
+      "character_decision": "獻寶賀會",
+      "decision_result": "佐證天佛同盟合法性"
+    }
+  ]
+}

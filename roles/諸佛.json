@@ -1,0 +1,30 @@
+{
+  "name": "諸佛",
+  "aliases": [],
+  "description": "靈山大雷音寶剎中與如來同列的覺者群體",
+  "personality": [
+    "莊嚴",
+    "威儀",
+    "慈悲"
+  ],
+  "traits": [
+    "金身顯相",
+    "蓮座端坐",
+    "梵音共振"
+  ],
+  "abilities": [
+    "法界共證",
+    "真言加持",
+    "因果了然"
+  ],
+  "summary": "於靈山法會中共同見證如來宣示東土教化之旨，確立取經使命的神聖依據。",
+  "events": [
+    {
+      "event_id": "ch008_002",
+      "event_name": "宣示東土",
+      "event_status": "法會集結，聽受如來敕令",
+      "character_decision": "共證教化南贍部洲之必要",
+      "decision_result": "取經機制正式啟動"
+    }
+  ]
+}

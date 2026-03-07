@@ -1,0 +1,37 @@
+{
+  "name": "王靈官",
+  "aliases": [],
+  "description": "道教护法神，镇守灵霄殿的天庭首席护法",
+  "personality": [
+    "忠勇",
+    "刚毅",
+    "果决"
+  ],
+  "traits": [
+    "执金鞭",
+    "赤面三目",
+    "披甲持戟"
+  ],
+  "abilities": [
+    "降魔伏妖",
+    "雷法精熟",
+    "武艺超群"
+  ],
+  "summary": "于灵霄殿前独力拦截大闹天宫的孙悟空，展现其作为天庭第一护法的威慑力与战力；后因难制悟空，协同佑圣真君调集三十六雷将布阵围困。",
+  "events": [
+    {
+      "event_id": "ch007_007",
+      "event_name": "靈官擋駕",
+      "event_status": "悟空直逼天庭核心禁地",
+      "character_decision": "执金鞭拦阻悟空",
+      "decision_result": "厮杀不分胜负"
+    },
+    {
+      "event_id": "ch007_008",
+      "event_name": "雷將圍困",
+      "event_status": "独力难制齐天大圣",
+      "character_decision": "协同真君调雷将围困",
+      "decision_result": "悟空鏖战不可近"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "雪獅",
+  "aliases": [
+    "雪獅精"
+  ],
+  "description": "九靈元聖座下孫輩妖王之一",
+  "personality": [
+    "忠勇",
+    "悍烈",
+    "果決"
+  ],
+  "traits": [
+    "雪白獅形",
+    "披甲執兵",
+    "善戰圍攻"
+  ],
+  "abilities": [
+    "點兵統軍",
+    "呼風馭獸",
+    "協同圍獵"
+  ],
+  "summary": "隨九靈元聖應黃獅精哭訴而點兵出征，參與豹頭山虎口洞諸孫集結，共赴玉華州施壓。　參與七獅圍戰，與猱獅精合力擒獲豬八戒，展現強悍戰力與協同作戰之能。",
+  "events": [
+    {
+      "event_id": "ch089_009",
+      "event_name": "諸孫點兵",
+      "event_status": "妖祖震怒，群孫整軍待發",
+      "character_decision": "奉命點兵隨征",
+      "decision_result": "妖風蔽日壓境"
+    },
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七獅合圍，師兄弟陷於苦戰",
+      "character_decision": "加入圍攻陣勢",
+      "decision_result": "壓制行者三人"
+    },
+    {
+      "event_id": "ch090_002",
+      "event_name": "八戒遭擒",
+      "event_status": "久戰疲乏，八戒虛幌敗陣",
+      "character_decision": "聯手猱獅擒敵",
+      "decision_result": "成功擒獲八戒"
+    }
+  ]
+}

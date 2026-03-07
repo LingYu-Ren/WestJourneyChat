@@ -1,0 +1,29 @@
+{
+  "name": "大王子",
+  "aliases": [],
+  "description": "烏雞國王長子，王位合法繼承人",
+  "personality": [
+    "威嚴",
+    "謹慎",
+    "責任感強"
+  ],
+  "traits": [
+    "雄糾糾氣昂昂",
+    "王府出身",
+    "王室儀態"
+  ],
+  "abilities": [
+    "統御宗室",
+    "臨機問辯"
+  ],
+  "summary": "在暴紗亭與二、三王子共同質詢唐僧師徒，展現王室對異端的警覺與集體決策姿態。",
+  "events": [
+    {
+      "event_id": "ch088_006",
+      "event_name": "亭前問怪",
+      "event_status": "群臣惶惑，王室權威受考驗",
+      "character_decision": "參與持兵質問三徒真偽",
+      "decision_result": "促成空中演武驗明身份"
+    }
+  ]
+}

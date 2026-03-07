@@ -1,0 +1,27 @@
+{
+  "name": "賣糕少年",
+  "aliases": [],
+  "description": "火焰山莊門外販售熱糕的本地少年",
+  "personality": [
+    "樸實",
+    "機敏"
+  ],
+  "traits": [
+    "持糕而立",
+    "熟知鄉里傳聞"
+  ],
+  "abilities": [
+    "辨溫知火",
+    "通曉仙凡掌故"
+  ],
+  "summary": "以糕驗熱，向悟空道出鐵扇仙之名，成為「鐵扇仙—芭蕉扇—息火」因果鏈的關鍵信息提供者。",
+  "events": [
+    {
+      "event_id": "ch059_004",
+      "event_name": "糕問仙源",
+      "event_status": "酷熱當道，莊門外獨售熱糕",
+      "character_decision": "應問告知鐵扇仙名",
+      "decision_result": "確立息火因果鏈"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "眾賓",
+  "aliases": [],
+  "description": "寇家宴請的本地士紳賓客群體",
+  "personality": [
+    "守禮",
+    "從眾"
+  ],
+  "traits": [
+    "依儀而行",
+    "靜默列席"
+  ],
+  "abilities": [
+    "參與佛齋儀式",
+    "遵循宴飲禮制"
+  ],
+  "summary": "作為宴席賓客，眾賓齊集大廠廳，靜候並見證唐僧舉箸誦經的佛門齋儀。",
+  "events": [
+    {
+      "event_id": "ch096_008",
+      "event_name": "舉箸謁齋",
+      "event_status": "盛宴開席，依佛儀待齋誦",
+      "character_decision": "列席靜候齋誦",
+      "decision_result": "完成禮儀程序"
+    }
+  ]
+}

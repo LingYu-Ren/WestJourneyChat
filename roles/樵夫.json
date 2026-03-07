@@ -1,0 +1,57 @@
+{
+  "name": "樵夫",
+  "aliases": [],
+  "description": "平頂山綠莎坡一帶的山中樵夫，實為神仙化身",
+  "personality": [
+    "謹慎",
+    "機警",
+    "善意",
+    "樂於助人",
+    "知恩圖報"
+  ],
+  "traits": [
+    "持斧",
+    "山野裝束",
+    "主動示警",
+    "熟知神魔淵源",
+    "質樸誠懇"
+  ],
+  "abilities": [
+    "辨妖識魔",
+    "通曉山中動靜",
+    "洞悉神魔關係",
+    "隱忍待機",
+    "山居生存"
+  ],
+  "summary": "樵夫忽於險徑攔路，向唐僧師徒警示蓮花洞二魔，引發孫悟空暗察其真身。　樵夫於翠雲山芭蕉洞外點明鐵扇仙即羅剎女，揭示其與紅孩兒之仇，助悟空釐清因果脈絡。　樵子於隱霧山折岳連環洞後園與唐僧同被綁縛，得悟空解救；後於茅舍以野菜素齋酬恩，並告知西行距天竺不足千里。",
+  "events": [
+    {
+      "event_id": "ch032_002",
+      "event_name": "樵夫報信",
+      "event_status": "師徒行至險峻山徑，形勢未明",
+      "character_decision": "主動攔路警示二魔威脅",
+      "decision_result": "行者起疑，暗察真身"
+    },
+    {
+      "event_id": "ch059_005",
+      "event_name": "樵指羅剎",
+      "event_status": "芭蕉洞外偶遇悟空問路",
+      "character_decision": "指明鐵扇仙即羅剎女",
+      "decision_result": "揭示與紅孩兒之仇關聯"
+    },
+    {
+      "event_id": "ch086_008",
+      "event_name": "解縛攜出",
+      "event_status": "群妖盡眠，身陷洞中後園",
+      "character_decision": "配合悟空脫險",
+      "decision_result": "師徒崖上重聚"
+    },
+    {
+      "event_id": "ch086_010",
+      "event_name": "野菜酬恩",
+      "event_status": "脫險後寄居茅舍，母子相依",
+      "character_decision": "奉野菜素齋謝恩",
+      "decision_result": "透露西行里程"
+    }
+  ]
+}

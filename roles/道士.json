@@ -1,0 +1,68 @@
+{
+  "name": "道士",
+  "aliases": [],
+  "description": "黃花觀道士，實為千年蜈蚣精所化",
+  "personality": [
+    "偏信",
+    "暴怒",
+    "護短",
+    "陰狠"
+  ],
+  "traits": [
+    "千眼金光",
+    "袖藏百鳥糞",
+    "擅煉毒藥",
+    "本相為蜈蚣"
+  ],
+  "abilities": [
+    "放金光困敵",
+    "煉制劇毒",
+    "變化人形",
+    "吐絲結網（協同）"
+  ],
+  "summary": "因收留盤絲洞七女怪而捲入與唐僧師徒的衝突，先煉毒害人，後現本相施金光，終被毘藍婆以繡針破法、收伏現形。",
+  "events": [
+    {
+      "event_id": "ch073_003",
+      "event_name": "同門結怨",
+      "event_status": "七女投奔，誣告在前",
+      "character_decision": "收留女怪並信其讒言",
+      "decision_result": "決意報復唐僧師徒"
+    },
+    {
+      "event_id": "ch073_004",
+      "event_name": "煉毒備害",
+      "event_status": "聽信讒言，怒欲雪恥",
+      "character_decision": "取百鳥糞煉絕命毒藥",
+      "decision_result": "毒茶備妥致眾人暈厥"
+    },
+    {
+      "event_id": "ch073_006",
+      "event_name": "蛛網困聖",
+      "event_status": "悟空突襲，女怪援手",
+      "character_decision": "默許女怪吐絲助戰",
+      "decision_result": "悟空破篷遁走"
+    },
+    {
+      "event_id": "ch073_009",
+      "event_name": "金光困聖",
+      "event_status": "師妹被殺，怒極顯相",
+      "character_decision": "現千眼金光罩住悟空",
+      "decision_result": "悟空被困十餘里"
+    },
+    {
+      "event_id": "ch073_012",
+      "event_name": "繡針破光",
+      "event_status": "金光遭克，法力驟失",
+      "character_decision": "金光被繡針擊散",
+      "decision_result": "本相自露為蜈蚣"
+    },
+    {
+      "event_id": "ch073_014",
+      "event_name": "收妖現形",
+      "event_status": "法力盡失，無力反抗",
+      "character_decision": "被毘藍婆指化為蜈蚣",
+      "decision_result": "收歸千花洞看門"
+    }
+  ]
+}

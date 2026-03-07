@@ -1,0 +1,27 @@
+{
+  "name": "豹頭山妖",
+  "aliases": [],
+  "description": "盤踞豹頭山虎口洞的盜寶妖怪",
+  "personality": [
+    "貪婪",
+    " opportunistic"
+  ],
+  "traits": [
+    "覬覦神兵",
+    "借光行竊"
+  ],
+  "abilities": [
+    "夜行劫掠",
+    "辨光識寶"
+  ],
+  "summary": "因見三件神兵霞光沖天，當夜即出手劫奪，引發唐僧師徒尋寶降妖之舉。",
+  "events": [
+    {
+      "event_id": "ch088_011",
+      "event_name": "霞光引盜",
+      "event_status": "神兵露天放光，誘發盜心",
+      "character_decision": "趁夜劫奪神兵",
+      "decision_result": "成功奪寶離去"
+    }
+  ]
+}

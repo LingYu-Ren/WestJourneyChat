@@ -1,0 +1,44 @@
+{
+  "name": "七衣仙女",
+  "aliases": [],
+  "description": "王母娘娘座下掌管蟠桃園採摘的七位仙女",
+  "personality": [
+    "恪守職分",
+    "驚惶失措",
+    "忠職敢奏"
+  ],
+  "traits": [
+    "七色霓裳",
+    "瑤池仙婢",
+    "持籃摘桃"
+  ],
+  "abilities": [
+    "蟠桃園採桃",
+    "通報天庭",
+    "應對突變"
+  ],
+  "summary": "因摘桃遇悟空驚枝現形，遭定身術禁錮一週天，解術後即赴凌霄殿奏報禍事，促成天庭震怒調兵。　本次事件中未参与，无新增进展。　本次事件中未参与，无新增进展。",
+  "events": [
+    {
+      "event_id": "ch005_004",
+      "event_name": "驚枝現形",
+      "event_status": "摘桃至後樹見果盡，僅存半桃",
+      "character_decision": "扯枝驚醒異狀",
+      "decision_result": "悟空現本相威嚇"
+    },
+    {
+      "event_id": "ch005_005",
+      "event_name": "定身瞞天",
+      "event_status": "被悟空施法定身僵立原地",
+      "character_decision": "遭定身失職",
+      "decision_result": "蟠桃會籌備混亂"
+    },
+    {
+      "event_id": "ch005_010",
+      "event_name": "諸神奏禍",
+      "event_status": "解術後急赴凌霄殿面聖",
+      "character_decision": "奏報悟空罪狀",
+      "decision_result": "玉帝決意圍剿花果山"
+    }
+  ]
+}

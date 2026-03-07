@@ -1,0 +1,30 @@
+{
+  "name": "寅將軍",
+  "aliases": [],
+  "description": "盤踞雙叉嶺的虎妖，山中三怪之首",
+  "personality": [
+    "兇殘",
+    "霸道",
+    "暴戾"
+  ],
+  "traits": [
+    "虎形",
+    "嗜血",
+    "踞坑為巢"
+  ],
+  "abilities": [
+    "擒拿",
+    "食人",
+    "夜襲"
+  ],
+  "summary": "於雙叉嶺坑坎設伏，與熊山君、特處士合謀劫殺玄奘師徒，親手分食二從者。",
+  "events": [
+    {
+      "event_id": "ch013_006",
+      "event_name": "虎穴遭劫",
+      "event_status": "盤踞坑坎，聯妖伏擊",
+      "character_decision": "擒殺從者並分食",
+      "decision_result": "玄奘孤身倖免"
+    }
+  ]
+}

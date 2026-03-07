@@ -1,0 +1,27 @@
+{
+  "name": "福原寺僧",
+  "aliases": [],
+  "description": "河州衛福原寺出家僧人，駐驛接待西行僧侶",
+  "personality": [
+    "守職",
+    "恭謹"
+  ],
+  "traits": [
+    "僧服素淨",
+    "通曉邊驛事務"
+  ],
+  "abilities": [
+    "迎送僧侶",
+    "協理驛務"
+  ],
+  "summary": "於河州衛驛站接待玄奘一行，履行邊地寺院接待職責。",
+  "events": [
+    {
+      "event_id": "ch013_005",
+      "event_name": "邊界駐驛",
+      "event_status": "玄奘抵邊歇宿，驛務繁忙",
+      "character_decision": "協理玄奘歇宿事宜",
+      "decision_result": "保障西行僧侶當夜安頓"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "眾莊民",
+  "aliases": [],
+  "description": "駝羅莊普通百姓，受蟒妖長期迫害",
+  "personality": [
+    "感恩",
+    "虔誠",
+    "熱忱"
+  ],
+  "traits": [
+    "集體行動",
+    "跪拜禮敬"
+  ],
+  "abilities": [
+    "協作勞作",
+    "承諾踐諾"
+  ],
+  "summary": "因孫悟空與豬八戒拖蟒獻捷而感恩跪拜，主動盛情款留師徒五七日，並承諾助開稀柿衕以報德。",
+  "events": [
+    {
+      "event_id": "ch067_007",
+      "event_name": "拖蟒獻捷",
+      "event_status": "巨蟒初除，驚懼未消",
+      "character_decision": "跪拜感恩並款留師徒",
+      "decision_result": "師徒被留住五七日"
+    },
+    {
+      "event_id": "ch067_008",
+      "event_name": "約定開路",
+      "event_status": "師徒將離，莊民欲報恩",
+      "character_decision": "承諾助開稀柿衕",
+      "decision_result": "行者定下八戒拱路之策"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "滿朝官",
+  "aliases": [],
+  "description": "比丘國金鑾殿上列席的朝廷文武百官群體",
+  "personality": [
+    "順從",
+    "謹慎",
+    "觀望"
+  ],
+  "traits": [
+    "朝服冠帶",
+    "列班肅立",
+    "沉默應和"
+  ],
+  "abilities": [
+    "朝儀禮制",
+    "察言觀色"
+  ],
+  "summary": "在國丈與唐僧辯道之際，滿朝官集體列席金鑾殿，未發一言，默然見證國丈妖邪本質暴露。",
+  "events": [
+    {
+      "event_id": "ch078_005",
+      "event_name": "釋道辯真",
+      "event_status": "金鑾殿上觀禮辯道，君臣同在",
+      "character_decision": "靜默列班，不置可否",
+      "decision_result": "未能匡正國王迷誤"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "拂雲叟",
+  "aliases": [],
+  "description": "木仙庵樹精之一，本體為竹，號「拂雲叟」",
+  "personality": [
+    "清雅",
+    "好文",
+    "從眾"
+  ],
+  "traits": [
+    "竹形",
+    "長髯",
+    "善吟詩"
+  ],
+  "abilities": [
+    "詩才",
+    "論道",
+    "幻化"
+  ],
+  "summary": "作為荊棘嶺四操之一參與詩會論道，並協同促成杏仙逼婚之事，展現其附和群議、重風雅而輕戒律的精怪立場。",
+  "events": [
+    {
+      "event_id": "ch064_006",
+      "event_name": "四操談詩",
+      "event_status": "與三老共邀唐僧論玄談詩",
+      "character_decision": "自報名號吟詩論道",
+      "decision_result": "確立四操身份與詩會基調"
+    },
+    {
+      "event_id": "ch064_007",
+      "event_name": "杏仙逼婚",
+      "event_status": "四老聯袂為杏仙保媒",
+      "character_decision": "參與主媒促成婚事",
+      "decision_result": "觸發三藏怒斥，群妖惶懼"
+    }
+  ]
+}

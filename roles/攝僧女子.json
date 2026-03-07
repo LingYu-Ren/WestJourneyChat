@@ -1,0 +1,30 @@
+{
+  "name": "攝僧女子",
+  "aliases": [],
+  "description": "神秘風月魔化身，擅以煙花網攝取高僧",
+  "personality": [
+    "詭譎",
+    "果決",
+    "冷艷"
+  ],
+  "traits": [
+    "旋風現形",
+    "煙花網",
+    "風月氣息"
+  ],
+  "abilities": [
+    "攝魂術",
+    "幻化術",
+    "風系操控"
+  ],
+  "summary": "於西關外路旁突施風月攝師之術，旋風捲走唐僧，暴露其與『風月魔』及『煙花網』的深層關聯。",
+  "events": [
+    {
+      "event_id": "ch054_010",
+      "event_name": "風月攝師",
+      "event_status": "女王失措致防備鬆懈",
+      "character_decision": "旋風攝走唐僧",
+      "decision_result": "師徒脫網未竟"
+    }
+  ]
+}

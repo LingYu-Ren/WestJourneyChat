@@ -1,0 +1,29 @@
+{
+  "name": "風婆婆",
+  "aliases": [],
+  "description": "天庭司風之神，隸屬巽位，掌八面風勢",
+  "personality": [
+    "恪守天規",
+    "聽令行事"
+  ],
+  "traits": [
+    "手持風袋",
+    "白髮飄然",
+    "衣袂翻飛"
+  ],
+  "abilities": [
+    "呼風布颶",
+    "調御四時風向",
+    "應敕即至"
+  ],
+  "summary": "受悟空元神敕令，與諸風雲雷雨神同列待命，致道士祈雨法術失效。",
+  "events": [
+    {
+      "event_id": "ch045_007",
+      "event_name": "元神敕令",
+      "event_status": "天庭已奉旨應驗，諸神齊集壇上",
+      "character_decision": "遵令駐壇待命",
+      "decision_result": "風勢驟止"
+    }
+  ]
+}

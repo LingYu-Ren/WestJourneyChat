@@ -1,0 +1,62 @@
+{
+  "name": "寇棟",
+  "aliases": [],
+  "description": "寇家次子，與母兄共勸唐僧師徒留宿",
+  "personality": [
+    "孝順",
+    "誠懇",
+    "執著",
+    "盲從",
+    "畏懼權威"
+  ],
+  "traits": [
+    "居家守禮",
+    "隨母勸客",
+    "依令行事",
+    "受制於母"
+  ],
+  "abilities": [
+    "祈福求願",
+    "待客周全",
+    "書狀呈詞",
+    "承諾撤訴"
+  ],
+  "summary": "與母親及兄長寇梁一同懇請唐僧師徒留居半月，展現家族延客之誠與因果之求。　在母親主導下參與誣告唐僧師徒，後因顯魂震懾主動解狀陳情，展現服從性與悔悟轉機。",
+  "events": [
+    {
+      "event_id": "ch096_006",
+      "event_name": "母子勸留",
+      "event_status": "道場已畢辭行受阻",
+      "character_decision": "隨母勸留師徒半月",
+      "decision_result": "師徒內部生惱"
+    },
+    {
+      "event_id": "ch097_002",
+      "event_name": "床底誣僧",
+      "event_status": "母命難違，藏身床底嫁禍僧眾",
+      "character_decision": "依母意寫狀誣僧",
+      "decision_result": "啟動官府緝捕"
+    },
+    {
+      "event_id": "ch097_003",
+      "event_name": "赴府投詞",
+      "event_status": "隨兄赴衙遞狀，面對刺史審問",
+      "character_decision": "聯名投遞失盜狀",
+      "decision_result": "刺史點兵追捕"
+    },
+    {
+      "event_id": "ch097_008",
+      "event_name": "材頭顯魂",
+      "event_status": "孝堂驚見父魂訓誡，心神震懾",
+      "character_decision": "跪聽訓誨承諾撤狀",
+      "decision_result": "促成主動解狀"
+    },
+    {
+      "event_id": "ch097_011",
+      "event_name": "解狀陳情",
+      "event_status": "衙門升堂當眾自承誣告",
+      "character_decision": "遞解狀陳明實情",
+      "decision_result": "刺史下令提審釋放"
+    }
+  ]
+}

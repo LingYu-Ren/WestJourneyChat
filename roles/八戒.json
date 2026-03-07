@@ -1,0 +1,73 @@
+{
+  "name": "八戒",
+  "aliases": [],
+  "description": "天蓬元帅转世，唐僧二徒弟，好色贪吃但忠勇护师",
+  "personality": [
+    "怯懦",
+    "憨直",
+    "随众",
+    "隐忍",
+    "轻浮",
+    "喜谑",
+    "重俗趣"
+  ],
+  "traits": [
+    "九齿钉耙",
+    "大耳垂肩",
+    "腆腹",
+    "嗜睡",
+    "好色",
+    "口无遮拦"
+  ],
+  "abilities": [
+    "三十六般变化",
+    "九宫八卦术",
+    "水战骁勇",
+    "钉耙武艺"
+  ],
+  "summary": "在九曲盘桓洞中遭九灵元圣威压，与师父师兄弟一同被囚，被动承受妖氛胁迫，显露出危局中的从属姿态与生存韧性。　在天竺国都城边月华证伪事件中，当众戏谑嫦娥遭斥，显露本性未改而失仪于仙圣之前。　在月宫证伪现场当众戏谑嫦娥，再遭仙圣斥责；后随师参与迎回真公主、敕建宝华寺等善后事宜，显露出惯常的插科打诨与被动协从并存之态。",
+  "events": [
+    {
+      "event_id": "ch090_006",
+      "event_name": "老怪悲慟",
+      "event_status": "身陷妖洞，直面老怪暴怒",
+      "character_decision": "默然随众听审",
+      "decision_result": "未受即时惩处"
+    },
+    {
+      "event_id": "ch090_008",
+      "event_name": "妖言示威",
+      "event_status": "洞内被缚，老怪扬言施暴",
+      "character_decision": "静默待命",
+      "decision_result": "暂免柳棍痛打"
+    },
+    {
+      "event_id": "ch095_014",
+      "event_name": "月華證偽",
+      "event_status": "仙圣临凡揭伪，群臣环伺",
+      "character_decision": "当众戏谑嫦娥",
+      "decision_result": "被太阴星君当众斥责"
+    },
+    {
+      "event_id": "ch095_007",
+      "event_name": "月宮證偽",
+      "event_status": "仙圣临朝对质，群臣环伺",
+      "character_decision": "当众戏谑嫦娥",
+      "decision_result": "被太阴星君当众斥责"
+    },
+    {
+      "event_id": "ch095_009",
+      "event_name": "迎駕取真",
+      "event_status": "国王亲赴寺院迎驾，场面庄重",
+      "character_decision": "随师同行护持",
+      "decision_result": "见证公主团聚"
+    },
+    {
+      "event_id": "ch095_010",
+      "event_name": "敕建寶華",
+      "event_status": "宫中议政封赏，恩荣加身",
+      "character_decision": "随班听命未置议",
+      "decision_result": null
+    }
+  ]
+}

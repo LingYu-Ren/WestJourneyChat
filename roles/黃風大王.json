@@ -1,0 +1,55 @@
+{
+  "name": "黃風大王",
+  "aliases": [],
+  "description": "黃風嶺黃風洞妖王，原為靈山腳下偷油老鼠精",
+  "personality": [
+    "暴怒",
+    "驕矜",
+    "輕敵",
+    "畏懼",
+    "口無遮攔"
+  ],
+  "traits": [
+    "擅吹三昧神風",
+    "口吐狂風",
+    "本相為白毛老鼠",
+    "洞中踞坐自矜"
+  ],
+  "abilities": [
+    "三昧神風",
+    "武藝高強",
+    "變化之術",
+    "風勢壓制法術"
+  ],
+  "summary": "因虎先鋒被斬而怒戰悟空，憑神風暫挫對手，卻不慎自曝弱點引來靈吉菩薩，終被擒現鼠精本相。　於洞前初戰悟空三十合未落敗，後憑三昧風破其化身、傷其火眼；然於廳堂失言暴露弱點，終被靈吉菩薩以飛龍寶杖擒獲現形。",
+  "events": [
+    {
+      "event_id": "ch021_001",
+      "event_name": "洞口鏖兵",
+      "event_status": "虎先鋒被斬，怒而出戰",
+      "character_decision": "與悟空三十回合鏖兵",
+      "decision_result": "未分勝負"
+    },
+    {
+      "event_id": "ch021_003",
+      "event_name": "呼風破法",
+      "event_status": "身陷化身重圍驚懼",
+      "character_decision": "張口吹三昧神風",
+      "decision_result": "刮散化身傷火眼"
+    },
+    {
+      "event_id": "ch021_009",
+      "event_name": "自供弱點",
+      "event_status": "誤判悟空已死或求援",
+      "character_decision": "自言唯靈吉可制其風",
+      "decision_result": "暴露致命弱點"
+    },
+    {
+      "event_id": "ch021_012",
+      "event_name": "飛龍縛鼠",
+      "event_status": "悟空誘敵出洞，菩薩雲端待機",
+      "character_decision": "出洞迎戰被菩薩施法",
+      "decision_result": "現原形遭擒"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "五斗星君",
+  "aliases": [],
+  "description": "天庭掌管五方星宿的正神，隶属玉帝敕命体系",
+  "personality": [
+    "恭谨",
+    "奉令行事"
+  ],
+  "traits": [
+    "星官冠服",
+    "持符执简"
+  ],
+  "abilities": [
+    "星宿调度",
+    "府邸营建"
+  ],
+  "summary": "奉玉帝诏命参与齐天大圣府的营建与赐酒花仪式，在蟠桃園右首执行天庭安抚之务。　于斩妖台见证悟空金刚不坏之躯，参与天庭紧急议政，协理后续炼化部署。",
+  "events": [
+    {
+      "event_id": "ch004_014",
+      "event_name": "築府受賜",
+      "event_status": "奉旨协理天庭安抚事务",
+      "character_decision": "协同营建大圣府并赐酒花",
+      "decision_result": "悟空暂息狂心"
+    },
+    {
+      "event_id": "ch007_001",
+      "event_name": "刀斧不傷",
+      "event_status": "斩妖台行刑受阻，天庭威仪受损",
+      "character_decision": "列席观刑并待诏听命",
+      "decision_result": null
+    }
+  ]
+}

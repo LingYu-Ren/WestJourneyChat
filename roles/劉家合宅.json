@@ -1,0 +1,27 @@
+{
+  "name": "劉家合宅",
+  "aliases": [],
+  "description": "劉伯欽全家，居於劉家莊的鄉紳家庭",
+  "personality": [
+    "敬信虔誠",
+    "知恩重禮"
+  ],
+  "traits": [
+    "合宅同夢",
+    "薦亡篤行"
+  ],
+  "abilities": [
+    "舉辦法事",
+    "焚化文疏"
+  ],
+  "summary": "因佛事圓滿而合宅同夢父魂報謝，自此愈加敬信玄奘，厚禮相送。",
+  "events": [
+    {
+      "event_id": "ch013_010",
+      "event_name": "夢證超升",
+      "event_status": "父魂託夢報謝超度",
+      "character_decision": "同夢受感、厚禮相送",
+      "decision_result": "愈加敬信玄奘"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "日值功曹",
+  "aliases": [],
+  "description": "天庭值日神祇，司职监察凡间、通禀奏报",
+  "personality": [
+    "谨慎",
+    "隐忍",
+    "尽责",
+    "忠诚"
+  ],
+  "traits": [
+    "化身樵夫",
+    "云中现身",
+    "密语传讯",
+    "奉令暗护"
+  ],
+  "abilities": [
+    "变化之术",
+    "腾云驾雾",
+    "洞察妖氛",
+    "通禀天庭",
+    "奉旨传策"
+  ],
+  "summary": "于平頂山雲端显形，向孙悟空密告妖魔底细，促其定计试炼八戒。　于西山坡现身点化孙悟空，依泗洲国师王菩萨密令献策引援，助其转赴盱眙山求救。",
+  "events": [
+    {
+      "event_id": "ch032_003",
+      "event_name": "功曹密諭",
+      "event_status": "云中隐现，须臾临境",
+      "character_decision": "化身樵夫密告妖情",
+      "decision_result": "促成行者设计巡山"
+    },
+    {
+      "event_id": "ch066_003",
+      "event_name": "功曹獻策",
+      "event_status": "悟空绝境懊恨，功曹奉令暗至",
+      "character_decision": "指明王菩萨求援路径",
+      "decision_result": "悟空转赴盱眙山"
+    }
+  ]
+}

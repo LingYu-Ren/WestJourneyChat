@@ -1,0 +1,28 @@
+{
+  "name": "造酒仙官等",
+  "aliases": [],
+  "description": "掌管瑤池仙酒釀造與供應的天庭仙官群體",
+  "personality": [
+    "恪守職分",
+    "防備鬆懈"
+  ],
+  "traits": [
+    "司酒",
+    "守閣",
+    "易受迷術"
+  ],
+  "abilities": [
+    "釀酒",
+    "守宴"
+  ],
+  "summary": "因瞌睡蟲所迷而失察，致仙酒被悟空假扮赤腳大仙盡飲，瑤池宴席遭攪亂。",
+  "events": [
+    {
+      "event_id": "ch005_007",
+      "event_name": "醉飲瓊漿",
+      "event_status": "眾仙被瞌睡蟲所迷，守備空虛",
+      "character_decision": "未能識破悟空偽裝",
+      "decision_result": "仙酒盡飲，宴席攪亂"
+    }
+  ]
+}

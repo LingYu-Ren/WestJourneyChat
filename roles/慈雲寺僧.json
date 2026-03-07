@@ -1,0 +1,67 @@
+{
+  "name": "慈雲寺僧",
+  "aliases": [],
+  "description": "金平府慈雲寺眾僧，熱忱好客，虔誠護法",
+  "personality": [
+    "熱忱",
+    "好客",
+    "虔誠",
+    "殷勤"
+  ],
+  "traits": [
+    "齋食款待",
+    "元宵邀觀",
+    "園中導遊",
+    "塔前隨侍"
+  ],
+  "abilities": [
+    "待客禮儀",
+    "節慶籌辦",
+    "寺院管理"
+  ],
+  "summary": "全程款留師徒觀燈遊園，並參與掃塔、觀燈及後續議策，展現護法之誠與應變之助。",
+  "events": [
+    {
+      "event_id": "ch091_003",
+      "event_name": "元宵挽留",
+      "event_status": "元宵將至，盛情勸留唐僧",
+      "character_decision": "集眾挽留觀燈",
+      "decision_result": "師徒滯留慈雲寺"
+    },
+    {
+      "event_id": "ch091_004",
+      "event_name": "園中賞春",
+      "event_status": "齋罷無務，引師徒遊園娛心",
+      "character_decision": "導遊後園賞景",
+      "decision_result": "強化禪心鬆動伏筆"
+    },
+    {
+      "event_id": "ch091_005",
+      "event_name": "元夜掃塔",
+      "event_status": "唐僧踐願掃塔，眾僧隨侍",
+      "character_decision": "陪侍唐僧掃塔",
+      "decision_result": "完成宗教儀式"
+    },
+    {
+      "event_id": "ch091_006",
+      "event_name": "橋觀金燈",
+      "event_status": "元宵入城，共赴金燈橋觀燈",
+      "character_decision": "陪同師徒觀燈",
+      "decision_result": "直面妖劫誘因"
+    },
+    {
+      "event_id": "ch091_007",
+      "event_name": "風現偽佛",
+      "event_status": "妖風突起，三佛現身惑眾",
+      "character_decision": "隨眾驚惶失措",
+      "decision_result": "未能識破偽佛"
+    },
+    {
+      "event_id": "ch091_015",
+      "event_name": "歸寺議策",
+      "event_status": "悟空返寺通報劫情，共商對策",
+      "character_decision": "參與夜襲議策",
+      "decision_result": "促成八戒沙僧連夜進攻"
+    }
+  ]
+}

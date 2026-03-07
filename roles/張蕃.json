@@ -1,0 +1,27 @@
+{
+  "name": "張蕃",
+  "aliases": [],
+  "description": "天庭天兵将领，李天王麾下部将",
+  "personality": [
+    "服从军令",
+    "沉稳"
+  ],
+  "traits": [
+    "甲胄齐整",
+    "列阵严谨"
+  ],
+  "abilities": [
+    "布阵",
+    "协同作战"
+  ],
+  "summary": "作為天兵將領參與金山南坡列陣，配合李天王調度與哪吒出戰部署。",
+  "events": [
+    {
+      "event_id": "ch051_007",
+      "event_name": "天兵列陣",
+      "event_status": "隨天王紮營南坡，待命出戰",
+      "character_decision": "列陣協防南坡",
+      "decision_result": null
+    }
+  ]
+}

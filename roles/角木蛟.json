@@ -1,0 +1,41 @@
+{
+  "name": "角木蛟",
+  "aliases": [],
+  "description": "四木禽星之一，东方苍龙七宿之角宿星君",
+  "personality": [
+    "忠谨",
+    "果毅"
+  ],
+  "traits": [
+    "星官装束",
+    "持兵列阵"
+  ],
+  "abilities": [
+    "降妖伏魔",
+    "协同作战"
+  ],
+  "summary": "角木蛟奉旨随行者下界协剿，于西洋大海与井木犴并肩追袭三犀妖，继而参与西海龙宫外围捕，助力擒获辟尘、击毙辟寒。",
+  "events": [
+    {
+      "event_id": "ch092_006",
+      "event_name": "奉旨點將",
+      "event_status": "天师宣旨点将，四星待命",
+      "character_decision": "应旨受命随行者下界",
+      "decision_result": "随行协剿"
+    },
+    {
+      "event_id": "ch092_008",
+      "event_name": "海淵追襲",
+      "event_status": "三犀钻海逃遁，战况胶着",
+      "character_decision": "潜海协同大圣苦斗犀牛",
+      "decision_result": "迫敌入海"
+    },
+    {
+      "event_id": "ch092_009",
+      "event_name": "龍宮助陣",
+      "event_status": "西海龙宫外围截击展开",
+      "character_decision": "配合龙王父子围捕三犀",
+      "decision_result": "辟尘被擒，辟寒被杀"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "毘藍婆",
+  "aliases": [],
+  "description": "紫雲山千花洞修行菩薩，昴日星官之母",
+  "personality": [
+    "慈悲",
+    "果決",
+    "威嚴"
+  ],
+  "traits": [
+    "繡花針",
+    "隱居千花洞",
+    "雞目煉物"
+  ],
+  "abilities": [
+    "破金光",
+    "解百毒",
+    "收妖鎮邪"
+  ],
+  "summary": "應悟空誠請赴黃花觀降魔，以昴日星官目煉繡花針破金光、解劇毒、收蜈蚣精，展現其護法之能與母性威德。",
+  "events": [
+    {
+      "event_id": "ch073_011",
+      "event_name": "菩薩應請",
+      "event_status": "黃花觀毒瘴瀰漫，三藏師徒垂危",
+      "character_decision": "允諾赴援",
+      "decision_result": "攜針啟程"
+    },
+    {
+      "event_id": "ch073_012",
+      "event_name": "繡針破光",
+      "event_status": "道士金光罩體，眾人難近",
+      "character_decision": "拋繡花針破光",
+      "decision_result": "金光立散"
+    },
+    {
+      "event_id": "ch073_013",
+      "event_name": "解毒回生",
+      "event_status": "三藏師徒中毒昏厥，命懸一線",
+      "character_decision": "贈解毒丹",
+      "decision_result": "三人甦醒"
+    },
+    {
+      "event_id": "ch073_014",
+      "event_name": "收妖現形",
+      "event_status": "道士金光已破，原形將露",
+      "character_decision": "指化蜈蚣精",
+      "decision_result": "收歸看守"
+    }
+  ]
+}

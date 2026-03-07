@@ -1,0 +1,137 @@
+{
+  "name": "烏雞國王",
+  "aliases": [],
+  "description": "烏雞國一國之君，仁德愛民卻遭妖邪陷害",
+  "personality": [
+    "仁厚",
+    "輕信",
+    "感恩",
+    "恭謙",
+    "知禮",
+    "重儀"
+  ],
+  "traits": [
+    "帝王冠服",
+    "井中冤魂",
+    "僧衣偽裝",
+    "執鞭墜鐙",
+    "南面稱孤",
+    "丹青供養"
+  ],
+  "abilities": [
+    "治國理政",
+    "陰司滯留",
+    "復生承命",
+    "朝堂證真",
+    "頒赦封賞",
+    "設宴酬恩"
+  ],
+  "summary": "三年前於御花園琉璃井遭青毛獅子精推落溺斃，魂魄滯留陰司不得超生，致妖魔竊國。　經悟空度氣甦醒，偽裝隨行、挑擔明志，終在朝堂對峙揭穿妖偽，復位歸正。　國王復位後隆重謝恩、正位稱孤、設宴酬師，並在師徒辭行時深致感念，彰顯其知恩守禮、恪守君道之德。",
+  "events": [
+    {
+      "event_id": "ch037_004",
+      "event_name": "井淵蒙冤",
+      "event_status": "被妖偽友誘至井邊",
+      "character_decision": "隨全真遊園赴井",
+      "decision_result": "溺斃成冤魂"
+    },
+    {
+      "event_id": "ch039_006",
+      "event_name": "雷嘴度氣",
+      "event_status": "氣絕未返，魂魄將散",
+      "character_decision": "吞金丹受清氣",
+      "decision_result": "甦醒跪謝悟空"
+    },
+    {
+      "event_id": "ch039_007",
+      "event_name": "僧衣易主",
+      "event_status": "身份暴露風險極高",
+      "character_decision": "換布衲僧衣掩跡",
+      "decision_result": "偽裝成行童"
+    },
+    {
+      "event_id": "ch039_008",
+      "event_name": "挑擔試誠",
+      "event_status": "需驗忠心且隱蔽身份",
+      "character_decision": "甘願挑擔執鞭",
+      "decision_result": "表忠心獲信任"
+    },
+    {
+      "event_id": "ch039_009",
+      "event_name": "引主入朝",
+      "event_status": "直抵金鑾殿面見假王",
+      "character_decision": "隨師直入朝門",
+      "decision_result": "開啟朝堂對峙"
+    },
+    {
+      "event_id": "ch039_010",
+      "event_name": "朝門定身",
+      "event_status": "滿朝文武被定，形勢危急",
+      "character_decision": "靜待太子緩頰",
+      "decision_result": "爭取陳情時機"
+    },
+    {
+      "event_id": "ch039_011",
+      "event_name": "供狀揭偽",
+      "event_status": "假王欲加害，群臣驚惶",
+      "character_decision": "配合悟空誦供狀",
+      "decision_result": "假王驚懼逃遁"
+    },
+    {
+      "event_id": "ch039_012",
+      "event_name": "雲中追妖",
+      "event_status": "妖駕雲遁走，真假混淆",
+      "character_decision": "靜候悟空擒妖",
+      "decision_result": "真相待辨"
+    },
+    {
+      "event_id": "ch039_015",
+      "event_name": "群臣拜真",
+      "event_status": "文殊收妖，真相大白",
+      "character_decision": "受群臣朝拜復位",
+      "decision_result": "重掌國政"
+    },
+    {
+      "event_id": "ch040_001",
+      "event_name": "金殿謝恩",
+      "event_status": "師徒入殿受群臣拜謝",
+      "character_decision": "率文武跪謝唐僧",
+      "decision_result": "表達至誠感恩"
+    },
+    {
+      "event_id": "ch040_002",
+      "event_name": "僧人捧冠",
+      "event_status": "御服冠帶奉還，儀制待整",
+      "character_decision": "接冠整服備登基",
+      "decision_result": "恢復帝王威儀"
+    },
+    {
+      "event_id": "ch040_003",
+      "event_name": "君位當正",
+      "event_status": "政權合法性亟待重建",
+      "character_decision": "聽取群臣勸進之言",
+      "decision_result": "接受復位大義"
+    },
+    {
+      "event_id": "ch040_004",
+      "event_name": "復位稱孤",
+      "event_status": "三藏堅辭帝位，群臣勸進",
+      "character_decision": "勉強登寶殿稱孤",
+      "decision_result": "正式重掌國政"
+    },
+    {
+      "event_id": "ch040_005",
+      "event_name": "設宴酬恩",
+      "event_status": "東閣設宴款待取經僧",
+      "character_decision": "親自舉杯酬四眾",
+      "decision_result": "促成丹青繪像"
+    },
+    {
+      "event_id": "ch040_006",
+      "event_name": "辭國西行",
+      "event_status": "師徒決意即刻啟程",
+      "character_decision": "含淚挽留復相送",
+      "decision_result": "厚贈盤纏助西行"
+    }
+  ]
+}

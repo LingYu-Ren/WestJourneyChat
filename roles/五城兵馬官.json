@@ -1,0 +1,27 @@
+{
+  "name": "五城兵馬官",
+  "aliases": [],
+  "description": "負責京城治安與軍務的武職官員",
+  "personality": [
+    "恪守職分",
+    "謹慎奉命"
+  ],
+  "traits": [
+    "甲冑在身",
+    "持符奏事"
+  ],
+  "abilities": [
+    "通報急務",
+    "調遣兵卒"
+  ],
+  "summary": "奉命赴金鑾殿緊急奏報，成為國王決意圍驛擒僧的關鍵傳訊者。",
+  "events": [
+    {
+      "event_id": "ch078_006",
+      "event_name": "刮兒詭辯",
+      "event_status": "朝堂當值，突接密報",
+      "character_decision": "即刻入殿奏報失兒案",
+      "decision_result": "促成國王下旨圍驛"
+    }
+  ]
+}

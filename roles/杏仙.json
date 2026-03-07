@@ -1,0 +1,39 @@
+{
+  "name": "杏仙",
+  "aliases": [],
+  "description": "杏树成精，木仙庵女仙，擅诗文，慕才重情",
+  "personality": [
+    "痴情",
+    "执拗",
+    "高傲",
+    "温婉"
+  ],
+  "traits": [
+    "杏花容色",
+    "善吟诗",
+    "持扇",
+    "素衣"
+  ],
+  "abilities": [
+    "幻化人形",
+    "诗才出众",
+    "摄魂媚术"
+  ],
+  "summary": "因倾慕唐僧才德执意逼婚，遭严拒后与四老共陷窘境；苦峙至天明仍未得逞，终因悟空将至而仓皇遁形。",
+  "events": [
+    {
+      "event_id": "ch064_007",
+      "event_name": "杏仙逼婚",
+      "event_status": "四老作媒，强结姻缘",
+      "character_decision": "以诗求亲，执意逼婚",
+      "decision_result": "遭三藏怒斥，群妖惶惧"
+    },
+    {
+      "event_id": "ch064_008",
+      "event_name": "掙門待援",
+      "event_status": "三藏呼救，天明将至",
+      "character_decision": "率众挽留不放",
+      "decision_result": "悟空突至，群妖遁形"
+    }
+  ]
+}

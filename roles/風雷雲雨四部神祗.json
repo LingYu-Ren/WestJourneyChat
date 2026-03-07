@@ -1,0 +1,29 @@
+{
+  "name": "風雷雲雨四部神祗",
+  "aliases": [],
+  "description": "掌管風、雷、雲、雨的四位天界神祇，隸屬天庭司職體系",
+  "personality": [
+    "恪守天命",
+    "協同果斷"
+  ],
+  "traits": [
+    "各司其職",
+    "形影相隨",
+    "天象顯化"
+  ],
+  "abilities": [
+    "呼風喚雷",
+    "布雲施雨",
+    "調和四時"
+  ],
+  "summary": "奉玉帝敕令與孫悟空調度，於鳳仙郡上空合力普降甘霖，解旱救民。",
+  "events": [
+    {
+      "event_id": "ch087_009",
+      "event_name": "雷雨普降",
+      "event_status": "奉旨行法，臨郡施霖",
+      "character_decision": "四部合力施霖",
+      "decision_result": "田疇得潤、河道復通"
+    }
+  ]
+}

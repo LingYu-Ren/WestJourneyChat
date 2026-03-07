@@ -1,0 +1,29 @@
+{
+  "name": "引禮官",
+  "aliases": [],
+  "description": "玉華王府负责外交礼宾事务的官员",
+  "personality": [
+    "严谨",
+    "守制"
+  ],
+  "traits": [
+    "持牒",
+    "着礼服",
+    "通仪轨"
+  ],
+  "abilities": [
+    "验牒核文",
+    "主持朝见礼",
+    "辨识关文真伪"
+  ],
+  "summary": "在玉華王府门前依制查验唐僧师徒通关文牒，完成外交验牒程序，助其获得王子正式承认。",
+  "events": [
+    {
+      "event_id": "ch088_004",
+      "event_name": "府門驗牒",
+      "event_status": "奉王命执行外交验牒程序",
+      "character_decision": "查验通关文牒并引见朝王",
+      "decision_result": "确认合法，获通行认可"
+    }
+  ]
+}

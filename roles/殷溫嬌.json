@@ -1,0 +1,104 @@
+{
+  "name": "殷溫嬌",
+  "aliases": [],
+  "description": "丞相殷開山之女，陳光蕊之妻，玄奘生母",
+  "personality": [
+    "堅貞",
+    "隱忍",
+    "果決",
+    "慈愛",
+    "機智"
+  ],
+  "traits": [
+    "拋繡球擇婿",
+    "咬指寫血書",
+    "左趾小指殘缺",
+    "夢兆感應"
+  ],
+  "abilities": [
+    "識人辨勢",
+    "臨機設謀",
+    "隱忍待時",
+    "驗親辨真"
+  ],
+  "summary": "從被脅成婚到忍辱懷胎，再到密謀復仇、母子相認、終雪冤屈，完成由被動承受至主動破局的關鍵轉變。　本次事件中未實際參與，亦未受直接影響，角色行動軌跡與既有敘事脈絡無新增關聯。",
+  "events": [
+    {
+      "event_id": "ch009_002",
+      "event_name": "繡球招婿",
+      "event_status": "相府招親，眾目睽睽",
+      "character_decision": "拋繡球擇中光蕊",
+      "decision_result": "結為夫婦"
+    },
+    {
+      "event_id": "ch009_004",
+      "event_name": "母病留店",
+      "event_status": "婆母染病滯留客店",
+      "character_decision": "與光蕊先行赴任",
+      "decision_result": "獨留張氏於萬花店"
+    },
+    {
+      "event_id": "ch009_005",
+      "event_name": "洪江殺劫",
+      "event_status": "渡口遇賊，夫君被殺",
+      "character_decision": "被迫從賊以保性命",
+      "decision_result": "身陷賊窟懷孕"
+    },
+    {
+      "event_id": "ch009_007",
+      "event_name": "賊代州主",
+      "event_status": "劉洪冒官執政，威壓江州",
+      "character_decision": "隱忍周旋以護胎兒",
+      "decision_result": "玄奘順利誕生"
+    },
+    {
+      "event_id": "ch009_008",
+      "event_name": "星君送子",
+      "event_status": "神明降臨，授命育佛子",
+      "character_decision": "虔誠受子並記神諭",
+      "decision_result": "確立雪冤因果"
+    },
+    {
+      "event_id": "ch009_009",
+      "event_name": "棄子流江",
+      "event_status": "賊勢熾盛，子命危殆",
+      "character_decision": "咬指寫書棄子江流",
+      "decision_result": "玄奘獲救金山寺"
+    },
+    {
+      "event_id": "ch009_012",
+      "event_name": "母子初會",
+      "event_status": "十八年隔絕，化緣偶入衙署",
+      "character_decision": "暗認玄奘並授計還願",
+      "decision_result": "啟動復仇籌劃"
+    },
+    {
+      "event_id": "ch009_013",
+      "event_name": "假病還願",
+      "event_status": "賊控州衙，脫身無門",
+      "character_decision": "託夢索鞋騙劉洪辦僧鞋",
+      "decision_result": "獲准赴金山寺"
+    },
+    {
+      "event_id": "ch009_014",
+      "event_name": "趾驗親緣",
+      "event_status": "金山寺中密會，亟待驗證",
+      "character_decision": "出示左趾殘缺為信",
+      "decision_result": "母子徹底相認"
+    },
+    {
+      "event_id": "ch009_018",
+      "event_name": "剜心祭奠",
+      "event_status": "法場行刑，賊伏其辜",
+      "character_decision": "親見剜心祭光蕊",
+      "decision_result": "冤屈得雪，水府感應"
+    },
+    {
+      "event_id": "ch009_019",
+      "event_name": "光蕊還魂",
+      "event_status": "屍浮江面，死而復生",
+      "character_decision": "與光蕊、玄奘團圓",
+      "decision_result": "一家重聚，職祿雙昇"
+    }
+  ]
+}

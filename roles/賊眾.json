@@ -1,0 +1,29 @@
+{
+  "name": "賊眾",
+  "aliases": [],
+  "description": "盤踞路口的劫道盜匪，結夥行兇索財",
+  "personality": [
+    "貪婪",
+    "輕信",
+    "躁進"
+  ],
+  "traits": [
+    "群聚",
+    "持械",
+    "戒備鬆懈"
+  ],
+  "abilities": [
+    "圍逼勒索",
+    "分贓慣性"
+  ],
+  "summary": "因貪念輕信行者詭語，放鬆戒備，反遭猝然擊殺。",
+  "events": [
+    {
+      "event_id": "ch056_005",
+      "event_name": "詭語分心",
+      "event_status": "圍逼索財，爭奪包袱",
+      "character_decision": "信其分贓暫鬆戒備",
+      "decision_result": "致棍起被殺"
+    }
+  ]
+}

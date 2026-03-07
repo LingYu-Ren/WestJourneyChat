@@ -1,0 +1,45 @@
+{
+  "name": "伶俐蟲",
+  "aliases": [],
+  "description": "金角大王座下小妖，与精细鬼同为守宝童子",
+  "personality": [
+    "轻信",
+    "愚钝",
+    "怯懦",
+    "欺瞒"
+  ],
+  "traits": [
+    "持宝",
+    "听令",
+    "畏主"
+  ],
+  "abilities": [
+    "看守法宝",
+    "传令",
+    "谎报军情"
+  ],
+  "summary": "在平頂山大路被孙悟空用假葫芦骗走紫金红葫芦与玉净瓶，导致关键法器失守。　发现假葫芦调包后惊惧失措，为免责向大王编造遇仙受骗之说，反致老魔识破真相。",
+  "events": [
+    {
+      "event_id": "ch033_012",
+      "event_name": "葫蘆換寶",
+      "event_status": "奉命持宝诱敌，毫无防备",
+      "character_decision": "以真宝换假葫芦",
+      "decision_result": "丢失两件关键法寶"
+    },
+    {
+      "event_id": "ch034_001",
+      "event_name": "假葫失竊",
+      "event_status": "持假宝返程，真宝已失",
+      "character_decision": "隐瞒失宝，欲私下遮掩",
+      "decision_result": "惊惧不敢回洞"
+    },
+    {
+      "event_id": "ch034_002",
+      "event_name": "詐供露餡",
+      "event_status": "面见二魔，谎言待验",
+      "character_decision": "谎称遇神仙换宝被骗",
+      "decision_result": "被老魔识破系孙行者所为"
+    }
+  ]
+}

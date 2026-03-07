@@ -1,0 +1,27 @@
+{
+  "name": "嬪后",
+  "aliases": [],
+  "description": "烏雞國王之妻，後宮之主",
+  "personality": [
+    "端莊",
+    "隱忍"
+  ],
+  "traits": [
+    "鳳冠霞帔",
+    "垂首含悲"
+  ],
+  "abilities": [
+    "禮儀周全",
+    "靜觀其變"
+  ],
+  "summary": "在金鑾殿群臣拜真之際，嬪后見證國王復位，終得沉冤昭雪。",
+  "events": [
+    {
+      "event_id": "ch039_015",
+      "event_name": "群臣拜真",
+      "event_status": "真相大白，真王歸位",
+      "character_decision": "列席金鑾殿見證復位",
+      "decision_result": "恢復正統名分"
+    }
+  ]
+}

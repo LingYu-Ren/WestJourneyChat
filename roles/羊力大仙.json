@@ -1,0 +1,68 @@
+{
+  "name": "羊力大仙",
+  "aliases": [],
+  "description": "車遲國三大國師之一，精通道教祈雨之術",
+  "personality": [
+    "擅權",
+    "驕矜",
+    "合謀專斷",
+    "偏執",
+    "怨毒",
+    "色厲內荏",
+    "臨危失據"
+  ],
+  "traits": [
+    "道士裝束",
+    "擅施法術",
+    "與二仙並立",
+    "迷信儀軌",
+    "護短忌諱",
+    "倚仗冷龍護體",
+    "原形畢露"
+  ],
+  "abilities": [
+    "祈雨術",
+    "道教方術",
+    "朝堂辯難",
+    "誣告構陷",
+    "油鍋顯聖（偽）"
+  ],
+  "summary": "二十年前與虎力、鹿力大仙聯手於車遲國都祈雨成功，獲國君冊封國師，自此參與推行滅佛國策。　因被悟空三人戲弄於三清觀而心生怨恚，遂與虎力、鹿力大仙合謀在金鑾殿誣告唐僧師徒，企圖借王權剷除威脅，反促成賭勝求雨之約。　於殺場賭賽滾油洗澡，倚冷龍護持暫免焚身，然龍王奉命撤龍後即皮焦骨爛，現青毛羚羊原形而亡。",
+  "events": [
+    {
+      "event_id": "ch044_004",
+      "event_name": "三仙降世",
+      "event_status": "亢旱民困，君王求雨心切",
+      "character_decision": "聯同二仙設壇祈雨",
+      "decision_result": "獲封國師，掌宗教大權"
+    },
+    {
+      "event_id": "ch045_001",
+      "event_name": "偽聖戲道",
+      "event_status": "三清觀內遭戲弄，顏面盡失",
+      "character_decision": "誤認天尊降臨虔誠禱祝",
+      "decision_result": "遭潑尿留名，羞辱加深"
+    },
+    {
+      "event_id": "ch045_005",
+      "event_name": "誣告構陷",
+      "event_status": "權位受脅，亟欲剷除異己",
+      "character_decision": "當庭誣指僧眾毀觀殺徒",
+      "decision_result": "促成賭勝求雨之約"
+    },
+    {
+      "event_id": "ch046_018",
+      "event_name": "油鍋冷龍",
+      "event_status": "賭賽最後一局，性命攸關",
+      "character_decision": "躍入滾油假作無懼",
+      "decision_result": "冷龍護體暫保不傷"
+    },
+    {
+      "event_id": "ch046_019",
+      "event_name": "皮焦骨爛",
+      "event_status": "冷龍被收，油鍋復熾",
+      "character_decision": "強撐不退終致潰爛",
+      "decision_result": "現原形身死"
+    }
+  ]
+}

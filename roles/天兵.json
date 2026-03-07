@@ -1,0 +1,30 @@
+{
+  "name": "天兵",
+  "aliases": [],
+  "description": "天庭奉命出征的神界武装力量成员",
+  "personality": [
+    "服从",
+    "协作",
+    "果决"
+  ],
+  "traits": [
+    "甲胄鲜明",
+    "列阵严整",
+    "听令如流"
+  ],
+  "abilities": [
+    "协同围剿",
+    "洞穴搜查",
+    "妖邪拘押"
+  ],
+  "summary": "参与陷空山无底洞联合搜捕，于东南暗窟协助擒获女妖，助唐僧脱困并押解妖精归天庭。",
+  "events": [
+    {
+      "event_id": "ch083_010",
+      "event_name": "黑角擒妖",
+      "event_status": "洞穴复杂，搜寻久未果",
+      "character_decision": "协同哪吒等神将搜查暗窟",
+      "decision_result": "成功救出唐僧"
+    }
+  ]
+}

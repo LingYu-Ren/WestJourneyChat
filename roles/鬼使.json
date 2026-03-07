@@ -1,0 +1,46 @@
+{
+  "name": "鬼使",
+  "aliases": [],
+  "description": "地府奉命执行借尸还魂事务的阴司使者",
+  "personality": [
+    "恪守律令",
+    "冷峻肃穆",
+    "隐忍不彰"
+  ],
+  "traits": [
+    "阴气萦绕",
+    "持勾魂索",
+    "面目隐晦",
+    "形影飘忽"
+  ],
+  "abilities": [
+    "通阴阳",
+    "拘魂引魄",
+    "判籍调尸",
+    "幻形隐迹"
+  ],
+  "summary": "鬼使奉阎王之命，在玉英宫主花阴下主持李翠莲借御妹李玉英之尸还阳，完成地府判案后的执行环节。　鬼使受命协理荆棘岭摄僧事，以阴风助土地伪形掳僧，于木仙庵内暗中监持，维系阴阳界律不坠。",
+  "events": [
+    {
+      "event_id": "ch012_001",
+      "event_name": "借屍還魂",
+      "event_status": "奉阎王令执行还阳判案",
+      "character_decision": "引魂附体、监行借尸",
+      "decision_result": "玉英苏醒自称李翠莲"
+    },
+    {
+      "event_id": "ch064_005",
+      "event_name": "陰風攝僧",
+      "event_status": "奉密令配合土地施法摄僧",
+      "character_decision": "召阴风助伪土地掳僧",
+      "decision_result": "三藏被摄入木仙庵"
+    },
+    {
+      "event_id": "ch064_008",
+      "event_name": "掙門待援",
+      "event_status": "群妖逼婚之际暗中守界",
+      "character_decision": "隐形监界，阻阴气外泄",
+      "decision_result": "待援成功，界律未破"
+    }
+  ]
+}

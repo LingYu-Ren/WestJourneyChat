@@ -1,0 +1,43 @@
+{
+  "name": "老嫗",
+  "aliases": [
+    "寇母"
+  ],
+  "description": "隱霧山下樵子之母，山居素樸老婦",
+  "personality": [
+    "淳樸",
+    "感恩",
+    "熱忱",
+    "虔誠",
+    "執著"
+  ],
+  "traits": [
+    "年邁",
+    "慈藹",
+    "持家有道",
+    "信佛向善"
+  ],
+  "abilities": [
+    "烹飪",
+    "待客",
+    "辨識野菜",
+    "勸諫說理"
+  ],
+  "summary": "老嫗與子以山野素齋酬謝唐僧師徒救命之恩，並助其獲知西行距天竺已不足千里。　老嫗與二子於寇家經堂懇切勸留唐僧師徒，展現虔誠向佛之心與挽留之誠意。",
+  "events": [
+    {
+      "event_id": "ch086_010",
+      "event_name": "野菜酬恩",
+      "event_status": "剛脫險境，居家待客",
+      "character_decision": "備山野素齋酬恩",
+      "decision_result": "師徒獲知行程進展"
+    },
+    {
+      "event_id": "ch096_006",
+      "event_name": "母子勸留",
+      "event_status": "道場已畢辭行受阻",
+      "character_decision": "攜子懇求因果留客",
+      "decision_result": "師徒生惱，內部衝突"
+    }
+  ]
+}

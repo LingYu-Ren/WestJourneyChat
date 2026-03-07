@@ -1,0 +1,27 @@
+{
+  "name": "監副",
+  "aliases": [],
+  "description": "御馬監副職官員，協理天馬飼養事務",
+  "personality": [
+    "盡責",
+    "守制"
+  ],
+  "traits": [
+    "官服整肅",
+    "按章行事"
+  ],
+  "abilities": [
+    "畜牧管理",
+    "衙署協調"
+  ],
+  "summary": "與監丞等共理天馬飼養，見證悟空勤勉有成，參與設宴賀喜。",
+  "events": [
+    {
+      "event_id": "ch004_005",
+      "event_name": "勤養天駒",
+      "event_status": "御馬監內天馬飼養事務繁重",
+      "character_decision": "協同督導飼養流程",
+      "decision_result": "天馬肥壯，眾官設宴賀喜"
+    }
+  ]
+}

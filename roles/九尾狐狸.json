@@ -1,0 +1,54 @@
+{
+  "name": "九尾狐狸",
+  "aliases": [
+    "老怪",
+    "壓龍山老母"
+  ],
+  "description": "壓龍山壓龍洞女妖，九尾狐修煉成精",
+  "personality": [
+    "狡詐",
+    "輕信",
+    "驕矜"
+  ],
+  "traits": [
+    "九尾",
+    "老婦形貌",
+    "坐轎出行"
+  ],
+  "abilities": [
+    "幻化",
+    "驅使小妖",
+    "持幌金繩"
+  ],
+  "summary": "被孫悟空偽裝小妖欺騙，信其為己方而親赴蓮花洞，途中遭突襲斃命，幌金繩被奪。　本為壓龍山老母，其族裔白面狐狸於清華仙府被悟空八戒擒獲，現形伏法；後於比丘國金鑾殿當眾獻俘，偽裝美后之妖蹤徹底敗露。",
+  "events": [
+    {
+      "event_id": "ch034_005",
+      "event_name": "哭跪誑母",
+      "event_status": "洞中安坐，未察偽裝",
+      "character_decision": "信假為真親赴蓮花洞",
+      "decision_result": "離洞送死"
+    },
+    {
+      "event_id": "ch034_006",
+      "event_name": "轎前碎首",
+      "event_status": "乘轎行於途中，毫無防備",
+      "character_decision": "未識破突襲",
+      "decision_result": "當場斃命"
+    },
+    {
+      "event_id": "ch079_012",
+      "event_name": "擒狐獲美",
+      "event_status": "清華仙府洞中藏身，偽作美人",
+      "character_decision": "隱匿本相誘惑凡人",
+      "decision_result": "被棒擊倒現白狐原形"
+    },
+    {
+      "event_id": "ch079_014",
+      "event_name": "獻俘回旨",
+      "event_status": "金鑾殿上階下囚，眾目睽睽",
+      "character_decision": "被迫隨眾返朝受審",
+      "decision_result": "偽裝徹底揭穿"
+    }
+  ]
+}

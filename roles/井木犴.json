@@ -1,0 +1,44 @@
+{
+  "name": "井木犴",
+  "aliases": [],
+  "description": "二十八宿之一，四木禽星中的井宿神将",
+  "personality": [
+    "勇猛",
+    "果决",
+    "忠职"
+  ],
+  "traits": [
+    "星官装束",
+    "犬首人身",
+    "擅噬咬"
+  ],
+  "abilities": [
+    "降妖伏魔",
+    "水战骁勇",
+    "星宿神力"
+  ],
+  "summary": "井木犴奉旨随孙悟空下界协剿，在西洋大海与角木蛟合力追袭三犀妖，于西海水晶宫外咬死辟寒，展现凌厉战力。",
+  "events": [
+    {
+      "event_id": "ch092_006",
+      "event_name": "奉旨點將",
+      "event_status": "天师宣旨点将，四星列阵待命",
+      "character_decision": "应诏受命随行者下界",
+      "decision_result": "随行协剿"
+    },
+    {
+      "event_id": "ch092_008",
+      "event_name": "海淵追襲",
+      "event_status": "三犀钻海逃遁，海底激战正酣",
+      "character_decision": "潜海协同围攻犀牛",
+      "decision_result": "迫敌深入西海"
+    },
+    {
+      "event_id": "ch092_009",
+      "event_name": "龍宮助陣",
+      "event_status": "西海龙族合围，三犀溃散在即",
+      "character_decision": "咬杀辟寒",
+      "decision_result": "辟寒被咬死"
+    }
+  ]
+}

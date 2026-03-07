@@ -1,0 +1,62 @@
+{
+  "name": "玉兔精",
+  "aliases": [],
+  "description": "月宫捣药玉兔，因私愤下界化妖为乱",
+  "personality": [
+    "执拗",
+    "记仇",
+    "刚烈",
+    "忠主"
+  ],
+  "traits": [
+    "捣药杵",
+    "清风化形",
+    "月华气息",
+    "三窟藏身"
+  ],
+  "abilities": [
+    "腾云遁风",
+    "变化人形",
+    " wield 搗藥杵",
+    "隐匿石窟",
+    "wield 搗藥杵"
+  ],
+  "summary": "玉兔精从御花园激战败走，经天门鏖兵、毛颖山藏匿，终被太阴星君亲收，其下界因果与素娥旧怨彻底昭明。　玉兔精于御花园持杵拒敌，西天门现形激战，终在毛颖山绝境被太阴星君亲临收伏，宿怨随月宫证伪而尘埃落定。",
+  "events": [
+    {
+      "event_id": "ch095_002",
+      "event_name": "花園鬥杵",
+      "event_status": "被悟空追击至土地庙，仓促取杵迎战",
+      "character_decision": "持捣药杵与悟空对战",
+      "decision_result": "不敌化风西遁"
+    },
+    {
+      "event_id": "ch095_003",
+      "event_name": "天門攔妖",
+      "event_status": "天神奉令围堵于西天门，腹背受敌",
+      "character_decision": "现原形自陈杵来历",
+      "decision_result": "激怒悟空再战"
+    },
+    {
+      "event_id": "ch095_006",
+      "event_name": "山神引窺",
+      "event_status": "败走毛颖山，以石塞窟隐匿行踪",
+      "character_decision": "封堵洞窟藏身",
+      "decision_result": "被悟空破石逼出"
+    },
+    {
+      "event_id": "ch095_007",
+      "event_name": "星君解圍",
+      "event_status": "命悬一线，即将遭悟空击杀",
+      "character_decision": "待星君降临求援",
+      "decision_result": "因果全然揭明"
+    },
+    {
+      "event_id": "ch095_008",
+      "event_name": "月宮證偽",
+      "event_status": "当庭受验，真形毕露，举国瞩目",
+      "character_decision": "随星君姮娥现身受审",
+      "decision_result": "真假公主定谳"
+    }
+  ]
+}

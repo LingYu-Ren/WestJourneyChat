@@ -1,0 +1,39 @@
+{
+  "name": "姮娥仙子",
+  "aliases": [
+    "嫦娥"
+  ],
+  "description": "月宫仙子，太阴星君麾下司职广寒宫的上仙",
+  "personality": [
+    "端庄",
+    "隐忍",
+    "守礼"
+  ],
+  "traits": [
+    "素衣霓裳",
+    "清冷气质",
+    "持桂影玉簪"
+  ],
+  "abilities": [
+    "御月华",
+    "识宿因",
+    "通幻形"
+  ],
+  "summary": "于天竺国事件中随太阴星君现身证伪，直面八戒戏谑而严正斥止，显其威仪与恪守仙律之态。",
+  "events": [
+    {
+      "event_id": "ch095_006",
+      "event_name": "星君降臨",
+      "event_status": "玉兔将伏，因果待揭",
+      "character_decision": "随星君临空收伏玉兔",
+      "decision_result": "宿因公之於眾"
+    },
+    {
+      "event_id": "ch095_007",
+      "event_name": "月宮證偽",
+      "event_status": "朝堂对质，真假攸关",
+      "character_decision": "押玉兔赴殿明证",
+      "decision_result": "满城礼拜，玉兔归月"
+    }
+  ]
+}

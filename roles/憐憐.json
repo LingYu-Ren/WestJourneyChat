@@ -1,0 +1,36 @@
+{
+  "name": "憐憐",
+  "aliases": [],
+  "description": "賈莫莊院三女之一，黎山老母所化寡婦之女",
+  "personality": [
+    "溫婉",
+    "機敏",
+    "從容"
+  ],
+  "traits": [
+    "妝容精緻",
+    "言語得體",
+    "儀態端莊"
+  ],
+  "abilities": [
+    "應對賓客",
+    "配合點化"
+  ],
+  "summary": "作為黎山老母化身的考驗者之一，憐憐參與招婿試煉，在廳堂明示招夫、後門密約中展現沉靜配合之態，助力考驗取經誠心。",
+  "events": [
+    {
+      "event_id": "ch023_005",
+      "event_name": "寡婦招婿",
+      "event_status": "廳堂設宴，假托守寡招婿",
+      "character_decision": "隨母明言坐山招夫",
+      "decision_result": "三藏沉默拒婚"
+    },
+    {
+      "event_id": "ch023_006",
+      "event_name": "後門密約",
+      "event_status": "後門私會，誘八戒應贅",
+      "character_decision": "參與密談招贅細節",
+      "decision_result": "悟空變蜻蜓監視"
+    }
+  ]
+}

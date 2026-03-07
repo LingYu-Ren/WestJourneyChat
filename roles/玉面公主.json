@@ -1,0 +1,56 @@
+{
+  "name": "玉面公主",
+  "aliases": [],
+  "description": "積雷山摩雲洞女主人，牛魔王之妾",
+  "personality": [
+    "多疑",
+    "潑辣",
+    "驕矜",
+    "忠夫",
+    "果決"
+  ],
+  "traits": [
+    "玉面",
+    "擅妝飾",
+    "居洞府",
+    "善調兵"
+  ],
+  "abilities": [
+    "辨人",
+    "誣告",
+    "哭訴",
+    "遣兵",
+    "獻扇"
+  ],
+  "summary": "因悟空偽裝問路而誤認受辱，轉向牛魔王哭訴誣告，成功激發其疑心並引其出面。　夜戰驚變，主動遣妖助夫破敵；天明後見夫懊恨，垂淚獻扇以慰，展現忠順與機變。",
+  "events": [
+    {
+      "event_id": "ch060_003",
+      "event_name": "松陰問路",
+      "event_status": "洞外遇偽裝問路者",
+      "character_decision": "怒斥悟空並質問來意",
+      "decision_result": "激怒而出，引出牛魔王"
+    },
+    {
+      "event_id": "ch060_004",
+      "event_name": "潑妾哭訴",
+      "event_status": "洞內向牛魔王控訴被欺",
+      "character_decision": "誣指悟空為鐵扇所遣",
+      "decision_result": "牛魔王動疑驗人"
+    },
+    {
+      "event_id": "ch061_003",
+      "event_name": "玉面遣兵",
+      "event_status": "洞外廝殺驚動內宅",
+      "character_decision": "命群妖出洞助夫",
+      "decision_result": "八戒敗陣、大聖跳圍"
+    },
+    {
+      "event_id": "ch061_004",
+      "event_name": "洞中懊恨",
+      "event_status": "牛王奪扇受辱返洞",
+      "character_decision": "垂淚獻扇慰夫",
+      "decision_result": "埋下歸順伏筆"
+    }
+  ]
+}

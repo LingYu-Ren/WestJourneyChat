@@ -1,0 +1,171 @@
+{
+  "name": "紅孩兒",
+  "aliases": [
+    "善財童子"
+  ],
+  "description": "牛魔王與羅剎女之子，火雲洞聖嬰大王，後皈依觀音為善財童子",
+  "personality": [
+    "狡黠",
+    "機變",
+    "驕矜",
+    "執拗",
+    "暴烈",
+    "多疑",
+    "審慎",
+    "警覺",
+    "剛愎",
+    "服善",
+    "順勢"
+  ],
+  "traits": [
+    "紅衣赤足",
+    "手持火尖槍",
+    "口吐三昧真火",
+    "幻化頑童",
+    "搥鼻噴火",
+    "推算八字",
+    "坐蓮臺逞兇",
+    "合掌皈依",
+    "金箍束頂"
+  ],
+  "abilities": [
+    "三昧真火",
+    "旋風攝物",
+    "元神出竅",
+    "變化之術",
+    "重身壓背",
+    "假形惑敵",
+    "八字推演",
+    "金箍抗性",
+    "甘露受化"
+  ],
+  "summary": "紅孩兒為奪唐僧，精心設計苦肉計，幻形吊樹誘騙取信，雖被悟空識破並遭摜擊，仍憑法術脫身，最終捲風攝走唐僧入火雲洞。　紅孩兒拒認悟空所攀親誼，以三昧真火逼退師徒，更偽裝觀音菩薩誘擒八戒，展現其臨機應變與詭譎狠辣並存的作戰風格。　紅孩兒識破悟空偽裝牛魔王之計，展現極度警覺與審慎；雖中菩薩「迷」字訣誘出洞府，終被金箍鎖五體收服，由妖童轉為善財童子。　被菩薩甘露灑定，紅孩兒由掙扎抗拒轉為合掌皈依，金箍不再為桎梏而為定性之契，標誌其妖性徹底轉化、善財本格初立。",
+  "events": [
+    {
+      "event_id": "ch040_010",
+      "event_name": "妖童誕計",
+      "event_status": "知唐僧肉可延壽，屢擒未果",
+      "character_decision": "定善誘之策",
+      "decision_result": "擬幻童誘救"
+    },
+    {
+      "event_id": "ch040_011",
+      "event_name": "幻形吊樹",
+      "event_status": "鑽頭號山山坡松樹下設局",
+      "character_decision": "變作七歲頑童吊於松梢",
+      "decision_result": "誘使三藏動慈悲"
+    },
+    {
+      "event_id": "ch040_012",
+      "event_name": "輕信墮計",
+      "event_status": "三藏誤認其為真童，命人解救",
+      "character_decision": "編造家破人亡慘劇",
+      "decision_result": "被哄上馬誘入陷阱"
+    },
+    {
+      "event_id": "ch040_013",
+      "event_name": "試骨識妖",
+      "event_status": "悟空疑其體輕異常，當場試重",
+      "character_decision": "默察應對，隱忍待機",
+      "decision_result": "悟空決意摜殺"
+    },
+    {
+      "event_id": "ch040_014",
+      "event_name": "重身壓背",
+      "event_status": "面臨被摜碎屍之危，情勢急迫",
+      "character_decision": "吸氣吹風加重身軀",
+      "decision_result": "制住悟空行動"
+    },
+    {
+      "event_id": "ch040_015",
+      "event_name": "旋風攝師",
+      "event_status": "悟空已破其形，唯速擒師可得手",
+      "character_decision": "弄旋風捲走唐僧",
+      "decision_result": "唐僧被攝入火雲洞"
+    },
+    {
+      "event_id": "ch041_002",
+      "event_name": "偽親揭破",
+      "event_status": "悟空攀牛魔王舊誼索師",
+      "character_decision": "怒斥偽親、舉槍相向",
+      "decision_result": "斷絕交涉，兵戎相見"
+    },
+    {
+      "event_id": "ch041_003",
+      "event_name": "槍棒初鬥",
+      "event_status": "洞前對陣，八戒助戰在即",
+      "character_decision": "持槍與悟空二十合鏖戰",
+      "decision_result": "不敵退入洞中"
+    },
+    {
+      "event_id": "ch041_004",
+      "event_name": "三昧火發",
+      "event_status": "八戒助戰致形勢不利",
+      "character_decision": "搥鼻噴發三昧真火",
+      "decision_result": "八戒懼遁，悟空獨闖火海"
+    },
+    {
+      "event_id": "ch041_008",
+      "event_name": "私雨潑火",
+      "event_status": "龍王降雨反助火勢熾盛",
+      "character_decision": "任火自燃，靜待煙燻制敵",
+      "decision_result": "悟空被煙燻倒失能"
+    },
+    {
+      "event_id": "ch041_012",
+      "event_name": "假菩薩誘",
+      "event_status": "預判八戒必赴南海求援",
+      "character_decision": "變作觀音菩薩設伏",
+      "decision_result": "誘八戒入袋被擒"
+    },
+    {
+      "event_id": "ch041_013",
+      "event_name": "吊袋困獃",
+      "event_status": "八戒中計入洞遭群妖圍捕",
+      "character_decision": "命吊高袋懸於洞壁",
+      "decision_result": "待蒸煮以懲辱取樂"
+    },
+    {
+      "event_id": "ch042_002",
+      "event_name": "假父臨門",
+      "event_status": "六健將引客入洞，禮儀待父",
+      "character_decision": "以子禮迎拜假父",
+      "decision_result": "初信其為生父"
+    },
+    {
+      "event_id": "ch042_003",
+      "event_name": "詐問生辰",
+      "event_status": "疑言語不合父性，試以命理驗真偽",
+      "character_decision": "推算八字質問誕辰",
+      "decision_result": "暴露悟空不知底細"
+    },
+    {
+      "event_id": "ch042_004",
+      "event_name": "群妖圍攻",
+      "event_status": "偽父敗露，洞中形勢驟變",
+      "character_decision": "揮眾持刃圍殺悟空",
+      "decision_result": "悟空現相遁走"
+    },
+    {
+      "event_id": "ch042_009",
+      "event_name": "誘敵出洞",
+      "event_status": "悟空佯敗，洞外空曠可追",
+      "character_decision": "怒追悟空離洞",
+      "decision_result": "直赴菩薩法壇"
+    },
+    {
+      "event_id": "ch042_010",
+      "event_name": "金箍縛童",
+      "event_status": "坐蓮臺仍拒伏，天罡刀穿刺未懾",
+      "character_decision": "掙扎逞兇抗拒收服",
+      "decision_result": "金箍鎖定皈依受戒"
+    },
+    {
+      "event_id": "ch043_001",
+      "event_name": "金箍定性",
+      "event_status": "法壇初受甘露，金箍未除反生契約",
+      "character_decision": "欲除金箍反刺悟空",
+      "decision_result": "甘露灑定合掌皈依"
+    }
+  ]
+}

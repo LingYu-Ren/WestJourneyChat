@@ -1,0 +1,43 @@
+{
+  "name": "廣目天王",
+  "aliases": [],
+  "description": "護持南方的佛教護法神，四大天王之一",
+  "personality": [
+    "嚴謹",
+    "盡責",
+    "公正"
+  ],
+  "traits": [
+    "持赤龍",
+    "目視千里"
+  ],
+  "abilities": [
+    "洞察邪祟",
+    "統領天將",
+    "辨識真偽"
+  ],
+  "summary": "在南天門外奉命巡守，遇孫悟空詢問玉帝行蹤，依職守予以應答，助其順利入見。　面對真假悟空齊至南天門陳情，秉持職守協助辨驗，雖目力難分，仍恪盡天門稽查之責。　於東天門外奉命值守，見悟空星夜赴妙巖宮，依職稽查放行，未加阻滯。",
+  "events": [
+    {
+      "event_id": "ch051_002",
+      "event_name": "天門問訊",
+      "event_status": "奉命鎮守南天門，盤查來者",
+      "character_decision": "據實告知玉帝行蹤",
+      "decision_result": "悟空得以入謁玉帝"
+    },
+    {
+      "event_id": "ch058_005",
+      "event_name": "天門陳情",
+      "event_status": "二聖並立，眾神莫辨真偽",
+      "character_decision": "依制盤查並呈報玉帝",
+      "decision_result": "促成照妖鏡驗證"
+    },
+    {
+      "event_id": "ch090_011",
+      "event_name": "星夜赴宮",
+      "event_status": "寅時守衛東天門，遇急行求援",
+      "character_decision": "驗明身份後准予通行",
+      "decision_result": "悟空順利抵達妙巖宮"
+    }
+  ]
+}

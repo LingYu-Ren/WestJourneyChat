@@ -1,0 +1,28 @@
+{
+  "name": "張士衡",
+  "aliases": [],
+  "description": "唐代儒學碩彥，長安皇宮議政重臣",
+  "personality": [
+    "持正",
+    "慎言",
+    "儒雅"
+  ],
+  "traits": [
+    "博通經史",
+    "端肅持禮"
+  ],
+  "abilities": [
+    "經義辯析",
+    "朝堂諫諍"
+  ],
+  "summary": "於佛道辯難中列席參議，以儒者立場靜觀論爭，見證太宗定佛教為國教之決策轉折。",
+  "events": [
+    {
+      "event_id": "ch012_005",
+      "event_name": "佛道辯難",
+      "event_status": "群臣激辯佛道優劣，聖意未明",
+      "character_decision": "列席不發言，持守儒臣本分",
+      "decision_result": null
+    }
+  ]
+}

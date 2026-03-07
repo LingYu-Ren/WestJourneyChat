@@ -1,0 +1,45 @@
+{
+  "name": "狻猊",
+  "aliases": [],
+  "description": "九靈元聖座下孫輩妖王，豹頭山虎口洞守將",
+  "personality": [
+    "忠勇",
+    "悍烈",
+    "兇猛"
+  ],
+  "traits": [
+    "獅首人身",
+    "披金甲",
+    "持鋼叉",
+    "善戰"
+  ],
+  "abilities": [
+    "點兵統軍",
+    "呼風布陣",
+    "近戰搏殺"
+  ],
+  "summary": "隨九靈元聖應黃獅精之訴出征玉華州，參與諸孫點兵行動，助成妖風蔽日之勢。　參與七獅圍戰，協力圍攻取經人；後於城外遭悟空毫毛分身突襲，與白澤獅同被擒拿。",
+  "events": [
+    {
+      "event_id": "ch089_009",
+      "event_name": "諸孫點兵",
+      "event_status": "奉祖命集結出征，妖氛壓境",
+      "character_decision": "列陣聽調，隨眾赴州",
+      "decision_result": "玉華州閉門戒嚴"
+    },
+    {
+      "event_id": "ch090_001",
+      "event_name": "七獅圍戰",
+      "event_status": "七獅合圍，攻勢凌厲",
+      "character_decision": "列陣圍攻行者三人",
+      "decision_result": "八戒被擒"
+    },
+    {
+      "event_id": "ch090_003",
+      "event_name": "毫毛擒雙",
+      "event_status": "遭悟空變化突襲，形勢驟變",
+      "character_decision": "與白澤獅並肩迎敵",
+      "decision_result": "被百十小聖擒獲"
+    }
+  ]
+}

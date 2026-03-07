@@ -1,0 +1,29 @@
+{
+  "name": "郡中官吏",
+  "aliases": [],
+  "description": "鳳仙郡負責民政與公告事務的基層官員",
+  "personality": [
+    "盡職",
+    "焦慮",
+    "依制行事"
+  ],
+  "traits": [
+    "持榜文",
+    "守市口",
+    "憂旱情"
+  ],
+  "abilities": [
+    "張榜曉諭",
+    "協調祈雨事宜"
+  ],
+  "summary": "因郡中連年大旱，官吏於市口張貼祈雨榜文，引發孫悟空主動應榜。",
+  "events": [
+    {
+      "event_id": "ch087_002",
+      "event_name": "榜文招雨",
+      "event_status": "大旱民困，亟需求雨解厄",
+      "character_decision": "出示祈雨榜文",
+      "decision_result": "行者主動應榜承諾求雨"
+    }
+  ]
+}

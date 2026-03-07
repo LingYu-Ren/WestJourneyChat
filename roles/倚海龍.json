@@ -1,0 +1,34 @@
+{
+  "name": "倚海龍",
+  "aliases": [],
+  "description": "平頂山蓮花洞金角銀角大王麾下小妖",
+  "personality": [
+    "愚钝",
+    "盲从"
+  ],
+  "traits": [
+    "小妖装束",
+    "被控追踪"
+  ],
+  "abilities": [
+    "奉命传信",
+    "路径识辨"
+  ],
+  "summary": "随巴山虎赴压龙洞途中被悟空跟踪并击杀，形貌遭夺用以诈入洞府。",
+  "events": [
+    {
+      "event_id": "ch034_003",
+      "event_name": "釘身追蹤",
+      "event_status": "奉命疾走探路，不知被盯梢",
+      "character_decision": "依令赶往压龙洞",
+      "decision_result": "暴露洞府方位"
+    },
+    {
+      "event_id": "ch034_004",
+      "event_name": "刮妖奪形",
+      "event_status": "行至乌林子外突遭袭",
+      "character_decision": "未及反应即被击毙",
+      "decision_result": "形貌被悟空所夺"
+    }
+  ]
+}

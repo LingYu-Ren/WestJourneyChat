@@ -1,0 +1,24 @@
+{
+  "name": "美后",
+  "aliases": [],
+  "description": "被白鹿精掳至清華仙府的凡间皇后",
+  "personality": [
+    "被动",
+    "受制"
+  ],
+  "traits": [
+    "被挟持",
+    "议政对象"
+  ],
+  "abilities": [],
+  "summary": "在清華仙府石屏內遭白鹿精挟持，成为其议事时的在场人物；悟空突入后，白鹿精弃她迎战，凸显其无自主权的处境。",
+  "events": [
+    {
+      "event_id": "ch079_010",
+      "event_name": "洞前再戰",
+      "event_status": "身陷妖洞，被白鹿精挟持议政",
+      "character_decision": "被迫在场未反抗",
+      "decision_result": "被白鹿精遗弃应对强敌"
+    }
+  ]
+}

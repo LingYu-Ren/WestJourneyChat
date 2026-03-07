@@ -1,0 +1,44 @@
+{
+  "name": "虎先鋒",
+  "aliases": [],
+  "description": "黃風嶺黃風洞前鋒大將，奉命巡山捕人",
+  "personality": [
+    "兇悍",
+    "忠勇",
+    "莽撞"
+  ],
+  "traits": [
+    "虎形妖身",
+    "剝皮現形",
+    "持鋼叉"
+  ],
+  "abilities": [
+    "變形",
+    "武藝精熟",
+    "巡山偵察"
+  ],
+  "summary": "虎先鋒先劫唐僧立功，後連番敗於悟空、八戒，最終被築死，成為取經路上首個殞命的成建制妖將。",
+  "events": [
+    {
+      "event_id": "ch020_008",
+      "event_name": "虎變擒師",
+      "event_status": "奉命巡山，突襲取經隊伍",
+      "character_decision": "剝皮現形劫走唐僧",
+      "decision_result": "隊伍首次分離"
+    },
+    {
+      "event_id": "ch020_011",
+      "event_name": "洞前索戰",
+      "event_status": "守洞迎敵，面對悟空叫陣",
+      "character_decision": "出洞與悟空再鬥",
+      "decision_result": "戰敗逃遁"
+    },
+    {
+      "event_id": "ch020_012",
+      "event_name": "截殺先鋒",
+      "event_status": "敗逃途中遭八戒伏擊",
+      "character_decision": "倉皇奔逃至藏風山凹",
+      "decision_result": "被築死"
+    }
+  ]
+}

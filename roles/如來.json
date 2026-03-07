@@ -1,0 +1,237 @@
+{
+  "name": "如來",
+  "aliases": [
+    "東來佛祖"
+  ],
+  "description": "西方極樂世界教主，佛法無邊之佛祖",
+  "personality": [
+    "威嚴",
+    "睿智",
+    "慈悲",
+    "果決",
+    "遠見",
+    "統攝",
+    "含蓄",
+    "機鋒",
+    "洞鑒本源",
+    "一語破妄",
+    "善假他力",
+    "權衡佈局",
+    "明察謊妄",
+    "親緣不掩公義",
+    "因勢導化",
+    "法界持律",
+    "應機授旨",
+    "真偽洞然",
+    "圓滿授果",
+    "階序定分"
+  ],
+  "traits": [
+    "金身法相",
+    "五指化山",
+    "六字真言",
+    "蓮台端坐",
+    "靈山說法",
+    "敕令授命",
+    "隱諱示機",
+    "金缽伏妖",
+    "四猴定種",
+    "後天袋授意",
+    "瓜田設局",
+    "鷲峰臨機",
+    "孔雀淵源自陳",
+    "佛光籠域",
+    "大雄寶殿宣法",
+    "白本即真",
+    "八日定限",
+    "五聖授果",
+    "雷音敕封",
+    "果位定序"
+  ],
+  "abilities": [
+    "掌中乾坤",
+    "法相鎮壓",
+    "因果洞悉",
+    "言出法隨",
+    "弘法佈局",
+    "權衡眾聖",
+    "本源辨妖",
+    "丹砂點化",
+    "物類譜鑒",
+    "缽盂攝形",
+    "借聖降魔",
+    "寶器溯源",
+    "謊妄立辨",
+    "親緣溯本",
+    "佛光制魔",
+    "法界持律",
+    "真經判準",
+    "時限敕令",
+    "果位裁定",
+    "階序授證"
+  ],
+  "summary": "如來應天庭之請降伏齊天大聖，以賭賽為引、五行山為鎮、真言為封，確立佛界對妖聖的終極制約，並藉安天大會奠定三界共治新格局。　如來於靈山受賀確立佛門至高權威，並因觀三界善惡不均，宣示東土需真經教化，親授觀音菩薩取經使命，啟動西行弘法全局。　面對悟空求問妖邪根本，如來不直揭其底而以金丹砂授之，展現「不破不立、借力導化」的深層教化智慧。　如來於靈山外揭六耳獼猴為混世四猴之一，補全周天物類本源譜系；復以金缽鎮伏其蜂形真身，藉悟空之手終結真假之爭，展現對異種妖機的絕對勘破與果斷裁斷。　如來雖未親臨西山坡，然默許彌勒佛代行佛旨收伏黃眉，展現「分身應機、權授不執」的至高統攝智慧；藉彌勒之手釐清後天袋與金鐃本源，延續其對異寶妖機的終極勘定與制度性收束。　如來於靈山即時識破悟空所信謊言，不責其妄而直赴獅駝收魔，展現對心念流變的當下勘破與應機果斷；復於陣前自陳孔雀淵源，以親緣為據解構妖力合法性，並以佛光一舉收攝三魔，彰顯「以真破偽、以正攝邪」的終極權能。　如來於雷音寺直指白本即真經，確立「經不可輕傳、亦不可以空取」的法界鐵律；復於大雄寶殿敕定八日返程之期，以精準時限彰顯對取經全程因果節奏的終極統攝。　如來於雷音寺親敕五聖果位，以「佛、使者、羅漢、天龍」四階確立取經功果之終極法理秩序，彰顯其對功德圓滿的終極裁量與教化體系的制度性完型。",
+  "events": [
+    {
+      "event_id": "ch007_010",
+      "event_name": "佛祖問因",
+      "event_status": "天庭危殆，玉帝託聖請援",
+      "character_decision": "詢悟空出身並設賭賽",
+      "decision_result": "定手掌為界試其能"
+    },
+    {
+      "event_id": "ch007_011",
+      "event_name": "觔斗賭約",
+      "event_status": "悟空狂傲跳入掌中",
+      "character_decision": "默許賭約不加阻攔",
+      "decision_result": "令其自陷掌中而不覺"
+    },
+    {
+      "event_id": "ch007_012",
+      "event_name": "五指化山",
+      "event_status": "悟空欲遁而天機已鎖",
+      "character_decision": "翻掌化五行山鎮壓",
+      "decision_result": "大聖被壓山下"
+    },
+    {
+      "event_id": "ch007_013",
+      "event_name": "謝恩設宴",
+      "event_status": "天庭重歸安定，群聖待迎",
+      "character_decision": "赴靈霄殿受玉帝謝恩",
+      "decision_result": "安天大會詔令頒行"
+    },
+    {
+      "event_id": "ch007_014",
+      "event_name": "獻桃謝恩",
+      "event_status": "安天大會初啟，禮敬備至",
+      "character_decision": "受王母親獻蟠桃",
+      "decision_result": "佛界尊位昭然於天庭"
+    },
+    {
+      "event_id": "ch007_015",
+      "event_name": "群仙獻瑞",
+      "event_status": "萬聖雲集，盛況空前",
+      "character_decision": "安然受賀，彰顯佛威",
+      "decision_result": "天佛聯盟正統確立"
+    },
+    {
+      "event_id": "ch007_016",
+      "event_name": "六字封山",
+      "event_status": "悟空初掙，山縫未固",
+      "character_decision": "貼六字真言於山頂",
+      "decision_result": "五行山生根合縫"
+    },
+    {
+      "event_id": "ch007_017",
+      "event_name": "敕令監押",
+      "event_status": "需長期鎮壓供養",
+      "character_decision": "敕封土地與揭諦監押",
+      "decision_result": "取經伏筆制度化"
+    },
+    {
+      "event_id": "ch008_001",
+      "event_name": "靈山受賀",
+      "event_status": "降伏大聖、安天落幕，群聖雲集",
+      "character_decision": "登蓮臺受三千諸佛禮拜",
+      "decision_result": "佛門權威昭然確立"
+    },
+    {
+      "event_id": "ch008_002",
+      "event_name": "宣示東土",
+      "event_status": "南贍部洲貪殺爭鬥，教化亟需",
+      "character_decision": "宣告東土須真經普度",
+      "decision_result": "啟動取經人選拔機制"
+    },
+    {
+      "event_id": "ch008_003",
+      "event_name": "授命觀音",
+      "event_status": "眾菩薩未應，唯觀音請命",
+      "character_decision": "敕觀音赴東土尋取經人",
+      "decision_result": "授五寶與緊箍咒語"
+    },
+    {
+      "event_id": "ch052_008",
+      "event_name": "靈山問蹤",
+      "event_status": "悟空求辨妖蹤，天庭無解",
+      "character_decision": "隱諱不言，授金丹砂",
+      "decision_result": "助悟空擒妖而不破因果"
+    },
+    {
+      "event_id": "ch058_008",
+      "event_name": "四猴定種",
+      "event_status": "諦聽密告，真假難辨",
+      "character_decision": "揭六耳為混世四猴之一",
+      "decision_result": "確立本源，譜系完備"
+    },
+    {
+      "event_id": "ch058_009",
+      "event_name": "缽盂伏妖",
+      "event_status": "六耳聞本相欲遁逃",
+      "character_decision": "敕金缽蓋壓蜂形真身",
+      "decision_result": "當場伏誅，真假終結"
+    },
+    {
+      "event_id": "ch066_006",
+      "event_name": "彌勒臨凡",
+      "event_status": "悟空魔障已極，佛緣成熟",
+      "character_decision": "默許彌勒代行降魔",
+      "decision_result": "確立黃眉身份與寶源"
+    },
+    {
+      "event_id": "ch066_007",
+      "event_name": "瓜田設局",
+      "event_status": "妖勢熾盛，取經受阻",
+      "character_decision": "授意彌勒設變形之計",
+      "decision_result": "內外夾擊破妖防禦"
+    },
+    {
+      "event_id": "ch066_008",
+      "event_name": "金袋收妖",
+      "event_status": "黃眉腹中受制，哀求饒命",
+      "character_decision": "敕彌勒以金袋收伏",
+      "decision_result": "後天袋歸位，小雷音覆滅"
+    },
+    {
+      "event_id": "ch077_011",
+      "event_name": "靈山哭訴",
+      "event_status": "悟空泣告師父已死，靈山震動",
+      "character_decision": "識破謊言，決意親降",
+      "decision_result": "即刻率眾赴獅駝國"
+    },
+    {
+      "event_id": "ch077_012",
+      "event_name": "孔雀淵源",
+      "event_status": "行者質疑佛妖親緣，眾聖屏息",
+      "character_decision": "自陳大鵬為孔雀同胞",
+      "decision_result": "確立妖源，消解非議"
+    },
+    {
+      "event_id": "ch077_013",
+      "event_name": "佛光收魔",
+      "event_status": "三魔驕縱，佛光籠域成陣",
+      "character_decision": "率眾布佛光圍擒三魔",
+      "decision_result": "青獅白象皈依，大鵬為護法"
+    },
+    {
+      "event_id": "ch098_007",
+      "event_name": "如來釋偽",
+      "event_status": "四眾控訴索賄，法界威信受考",
+      "character_decision": "明言白本即真經",
+      "decision_result": "確立傳經鐵律"
+    },
+    {
+      "event_id": "ch098_010",
+      "event_name": "繳旨定限",
+      "event_status": "取經功成，藏數未滿八日",
+      "character_decision": "敕八大金剛限八日返東",
+      "decision_result": "時限精準完藏"
+    },
+    {
+      "event_id": "ch100_007",
+      "event_name": "五聖授果",
+      "event_status": "取經功成，五聖齊聚靈山",
+      "character_decision": "敕封五聖各得正果",
+      "decision_result": "確立佛界新階序"
+    }
+  ]
+}

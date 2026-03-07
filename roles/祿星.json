@@ -1,0 +1,37 @@
+{
+  "name": "祿星",
+  "aliases": [],
+  "description": "道教福祿壽三星之一，掌人間祿位功名",
+  "personality": [
+    "謙和",
+    "持重",
+    "誠懇"
+  ],
+  "traits": [
+    "手持如意",
+    "錦袍玉帶",
+    "面含溫潤笑意"
+  ],
+  "abilities": [
+    "通曉天機",
+    "協調眾仙",
+    "參與蟠桃會等仙界典儀"
+  ],
+  "summary": "在白雲洞明言無法治活人參果樹，展現務實與自知之明；後赴五莊觀參與果會，見證鎮元子與悟空結義，彰顯其作為祥瑞之神的調和角色。",
+  "events": [
+    {
+      "event_id": "ch026_004",
+      "event_name": "三星拒方",
+      "event_status": "面對悟空懇求，需權衡天規與情義",
+      "character_decision": "坦言無法治樹",
+      "decision_result": "悟空轉赴方丈山"
+    },
+    {
+      "event_id": "ch026_009",
+      "event_name": "果會結盟",
+      "event_status": "果樹復活後參與慶典，身處和解盛會",
+      "character_decision": "列席人參果會",
+      "decision_result": "見證結拜盟約"
+    }
+  ]
+}

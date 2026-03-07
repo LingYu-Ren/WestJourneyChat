@@ -1,0 +1,28 @@
+{
+  "name": "蝦蟹精",
+  "aliases": [],
+  "description": "碧波潭龍宮中守衛水府的蝦兵蟹將之一",
+  "personality": [
+    "愚鈍",
+    "盡職"
+  ],
+  "traits": [
+    "甲殼堅厚",
+    "橫行水底",
+    "巡守西廊"
+  ],
+  "abilities": [
+    "水下潛行",
+    "縛索看守"
+  ],
+  "summary": "在悟空化蟹潛入時毫無察覺，被智取突破防線，暴露守備疏漏。",
+  "events": [
+    {
+      "event_id": "ch063_006",
+      "event_name": "蟹形潛探",
+      "event_status": "守衛西廊，看押八戒",
+      "character_decision": "例行巡守未察異變",
+      "decision_result": "索斷人失，防務崩潰"
+    }
+  ]
+}

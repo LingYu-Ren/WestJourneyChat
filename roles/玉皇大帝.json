@@ -1,0 +1,137 @@
+{
+  "name": "玉皇大帝",
+  "aliases": [],
+  "description": "天庭最高统治者，统御三界众神",
+  "personality": [
+    "威严",
+    "果决",
+    "善纳谏言",
+    "震怒易发",
+    "临危不乱",
+    "重律崇序",
+    "审时度势",
+    "倚重元老",
+    "明察妖籍",
+    "执纪如铁",
+    "疑则验之",
+    "信镜倚器"
+  ],
+  "traits": [
+    "凌霄宝殿主位",
+    "金阙至尊",
+    "冕旒垂珠",
+    "南天门观战",
+    "通明殿听奏",
+    "斩妖台裁断",
+    "安天大会主宴",
+    "勘妖籍于通明殿",
+    "照妖镜前临鉴"
+  ],
+  "abilities": [
+    "调遣天兵",
+    "敕封神职",
+    "裁断天律",
+    "颁调兵旨意",
+    "亲临督战",
+    "启用外援",
+    "诏请佛界",
+    "设宴定仪",
+    "勘验天籍",
+    "收押失职神将",
+    "命取照妖镜验真"
+  ],
+  "summary": "因许旌阳真人建言，授悟空蟠园实职以羁縻；后闻诸神连番奏祸，震怒下决意围剿花果山。　面对蟠桃会毁、天兵溃败之危局，玉帝详述悟空威胁等级，采纳观音举荐与老君法宝，亲临南天门督战，并主持押解审判，凸显其统摄全局与依律治乱之能。　面对悟空刀斧不伤、雷火难制之困局，玉帝迅即采纳老君献策投入八卦炉；后于灵霄殿亲迎如来，敕设安天大会并受群仙献瑞，彰显其统筹三界、因势转圜的至高权柄与政治智慧。　本次事件中玉皇大帝未直接出场，亦未被新增事件波及或影响，其权责与行动范围仍限于天庭中枢，未延伸至下界凡国政事。　面对悟空直闯灵霄殿查妖籍之非常事态，玉帝迅即移驾通明殿主持勘籍，锁定奎木狼下凡为妖之实，启动天律收押程序，彰显其对神籍体系的绝对掌控与即时执法之能。　面对六耳猕猴与悟空难辨真伪之危局，玉帝于灵霄殿当机立断命取照妖镜验真，然镜照双影无别，首度暴露天庭常规鉴识手段之局限，迫使其权威判断陷入被动，辩谜事态由此升级至幽冥地府。",
+  "events": [
+    {
+      "event_id": "ch005_001",
+      "event_name": "授管蟠園",
+      "event_status": "群臣进谏防患未然",
+      "character_decision": "敕命悟空看管蟠园",
+      "decision_result": "悟空获实职"
+    },
+    {
+      "event_id": "ch005_010",
+      "event_name": "諸神奏禍",
+      "event_status": "七仙女等接连奏报失职",
+      "character_decision": "震怒决意围剿",
+      "decision_result": "调十万天兵"
+    },
+    {
+      "event_id": "ch006_002",
+      "event_name": "菩薩問因",
+      "event_status": "瑶池荒凉，天界秩序崩坏",
+      "character_decision": "详述悟空出身与作乱始末",
+      "decision_result": "确立悟空威胁等级"
+    },
+    {
+      "event_id": "ch006_007",
+      "event_name": "鬼王啟奏",
+      "event_status": "木吒战败，天兵无计可施",
+      "character_decision": "颁调二郎真君旨意",
+      "decision_result": "启用外援平乱"
+    },
+    {
+      "event_id": "ch006_015",
+      "event_name": "天門觀戰",
+      "event_status": "二郎久战未决，需上界督视",
+      "character_decision": "率众亲临南天门观战",
+      "decision_result": "促成菩萨助阵、老君献宝"
+    },
+    {
+      "event_id": "ch006_017",
+      "event_name": "押解上界",
+      "event_status": "擒拿成功，亟待依律发落",
+      "character_decision": "敕命押赴斩妖台受审",
+      "decision_result": "启动天律审判程序"
+    },
+    {
+      "event_id": "ch007_001",
+      "event_name": "刀斧不傷",
+      "event_status": "斩妖台诸法无效，威严受撼",
+      "character_decision": "问计群臣，待老君献策",
+      "decision_result": "确立八卦炉处置方案"
+    },
+    {
+      "event_id": "ch007_002",
+      "event_name": "老君獻策",
+      "event_status": "斩妖台失效，亟需非常手段",
+      "character_decision": "准奏投入八卦炉锻炼",
+      "decision_result": "命六丁六甲解送老君"
+    },
+    {
+      "event_id": "ch007_009",
+      "event_name": "西請如來",
+      "event_status": "雷将围困亦不能制，局势失控",
+      "character_decision": "急命二圣赴西方请佛老",
+      "decision_result": "如来应诏离灵山赴天庭"
+    },
+    {
+      "event_id": "ch007_013",
+      "event_name": "謝恩設宴",
+      "event_status": "妖猴既伏，天庭重归安定",
+      "character_decision": "亲迎如来，宣旨设安天大会",
+      "decision_result": "万圣齐赴，秩序重彰"
+    },
+    {
+      "event_id": "ch007_015",
+      "event_name": "群仙獻瑞",
+      "event_status": "安天大会盛况空前，联盟需固",
+      "character_decision": "受寿星赤脚等献宝贺会",
+      "decision_result": "强化天庭—佛界联盟合法性"
+    },
+    {
+      "event_id": "ch031_007",
+      "event_name": "天庭勘妖",
+      "event_status": "悟空闯殿查籍，神籍体系受撼",
+      "character_decision": "移驾通明殿勘验妖籍",
+      "decision_result": "确认奎木狼身份并收押"
+    },
+    {
+      "event_id": "ch058_006",
+      "event_name": "照鏡無痕",
+      "event_status": "双猴并立，真伪莫辨，天律遇困",
+      "character_decision": "命李天王取镜验真",
+      "decision_result": "照出双影毫髮不差"
+    }
+  ]
+}

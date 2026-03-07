@@ -1,0 +1,29 @@
+{
+  "name": "陳家莊眾人",
+  "aliases": [],
+  "description": "陳家莊虔誠村民，世代供奉救生寺",
+  "personality": [
+    "虔誠",
+    "守禮",
+    "重諾"
+  ],
+  "traits": [
+    "晨祭習俗",
+    "香火供奉",
+    "立年祭制"
+  ],
+  "abilities": [
+    "集體祭祀",
+    "香火管理"
+  ],
+  "summary": "因唐僧夜遁而創立年祭制度，延續香火供奉傳統。",
+  "events": [
+    {
+      "event_id": "ch100_001",
+      "event_name": "晨祭失僧",
+      "event_status": "僧人無故失蹤，供品未動",
+      "character_decision": "晨起獻供發現後立年祭",
+      "decision_result": "香火永續，制度化祭祀"
+    }
+  ]
+}

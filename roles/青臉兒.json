@@ -1,0 +1,36 @@
+{
+  "name": "青臉兒",
+  "aliases": [],
+  "description": "九靈元聖座下小妖，黃獅精麾屬",
+  "personality": [
+    "忠僕",
+    "怯懦",
+    "驚惶"
+  ],
+  "traits": [
+    "青臉",
+    "小妖",
+    "畏懼行者"
+  ],
+  "abilities": [
+    "持兵器",
+    "守洞"
+  ],
+  "summary": "聞主子黃獅精死訊而悲慟，隨老怪激化對峙；夜間遭孫悟空反制誅殺。",
+  "events": [
+    {
+      "event_id": "ch090_006",
+      "event_name": "老怪悲慟",
+      "event_status": "洞中聞喪，群妖震懾",
+      "character_decision": "隨眾悲泣",
+      "decision_result": "強化主從悲憤聯結"
+    },
+    {
+      "event_id": "ch090_009",
+      "event_name": "行者脫縛",
+      "event_status": "洞內受縛，突遭反擊",
+      "character_decision": "被行者誅殺",
+      "decision_result": "身死成肉餅"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "四大神將",
+  "aliases": [],
+  "description": "泗洲大聖禪寺所屬精兵，受小張太子統率的神將部隊",
+  "personality": [
+    "忠勇",
+    "果決"
+  ],
+  "traits": [
+    "甲冑威嚴",
+    "聽令如流"
+  ],
+  "abilities": [
+    "降妖助戰",
+    "協同作戰"
+  ],
+  "summary": "應悟空之請隨小張太子出征小雷音寺，初為援軍主力，後因輕敵遭黃眉老佛搭包所擒，全軍被縛入地窖。",
+  "events": [
+    {
+      "event_id": "ch066_004",
+      "event_name": "泗洲借將",
+      "event_status": "奉命助戰，整裝待發",
+      "character_decision": "隨太子應召赴援",
+      "decision_result": "抵達小雷音寺"
+    },
+    {
+      "event_id": "ch066_005",
+      "event_name": "太子遭擒",
+      "event_status": "山門外迎敵，形勢驟變",
+      "character_decision": "近前抵擋妖魔",
+      "decision_result": "同被搭包收盡"
+    }
+  ]
+}

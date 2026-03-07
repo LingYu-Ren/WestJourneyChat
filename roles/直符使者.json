@@ -1,0 +1,29 @@
+{
+  "name": "直符使者",
+  "aliases": [],
+  "description": "天庭专职传递文牒、通禀奏事的神职使者",
+  "personality": [
+    "恪尽职守",
+    "迅捷严谨"
+  ],
+  "traits": [
+    "持符",
+    "通明殿常驻",
+    "天门往来频繁"
+  ],
+  "abilities": [
+    "文书呈递",
+    "天界通行",
+    "奏报应答"
+  ],
+  "summary": "直符使者奉命将僧道文牒自天门外速递至通明殿，促成玉帝即时验事敕雨。",
+  "events": [
+    {
+      "event_id": "ch087_007",
+      "event_name": "文牒奏天",
+      "event_status": "天门至通明殿间紧急通传",
+      "character_decision": "呈递僧道皈依文牒",
+      "decision_result": "玉帝验证三事并敕令降雨"
+    }
+  ]
+}

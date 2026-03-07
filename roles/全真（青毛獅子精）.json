@@ -1,0 +1,87 @@
+{
+  "name": "全真（青毛獅子精）",
+  "aliases": [
+    "青毛狮子精"
+  ],
+  "description": "青毛狮子所化妖王，冒充乌鸡国国王窃据三年",
+  "personality": [
+    "阴险",
+    "狡诈",
+    "专横",
+    "多疑",
+    "暴烈"
+  ],
+  "traits": [
+    "青毛",
+    "擅幻形",
+    "喜井渊",
+    "善吞纳",
+    "倚宝逞凶"
+  ],
+  "abilities": [
+    "幻化人形",
+    "水性通幽",
+    "摄政控宫",
+    "吞纳神通",
+    "宝瓶御敌"
+  ],
+  "summary": "三年前于御花园琉璃井推杀真国王，冒名篡位；长期禁闭太子以隔绝母子，维系伪政权。　于狮驼岭与黄牙老象、大鹏金翅雕结盟称魔，屡以阴阳瓶困圣，更张口吞纳悟空欲绝后患，终因腹内遭制而溃势。",
+  "events": [
+    {
+      "event_id": "ch037_004",
+      "event_name": "井淵蒙冤",
+      "event_status": "假意携游，独处井畔",
+      "character_decision": "哄骗推落琉璃井",
+      "decision_result": "国王溺毙成冤魂"
+    },
+    {
+      "event_id": "ch037_010",
+      "event_name": "禁宮三年",
+      "event_status": "伪帝居宫，母子隔绝",
+      "character_decision": "禁太子不得入宫",
+      "decision_result": "掩盖身份关键屏障"
+    },
+    {
+      "event_id": "ch075_002",
+      "event_name": "偽鑽風詐",
+      "event_status": "三魔共踞洞中，警戒初松",
+      "character_decision": "闻报惊惧闭门",
+      "decision_result": "错失先机，阵脚微乱"
+    },
+    {
+      "event_id": "ch075_004",
+      "event_name": "陰陽瓶困聖",
+      "event_status": "识破伪钻风，决意镇压",
+      "character_decision": "启用阴阳宝瓶禁锢",
+      "decision_result": "悟空初陷瓶中焚身"
+    },
+    {
+      "event_id": "ch075_006",
+      "event_name": "蟭蟟釘首",
+      "event_status": "瓶空惊疑，妖心浮动",
+      "character_decision": "未察头顶蛰伏",
+      "decision_result": "密情外泄，威慑瓦解"
+    },
+    {
+      "event_id": "ch075_008",
+      "event_name": "洞前叫陣",
+      "event_status": "二圣压境，众妖惶然",
+      "character_decision": "独出应战八戒悟空",
+      "decision_result": "展开二十合棍刀鏖兵"
+    },
+    {
+      "event_id": "ch075_009",
+      "event_name": "吞聖入腹",
+      "event_status": "鏖战佯退，诱其张口",
+      "character_decision": "张巨口吞纳悟空",
+      "decision_result": "反被行者控腹制命"
+    },
+    {
+      "event_id": "ch075_010",
+      "event_name": "腹內撒酒風",
+      "event_status": "腹中异动，强灌药酒",
+      "character_decision": "倾饮毒酒欲灭行者",
+      "decision_result": "酒力反噬，剧痛崩溃"
+    }
+  ]
+}

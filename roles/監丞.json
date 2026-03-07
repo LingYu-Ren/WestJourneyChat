@@ -1,0 +1,27 @@
+{
+  "name": "監丞",
+  "aliases": [],
+  "description": "御馬監高級官員，掌管天馬飼養事務",
+  "personality": [
+    "盡責",
+    "守制"
+  ],
+  "traits": [
+    "官服整肅",
+    "按章理事"
+  ],
+  "abilities": [
+    "馬政管理",
+    "衙署協調"
+  ],
+  "summary": "監丞與監副、典簿等共同督導悟空飼養天駒，見其勤勉有成，遂參與設宴賀喜，彰顯職司之序。",
+  "events": [
+    {
+      "event_id": "ch004_005",
+      "event_name": "勤養天駒",
+      "event_status": "新任弼馬溫初履職，天馬飼養事關緊要",
+      "character_decision": "協同督導飼養事務",
+      "decision_result": "天馬肥壯，眾官設宴"
+    }
+  ]
+}

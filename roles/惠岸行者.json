@@ -1,0 +1,195 @@
+{
+  "name": "惠岸行者",
+  "aliases": [
+    "木吒"
+  ],
+  "description": "觀世音菩薩座下護法行者，托塔天王李靖長子",
+  "personality": [
+    "忠謹",
+    "果敢",
+    "服從",
+    "務實",
+    "沉毅",
+    "篤行",
+    "敏察",
+    "慎言",
+    "契約意識",
+    "儀典嚴謹",
+    "法界淨守意識",
+    "壇場協理自覺",
+    "辨妄持正意識"
+  ],
+  "traits": [
+    "持戟",
+    "行者裝束",
+    "天界將領身份",
+    "隨侍菩薩",
+    "降魔先鋒",
+    "隱跡化身",
+    "法名宣召者",
+    "渡河法器協理",
+    "蓮臺化現見證者",
+    "清野法壇協理者",
+    "金箍縛童在場佐證者",
+    "潮音洞常駐護法"
+  ],
+  "abilities": [
+    "戰鬥",
+    "偵察",
+    "稟報",
+    "馭雲",
+    "伏妖",
+    "護法",
+    "訪察",
+    "隨行點化",
+    "法名召降",
+    "法器協作",
+    "法界淨化協理",
+    "壇場儀軌輔持",
+    "降伏見證與承轉",
+    "真偽勘驗協理"
+  ],
+  "summary": "奉觀音與玉帝之命下界探營、稟報軍情並出戰悟空，雖敗猶負起關鍵情報中轉之責。　作為觀音東行勘路之左膀右臂，連續參與流沙河降魔、福陵山伏豕等關鍵收徒行動，展現穩定戰力與執行力；全程護持菩薩完成取經前線佈局，角色功能由情報中轉升級為取經團隊奠基者。　隨菩薩深入長安城中實地訪善，全程護持其現身化生寺斥小乘、啟大乘之關鍵轉折，強化其作為取經前線核心協理者的現場應變與儀典輔佐功能。　於流沙河畔以法名「悟淨」召降沙僧，彰顯其名號契約之威；協力完成骷髏結筏渡河密法，展現對菩薩授意的精準執行與儀典級法務配合能力。　於潮音洞前見證天罡刀化千葉蓮臺，全程協理號山清野布壇與金箍縛童儀典，強化其作為菩薩降魔法事核心協理與法界秩序建構者的現場承擔功能。　於潮音洞親歷真假美猴王之辯，以護法身分全程列席菩薩勘驗，展現對法界真實性維護的深度參與；其靜默佐證姿態，強化其作為三界法理秩序協理樞紐的關鍵定位。",
+  "events": [
+    {
+      "event_id": "ch006_002",
+      "event_name": "菩薩問因",
+      "event_status": "隨菩薩赴瑤池見天界荒蕪",
+      "character_decision": "陪同菩薩面聖問因",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch006_003",
+      "event_name": "惠岸探營",
+      "event_status": "天兵圍山未果，情報斷絕",
+      "character_decision": "奉命下界偵察敵情",
+      "decision_result": "確認九曜敗走、群猴未擒"
+    },
+    {
+      "event_id": "ch006_004",
+      "event_name": "營前稟報",
+      "event_status": "天羅地網營中士氣低落",
+      "character_decision": "入營稟告菩薩差遣緣由",
+      "decision_result": "促成李天王確認失利"
+    },
+    {
+      "event_id": "ch006_006",
+      "event_name": "木吒敗北",
+      "event_status": "獨戰悟空於轅門外",
+      "character_decision": "持戟出戰孫悟空",
+      "decision_result": "臂膊酸麻敗走回營"
+    },
+    {
+      "event_id": "ch006_007",
+      "event_name": "鬼王啟奏",
+      "event_status": "戰敗後亟須上奏求援",
+      "character_decision": "與鬼王火速返天庭奏報",
+      "decision_result": "促成觀音舉薦二郎真君"
+    },
+    {
+      "event_id": "ch008_004",
+      "event_name": "攜徒離山",
+      "event_status": "奉如來法旨啟程東行",
+      "character_decision": "隨菩薩離靈山東行",
+      "decision_result": "開啟西行前線踏勘"
+    },
+    {
+      "event_id": "ch008_005",
+      "event_name": "流沙降魔",
+      "event_status": "沙怪阻路欲食菩薩",
+      "character_decision": "出戰捲簾大將",
+      "decision_result": "助其皈依得名沙悟淨"
+    },
+    {
+      "event_id": "ch008_006",
+      "event_name": "福陵伏豕",
+      "event_status": "豬怪恃勇築擊菩薩",
+      "character_decision": "出戰天蓬元帥",
+      "decision_result": "助其悔罪得名豬悟能"
+    },
+    {
+      "event_id": "ch008_007",
+      "event_name": "天門請赦",
+      "event_status": "小龍懸吊待誅於南天門",
+      "character_decision": "隨菩薩奏請玉帝赦免",
+      "decision_result": "促成小龍受赦潛澗待變"
+    },
+    {
+      "event_id": "ch008_008",
+      "event_name": "山前點化",
+      "event_status": "五行山下困厄未解",
+      "character_decision": "隨菩薩駐足勸化悟空",
+      "decision_result": "確立悟空取經首徒資格"
+    },
+    {
+      "event_id": "ch008_009",
+      "event_name": "隱跡長安",
+      "event_status": "長安城中神祇林立",
+      "character_decision": "化身隨行訪僧覓人",
+      "decision_result": "推進取經人實地篩選"
+    },
+    {
+      "event_id": "ch012_008",
+      "event_name": "菩薩訪善",
+      "event_status": "長安城中暗訪取經人未果",
+      "character_decision": "隨菩薩持寶入城覓人",
+      "decision_result": "確立玄奘金蟬轉世身份"
+    },
+    {
+      "event_id": "ch012_010",
+      "event_name": "小乘斥非",
+      "event_status": "化生寺法會小乘當道",
+      "character_decision": "隨菩薩現身多寶臺",
+      "decision_result": "促成太宗敕令求取大乘"
+    },
+    {
+      "event_id": "ch022_009",
+      "event_name": "菩薩授法",
+      "event_status": "悟空請援，師徒困於流沙河",
+      "character_decision": "隨菩薩聽授渡河密法",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch022_010",
+      "event_name": "法名召降",
+      "event_status": "沙僧持械對峙，未肯歸順",
+      "character_decision": "呼喚法名「悟淨」",
+      "decision_result": "沙僧聞名即降"
+    },
+    {
+      "event_id": "ch022_011",
+      "event_name": "結筏渡河",
+      "event_status": "弱水滔天，無舟可渡",
+      "character_decision": "協理骷髏結筏法事",
+      "decision_result": "唐僧穩渡弱水"
+    },
+    {
+      "event_id": "ch042_007",
+      "event_name": "借刀化臺",
+      "event_status": "需渡海降妖且彰顯法力威儀",
+      "character_decision": "隨菩薩駐潮音洞前見證",
+      "decision_result": "確立蓮臺法器根基"
+    },
+    {
+      "event_id": "ch042_008",
+      "event_name": "清野布壇",
+      "event_status": "降伏三昧火需隔絕凡俗干擾",
+      "character_decision": "協理三百里清野敕令",
+      "decision_result": "建成純淨降伏法界"
+    },
+    {
+      "event_id": "ch042_010",
+      "event_name": "金箍縛童",
+      "event_status": "紅孩兒坐蓮臺遭穿刺後仍逞兇",
+      "character_decision": "在場佐證金箍收服",
+      "decision_result": "助成善財童子皈依"
+    },
+    {
+      "event_id": "ch058_004",
+      "event_name": "菩薩難辨",
+      "event_status": "二聖形聲無異，緊箍咒同疼失效",
+      "character_decision": "列席潮音洞勘驗真偽",
+      "decision_result": "佐證菩薩難辨之局"
+    }
+  ]
+}

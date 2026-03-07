@@ -1,0 +1,69 @@
+{
+  "name": "烏雞國太子",
+  "aliases": [],
+  "description": "烏雞國儲君，真國王之子，遭妖魔篡位後被隔絕於宮廷之外",
+  "personality": [
+    "孝順",
+    "謹慎",
+    "果斷",
+    "多疑",
+    "執著"
+  ],
+  "traits": [
+    "持白玉珪",
+    "率軍出獵",
+    "單騎赴約",
+    "叩闈驗證"
+  ],
+  "abilities": [
+    "統兵",
+    "辨偽識人",
+    "密查真相",
+    "宮闈交涉"
+  ],
+  "summary": "在悟空引導下突破妖魔禁制，通過匣中對話確信父王蒙冤，決意攜信物驗證皇后以圖復國。　持白玉珪直入後宰門叩闈驗證母后，獲關鍵供述；返寶林寺稟報實情，推動悟空定計夜探御園。",
+  "events": [
+    {
+      "event_id": "ch037_005",
+      "event_name": "太子出獵",
+      "event_status": "受鬼王託夢指引，需暗中行動",
+      "character_decision": "領三千軍馬出城採獵",
+      "decision_result": "創造與悟空密會機會"
+    },
+    {
+      "event_id": "ch037_006",
+      "event_name": "白兔引駕",
+      "event_status": "被悟空設計誘離隨從，孤立無援",
+      "character_decision": "獨追白兔至寶林寺",
+      "decision_result": "單騎入寺完成密會"
+    },
+    {
+      "event_id": "ch037_007",
+      "event_name": "匣中辨偽",
+      "event_status": "面對匣中現身的悟空，疑信參半",
+      "character_decision": "聽信悟空指證全真為妖",
+      "decision_result": "持白玉珪離寺驗證"
+    },
+    {
+      "event_id": "ch037_010",
+      "event_name": "禁宮三年",
+      "event_status": "被妖魔長期禁足，母子隔絕",
+      "character_decision": "隱忍待機，暗察異常",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch038_001",
+      "event_name": "太子叩闈",
+      "event_status": "獨入禁宮面見母后，形勢敏感",
+      "character_decision": "直入後宰門叩闈見母",
+      "decision_result": "引發母后憶夢泣訴"
+    },
+    {
+      "event_id": "ch038_003",
+      "event_name": "匣外復稟",
+      "event_status": "返寺向悟空稟報驗證結果",
+      "character_decision": "返寺稟告母證實情",
+      "decision_result": "助定夜探御園之計"
+    }
+  ]
+}

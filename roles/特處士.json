@@ -1,0 +1,29 @@
+{
+  "name": "特處士",
+  "aliases": [],
+  "description": "雙叉嶺坑坎盤踞的妖仙，與寅將軍、熊山君並列",
+  "personality": [
+    "貪食",
+    "兇悍"
+  ],
+  "traits": [
+    "鼠類形貌",
+    "夜行習性",
+    "嗜血"
+  ],
+  "abilities": [
+    "掘穴",
+    "夜襲",
+    "分食人肉"
+  ],
+  "summary": "在虎穴遭劫事件中，與寅將軍、熊山君共食玄奘二從者，展現其殘暴食性與地盤霸主地位。",
+  "events": [
+    {
+      "event_id": "ch013_006",
+      "event_name": "虎穴遭劫",
+      "event_status": "群妖聚窟，圍獵落難僧徒",
+      "character_decision": "參與分食二從者",
+      "decision_result": "吞食一人"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "陳清",
+  "aliases": [],
+  "description": "陳家莊莊主陳澄之弟，當地鄉紳",
+  "personality": [
+    "淳樸",
+    "忠厚",
+    "憂慮"
+  ],
+  "traits": [
+    "熱心待客",
+    "敬畏僧道"
+  ],
+  "abilities": [
+    "操持莊務",
+    "協理迎送"
+  ],
+  "summary": "在通天河畔連番異變中，與兄長陳澄共同接待唐僧師徒，見證踏冰渡河與白馬落水之禍，悲泣失措卻始終未離莊守候。",
+  "events": [
+    {
+      "event_id": "ch048_004",
+      "event_name": "雪寒驚僧",
+      "event_status": "大雪封境，師徒憂懼",
+      "character_decision": "陪同安頓僧眾",
+      "decision_result": "穩住莊內秩序"
+    },
+    {
+      "event_id": "ch048_005",
+      "event_name": "踏冰勘路",
+      "event_status": "冰面可渡，行人往西",
+      "character_decision": "隨行觀望確認",
+      "decision_result": "助師徒決意過河"
+    },
+    {
+      "event_id": "ch048_008",
+      "event_name": "負水返莊",
+      "event_status": "師父失蹤，白馬落水",
+      "character_decision": "聞訊悲泣迎報",
+      "decision_result": "信悟空所言未絕望"
+    }
+  ]
+}

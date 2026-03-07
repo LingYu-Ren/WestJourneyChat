@@ -1,0 +1,37 @@
+{
+  "name": "愛愛",
+  "aliases": [],
+  "description": "賈莫莊院三女之一，假扮寡婦誘試取經人",
+  "personality": [
+    "機巧",
+    "主動",
+    "誘惑性"
+  ],
+  "traits": [
+    "美色",
+    "妝飾精緻",
+    "應對從容"
+  ],
+  "abilities": [
+    "偽裝",
+    "言辭挑逗",
+    "配合演戲"
+  ],
+  "summary": "愛愛參與寡婦招婿之局，與真真、憐憐共同以美色富貴誘試唐僧師徒；在後門密約中協同黎山老母化身高誘八戒應婚。",
+  "events": [
+    {
+      "event_id": "ch023_005",
+      "event_name": "寡婦招婿",
+      "event_status": "群女明言坐山招夫，試探取經誠心",
+      "character_decision": "附和招婿提議",
+      "decision_result": "三藏沉默拒婚"
+    },
+    {
+      "event_id": "ch023_006",
+      "event_name": "後門密約",
+      "event_status": "私會八戒密商贅婿細節",
+      "character_decision": "參與密約誘哄",
+      "decision_result": "悟空變蜻蜓監視"
+    }
+  ]
+}

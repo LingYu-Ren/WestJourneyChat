@@ -1,0 +1,534 @@
+{
+  "name": "美猴王",
+  "aliases": [
+    "齐天大圣",
+    "孙悟空"
+  ],
+  "description": "花果山天生石猴，后成群猴之王",
+  "personality": [
+    "敏锐",
+    "忧思",
+    "果决",
+    "求道心切",
+    "勇毅",
+    "威严",
+    "雄略",
+    "霸烈",
+    "机变",
+    "桀骜",
+    "自尊",
+    "刚烈",
+    "重名",
+    "善察人心",
+    "不耐屈抑",
+    "狡黠",
+    "贪欢",
+    "欺瞒擅断",
+    "胆大妄为",
+    "临机纵欲",
+    "悍烈",
+    "善韧",
+    "临危善遁",
+    "恃强不屈",
+    "诡谲",
+    "悍不畏死",
+    "暴烈",
+    "不屈",
+    "狂傲",
+    "逆命",
+    "执拗"
+  ],
+  "traits": [
+    "金箍棒",
+    "火眼金睛",
+    "筋斗云",
+    "石猴本相",
+    "披挂战甲",
+    "凤翅紫金冠",
+    "锁子黄金甲",
+    "藕丝步云履",
+    "齐天大圣旗",
+    "御马监印信（弃）",
+    "大圣府符牌",
+    "蟠桃园令牌",
+    "定身法印痕",
+    "醉态踉跄步",
+    "丹气灼痕",
+    "弹弓击痕",
+    "细犬咬痕",
+    "金刚琢击凹痕",
+    "庙宇旗竿破绽",
+    "七十二变余韵",
+    "八卦炉烟熏痕",
+    "火眼金睛灼光",
+    "金刚不坏躯",
+    "蹬倒丹炉余震",
+    "五行山压痕"
+  ],
+  "abilities": [
+    "腾云驾雾",
+    "七十二变",
+    "长生不老术",
+    "降妖伏魔",
+    "呼风摄雨",
+    "闯宫慑龙",
+    "销籍避死",
+    "点卯统军",
+    "御马驯养",
+    "临阵破械",
+    "识破虚职",
+    "拒诏抗命",
+    "立号建制",
+    "定身禁锢",
+    "幻形欺仙",
+    "盗食仙果",
+    "窃饮琼浆",
+    "吞炼金丹",
+    "分身鏖战",
+    "法天象地",
+    "变化周旋",
+    "伪形惑敌",
+    "逆境反扑",
+    "照妖破隐",
+    "营中突袭",
+    "刀斧不伤",
+    "三昧火淬体",
+    "火眼辨真",
+    "蹬炉破禁",
+    "横扫通明",
+    "灵官对撼",
+    "筋斗赌约",
+    "掌中腾挪",
+    "五行镇压"
+  ],
+  "summary": "因宴间悲叹生死无常而萌生求道之志，历经南赡部洲访道未果，终渡海至西牛贺洲，拜入菩提祖师门下，得赐法名‘孙悟空’。　剿灭混世魔王，夺回水帘洞，确立对花果山的绝对统治，完成从天然猴王到武力强者的身份跃升。　习武整军、劫械夺宝、强索披挂、显棒镇山，建成花果山铁桶式统治；梦闹地府销尽猴属生死簿，彻底跳出轮回；奉诏上天，首次步入天庭体系。　初入天庭受阻南天门，因无仙箓遭拒，显桀骜本色；受封弼马温后勤勉尽责，然知其未入流即怒反下界，自号‘齐天大圣’，以武力挫巨灵、哪吒，迫天庭二度招安，终得名实相副之尊位。　获授蟠桃園实职后，借查勘之便频游偷食，终酿惊枝现形、定身瞒天、诳仙赚道、醉饮琼浆、窃丹离恨等连环大祸；事败逃归花果山，坦陈罪状反激群情，继而独战九曜、鏖杀天罗，展露愈演愈烈的叛逆锋芒与超绝战力。　于花果山连挫天兵，独战惠岸、真君及梅山六兄弟，展露超绝变化与悍勇韧性；虽终因老君金刚琢失衡被擒，然七变逐影、庙宇欺敌、灌庙反客等行止，尽显其临危不乱、诡变无方之极致战格。　被擒斩妖台而刀斧雷火不伤，反因金丹锻就金刚不坏之躯；于八卦炉巽位避火炼成火眼金睛，破炉蹬倒丹炉再乱天宫；直捣通明殿逼至灵霄门外，与王灵官激战不分胜负；终应如来赌约，翻筋斗入掌留字撒尿，反被五指化山镇压。",
+  "events": [
+    {
+      "event_id": "ch001_015",
+      "event_name": "宴中憂死",
+      "event_status": "欢宴正盛，忽感生命无常",
+      "character_decision": "悲叹生死不可避",
+      "decision_result": "众猴共惧无常"
+    },
+    {
+      "event_id": "ch001_016",
+      "event_name": "問道三不朽",
+      "event_status": "忧惧生死，急寻解脱之途",
+      "character_decision": "向通背猿猴问长生之道",
+      "decision_result": "得知佛仙神圣可避阎王"
+    },
+    {
+      "event_id": "ch001_017",
+      "event_name": "設宴餞行",
+      "event_status": "群猴设宴，送别求道之王",
+      "character_decision": "决意离山访道求长生",
+      "decision_result": "正式启程下山"
+    },
+    {
+      "event_id": "ch001_018",
+      "event_name": "伐木渡海",
+      "event_status": "孤身临海，无舟无楫",
+      "character_decision": "伐木编筏飘洋过海",
+      "decision_result": "抵达南赡部洲"
+    },
+    {
+      "event_id": "ch001_019",
+      "event_name": "南洲訪道",
+      "event_status": "混迹人间，遍访无遇真仙",
+      "character_decision": "持续寻访佛仙神圣",
+      "decision_result": "转向西牛贺洲"
+    },
+    {
+      "event_id": "ch001_020",
+      "event_name": "再渡西海",
+      "event_status": "独筏横渡西洋大海",
+      "character_decision": "再作木筏飘至西牛贺洲",
+      "decision_result": "抵达灵台方寸山"
+    },
+    {
+      "event_id": "ch001_021",
+      "event_name": "童子迎門",
+      "event_status": "洞外候立，仙气缭绕",
+      "character_decision": "静候仙童引路",
+      "decision_result": "被引入斜月三星洞"
+    },
+    {
+      "event_id": "ch001_022",
+      "event_name": "問籍賜名",
+      "event_status": "初见祖师，受考校本源",
+      "character_decision": "如实禀告出身并拜师",
+      "decision_result": "得赐法名孙悟空"
+    },
+    {
+      "event_id": "ch002_010",
+      "event_name": "斬魔復洞",
+      "event_status": "洞府被占，子侄遭掳，群猴告急",
+      "character_decision": "纵身赴战剿灭魔王",
+      "decision_result": "重掌水帘洞"
+    },
+    {
+      "event_id": "ch003_001",
+      "event_name": "操演武藝",
+      "event_status": "斩魔后防务空虚，群猴忧惧",
+      "character_decision": "教群猴操练兵法器械",
+      "decision_result": "引发寻锋利兵器之议"
+    },
+    {
+      "event_id": "ch003_002",
+      "event_name": "獻策取兵",
+      "event_status": "群猴苦无趁手兵器守山",
+      "character_decision": "采纳四老猴赴傲来取兵之策",
+      "decision_result": "决意劫械"
+    },
+    {
+      "event_id": "ch003_003",
+      "event_name": "風劫兵器",
+      "event_status": "傲来国城池戒备森严",
+      "character_decision": "施风法惊散国民劫尽武库",
+      "decision_result": "群猴获全套军械"
+    },
+    {
+      "event_id": "ch003_004",
+      "event_name": "聚眾點卯",
+      "event_status": "兵器齐备，威势震慑四方",
+      "character_decision": "列阵点卯招纳七十二洞妖王",
+      "decision_result": "建成铁桶金城式统治体系"
+    },
+    {
+      "event_id": "ch003_005",
+      "event_name": "問寶龍宮",
+      "event_status": "凡兵不趁手，欲求仙器",
+      "character_decision": "应四猴献计入海索宝",
+      "decision_result": "引發東海奪寶"
+    },
+    {
+      "event_id": "ch003_006",
+      "event_name": "闖宮索寶",
+      "event_status": "水晶宫戒备森严，龙族倨傲",
+      "character_decision": "闯宫逼索神兵",
+      "decision_result": "龙王被迫献定海神珍"
+    },
+    {
+      "event_id": "ch003_007",
+      "event_name": "金箍現世",
+      "event_status": "神铁沉海久寂，霞光异动",
+      "character_decision": "拔出天河定底神珍铁",
+      "decision_result": "如意金箍棒诞生"
+    },
+    {
+      "event_id": "ch003_008",
+      "event_name": "強索披掛",
+      "event_status": "金箍棒无相配衣甲",
+      "character_decision": "胁迫四海龙王献披挂",
+      "decision_result": "获凤翅紫金冠等三件套"
+    },
+    {
+      "event_id": "ch003_009",
+      "event_name": "顯棒鎮山",
+      "event_status": "披挂齐备，神兵在手",
+      "character_decision": "展金箍棒神通震慑群怪",
+      "decision_result": "七十二洞妖王彻底臣服"
+    },
+    {
+      "event_id": "ch003_010",
+      "event_name": "魂入幽冥",
+      "event_status": "醉卧松阴，阳寿未尽被误勾",
+      "character_decision": "梦入地府怒销生死簿",
+      "decision_result": "销尽猴属名籍"
+    },
+    {
+      "event_id": "ch003_014",
+      "event_name": "奉詔上天",
+      "event_status": "太白金星持旨招安",
+      "character_decision": "整衣出迎随金星升天",
+      "decision_result": "首次进入天庭体系"
+    },
+    {
+      "event_id": "ch004_001",
+      "event_name": "天門受阻",
+      "event_status": "南天门外被天丁持械拦阻",
+      "character_decision": "质问金星是否欺瞒",
+      "decision_result": "险拒入天"
+    },
+    {
+      "event_id": "ch004_002",
+      "event_name": "金星釋疑",
+      "event_status": "怒斥金星哄骗，质疑诏旨真实性",
+      "character_decision": "听金星解释后暂信",
+      "decision_result": "随金星入内"
+    },
+    {
+      "event_id": "ch004_003",
+      "event_name": "御前覲見",
+      "event_status": "初登灵霄殿，不知天庭礼数",
+      "character_decision": "未拜即应玉帝问话",
+      "decision_result": "惊动群仙获赦"
+    },
+    {
+      "event_id": "ch004_004",
+      "event_name": "授職弼馬",
+      "event_status": "御前待命，静候封授",
+      "character_decision": "欣然接受弼马温职",
+      "decision_result": "赴任御马监"
+    },
+    {
+      "event_id": "ch004_005",
+      "event_name": "勤養天駒",
+      "event_status": "初掌御马监，昼夜操劳",
+      "character_decision": "悉心饲育天马",
+      "decision_result": "天马肥壮贺喜"
+    },
+    {
+      "event_id": "ch004_006",
+      "event_name": "問職生怒",
+      "event_status": "闲暇问职，方知官卑无品",
+      "character_decision": "暴怒推案打出天门",
+      "decision_result": "弃官反下界"
+    },
+    {
+      "event_id": "ch004_007",
+      "event_name": "怒返花果",
+      "event_status": "愤然回山，众猴惶惧不安",
+      "character_decision": "诉说受辱经历",
+      "decision_result": "众猴劝慰讥天"
+    },
+    {
+      "event_id": "ch004_008",
+      "event_name": "鬼王獻策",
+      "event_status": "酒会正酣，鬼王进言献号",
+      "character_decision": "立旗自号齐天大圣",
+      "decision_result": "定名齐天大圣"
+    },
+    {
+      "event_id": "ch004_010",
+      "event_name": "首戰巨靈",
+      "event_status": "天兵压境，巨灵神奉旨讨伐",
+      "character_decision": "一棒击断巨灵斧",
+      "decision_result": "巨灵败走"
+    },
+    {
+      "event_id": "ch004_011",
+      "event_name": "再戰三壇",
+      "event_status": "哪吒六般兵器齐出挑战",
+      "character_decision": "腾挪破械击败哪吒",
+      "decision_result": "哪吒负伤奏请加封"
+    },
+    {
+      "event_id": "ch004_013",
+      "event_name": "二度招安",
+      "event_status": "金星携诏再临，承认真名",
+      "character_decision": "整装欣然应召",
+      "decision_result": "再入天庭受封"
+    },
+    {
+      "event_id": "ch004_014",
+      "event_name": "築府受賜",
+      "event_status": "齐天大圣府初成，赐酒赐花",
+      "character_decision": "入驻大圣府暂息狂心",
+      "decision_result": "遂心满意"
+    },
+    {
+      "event_id": "ch005_001",
+      "event_name": "授管蟠園",
+      "event_status": "凌霄殿初授实职，众仙侧目",
+      "character_decision": "欣然领旨接管蟠桃園",
+      "decision_result": "获蟠园督理权"
+    },
+    {
+      "event_id": "ch005_002",
+      "event_name": "初勘桃園",
+      "event_status": "初入蟠园，三千六百株待查",
+      "character_decision": "逐株勘验仙桃品类功效",
+      "decision_result": "尽知三类桃熟期与神效"
+    },
+    {
+      "event_id": "ch005_003",
+      "event_name": "頻遊嘗新",
+      "event_status": "园中无人监束，桃熟可食",
+      "character_decision": "三五日一巡，设法偷食",
+      "decision_result": "后园仙桃尽数吃尽"
+    },
+    {
+      "event_id": "ch005_004",
+      "event_name": "驚枝現形",
+      "event_status": "青衣女扯枝惊醒酣睡小猴",
+      "character_decision": "现本相威吓七仙女",
+      "decision_result": "套得蟠桃会宾客名单"
+    },
+    {
+      "event_id": "ch005_005",
+      "event_name": "定身瞞天",
+      "event_status": "七仙女将摘桃报信，形势紧迫",
+      "character_decision": "施定身法定住七仙女",
+      "decision_result": "仙女僵立失职"
+    },
+    {
+      "event_id": "ch005_006",
+      "event_name": "誑仙賺道",
+      "event_status": "赤脚大仙赴瑶池途中相遇",
+      "character_decision": "假扮大仙诳其赴通明殿",
+      "decision_result": "瑶池防备空虚"
+    },
+    {
+      "event_id": "ch005_007",
+      "event_name": "醉飲瓊漿",
+      "event_status": "瑶池酒香扑鼻，众仙昏沉",
+      "character_decision": "变赤脚大仙痛饮仙酒",
+      "decision_result": "玉液琼浆被饮尽"
+    },
+    {
+      "event_id": "ch005_008",
+      "event_name": "竊丹離恨",
+      "event_status": "醉误入兜率宫，丹炉火旺",
+      "character_decision": "吞尽五葫芦九转金丹",
+      "decision_result": "金丹尽失祸上加祸"
+    },
+    {
+      "event_id": "ch005_009",
+      "event_name": "自陳罪狀",
+      "event_status": "逃归花果山，恐玉帝问罪",
+      "character_decision": "向四健将群妖坦白三偷",
+      "decision_result": "群猴欢庆再谋盗酒"
+    },
+    {
+      "event_id": "ch005_011",
+      "event_name": "首戰九曜",
+      "event_status": "九曜星官先行压境讨伐",
+      "character_decision": "一棒击退九曜星官",
+      "decision_result": "九曜败阵请援"
+    },
+    {
+      "event_id": "ch005_012",
+      "event_name": "鏖戰天羅",
+      "event_status": "天兵布天罗地网围山",
+      "character_decision": "分身鏖战击退天神",
+      "decision_result": "群妖尽被擒拿"
+    },
+    {
+      "event_id": "ch006_001",
+      "event_name": "大聖安歇",
+      "event_status": "鏖战后短暂停歇，群妖尽擒",
+      "character_decision": "暂驻铁板桥休整蓄势",
+      "decision_result": "为观音赴会、惠岸探营留隙"
+    },
+    {
+      "event_id": "ch006_005",
+      "event_name": "猴王索戰",
+      "event_status": "天罗地网围山，士气正盛",
+      "character_decision": "率猴精主动出营叫战",
+      "decision_result": "引惠岸出战"
+    },
+    {
+      "event_id": "ch006_006",
+      "event_name": "木吒敗北",
+      "event_status": "辕门外单挑惠岸行者",
+      "character_decision": "以金箍棒力压木吒",
+      "decision_result": "木吒败走请援"
+    },
+    {
+      "event_id": "ch006_010",
+      "event_name": "初陣對峙",
+      "event_status": "真君列阵水帘洞外",
+      "character_decision": "互揭身世激怒对峙",
+      "decision_result": "引发三百合搏杀"
+    },
+    {
+      "event_id": "ch006_011",
+      "event_name": "法天象地",
+      "event_status": "常规武斗难分高下",
+      "character_decision": "变身高万丈对撼天地",
+      "decision_result": "见本营溃散率先收法"
+    },
+    {
+      "event_id": "ch006_012",
+      "event_name": "七變逐影",
+      "event_status": "本营惊散被迫逃遁",
+      "character_decision": "连变七形周旋脱身",
+      "decision_result": "弹弓击中失衡"
+    },
+    {
+      "event_id": "ch006_013",
+      "event_name": "廟宇欺敵",
+      "event_status": "弹弓受创急智伪装",
+      "character_decision": "变土地庙尾竖旗竿",
+      "decision_result": "被真君识破现形"
+    },
+    {
+      "event_id": "ch006_014",
+      "event_name": "竄入灌廟",
+      "event_status": "照妖镜锁定唯有一线",
+      "character_decision": "变真君潜入查香火",
+      "decision_result": "当场揭穿复战花果山"
+    },
+    {
+      "event_id": "ch006_016",
+      "event_name": "金剛琢擊",
+      "event_status": "真君缠斗中老君突至",
+      "character_decision": "遭金刚琢击天灵跌倒",
+      "decision_result": "被细犬咬倒终遭擒拿"
+    },
+    {
+      "event_id": "ch007_001",
+      "event_name": "刀斧不傷",
+      "event_status": "押赴斩妖台待刑，众神环伺",
+      "character_decision": "静待刀斧雷火加身",
+      "decision_result": "毫发无损"
+    },
+    {
+      "event_id": "ch007_003",
+      "event_name": "推入巽位",
+      "event_status": "八卦炉文武火炽盛，烟焰翻涌",
+      "character_decision": "钻入巽位避火熏目",
+      "decision_result": "双目灼成火眼金睛"
+    },
+    {
+      "event_id": "ch007_004",
+      "event_name": "爐煉四九",
+      "event_status": "炉中三昧火持续煅烧",
+      "character_decision": "闭息凝神承受火炼",
+      "decision_result": "肉身再淬，火候将满"
+    },
+    {
+      "event_id": "ch007_005",
+      "event_name": "蹬倒丹爐",
+      "event_status": "炉门开启，丹气升腾",
+      "character_decision": "破炉蹬倒丹炉捽倒老君",
+      "decision_result": "夺棒脱身再闯天宫"
+    },
+    {
+      "event_id": "ch007_006",
+      "event_name": "橫掃通明",
+      "event_status": "通明殿守备空虚，直逼灵霄",
+      "character_decision": "持棒横扫直捣通明殿",
+      "decision_result": "逼至灵霄殿外"
+    },
+    {
+      "event_id": "ch007_007",
+      "event_name": "靈官擋駕",
+      "event_status": "灵霄殿前禁地，王灵官持鞭拦截",
+      "character_decision": "挥棒与灵官激战",
+      "decision_result": "僵持不下惊动玉帝"
+    },
+    {
+      "event_id": "ch007_010",
+      "event_name": "佛祖問因",
+      "event_status": "如来亲临，三十六雷将列阵",
+      "character_decision": "自陈出身及夺天之志",
+      "decision_result": "应佛祖赌约"
+    },
+    {
+      "event_id": "ch007_011",
+      "event_name": "觔斗賭約",
+      "event_status": "如来掌中设界，众神观瞻",
+      "character_decision": "纵筋斗云入掌留字撒尿",
+      "decision_result": "自以为胜实未离掌"
+    },
+    {
+      "event_id": "ch007_012",
+      "event_name": "五指化山",
+      "event_status": "欲腾云再遁，掌势骤压",
+      "character_decision": "奋力挣扎欲脱佛掌",
+      "decision_result": "被五行山镇压"
+    }
+  ]
+}

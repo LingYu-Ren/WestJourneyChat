@@ -1,0 +1,27 @@
+{
+  "name": "佃戶",
+  "aliases": [],
+  "description": "陳家莊農戶，依附陳澄生活的務農者",
+  "personality": [
+    "樸實",
+    "恭敬"
+  ],
+  "traits": [
+    "布衣",
+    "躬耕"
+  ],
+  "abilities": [
+    "耕作",
+    "迎賓"
+  ],
+  "summary": "作為陳家莊一員，參與集體迎請唐僧師徒入莊供養，展現鄉民虔誠與協作精神。",
+  "events": [
+    {
+      "event_id": "ch099_010",
+      "event_name": "陳莊迎請入宅",
+      "event_status": "莊眾齊聚東岸曬經石",
+      "character_decision": "隨眾迎師徒入莊",
+      "decision_result": "共設齋供奉"
+    }
+  ]
+}

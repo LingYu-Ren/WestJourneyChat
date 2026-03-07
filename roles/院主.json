@@ -1,0 +1,37 @@
+{
+  "name": "院主",
+  "aliases": [],
+  "description": "觀音禪院主持僧，德高望重的寺院管理者",
+  "personality": [
+    "禮數周全",
+    "城府較深",
+    "機敏"
+  ],
+  "traits": [
+    "年長",
+    "持重",
+    "善察言觀色"
+  ],
+  "abilities": [
+    "待客應對",
+    "寺院管理",
+    "辨人識勢"
+  ],
+  "summary": "初見玄奘師徒即以禮相待，建立信任；後在孫悟空追問下無意間透露黑風山線索，促成袈裟追索關鍵轉折。",
+  "events": [
+    {
+      "event_id": "ch016_002",
+      "event_name": "初詣問訊",
+      "event_status": "接待遠來高僧，維護寺院體面",
+      "character_decision": "親迎問訊並邀入方丈",
+      "decision_result": "確立初步信任關係"
+    },
+    {
+      "event_id": "ch016_014",
+      "event_name": "問妖指蹤",
+      "event_status": "面對行者逼問，心神動搖",
+      "character_decision": "據實回應黑風山地理所知",
+      "decision_result": "暴露盜衣真兇線索"
+    }
+  ]
+}

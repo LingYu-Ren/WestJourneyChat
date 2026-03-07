@@ -1,0 +1,49 @@
+{
+  "name": "巡海夜叉",
+  "aliases": [
+    "巡水夜叉"
+  ],
+  "description": "東海龍宮巡視海域的夜叉將領",
+  "personality": [
+    "忠職",
+    "惶懼",
+    "恪守恩義",
+    "謹慎密報"
+  ],
+  "traits": [
+    "夜叉形貌",
+    "持戟巡海",
+    "水府值守",
+    "密報傳訊"
+  ],
+  "abilities": [
+    "水下巡防",
+    "通報傳訊",
+    "魂魄接引",
+    "災異察覺"
+  ],
+  "summary": "在悟空闖宮索寶時奉命通報龍王，面對強勢妖猴顯露畏懼與被動應對之態。　在龍王報恩事件中協理水府，參與安置陳光蕊真魂，展現對龍王意志的貫徹與水府職務的延伸。　於涇河水府密報漁樵所言，觸發龍王震怒與後續違天之舉，展現其職責範疇由東海延伸至他府、由常務轉向禍機預警。",
+  "events": [
+    {
+      "event_id": "ch003_006",
+      "event_name": "闖宮索寶",
+      "event_status": "水晶宮遭強闖，形勢危急",
+      "character_decision": "通報龍王迎敵",
+      "decision_result": "引發龍王獻寶"
+    },
+    {
+      "event_id": "ch009_006",
+      "event_name": "龍王報恩",
+      "event_status": "水府行恩，神異非常",
+      "character_decision": "協理安置光蕊魂魄",
+      "decision_result": "光蕊為都領留水府"
+    },
+    {
+      "event_id": "ch010_002",
+      "event_name": "夜叉報禍",
+      "event_status": "涇河水府密議，禍機初萌",
+      "character_decision": "密報袁守誠算卦精準",
+      "decision_result": "龍王決意誅滅守誠"
+    }
+  ]
+}

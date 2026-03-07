@@ -1,0 +1,27 @@
+{
+  "name": "翰林學士",
+  "aliases": [],
+  "description": "寶象國朝廷文官，職掌詔令文書",
+  "personality": [
+    "沉穩",
+    "恪守職分"
+  ],
+  "traits": [
+    "善誦",
+    "持重"
+  ],
+  "abilities": [
+    "宣讀詔書",
+    "通曉文墨"
+  ],
+  "summary": "於金殿當眾朗讀百花羞家書，以聲情並茂引發朝堂悲泣，展現其文字傳達與情感感染之力。",
+  "events": [
+    {
+      "event_id": "ch029_007",
+      "event_name": "宣書驚朝",
+      "event_status": "滿朝文武在場，氣氛肅穆緊張",
+      "character_decision": "朗讀公主密信",
+      "decision_result": "滿朝悲泣，國王決意征妖"
+    }
+  ]
+}

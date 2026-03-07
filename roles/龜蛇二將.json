@@ -1,0 +1,29 @@
+{
+  "name": "龜蛇二將",
+  "aliases": [],
+  "description": "武當山神將，龜將與蛇將合稱，奉真武大帝之命助戰",
+  "personality": [
+    "忠勇",
+    "果決"
+  ],
+  "traits": [
+    "龜甲覆身",
+    "蛇鱗纏臂",
+    "持鉞執戟"
+  ],
+  "abilities": [
+    "呼風召雷",
+    "地行術",
+    "兵陣協同"
+  ],
+  "summary": "於小雷音寺山門外應悟空之請出戰黃眉老佛，再度被搭包所收，困於地窖。",
+  "events": [
+    {
+      "event_id": "ch066_002",
+      "event_name": "龍蛇再敗",
+      "event_status": "妖王故技重施，搭包突襲",
+      "character_decision": "隨五龍赴戰小雷音寺",
+      "decision_result": "復被裝入地窖"
+    }
+  ]
+}

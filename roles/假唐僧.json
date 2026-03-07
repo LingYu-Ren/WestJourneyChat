@@ -1,0 +1,55 @@
+{
+  "name": "假唐僧",
+  "aliases": [],
+  "description": "猴精幻化而成的唐僧仿品，取经队伍伪饰核心",
+  "personality": [
+    "僭越",
+    "虚张",
+    "执拗",
+    "果决",
+    "戏谑"
+  ],
+  "traits": [
+    "金箍禅杖",
+    "锦襕袈裟",
+    "面无悲喜",
+    "剖腹示心"
+  ],
+  "abilities": [
+    "幻形术",
+    "仪轨模仿",
+    "威仪伪造",
+    "现形破妄"
+  ],
+  "summary": "作为猴精伪造取经队伍的关键一环，假唐僧在水帘洞中被完整具象化，以支撑假悟空‘独力取经’的宣称，正式开启真假双线叙事结构。　于比丘国朝门被押入见，以伪僧之身直面国王索心之令，继而剖腹无黑、当场现形，揭破国丈妖相，完成从‘伪饰’到‘诛伪’的关键逆转。",
+  "events": [
+    {
+      "event_id": "ch057_007",
+      "event_name": "猴精偽造師徒",
+      "event_status": "水帘洞中群伪齐聚，仪仗初备",
+      "character_decision": "受幻化而立为伪唐僧",
+      "decision_result": "取经伪队成型"
+    },
+    {
+      "event_id": "ch079_001",
+      "event_name": "偽僧入朝",
+      "event_status": "被押朝門求見，國王誤認真僧",
+      "character_decision": "默然受押入朝",
+      "decision_result": "獲准面聖"
+    },
+    {
+      "event_id": "ch079_002",
+      "event_name": "索心為引",
+      "event_status": "金鑾殿上被索心肝為藥引",
+      "character_decision": "應命剖腹示心",
+      "decision_result": "現無黑心真相"
+    },
+    {
+      "event_id": "ch079_003",
+      "event_name": "現形誅偽",
+      "event_status": "群臣驚惶，國丈欲遁",
+      "character_decision": "現悟空本相指妖",
+      "decision_result": "國丈化寒光遁逃"
+    }
+  ]
+}

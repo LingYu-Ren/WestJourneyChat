@@ -1,0 +1,27 @@
+{
+  "name": "蒼頭",
+  "aliases": [],
+  "description": "寇員外宅中負責迎賓報信的家僕",
+  "personality": [
+    "機警",
+    "忠勤"
+  ],
+  "traits": [
+    "反應迅捷",
+    "職責分明"
+  ],
+  "abilities": [
+    "通報傳訊",
+    "察言觀色"
+  ],
+  "summary": "蒼頭見師徒異相驚駭失衡，即刻奔入報信，促成寇員外親迎，推動萬僧齋善舉展開。",
+  "events": [
+    {
+      "event_id": "ch096_003",
+      "event_name": "蒼頭報信",
+      "event_status": "師徒異相駭俗，門前局勢緊張",
+      "character_decision": "驚見急報員外",
+      "decision_result": "員外拄拐迎出"
+    }
+  ]
+}

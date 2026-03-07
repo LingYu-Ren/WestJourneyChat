@@ -1,0 +1,40 @@
+{
+  "name": "尉遲恭",
+  "aliases": [],
+  "description": "唐朝開國名將，以勇猛忠直著稱",
+  "personality": [
+    "忠勇",
+    "剛烈",
+    "果決",
+    "信義"
+  ],
+  "traits": [
+    "黑面虬髯",
+    "持鋼鞭",
+    "守門鎮邪",
+    "披甲奉旨"
+  ],
+  "abilities": [
+    "武藝超群",
+    "驅邪鎮煞",
+    "護主衛宮",
+    "秉公還諾"
+  ],
+  "summary": "尉遲恭與秦叔寶奉命夜守宮門，以威儀震懾龍魂，首創門神習俗，奠定民間信仰基礎。　尉遲恭奉旨赴開封相良茅舍還陰司所借銀，以信義踐約，促成敕建相國寺。",
+  "events": [
+    {
+      "event_id": "ch010_007",
+      "event_name": "門神鎮鬼",
+      "event_status": "龍魂夜擾，天子寢食難安",
+      "character_decision": "披甲執鞭守宮門",
+      "decision_result": "驅退邪祟，確立門神傳統"
+    },
+    {
+      "event_id": "ch012_004",
+      "event_name": "還銀償債",
+      "event_status": "奉旨還陰司借銀，事關地府憑據",
+      "character_decision": "親赴相良茅舍還銀",
+      "decision_result": "相良堅辭，敕建相國寺"
+    }
+  ]
+}

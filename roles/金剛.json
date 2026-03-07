@@ -1,0 +1,30 @@
+{
+  "name": "金剛",
+  "aliases": [],
+  "description": "佛門護法神將，守衛靈山大雷音寺",
+  "personality": [
+    "威嚴",
+    "忠恪",
+    "肅穆"
+  ],
+  "traits": [
+    "金甲持杵",
+    "列陣護法",
+    "面目莊嚴"
+  ],
+  "abilities": [
+    "降魔伏妖",
+    "護持正法",
+    "聽令如流"
+  ],
+  "summary": "作為靈山常駐護法，金剛參與如來宣示東土之重大法會，見證取經使命啟動。",
+  "events": [
+    {
+      "event_id": "ch008_002",
+      "event_name": "宣示東土",
+      "event_status": "靈山法會集結，諸聖共臨",
+      "character_decision": "列席護法，恭聽佛旨",
+      "decision_result": "確立護法職責範疇"
+    }
+  ]
+}

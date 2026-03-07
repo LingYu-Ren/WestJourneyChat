@@ -1,0 +1,26 @@
+{
+  "name": "李玉英",
+  "aliases": [],
+  "description": "唐太宗御妹，长安皇宫玉英宫主",
+  "personality": [
+    "温婉",
+    "被动"
+  ],
+  "traits": [
+    "皇室贵女",
+    "尸身被借"
+  ],
+  "abilities": [
+    "无自主行动力（事件中）"
+  ],
+  "summary": "李玉英在玉英宫花阴下被鬼使带至地府，其尸身为李翠莲借以还阳，本人意识暂离，躯体被取代。",
+  "events": [
+    {
+      "event_id": "ch012_001",
+      "event_name": "借屍還魂",
+      "event_status": "魂离躯壳，尸身待借",
+      "character_decision": "无自主决策",
+      "decision_result": "躯体被李翠莲占据"
+    }
+  ]
+}

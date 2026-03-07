@@ -1,0 +1,64 @@
+{
+  "name": "迦葉",
+  "aliases": [
+    "伽葉"
+  ],
+  "description": "如來座下尊者，靈山核心護法之一",
+  "personality": [
+    "沉靜",
+    "忠謹",
+    "威嚴",
+    "恪守成規",
+    "務實"
+  ],
+  "traits": [
+    "赤足",
+    "持金蓮",
+    "眉目低垂",
+    "執事嚴謹"
+  ],
+  "abilities": [
+    "佛法精深",
+    "護法降魔",
+    "協理佛事",
+    "經藏掌管"
+  ],
+  "summary": "迦葉全程隨侍如來參與降伏悟空之役，在靈霄門外見證問因與賭賽，在五行山親歷六字真言封山，確立其作為佛祖近侍與鎮壓執行者的雙重角色。　在珍樓索賄、寶閣傳白、大雄寶殿受詰、重授真經等事件中，展現其作為經藏執行者對法界儀軌的堅守與務實態度，凸顯其在佛法傳承機制中的關鍵樞紐角色。",
+  "events": [
+    {
+      "event_id": "ch007_010",
+      "event_name": "佛祖問因",
+      "event_status": "靈霄門外列陣待命，天庭危局當前",
+      "character_decision": "肅立如來身側聽命",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch007_016",
+      "event_name": "六字封山",
+      "event_status": "五行山上空雲氣翻湧，悟空掙動將脫",
+      "character_decision": "協同阿儺護持真言施法",
+      "decision_result": "封山成形，監押體制確立"
+    },
+    {
+      "event_id": "ch098_006",
+      "event_name": "索賄傳白",
+      "event_status": "珍樓受齋後依例索人事，唐僧無物可奉",
+      "character_decision": "與阿儺共索人事以傳經",
+      "decision_result": "授無字白經三十五部"
+    },
+    {
+      "event_id": "ch098_007",
+      "event_name": "如來釋偽",
+      "event_status": "四眾返殿控訴，燃燈已察，如來當庭開示",
+      "character_decision": "肅立殿中聽受佛敕",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch098_008",
+      "event_name": "缽易真經",
+      "event_status": "奉敕重傳有字經，仍依例索人事",
+      "character_decision": "以紫金缽換取有字真經",
+      "decision_result": "交付五千零四十八卷"
+    }
+  ]
+}

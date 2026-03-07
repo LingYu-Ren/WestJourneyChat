@@ -1,0 +1,59 @@
+{
+  "name": "敖廣",
+  "aliases": [
+    "东海龙王"
+  ],
+  "description": "东海龙宫之主，四海龙王之首",
+  "personality": [
+    "威严",
+    "守序",
+    "应命而动",
+    "果决",
+    "协同担当"
+  ],
+  "traits": [
+    "水晶宫主",
+    "龙族领袖",
+    "持玉圭",
+    "号令严明",
+    "统御有方"
+  ],
+  "abilities": [
+    "呼风唤雨",
+    "统御龙兵",
+    "通晓水脉",
+    "调遣龙族将佐",
+    "跨海协防"
+  ],
+  "summary": "应孙悟空求援之请，迅速召集四海龙王共赴助雨，显其号令之威与协力之责。　闻悟空之请，果断遣摩昂太子率兵征讨黑水河鼉龍，展现对天庭律令与取经大局的协同担当。　虽未亲临西海战场，但作为四海龙王之首，其统辖体系高效响应——授意西海龙王敖顺即时布防，促成摩昂太子协同四木禽星擒妖定乱，彰显全域调度与层级执行力。",
+  "events": [
+    {
+      "event_id": "ch041_007",
+      "event_name": "龍王聚兵",
+      "event_status": "悟空登宮求水，火勢危急",
+      "character_decision": "召集四海龍王助雨",
+      "decision_result": "龍兵隨行赴號山"
+    },
+    {
+      "event_id": "ch043_012",
+      "event_name": "表兄擒甥",
+      "event_status": "黑水河妖作乱，师父被掳",
+      "character_decision": "遣摩昂太子出征擒妖",
+      "decision_result": "鼉龍就缚，师徒脱险"
+    },
+    {
+      "event_id": "ch092_009",
+      "event_name": "龍宮助陣",
+      "event_status": "西海告急，犀妖逼宫",
+      "character_decision": "授意敖順遣子截妖",
+      "decision_result": "辟塵就擒，辟寒伏诛"
+    },
+    {
+      "event_id": "ch092_010",
+      "event_name": "押解歸府",
+      "event_status": "二犀生擒，亟待勘审",
+      "character_decision": "督令押解归府受审",
+      "decision_result": "金灯供献禁绝"
+    }
+  ]
+}

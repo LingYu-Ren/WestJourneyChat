@@ -1,0 +1,36 @@
+{
+  "name": "百姓",
+  "aliases": [],
+  "description": "比丘國普通民眾，受妖邪迫害後獲救的黎庶",
+  "personality": [
+    "感恩",
+    "淳樸",
+    "熱忱"
+  ],
+  "traits": [
+    "集體行動",
+    "設宴酬恩",
+    "立牌供奉"
+  ],
+  "abilities": [
+    "集體慶賀",
+    "民間祭祀"
+  ],
+  "summary": "百姓歡慶認回失散嬰兒，並設宴供養唐僧師徒近月，舉國感戴，立影神、設牌位永世供奉。",
+  "events": [
+    {
+      "event_id": "ch079_016",
+      "event_name": "鵝籠歸嬰",
+      "event_status": "城外官道迎回失散幼子",
+      "character_decision": "歡慶認子，奉謝師徒",
+      "decision_result": "全民感戴唐僧師徒"
+    },
+    {
+      "event_id": "ch079_017",
+      "event_name": "萬民酬恩",
+      "event_status": "城內設宴盤桓近月",
+      "character_decision": "設宴供養師徒",
+      "decision_result": "立影神設牌位永祀"
+    }
+  ]
+}

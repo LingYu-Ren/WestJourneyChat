@@ -1,0 +1,28 @@
+{
+  "name": "先鋒",
+  "aliases": [],
+  "description": "南山大王麾下妖将，擅献计谋",
+  "personality": [
+    "谄媚",
+    "狡黠",
+    "奉承"
+  ],
+  "traits": [
+    "献计者",
+    "假首呈献者"
+  ],
+  "abilities": [
+    "献策",
+    "伪装"
+  ],
+  "summary": "为助南山大王退兵，献计以柳根假人头哄骗孙悟空，反被识破遭怒斥。",
+  "events": [
+    {
+      "event_id": "ch086_003",
+      "event_name": "假首誑聖",
+      "event_status": "群妖对峙行者，形势危急",
+      "character_decision": "献柳根假人头哄骗行者",
+      "decision_result": "行者识破，怒斥群妖"
+    }
+  ]
+}

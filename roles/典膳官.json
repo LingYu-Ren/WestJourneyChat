@@ -1,0 +1,27 @@
+{
+  "name": "典膳官",
+  "aliases": [],
+  "description": "天庭待客馆负责膳食的官员",
+  "personality": [
+    "谨慎",
+    "守职"
+  ],
+  "traits": [
+    "仪态端方",
+    "职司分明"
+  ],
+  "abilities": [
+    "宴飨筹办",
+    "礼宾应接"
+  ],
+  "summary": "在暴纱亭斋宴前奉命引请唐僧徒弟，因三徒突现真容而受惊退避，间接促成小王子质疑与兵器展示之机。",
+  "events": [
+    {
+      "event_id": "ch088_005",
+      "event_name": "醜貌驚官",
+      "event_status": "随当殿官迎请取经徒弟，未料其相貌骇人",
+      "character_decision": "依礼引请三徒赴斋",
+      "decision_result": "众官惊退，引发质询"
+    }
+  ]
+}

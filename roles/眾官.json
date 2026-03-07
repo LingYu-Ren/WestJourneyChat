@@ -1,0 +1,30 @@
+{
+  "name": "眾官",
+  "aliases": [],
+  "description": "銅臺府衙門中執政的官員群體",
+  "personality": [
+    "畏懼強權",
+    "趨利避害",
+    "從眾順服"
+  ],
+  "traits": [
+    "官服整肅",
+    "集體行動",
+    "態度搖擺"
+  ],
+  "abilities": [
+    "公文理事",
+    "依律斷案",
+    "應對上級"
+  ],
+  "summary": "在悟空威壓下被迫交還馬匹行李，權威受挫而屈從，標誌其對超凡力量的無力抗衡。",
+  "events": [
+    {
+      "event_id": "ch097_012",
+      "event_name": "堂上索還",
+      "event_status": "面對悟空威逼，形勢被動",
+      "character_decision": "被迫答應歸還行李馬匹",
+      "decision_result": "師徒威信確立"
+    }
+  ]
+}

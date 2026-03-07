@@ -1,0 +1,41 @@
+{
+  "name": "比丘僧尼",
+  "aliases": [
+    "比丘尼尊者"
+  ],
+  "description": "佛教出家修行的男性与女性僧众统称",
+  "personality": [
+    "虔敬",
+    "肃穆",
+    "内敛"
+  ],
+  "traits": [
+    "剃度",
+    "着袈裟",
+    "持戒",
+    "静观默守"
+  ],
+  "abilities": [
+    "诵经",
+    "禅修",
+    "护法",
+    "察微知机"
+  ],
+  "summary": "作为灵山法会的重要参与者，见证如来宣示东土教化使命，成为取经事业的初始见证群体。　于灵山雷音寺法会中静默列席，见证悟空问踪、如来隐授金丹砂之关键一瞬，彰显其作为佛法见证者与护持者的深层角色。",
+  "events": [
+    {
+      "event_id": "ch008_002",
+      "event_name": "宣示東土",
+      "event_status": "列席灵山大雷音寺法会",
+      "character_decision": "恭听如来宣示教化旨意",
+      "decision_result": "确立取经使命启动背景"
+    },
+    {
+      "event_id": "ch052_008",
+      "event_name": "靈山問蹤",
+      "event_status": "法会静列，佛前听询",
+      "character_decision": "默然随侍，观机不语",
+      "decision_result": null
+    }
+  ]
+}

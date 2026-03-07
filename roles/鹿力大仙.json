@@ -1,0 +1,76 @@
+{
+  "name": "鹿力大仙",
+  "aliases": [],
+  "description": "車遲國三大道士國師之一，擅祈雨之術",
+  "personality": [
+    "擅權",
+    "驕矜",
+    "迷信方術",
+    "偏執",
+    "誣陷成性",
+    "陰鷙",
+    "急躁",
+    "賭性"
+  ],
+  "traits": [
+    "道士裝束",
+    "精於幻術",
+    "結黨營私",
+    "崇道抑佛",
+    "善使蟲蟻",
+    "好設賭局"
+  ],
+  "abilities": [
+    "祈雨",
+    "幻化",
+    "惑主",
+    "誣構",
+    "蟲術",
+    "剖腹藏形"
+  ],
+  "summary": "二十年前與虎力、羊力二仙聯手於車遲國都祈雨解旱，獲君王尊為國師，由此開啟毀佛抑僧之國策。　因被悟空等偽聖戲弄而心生怨恚，遂與二仙合謀誣告唐僧師徒，企圖借王權剷除異己，暴露出其權欲熏心、不擇手段的本質。　為扳回賭局屢施陰詭手段，先以臭蟲暗襲破禪規，再提議隔板猜枚轉移劣勢，終因強行剖腹驗術而現原形慘死，暴露其外強中乾、自取滅亡的本質。",
+  "events": [
+    {
+      "event_id": "ch044_004",
+      "event_name": "三仙降世",
+      "event_status": "亢旱肆虐，君民焦灼求雨",
+      "character_decision": "聯同二仙設壇祈雨",
+      "decision_result": "獲封國師，掌國政"
+    },
+    {
+      "event_id": "ch045_001",
+      "event_name": "偽聖戲道",
+      "event_status": "三清觀內遭戲弄，威信受挫",
+      "character_decision": "虔誠禱祝誤認天尊",
+      "decision_result": "貽笑眾人，埋下禍因"
+    },
+    {
+      "event_id": "ch045_005",
+      "event_name": "誣告構陷",
+      "event_status": "朝堂對峙，權位受僧侶威脅",
+      "character_decision": "聯名誣指僧眾毀觀殺徒",
+      "decision_result": "促成賭勝求雨之約"
+    },
+    {
+      "event_id": "ch046_006",
+      "event_name": "臭蟲暗襲",
+      "event_status": "禪坐對峙久持不下",
+      "character_decision": "變臭蟲咬唐僧頭",
+      "decision_result": "唐僧癢痛險輸"
+    },
+    {
+      "event_id": "ch046_009",
+      "event_name": "隔板猜枚",
+      "event_status": "虎力敗北，威信動搖",
+      "character_decision": "提議櫃中猜寶",
+      "decision_result": "啟第二局賭約"
+    },
+    {
+      "event_id": "ch046_017",
+      "event_name": "剖腹鷹攫",
+      "event_status": "賭局連挫，孤注一擲",
+      "character_decision": "剖腹剜心驗術",
+      "decision_result": "現原形慘死殺場"
+    }
+  ]
+}

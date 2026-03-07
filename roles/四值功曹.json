@@ -1,0 +1,53 @@
+{
+  "name": "四值功曹",
+  "aliases": [],
+  "description": "道教司职年、月、日、时四值的护法神将",
+  "personality": [
+    "恪尽职守",
+    "雷厉风行",
+    "机敏应变"
+  ],
+  "traits": [
+    "时辰化身",
+    "符令随身",
+    "疾风显形",
+    "隐迹随行"
+  ],
+  "abilities": [
+    "时空监察",
+    "神行通禀",
+    "笼摄藏护",
+    "妖踪勘验"
+  ],
+  "summary": "奉命协同诸神摄护并送还一千一百一十一小兒鵝籠，圆满完成护教使命。　于青龙山崖及时现形报信，确指玄英洞三犀妖本相与阴谋，助悟空锁定营救关键线索。　于雷音寺三层门下协同诸神缴旨陈难，呈递灾厄簿册，助菩萨勘定取经劫数未满之关键缺漏。",
+  "events": [
+    {
+      "event_id": "ch079_016",
+      "event_name": "鵝籠歸嬰",
+      "event_status": "奉悟空之命执行归婴任务",
+      "character_decision": "协同诸神送还鹅笼",
+      "decision_result": "百姓认子欢庆"
+    },
+    {
+      "event_id": "ch091_009",
+      "event_name": "雲追妖蹤",
+      "event_status": "悟空疾追妖踪力竭，风息天晓",
+      "character_decision": "奉命暗护并追踪定位",
+      "decision_result": "确认妖源与洞名"
+    },
+    {
+      "event_id": "ch091_010",
+      "event_name": "功曹報信",
+      "event_status": "悟空力竭停驻青龍山崖",
+      "character_decision": "现形禀报三妖底细",
+      "decision_result": "明悉妖相习性阴谋"
+    },
+    {
+      "event_id": "ch099_002",
+      "event_name": "諸神繳旨陳難",
+      "event_status": "雷音寺三層門下集議繳旨",
+      "character_decision": "呈災難簿請繳法旨",
+      "decision_result": "確證八十一難未滿"
+    }
+  ]
+}

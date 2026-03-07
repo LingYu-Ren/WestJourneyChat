@@ -1,0 +1,44 @@
+{
+  "name": "萬聖公主",
+  "aliases": [],
+  "description": "西海龍王之女，九頭駙馬之妻，參與盜取佛寶與靈芝的龍族貴冑",
+  "personality": [
+    "貪慕榮耀",
+    "膽大妄為",
+    "輕信冒進"
+  ],
+  "traits": [
+    "龍族血脈",
+    "宮廷出身",
+    "擅偽裝佈局"
+  ],
+  "abilities": [
+    "呼風喚雨",
+    "協同謀劃",
+    "潛行竊取"
+  ],
+  "summary": "三年前孟秋朔日夜半，萬聖公主與父王、駙馬合謀於金光寺寶塔降下血雨，盜取佛舍利與王母靈芝，意圖彰顯龍宮威勢。　為溫養佛寶私入靈霄殿竊取九葉靈芝；後於龍宮後殿因不辨真偽，遭悟空化身駙馬詐取渾金匣與白玉匣。",
+  "events": [
+    {
+      "event_id": "ch062_006",
+      "event_name": "血雨盜寶",
+      "event_status": "龍族密謀行動，夜半污塔",
+      "character_decision": "參與血雨盜寶陰謀",
+      "decision_result": "寶塔失光、四夷絕貢"
+    },
+    {
+      "event_id": "ch063_011",
+      "event_name": "詐寶奪匣",
+      "event_status": "駙馬敗走，龍宮危殆",
+      "character_decision": "誤認假駙馬交出寶匣",
+      "decision_result": "佛寶靈芝盡失"
+    },
+    {
+      "event_id": "ch063_014",
+      "event_name": "竊芝盜仙",
+      "event_status": "獨闖天庭禁地，風險極高",
+      "character_decision": "私入靈霄殿盜九葉靈芝",
+      "decision_result": "補全盜寶鏈條"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "狼頭妖怪",
+  "aliases": [],
+  "description": "豹頭山妖族成員，隸屬釘鈀會，參與黃獅精慶宴籌備",
+  "personality": [
+    "警覺",
+    "輕忽防備"
+  ],
+  "traits": [
+    "狼首人身",
+    "攜銀牌為憑",
+    "慣用妖語"
+  ],
+  "abilities": [
+    "妖語交談",
+    "持牌通行"
+  ],
+  "summary": "被孫悟空化蝶竊聽獲取關鍵情報，隨即遭定身搜牌，身份憑證被奪，致潛入計劃暴露風險陡增。",
+  "events": [
+    {
+      "event_id": "ch089_002",
+      "event_name": "蝶形竊訊",
+      "event_status": "山背密談妖情，自認隱蔽",
+      "character_decision": "以妖語通報情報",
+      "decision_result": "情報外洩予孫悟空"
+    },
+    {
+      "event_id": "ch089_003",
+      "event_name": "定身搜牌",
+      "event_status": "路口巡守，未察異常",
+      "character_decision": "佩牌通行",
+      "decision_result": "銀牌被奪"
+    }
+  ]
+}

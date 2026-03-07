@@ -1,0 +1,37 @@
+{
+  "name": "高太公等",
+  "aliases": [],
+  "description": "高老莊富戶，豬八戒岳父及莊中鄉紳代表",
+  "personality": [
+    "懇切",
+    "畏懼妖勢",
+    "信賴僧道"
+  ],
+  "traits": [
+    "莊主身份",
+    "求安心切",
+    "重視家門清譽"
+  ],
+  "abilities": [
+    "延請高人",
+    "辨識妖異",
+    "協調鄉里"
+  ],
+  "summary": "在行者回莊報信後懇求徹底除妖；見八戒被縛歸師、誠心受戒，遂安心託付。",
+  "events": [
+    {
+      "event_id": "ch019_004",
+      "event_name": "回莊報信",
+      "event_status": "妖患未靖，憂懼再起",
+      "character_decision": "懇求除根以絕後患",
+      "decision_result": "三藏命悟空徹底收伏"
+    },
+    {
+      "event_id": "ch019_008",
+      "event_name": "背縛歸師",
+      "event_status": "妖身現形，眾目睽睽",
+      "character_decision": "默許並見證受戒",
+      "decision_result": "家門得安，妖患終息"
+    }
+  ]
+}

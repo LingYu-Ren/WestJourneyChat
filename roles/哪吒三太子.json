@@ -1,0 +1,100 @@
+{
+  "name": "哪吒三太子",
+  "aliases": [
+    "三坛海会大神",
+    "中坛元帅"
+  ],
+  "description": "托塔天王李靖之子，灵珠子转世的少年神将",
+  "personality": [
+    "勇猛",
+    "刚烈",
+    "好胜",
+    "忠职",
+    "果决",
+    "不屈",
+    "坚韧",
+    "知耻图强",
+    "轻敌致挫",
+    "临危不避"
+  ],
+  "traits": [
+    "三头六臂",
+    "混天绫",
+    "乾坤圈",
+    "火尖枪",
+    "风火轮",
+    "莲花化身",
+    "六般兵器",
+    "赤手再战",
+    "天兵统帅"
+  ],
+  "abilities": [
+    "变化术",
+    "三头六臂神通",
+    "法宝操控",
+    "水火不侵",
+    "统军协战",
+    "列阵主攻",
+    "逆境再战",
+    "借势援战"
+  ],
+  "summary": "在花果山外与孙悟空再战，六般兵器尽出仍不敌，负伤败回后奏请天庭加封以图再战。　率天兵再征花果山，于铁板桥鏖战悟空，虽协同四大天王布天罗阵，仍难制其分身之能，致群妖尽擒、战局溃败。　于金山南坡奉命出战，首遭金刚琢套去全部兵器；转战金洞口再施三头六臂反被制，致天兵初溃。　于金洞外高峰随众贺捷，士气未复即再赴金洞口鏖战；虽协同天王、火德星君齐攻，仍遭金刚琢尽收兵器，全军赤手溃退。　奉国师王菩萨之命率四将驰援小雷音寺，因未察妖魔搭包玄机而全军遭擒，凸显其果敢有余而机变不足。此败使其由独当一面转向协同作战中更重警醒与应变。",
+  "events": [
+    {
+      "event_id": "ch004_011",
+      "event_name": "再戰三壇",
+      "event_status": "奉命征讨，孤身迎战齐天大圣",
+      "character_decision": "持六般兵器强攻悟空",
+      "decision_result": "负伤败回"
+    },
+    {
+      "event_id": "ch005_012",
+      "event_name": "鏖戰天羅",
+      "event_status": "协同天王布阵围剿，形势胶着",
+      "character_decision": "领中军主攻铁板桥",
+      "decision_result": "阵破妖擒，功败垂成"
+    },
+    {
+      "event_id": "ch051_007",
+      "event_name": "天兵列陣",
+      "event_status": "天王扎营南坡，奉令率先出战",
+      "character_decision": "领兵出战独角兕大王",
+      "decision_result": "六般兵器被金刚琢套走"
+    },
+    {
+      "event_id": "ch051_008",
+      "event_name": "太子失兵",
+      "event_status": "金洞口独面强敌，形势危急",
+      "character_decision": "变三头六臂六器齐发",
+      "decision_result": "兵器尽失，天兵溃退"
+    },
+    {
+      "event_id": "ch052_001",
+      "event_name": "鐵棒得勝",
+      "event_status": "众神贺捷，士气初振",
+      "character_decision": "随众贺喜观势",
+      "decision_result": "暂息战意，待机再动"
+    },
+    {
+      "event_id": "ch052_007",
+      "event_name": "再戰復失",
+      "event_status": "协同诸神再攻，形势紧迫",
+      "character_decision": "率部齐攻金洞口",
+      "decision_result": "兵器尽失，全军赤手"
+    },
+    {
+      "event_id": "ch066_004",
+      "event_name": "泗洲借將",
+      "event_status": "奉国师命率四将助战",
+      "character_decision": "随悟空赴小雷音寺",
+      "decision_result": "整军待发，协力出征"
+    },
+    {
+      "event_id": "ch066_005",
+      "event_name": "太子遭擒",
+      "event_status": "山门外直面黄眉老佛，形势突危",
+      "character_decision": "近前抵擋妖魔搭包",
+      "decision_result": "全军被缚送地窖"
+    }
+  ]
+}

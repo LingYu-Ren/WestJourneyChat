@@ -1,0 +1,30 @@
+{
+  "name": "三十六雷將",
+  "aliases": [],
+  "description": "天庭直属的雷部精銳神將群體，司掌雷霆之威",
+  "personality": [
+    "忠謹",
+    "肅穆",
+    "服從"
+  ],
+  "traits": [
+    "甲冑齊整",
+    "雷光纏身",
+    "列陣而立"
+  ],
+  "abilities": [
+    "召雷布電",
+    "結陣御敵",
+    "聽調隨征"
+  ],
+  "summary": "奉玉帝之命參與靈霄門外圍困，作為佛祖降臨時的在場見證與威儀襯托。",
+  "events": [
+    {
+      "event_id": "ch007_010",
+      "event_name": "佛祖問因",
+      "event_status": "列陣侍立靈霄門外，靜候佛旨",
+      "character_decision": "奉令列陣待命",
+      "decision_result": "彰顯天庭威儀"
+    }
+  ]
+}

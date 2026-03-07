@@ -1,0 +1,28 @@
+{
+  "name": "相良",
+  "aliases": [],
+  "description": "河南開封府清貧隱士，德行高潔之民",
+  "personality": [
+    "清廉",
+    "謙遜",
+    "堅貞"
+  ],
+  "traits": [
+    "茅舍居所",
+    "拒受厚賜"
+  ],
+  "abilities": [
+    "守信",
+    "明義"
+  ],
+  "summary": "面對尉遲恭奉旨歸還陰司借銀，相良堅辭不受，其高義促成唐太宗敕建相國寺。",
+  "events": [
+    {
+      "event_id": "ch012_004",
+      "event_name": "還銀償債",
+      "event_status": "朝廷奉旨償銀，榮寵驟至",
+      "character_decision": "堅辭不受賜銀",
+      "decision_result": "促成敕建相國寺"
+    }
+  ]
+}

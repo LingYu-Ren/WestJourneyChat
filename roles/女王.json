@@ -1,0 +1,60 @@
+{
+  "name": "女王",
+  "aliases": [],
+  "description": "西梁女國國君，一國之主，欲招唐僧為夫",
+  "personality": [
+    "果決",
+    "深情",
+    "虔誠",
+    "執著"
+  ],
+  "traits": [
+    "夢兆應驗",
+    "鳳輦出迎",
+    "親印關文",
+    "送至西關"
+  ],
+  "abilities": [
+    "治國理政",
+    "識兆斷吉",
+    "禮儀典制"
+  ],
+  "summary": "因驛丞奏報唐僧至國而夢兆金屏玉鏡，遂堅定招親之志；親迎、設宴、印牒、送別，步步推進婚事，卻終被取經大義所阻。",
+  "events": [
+    {
+      "event_id": "ch054_004",
+      "event_name": "金屏夢兆",
+      "event_status": "夜夢吉兆，視為天意",
+      "character_decision": "確立招御弟為夫之決心",
+      "decision_result": "決心招唐僧為夫"
+    },
+    {
+      "event_id": "ch054_006",
+      "event_name": "鳳輦迎駕",
+      "event_status": "聞悟空假意應允，即備鳳輦",
+      "character_decision": "擺駕出城迎唐僧入轎",
+      "decision_result": "唐僧被迫同乘入城"
+    },
+    {
+      "event_id": "ch054_007",
+      "event_name": "東閣會宴",
+      "event_status": "欲速成親事，設雙席款待",
+      "character_decision": "設素葷雙席宴請取經團",
+      "decision_result": "三藏借機索印關文"
+    },
+    {
+      "event_id": "ch054_008",
+      "event_name": "印牒畫押",
+      "event_status": "三藏以倒換關文為由拒即位",
+      "character_decision": "親印關文並添註三徒法名",
+      "decision_result": "通關文牒正式完備"
+    },
+    {
+      "event_id": "ch054_009",
+      "event_name": "西門送別",
+      "event_status": "信三藏囑付後即返，真情相送",
+      "character_decision": "陪送至西關之外",
+      "decision_result": "局勢驟變，婚事終破"
+    }
+  ]
+}

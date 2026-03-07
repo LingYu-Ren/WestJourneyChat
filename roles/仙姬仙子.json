@@ -1,0 +1,29 @@
+{
+  "name": "仙姬仙子",
+  "aliases": [],
+  "description": "天庭侍奉王母的女仙，司职蟠桃宴仪典",
+  "personality": [
+    "恭谨",
+    "庄重"
+  ],
+  "traits": [
+    "素衣云裳",
+    "执玉盘",
+    "捧蟠桃"
+  ],
+  "abilities": [
+    "司仪礼",
+    "奉仙果",
+    "通神界"
+  ],
+  "summary": "于安天大会中随侍王母，参与献桃谢恩之仪，彰显天佛共治秩序下的礼官职责。",
+  "events": [
+    {
+      "event_id": "ch007_014",
+      "event_name": "獻桃謝恩",
+      "event_status": "安天大會召開，天佛共聚玉京",
+      "character_decision": "奉蟠桃侍立王母身側",
+      "decision_result": "協成謝恩大典"
+    }
+  ]
+}

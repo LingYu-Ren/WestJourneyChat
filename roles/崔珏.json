@@ -1,0 +1,114 @@
+{
+  "name": "崔珏",
+  "aliases": [
+    "崔判",
+    "崔判官"
+  ],
+  "description": "幽冥地府首席判官，掌生死簿，司善恶断决",
+  "personality": [
+    "公正严明",
+    "知恩重义",
+    "沉稳果决",
+    "通晓人情"
+  ],
+  "traits": [
+    "青衣判官服",
+    "浓墨大笔",
+    "跪迎礼制",
+    "熟稔阴律"
+  ],
+  "abilities": [
+    "篡改生死簿",
+    "喝退冤魂",
+    "详述地狱因果",
+    "主持三曹对案",
+    "导引还魂"
+  ],
+  "summary": "崔珏全程护驾唐太宗游历地府，既秉公执法完成三曹对案，又私情通融篡改寿籍，并以教化为任详解六道轮回与地狱报应，确立其阴司内兼具法度与人情的关键枢纽地位。",
+  "events": [
+    {
+      "event_id": "ch011_002",
+      "event_name": "崔判迎駕",
+      "event_status": "奉命候接天子于荒郊",
+      "character_decision": "跪迎自陈身份",
+      "decision_result": "太宗获通行便利"
+    },
+    {
+      "event_id": "ch011_003",
+      "event_name": "引入鬼門",
+      "event_status": "鬼门关外待命引驾",
+      "character_decision": "协同青衣童子引路",
+      "decision_result": "太宗进入地府核心"
+    },
+    {
+      "event_id": "ch011_004",
+      "event_name": "鬼門標界",
+      "event_status": "初入鬼门见证阴阳界标",
+      "character_decision": "默然随行示界",
+      "decision_result": "确立空间转换节点"
+    },
+    {
+      "event_id": "ch011_005",
+      "event_name": "兄弟索命",
+      "event_status": "建成元吉冤魂聚拦索命",
+      "character_decision": "厉声喝退冤魂",
+      "decision_result": "护驾威信提升"
+    },
+    {
+      "event_id": "ch011_006",
+      "event_name": "三曹對案",
+      "event_status": "森罗殿上十王质询龙案",
+      "character_decision": "列证辅审辨析",
+      "decision_result": "龙案形式结案"
+    },
+    {
+      "event_id": "ch011_007",
+      "event_name": "判官改簿",
+      "event_status": "司房独处执掌生死簿",
+      "character_decision": "浓墨添画延寿二十年",
+      "decision_result": "太宗阳寿增至三十三年"
+    },
+    {
+      "event_id": "ch011_008",
+      "event_name": "十王遣送",
+      "event_status": "森罗殿受敕护送还魂",
+      "character_decision": "奉命偕朱太尉同行",
+      "decision_result": "开启还阳游观路线"
+    },
+    {
+      "event_id": "ch011_009",
+      "event_name": "背陰險境",
+      "event_status": "背阴山险峻阴风凛冽",
+      "character_decision": "全程护持太宗过山",
+      "decision_result": "强化因果威慑"
+    },
+    {
+      "event_id": "ch011_010",
+      "event_name": "地獄巡覽",
+      "event_status": "十八层地狱巡行教化",
+      "character_decision": "详述各狱罪报因由",
+      "decision_result": "奠定水陆大会伏笔"
+    },
+    {
+      "event_id": "ch011_011",
+      "event_name": "奈河辨道",
+      "event_status": "奈河桥前三途分立",
+      "character_decision": "解说金桥银桥奈河义",
+      "decision_result": "确立善恶空间隐喻"
+    },
+    {
+      "event_id": "ch011_012",
+      "event_name": "枉死攔路",
+      "event_status": "枉死城冤魂索命围堵",
+      "character_decision": "索借相良金银买路",
+      "decision_result": "建立阳间偿债契约"
+    },
+    {
+      "event_id": "ch011_013",
+      "event_name": "六道明心",
+      "event_status": "六道轮回门前终极教化",
+      "character_decision": "讲解六道善恶归趣",
+      "decision_result": "促成太宗发愿水陆大会"
+    }
+  ]
+}

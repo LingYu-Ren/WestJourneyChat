@@ -1,0 +1,30 @@
+{
+  "name": "狐阿七大王",
+  "aliases": [
+    "阿七"
+  ],
+  "description": "平頂山蓮花洞金角大王之舅，妖族將領",
+  "personality": [
+    "忠勇",
+    "莽撞"
+  ],
+  "traits": [
+    "狐族",
+    "持刀",
+    "親率兵卒"
+  ],
+  "abilities": [
+    "統兵",
+    "近戰"
+  ],
+  "summary": "狐阿七大王率兵助陣圍攻孫悟空，反被豬八戒一釘耙築殺，身死伏誅。",
+  "events": [
+    {
+      "event_id": "ch035_010",
+      "event_name": "舅甥伏誅",
+      "event_status": "聯手圍攻失利，腹背受敵",
+      "character_decision": "率兵助陣圍攻",
+      "decision_result": "被八戒築殺"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "黃牙老象",
+  "aliases": [],
+  "description": "獅駝嶺三妖之一，與青毛獅子怪、大鵬金翅雕結義為兄弟",
+  "personality": [
+    "驚懼",
+    "從眾"
+  ],
+  "traits": [
+    "黃牙",
+    "巨象形態",
+    "守洞"
+  ],
+  "abilities": [
+    "力大",
+    "守關"
+  ],
+  "summary": "在悟空偽裝鑽風詐報時驚懼閉門，顯露其易受擾、倚賴集體決策的弱點。",
+  "events": [
+    {
+      "event_id": "ch075_002",
+      "event_name": "偽鑽風詐",
+      "event_status": "洞內聞警，三妖共處",
+      "character_decision": "隨眾閉門驚懼",
+      "decision_result": "防線暫固但心神已亂"
+    }
+  ]
+}

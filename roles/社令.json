@@ -1,0 +1,29 @@
+{
+  "name": "社令",
+  "aliases": [],
+  "description": "掌管一方土地社稷之神，基层地祇",
+  "personality": [
+    "尽职",
+    "恭谨",
+    "协同"
+  ],
+  "traits": [
+    "司土守境",
+    "听命诸神"
+  ],
+  "abilities": [
+    "护境安民",
+    "协理阴司",
+    "通禀神职"
+  ],
+  "summary": "社令协同城隍、土地及诸天神将，奉命护送一千一百一十一小兒鵝籠歸還百姓，完成護嬰藏籠之任。",
+  "events": [
+    {
+      "event_id": "ch079_016",
+      "event_name": "鵝籠歸嬰",
+      "event_status": "諸神協同送還失嬰，萬民矚目",
+      "character_decision": "護送鵝籠歸還百姓",
+      "decision_result": "百姓歡慶認子"
+    }
+  ]
+}

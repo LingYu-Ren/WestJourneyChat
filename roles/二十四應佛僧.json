@@ -1,0 +1,27 @@
+{
+  "name": "二十四應佛僧",
+  "aliases": [],
+  "description": "受寇洪延請參與齋僧法會的佛門僧眾代表",
+  "personality": [
+    "莊重",
+    "恪守儀軌"
+  ],
+  "traits": [
+    "持戒嚴謹",
+    "誦經精熟"
+  ],
+  "abilities": [
+    "舉辦法事",
+    "誦經禮懺"
+  ],
+  "summary": "參與寇員外宅三晝夜齋僧道場，助成圓滿佛事，補足四眾之缺，使寇洪誓願功德成就。",
+  "events": [
+    {
+      "event_id": "ch096_005",
+      "event_name": "圓滿道場",
+      "event_status": "齋僧法會最後階段，功德將成",
+      "character_decision": "完成三晝夜佛事誦經",
+      "decision_result": "道場圓滿，員外更堅留送行"
+    }
+  ]
+}

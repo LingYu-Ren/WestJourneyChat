@@ -1,0 +1,29 @@
+{
+  "name": "千里眼順風耳",
+  "aliases": [],
+  "description": "玉帝座下司职监察的神将，具超凡视听之能",
+  "personality": [
+    "忠谨",
+    "肃穆"
+  ],
+  "traits": [
+    "目运金光",
+    "耳生风雷",
+    "立侍金阙"
+  ],
+  "abilities": [
+    "千里视物",
+    "顺风听声",
+    "通禀奏报"
+  ],
+  "summary": "于灵霄宝殿见证太白金星建言招安，履行监察神将职责，静候玉帝敕令。",
+  "events": [
+    {
+      "event_id": "ch003_013",
+      "event_name": "金星招安",
+      "event_status": "金阙朝会，天庭议剿悟空",
+      "character_decision": "列班侍立，监察朝议",
+      "decision_result": "奉命待诏，未有异议"
+    }
+  ]
+}

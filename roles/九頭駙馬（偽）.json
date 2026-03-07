@@ -1,0 +1,29 @@
+{
+  "name": "九頭駙馬（偽）",
+  "aliases": [],
+  "description": "假冒碧波潭龍宮駙馬的妖邪之徒",
+  "personality": [
+    "狡詐",
+    "輕信",
+    "倉皇"
+  ],
+  "traits": [
+    "偽裝",
+    "敗走",
+    "不辨真偽"
+  ],
+  "abilities": [
+    "幻化",
+    "守寶"
+  ],
+  "summary": "因戰敗倉皇返宮，被悟空變形欺騙，致佛寶與靈芝雙匣盡失。",
+  "events": [
+    {
+      "event_id": "ch063_011",
+      "event_name": "詐寶奪匣",
+      "event_status": "剛敗走返宮，公主驚惶未察",
+      "character_decision": "輕信假駙馬交出寶匣",
+      "decision_result": "佛寶靈芝雙匣被奪"
+    }
+  ]
+}

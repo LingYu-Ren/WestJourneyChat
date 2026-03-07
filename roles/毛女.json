@@ -1,0 +1,27 @@
+{
+  "name": "毛女",
+  "aliases": [],
+  "description": "芭蕉洞中侍奉羅剎女的女仙，通曉洞府內外事務",
+  "personality": [
+    "忠誠",
+    "謹慎"
+  ],
+  "traits": [
+    "素衣",
+    "持扇侍立"
+  ],
+  "abilities": [
+    "通曉地理",
+    "洞府應對"
+  ],
+  "summary": "在芭蕉洞門前見證悟空索扇與羅剎衝突，身處主僕同仇之勢，未發言而靜立從旁。",
+  "events": [
+    {
+      "event_id": "ch059_006",
+      "event_name": "洞前索扇",
+      "event_status": "主僕共面對悟空逼索寶扇",
+      "character_decision": "靜立洞前隨侍羅剎",
+      "decision_result": null
+    }
+  ]
+}

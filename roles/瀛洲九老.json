@@ -1,0 +1,30 @@
+{
+  "name": "瀛洲九老",
+  "aliases": [],
+  "description": "瀛洲海岛隐居的九位仙道长者，精于丹道而无起死回生之术",
+  "personality": [
+    "谦逊",
+    "坦诚",
+    "淡泊"
+  ],
+  "traits": [
+    "白发鹤颜",
+    "同进同退",
+    "丹崖结庐"
+  ],
+  "abilities": [
+    "炼丹",
+    "识药",
+    "通晓三岛风物"
+  ],
+  "summary": "面对悟空三度恳求，九老坦承无医树之方，促成其转向落伽山求援。",
+  "events": [
+    {
+      "event_id": "ch026_006",
+      "event_name": "九老同辭",
+      "event_status": "悟空遍访三岛求方，登门陈情",
+      "character_decision": "坦承无医树之方",
+      "decision_result": "悟空转赴落伽山"
+    }
+  ]
+}

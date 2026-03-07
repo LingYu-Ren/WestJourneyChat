@@ -1,0 +1,238 @@
+{
+  "name": "女怪",
+  "aliases": [
+    "蝎子精",
+    "鼠精"
+  ],
+  "description": "盤踞陷空山無底洞的千年鼠妖，擅攝人幻形",
+  "personality": [
+    "淫悍",
+    "狡詐",
+    "執拗",
+    "驕矜",
+    "善偽",
+    "話術精熟",
+    "機變迅捷",
+    "隱忍伺隙",
+    "欺軟畏強",
+    "色令智昏",
+    "頑抗不屈",
+    "臨危反撲",
+    "困獸猶鬥"
+  ],
+  "traits": [
+    "蜂形探秘",
+    "倒馬毒樁",
+    "總角女童隨侍",
+    "畏昴日星官啼鳴",
+    "順風傳聲",
+    "偽傷誘慈",
+    "脫鞋幻形",
+    "夜聚惑僧",
+    "素筵逼婚",
+    "應聲稱娘",
+    "桃林設宴",
+    "遺鞋脫身",
+    "黑角藏窟"
+  ],
+  "abilities": [
+    "幻化人形",
+    "倒馬毒樁",
+    "蠱惑誘破戒",
+    "石門堅守",
+    "順風傳聲惑僧",
+    "偽裝苦弱博同情",
+    "攝人遁走",
+    "雙劍鬥戰",
+    "素宴操持",
+    "腹中抗擾",
+    "應聲馭情",
+    "遺鞋幻遁",
+    "暗窟匿形"
+  ],
+  "summary": "女怪屢施逼婚、試戒、纏縛之計欲奪唐僧元陽，終因天剋被昴日星官收伏現原形僵死。　此次轉戰黑松林，以偽綁求救、順風誘言、話術攻心層層施計，成功離間師徒並混入取經隊伍，展現更精微的偽飾與心理操控能力。　此次以喇嘛僧身份潛伏鎮海禪林寺，藉夜聚誘僧、殿前周旋、後園鬥劍層層掩飾，終以脫鞋幻形之術成功攝走唐僧，展現更強的臨場應變與跨界偽裝能力。　此次於無底洞內屢施素宴逼婚、應聲稱娘等心理脅迫之術，並在桃林中輕信紅桃而吞入悟空，終因腹中受制被迫釋僧，暴露出其色欲蒙心、臨危失察之致命弱點。　腹中受制釋僧後立即反撲，以遺鞋計再攝唐僧，展現頑抗不屈之性；終因藏身黑角暗窟被哪吒率天兵搜出伏縛，暴露其窮極避禍、終難逃天網之局。",
+  "events": [
+    {
+      "event_id": "ch055_004",
+      "event_name": "蜂形探秘",
+      "event_status": "密語被竊，陰謀初露",
+      "character_decision": "遣女童佈防並密議逼婚",
+      "decision_result": "密語外洩，計策被察"
+    },
+    {
+      "event_id": "ch055_005",
+      "event_name": "饝饝問對",
+      "event_status": "設葷素饝饝試禪心",
+      "character_decision": "以饝饝為媒誘破色戒",
+      "decision_result": "三藏巧答，淫機未遂"
+    },
+    {
+      "event_id": "ch055_006",
+      "event_name": "叉鈀鐵棒鬥",
+      "event_status": "洞外遭圍攻，怒而迎戰",
+      "character_decision": "持叉迎擊悟空八戒",
+      "decision_result": "倒馬毒樁扎頭退敵"
+    },
+    {
+      "event_id": "ch055_007",
+      "event_name": "繩縛不染",
+      "event_status": "香房獨處，整夜逼迫",
+      "character_decision": "纏縛唐僧索元陽",
+      "decision_result": "三藏守戒如磐"
+    },
+    {
+      "event_id": "ch055_010",
+      "event_name": "二破石門",
+      "event_status": "洞門被毀，被迫出戰",
+      "character_decision": "衝出洞門再鬥八戒",
+      "decision_result": "倒馬毒扎唇再敗"
+    },
+    {
+      "event_id": "ch055_013",
+      "event_name": "雞鳴伏蝎",
+      "event_status": "山坡對峙，天剋臨身",
+      "character_decision": "直面昴日星官啼鳴",
+      "decision_result": "現原形僵死"
+    },
+    {
+      "event_id": "ch080_009",
+      "event_name": "綁樹誘僧",
+      "event_status": "偽遭劫持綁於古樹",
+      "character_decision": "假扮受害誘僧動慈",
+      "decision_result": "三藏命八戒解縛"
+    },
+    {
+      "event_id": "ch080_010",
+      "event_name": "林中諍辯",
+      "event_status": "被悟空當場揭穿身份",
+      "character_decision": "默忍佯懼以待轉機",
+      "decision_result": "師徒首次激烈爭執"
+    },
+    {
+      "event_id": "ch080_011",
+      "event_name": "順風誘言",
+      "event_status": "被棄林中危機再臨",
+      "character_decision": "順風傳聲柔語惑僧",
+      "decision_result": "三藏二次動搖違勸"
+    },
+    {
+      "event_id": "ch080_012",
+      "event_name": "解縛攜行",
+      "event_status": "獲准脫困隨隊同行",
+      "character_decision": "靜默受解伺機滲透",
+      "decision_result": "混入取經隊伍"
+    },
+    {
+      "event_id": "ch080_013",
+      "event_name": "夜近古剎",
+      "event_status": "隨行抵達破敗寺院",
+      "character_decision": "默隨潛察寺內虛實",
+      "decision_result": "觸發雙重空間伏筆"
+    },
+    {
+      "event_id": "ch080_014",
+      "event_name": "叩破寺門",
+      "event_status": "荒寺門頹群妖隱伏",
+      "character_decision": "佯怯隨入暗蓄勢力",
+      "decision_result": "完成由外而內的侵入"
+    },
+    {
+      "event_id": "ch081_001",
+      "event_name": "方丈夜聚",
+      "event_status": "燈下眾僧圍聚貪看女子",
+      "character_decision": "佯作羞怯混跡僧群",
+      "decision_result": "獲准留宿方丈內院"
+    },
+    {
+      "event_id": "ch081_005",
+      "event_name": "殿前誘戲",
+      "event_status": "悟空變小僧設局試妖",
+      "character_decision": "應對周旋掩藏本性",
+      "decision_result": "中計赴後園暴露色心"
+    },
+    {
+      "event_id": "ch081_006",
+      "event_name": "園中鬥劍",
+      "event_status": "後園狹路相逢劍拔弩張",
+      "character_decision": "施絆鬥劍欲除悟空",
+      "decision_result": "脫鞋幻形攝僧遁走"
+    },
+    {
+      "event_id": "ch081_007",
+      "event_name": "攝師入洞",
+      "event_status": "挾持唐僧飛越險峰",
+      "character_decision": "疾馳攝師直入無底洞",
+      "decision_result": "師徒隔絕，取經中斷"
+    },
+    {
+      "event_id": "ch082_001",
+      "event_name": "井畔遇怪",
+      "event_status": "井邊打水，突遭識破",
+      "character_decision": "擊退八戒掩藏行跡",
+      "decision_result": "八戒負傷回報"
+    },
+    {
+      "event_id": "ch082_002",
+      "event_name": "偽僧套話",
+      "event_status": "井畔對話，偽裝無知",
+      "character_decision": "假意應答套話藏機",
+      "decision_result": "誤泄攝僧成親情報"
+    },
+    {
+      "event_id": "ch082_005",
+      "event_name": "素宴逼婚",
+      "event_status": "洞中排宴，強行成親",
+      "character_decision": "命設素筵逼唐僧拜堂",
+      "decision_result": "觸發悟空變桃破宴"
+    },
+    {
+      "event_id": "ch082_006",
+      "event_name": "應聲稱娘",
+      "event_status": "廊下逼問，性命相脅",
+      "character_decision": "強令三藏應稱娘子",
+      "decision_result": "誤判情意加緊逼婚"
+    },
+    {
+      "event_id": "ch082_007",
+      "event_name": "桃變誘吞",
+      "event_status": "花園設局，群妖環伺",
+      "character_decision": "貪食紅桃吞入悟空",
+      "decision_result": "悟空潛入腹中制敵"
+    },
+    {
+      "event_id": "ch082_008",
+      "event_name": "腹中搗魄",
+      "event_status": "腹痛難忍，進退維谷",
+      "character_decision": "拒放唐僧反激悟空",
+      "decision_result": "痛極求饒馱僧出洞"
+    },
+    {
+      "event_id": "ch082_009",
+      "event_name": "洞口釋僧",
+      "event_status": "洞口懸崖，眾僧圍堵",
+      "character_decision": "馱僧出洞交還取經隊",
+      "decision_result": "師徒重聚危機暫解"
+    },
+    {
+      "event_id": "ch083_001",
+      "event_name": "洞口釋僧",
+      "event_status": "腹痛力竭，被迫交還唐僧",
+      "character_decision": "馱僧出洞釋於師徒前",
+      "decision_result": "師徒短暫重聚"
+    },
+    {
+      "event_id": "ch083_002",
+      "event_name": "劍棒再決",
+      "event_status": "山頭激戰，行者追擊甚急",
+      "character_decision": "施遺鞋計脫身再攝僧",
+      "decision_result": "復攝唐僧入洞"
+    },
+    {
+      "event_id": "ch083_010",
+      "event_name": "黑角擒妖",
+      "event_status": "天兵遍搜三百里，藏身暗窟",
+      "character_decision": "匿東南黑角小洞待機",
+      "decision_result": "眾神搜出伏縛押解"
+    }
+  ]
+}

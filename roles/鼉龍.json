@@ -1,0 +1,37 @@
+{
+  "name": "鼉龍",
+  "aliases": [],
+  "description": "黑水河妖，西海龙王外甥",
+  "personality": [
+    "凶悍",
+    "自负",
+    "顽抗"
+  ],
+  "traits": [
+    "水府盘踞",
+    "鼍首人身",
+    "擅水战"
+  ],
+  "abilities": [
+    "控水",
+    "水府设伏",
+    "近身搏杀"
+  ],
+  "summary": "被沙僧诱战确证踪迹，终遭表兄摩昂太子率兵擒获，黑水河劫难终结。",
+  "events": [
+    {
+      "event_id": "ch043_009",
+      "event_name": "水府鬥妖",
+      "event_status": "水府据守，独面沙僧挑战",
+      "character_decision": "迎战沙僧佯败试探",
+      "decision_result": "暴露藏身水府"
+    },
+    {
+      "event_id": "ch043_012",
+      "event_name": "表兄擒甥",
+      "event_status": "遭天兵围困，孤立无援",
+      "character_decision": "负隅顽抗拒降",
+      "decision_result": "被摩昂生擒"
+    }
+  ]
+}

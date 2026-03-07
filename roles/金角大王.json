@@ -1,0 +1,143 @@
+{
+  "name": "金角大王",
+  "aliases": [],
+  "description": "平頂山蓮花洞二大王，原為太上老君看爐童子",
+  "personality": [
+    "擅謀略",
+    "重權威",
+    "果斷",
+    "嚴苛",
+    "統御力強",
+    "多疑警覺",
+    "執著寶器",
+    "剛愎易怒",
+    "危局強撐",
+    "宗法意識深"
+  ],
+  "traits": [
+    "持紫金紅葫蘆",
+    "通曉法術圖譜",
+    "居主位發號施令",
+    "主理洞中刑獄安置",
+    "倚重法寶制敵",
+    "恪守妖規孝道",
+    "慣用七星劍",
+    "藏芭蕉扇於身",
+    "重親族援引",
+    "以瓶為終極依仗"
+  ],
+  "abilities": [
+    "識寶辨妖",
+    "驅使小怪",
+    "調度佈防",
+    "分級拘押人質",
+    "制訂擒僧流程",
+    "辨謊察異",
+    "臨機調寶應變",
+    "持劍近戰",
+    "控火御扇",
+    "呼援聯兵",
+    "洞府固守"
+  ],
+  "summary": "金角大王在蓮花洞中主動授圖於銀角，策劃擒拿唐僧，展現其統領全局的戰略意識與對東土取經動向的高度警覺。　金角大王在八戒被擒後主導浸醃與分吊，展現對俘虜的系統化處置能力；全程坐鎮洞中統籌全局，體現其作為實際決策核心的威權統御風格。　面對悟空屢次偽裝與反制，金角大王展現出對法寶的極度依賴與戰術調度能力，但在識破詐供、應對幻形、寶物失守等環節暴露出判斷盲區與權威脆化趨勢。　面對銀角被擒、群妖崩潰之勢，金角展現危局下的頑抗意志與殘存戰略調度能力；然在連失法寶、遭嘲激怒、酣睡失防、外援覆滅等多重打擊下，其權威體系徹底瓦解，最終與銀角同歸淨瓶，印證其對外物依賴與內在韌性失衡的本質。",
+  "events": [
+    {
+      "event_id": "ch032_008",
+      "event_name": "二魔議捕",
+      "event_status": "得悉取經消息，主導洞中應對",
+      "character_decision": "授圖命銀角出巡擒僧",
+      "decision_result": "銀角率三十小怪出洞"
+    },
+    {
+      "event_id": "ch033_001",
+      "event_name": "浸醃八戒",
+      "event_status": "八戒遭擒入洞，需處置人質",
+      "character_decision": "命小妖浸水醃製八戒",
+      "decision_result": "八戒囚淨水池失行動力"
+    },
+    {
+      "event_id": "ch033_008",
+      "event_name": "分吊三僧",
+      "event_status": "師徒全數被擒，洞中人質激增",
+      "character_decision": "依身份分吊唐僧沙僧八戒",
+      "decision_result": "唐僧單吊為核心目標"
+    },
+    {
+      "event_id": "ch034_002",
+      "event_name": "詐供露餡",
+      "event_status": "小妖謊報失寶，局勢動搖",
+      "character_decision": "審訊伶俐蟲精細鬼",
+      "decision_result": "識破孫行者所為"
+    },
+    {
+      "event_id": "ch034_007",
+      "event_name": "母臨騙拜",
+      "event_status": "假母現身，禮儀壓制戒備",
+      "character_decision": "率銀角四拜老母",
+      "decision_result": "中計暴露身份"
+    },
+    {
+      "event_id": "ch034_008",
+      "event_name": "劍繩相扣",
+      "event_status": "身份敗露，正面交鋒爆發",
+      "character_decision": "持寶劍與銀角夾擊",
+      "decision_result": "以幌金繩擒住悟空"
+    },
+    {
+      "event_id": "ch034_010",
+      "event_name": "帶換繩寶",
+      "event_status": "悟空詐取幌金繩，寶控權動搖",
+      "character_decision": "以獅蠻帶交換幌金繩",
+      "decision_result": "幌金繩二次易主"
+    },
+    {
+      "event_id": "ch034_013",
+      "event_name": "袖藏葫蘆",
+      "event_status": "三寶盡失，洞府防禦崩解",
+      "character_decision": "宴間未察葫蘆被換",
+      "decision_result": "紫金紅葫蘆失守"
+    },
+    {
+      "event_id": "ch035_004",
+      "event_name": "群妖慟哭",
+      "event_status": "銀角被擒，全洞士氣崩潰",
+      "character_decision": "決意動用剩餘寶貝反撲",
+      "decision_result": "整軍備戰"
+    },
+    {
+      "event_id": "ch035_005",
+      "event_name": "八戒解嘲",
+      "event_status": "八戒揭穿悟空偽號，群妖惶惑",
+      "character_decision": "下令蒸八戒以立威",
+      "decision_result": "衝突急劇升級"
+    },
+    {
+      "event_id": "ch035_006",
+      "event_name": "劍火雙絕",
+      "event_status": "僅存劍扇二寶，親率出戰",
+      "character_decision": "持七星劍與芭蕉扇鏖戰",
+      "decision_result": "悟空暫避洞內"
+    },
+    {
+      "event_id": "ch035_008",
+      "event_name": "盜扇驚魔",
+      "event_status": "酣睡失防，芭蕉扇被盜",
+      "character_decision": "驚醒敗走壓龍洞求援",
+      "decision_result": "喪失最後火攻優勢"
+    },
+    {
+      "event_id": "ch035_010",
+      "event_name": "舅甥伏誅",
+      "event_status": "狐阿七助陣，聯手圍攻",
+      "character_decision": "與阿七夾擊悟空",
+      "decision_result": "金角被裝入淨瓶"
+    },
+    {
+      "event_id": "ch035_012",
+      "event_name": "爐童下界",
+      "event_status": "被收伏後真相揭曉",
+      "character_decision": "隨老君返歸兜率宮",
+      "decision_result": "恢復童子本相"
+    }
+  ]
+}

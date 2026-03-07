@@ -1,0 +1,29 @@
+{
+  "name": "獵戶千餘人馬",
+  "aliases": [],
+  "description": "花果山周邊以圍獵為生的武裝民間群體",
+  "personality": [
+    "兇悍",
+    "貪利",
+    "頑固"
+  ],
+  "traits": [
+    "持械集結",
+    "結隊侵擾",
+    "無組織性"
+  ],
+  "abilities": [
+    "集體圍獵",
+    "山地追蹤"
+  ],
+  "summary": "因長期纏擾花果山殘存猴眾，遭孫悟空以風石之術一舉殲滅，全軍覆沒。",
+  "events": [
+    {
+      "event_id": "ch028_005",
+      "event_name": "風石誅獵",
+      "event_status": "深入山南伏擊，形勢占優",
+      "character_decision": "圍攻殘存猴眾",
+      "decision_result": "全軍被碎石狂風殲滅"
+    }
+  ]
+}

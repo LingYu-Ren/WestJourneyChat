@@ -1,0 +1,51 @@
+{
+  "name": "王老者",
+  "aliases": [],
+  "description": "王家莊德高望重的老者，鄉里敬重的長者",
+  "personality": [
+    "謹慎",
+    "仁厚",
+    "務實"
+  ],
+  "traits": [
+    "年邁",
+    "樸實",
+    "善察言觀色"
+  ],
+  "abilities": [
+    "識人",
+    "勸諫",
+    "待客"
+  ],
+  "summary": "在王家莊門首先勸阻玄奘西行，繼而審慎考驗悟空、震懾於八戒之相，最終禮送師徒啟程，展現民間長者對取經事業的現實擔憂與樸素支持。",
+  "events": [
+    {
+      "event_id": "ch020_003",
+      "event_name": "問訊拒西",
+      "event_status": "面對東土高僧自陳取經來歷",
+      "character_decision": "勸止西行改向東天",
+      "decision_result": "點出西天難取之現實阻礙"
+    },
+    {
+      "event_id": "ch020_004",
+      "event_name": "自陳履歷",
+      "event_status": "質疑隨行猴王身份與本領",
+      "character_decision": "聽取悟空自述履歷",
+      "decision_result": "確立其降妖資格"
+    },
+    {
+      "event_id": "ch020_005",
+      "event_name": "醜相驚眾",
+      "event_status": "初見八戒異相驚惶失措",
+      "character_decision": "失態引發莊人驚逃",
+      "decision_result": "凸顯團隊外在異質性"
+    },
+    {
+      "event_id": "ch020_006",
+      "event_name": "辭莊西發",
+      "event_status": "師徒飽食待發之際",
+      "character_decision": "禮送取經隊伍啟程",
+      "decision_result": "觸發黃風嶺連鎖事件"
+    }
+  ]
+}

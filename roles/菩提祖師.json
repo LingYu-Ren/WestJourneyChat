@@ -1,0 +1,72 @@
+{
+  "name": "菩提祖師",
+  "aliases": [],
+  "description": "隱世修道高人，精通玄門妙法與心性之學",
+  "personality": [
+    "睿智",
+    "嚴謹",
+    "慈悲",
+    "威嚴",
+    "洞明"
+  ],
+  "traits": [
+    "鶴髮童顏",
+    "仙風道骨",
+    "善察本心",
+    "言簡意賅",
+    "戒律森嚴"
+  ],
+  "abilities": [
+    "洞悉根器",
+    "賜名定緣",
+    "授法傳道",
+    "因材施教",
+    "預警三災",
+    "密授真訣"
+  ],
+  "summary": "於瑤臺之下考校美猴王本源心性，問籍賜名，正式收其為徒。　親授灑掃應對以築德基，四門問道中甄別求道誠心，警示三災利害並特授觔斗雲，最終因悟空違戒而果斷驅逐出山，全程主導弟子修行節奏與進境轉折。",
+  "events": [
+    {
+      "event_id": "ch001_022",
+      "event_name": "問籍賜名",
+      "event_status": "瑤臺之下考校弟子根器",
+      "character_decision": "詢問籍貫姓氏並賜法名",
+      "decision_result": "得名孫悟空，入門為徒"
+    },
+    {
+      "event_id": "ch002_001",
+      "event_name": "灑掃應對",
+      "event_status": "廊廡之間教習日常禮儀",
+      "character_decision": "命眾引出二門外教習",
+      "decision_result": "奠定入室弟子資格"
+    },
+    {
+      "event_id": "ch002_003",
+      "event_name": "四門問道",
+      "event_status": "瑤臺講壇考問所學意向",
+      "character_decision": "列術流靜動四門試探",
+      "decision_result": "觸發密授真訣轉機"
+    },
+    {
+      "event_id": "ch002_005",
+      "event_name": "三災之警",
+      "event_status": "斜月三星洞內告誡利害",
+      "character_decision": "詳述雷火風三災之患",
+      "decision_result": "明示躲避三災必要性"
+    },
+    {
+      "event_id": "ch002_006",
+      "event_name": "觔斗雲成",
+      "event_status": "洞前特授騰雲變法",
+      "character_decision": "見其笨拙而改授觔斗雲",
+      "decision_result": "成就超距移動能力"
+    },
+    {
+      "event_id": "ch002_008",
+      "event_name": "驅逐出山",
+      "event_status": "洞前當眾勒令即刻離山",
+      "character_decision": "以違戒為由斷然驅逐",
+      "decision_result": "終止求道生涯"
+    }
+  ]
+}

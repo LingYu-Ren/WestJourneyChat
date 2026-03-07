@@ -1,0 +1,51 @@
+{
+  "name": "大力鬼王",
+  "aliases": [],
+  "description": "天庭殿前司职奏报的鬼神将领，隶属玉帝近侍体系",
+  "personality": [
+    "忠谨",
+    "果决",
+    "迅捷"
+  ],
+  "traits": [
+    "鬼神之躯",
+    "通禀专责",
+    "疾行如风"
+  ],
+  "abilities": [
+    "急速传讯",
+    "天界通途识辨",
+    "奏事应变"
+  ],
+  "summary": "在花果山战事吃紧时火速上奏求援，促成观音举荐与二郎真君调兵；随后协同押解孙悟空回天庭，深度参与天庭平乱决策链与执行链。　在斩妖台见证悟空刀斧不伤之异象，全程列席玉帝问计与老君献策，强化其作为天庭核心传令枢机的在场性与决策链嵌入度。　未参与森羅殿「借屍還魂」事件，全程无介入记录，职能边界清晰维持于天庭中枢传令与刑狱协理范畴。",
+  "events": [
+    {
+      "event_id": "ch006_007",
+      "event_name": "鬼王啟奏",
+      "event_status": "木吒战败，天兵束手无策",
+      "character_decision": "与木吒火速上奏求援",
+      "decision_result": "观音举荐二郎真君"
+    },
+    {
+      "event_id": "ch006_008",
+      "event_name": "真君受調",
+      "event_status": "玉帝降旨，需火速传达至灌江口",
+      "character_decision": "持旨赴二郎真君庙宣调",
+      "decision_result": "真君点兵即赴花果山"
+    },
+    {
+      "event_id": "ch006_017",
+      "event_name": "押解上界",
+      "event_status": "悟空被擒，需依律押赴天庭受审",
+      "character_decision": "协同真君押解悟空上界",
+      "decision_result": "悟空被押赴斩妖台"
+    },
+    {
+      "event_id": "ch007_001",
+      "event_name": "刀斧不傷",
+      "event_status": "斩妖台行刑失败，天庭震愕",
+      "character_decision": "列席监刑并待命承旨",
+      "decision_result": "老君奏请八卦炉炼化"
+    }
+  ]
+}

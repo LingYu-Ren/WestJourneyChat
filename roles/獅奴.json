@@ -1,0 +1,34 @@
+{
+  "name": "獅奴",
+  "aliases": [],
+  "description": "太乙救苦天尊座下坐騎獅奴，因醉失職致九頭獅下界為禍",
+  "personality": [
+    "疏忽",
+    "畏主"
+  ],
+  "traits": [
+    "醉酒易失職",
+    "畏服天尊威儀"
+  ],
+  "abilities": [
+    "隨侍天尊",
+    "通靈識主"
+  ],
+  "summary": "獅奴因誤飲醉酒失守輪迴瓊液，致九靈元聖竊逃下界；後隨天尊親臨收妖，伏地受縛，職責得以恢復。",
+  "events": [
+    {
+      "event_id": "ch090_012",
+      "event_name": "元聖竊走",
+      "event_status": "醉失瓊液，致主妖竄逃",
+      "character_decision": "誤飲老君醉酒",
+      "decision_result": "九頭獅下界二三年"
+    },
+    {
+      "event_id": "ch090_013",
+      "event_name": "主公收妖",
+      "event_status": "天尊親臨，元聖伏地",
+      "character_decision": "隨天尊收縛舊主",
+      "decision_result": "妖患徹底解除"
+    }
+  ]
+}

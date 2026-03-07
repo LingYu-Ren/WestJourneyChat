@@ -1,0 +1,27 @@
+{
+  "name": "閃電娘子",
+  "aliases": [],
+  "description": "風雷雲雨四部神祗中司掌閃電之神",
+  "personality": [
+    "恪守天命",
+    "協同果決"
+  ],
+  "traits": [
+    "電光纏身",
+    "迅疾如閃"
+  ],
+  "abilities": [
+    "召引雷霆",
+    "布電助雨"
+  ],
+  "summary": "與風雷雲雨四部神祗協力施霖，依玉帝敕令及孫悟空調度，使鳳仙郡普降甘霖。",
+  "events": [
+    {
+      "event_id": "ch087_009",
+      "event_name": "雷雨普降",
+      "event_status": "奉旨施霖，協同四部神祇",
+      "character_decision": "合力布電助雨",
+      "decision_result": "田疇得潤、河道復通"
+    }
+  ]
+}

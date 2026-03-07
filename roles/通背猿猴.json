@@ -1,0 +1,30 @@
+{
+  "name": "通背猿猴",
+  "aliases": [],
+  "description": "花果山四老猴之一，通晓三教隐秘的长寿灵猴",
+  "personality": [
+    "睿智",
+    "沉稳",
+    "洞明"
+  ],
+  "traits": [
+    "白首",
+    "长髯",
+    "通背"
+  ],
+  "abilities": [
+    "识阴阳",
+    "辨生死",
+    "通仙佛神道"
+  ],
+  "summary": "在花果山向美猴王点明佛仙神可避阎王，直接触发其求道之志。",
+  "events": [
+    {
+      "event_id": "ch001_016",
+      "event_name": "問道三不朽",
+      "event_status": "群猴忧生畏死，猴王求问长生",
+      "character_decision": "点明佛仙神可避阎王",
+      "decision_result": "激发猴王求道决心"
+    }
+  ]
+}

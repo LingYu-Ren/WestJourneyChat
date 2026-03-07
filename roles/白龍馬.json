@@ -1,0 +1,46 @@
+{
+  "name": "白龍馬",
+  "aliases": [
+    "八部天龍廣力菩薩"
+  ],
+  "description": "西海龍王三太子，唐僧坐騎，取經功成後化龍證果",
+  "personality": [
+    "忠謹",
+    "隱忍",
+    "堅毅"
+  ],
+  "traits": [
+    "白龍之身",
+    "駿馬形態",
+    "盤柱護法"
+  ],
+  "abilities": [
+    "騰雲駕霧",
+    "化形變身",
+    "護法守禦"
+  ],
+  "summary": "於雁塔寺隨眾被金剛急召返靈山；在雷音寺受如來敕封，於化龍池褪去凡胎，化為八部天龍，成就正果。",
+  "events": [
+    {
+      "event_id": "ch100_006",
+      "event_name": "金剛召返",
+      "event_status": "弘法中斷，突遭金剛強召",
+      "character_decision": "隨四眾即刻啟程",
+      "decision_result": "直赴靈山"
+    },
+    {
+      "event_id": "ch100_007",
+      "event_name": "五聖授果",
+      "event_status": "取經圓滿，列席靈山受封",
+      "character_decision": "靜候如來敕封",
+      "decision_result": "得授八部天龍正果"
+    },
+    {
+      "event_id": "ch100_008",
+      "event_name": "白龍化天",
+      "event_status": "置身化龍池，奉命昇華神格",
+      "character_decision": "躍入化龍池褪凡身",
+      "decision_result": "化為八部天龍"
+    }
+  ]
+}

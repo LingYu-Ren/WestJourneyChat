@@ -1,0 +1,61 @@
+{
+  "name": "寇梁",
+  "aliases": [],
+  "description": "寇家次子，孝顺守礼的世家子弟",
+  "personality": [
+    "孝顺",
+    "恭谨",
+    "执着",
+    "盲从",
+    "畏威"
+  ],
+  "traits": [
+    "随母劝留",
+    "求因果愿",
+    "依命诬告",
+    "惧神显魂"
+  ],
+  "abilities": [
+    "礼数周全",
+    "言辞恳切",
+    "伏案书状"
+  ],
+  "summary": "寇梁与母亲、兄长一同恳请唐僧师徒留下半月以求因果，体现其重孝道、信因果的家庭伦理观。　寇梁在母亲主导下参与诬告唐僧师徒，后因悟空显魂震慑而主动投解状自承冤诬，显现出孝道与畏神交织下的被动性与转向。",
+  "events": [
+    {
+      "event_id": "ch096_006",
+      "event_name": "母子勸留",
+      "event_status": "道場已畢辭行受阻",
+      "character_decision": "隨母勸留師徒半月",
+      "decision_result": "師徒內部生惱"
+    },
+    {
+      "event_id": "ch097_002",
+      "event_name": "床底誣僧",
+      "event_status": "母命难违，藏身床底嫁祸",
+      "character_decision": "依母命藏匿床底指证",
+      "decision_result": "坐实僧众盗杀嫌疑"
+    },
+    {
+      "event_id": "ch097_003",
+      "event_name": "赴府投詞",
+      "event_status": "官府未审先信，势成定谳",
+      "character_decision": "兄弟联名递失状告僧",
+      "decision_result": "刺史点兵追捕师徒"
+    },
+    {
+      "event_id": "ch097_008",
+      "event_name": "材頭顯魂",
+      "event_status": "孝堂惊魂，父魂训诫在前",
+      "character_decision": "跪听假魂训诫惶恐应诺",
+      "decision_result": "承诺投解状撤诉"
+    },
+    {
+      "event_id": "ch097_011",
+      "event_name": "解狀陳情",
+      "event_status": "公堂对质，神谕余威犹存",
+      "character_decision": "当堂递解状自承诬告",
+      "decision_result": "刺史疑案即令提審釋放"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "六賊",
+  "aliases": [],
+  "description": "西行途中攔路劫掠的六名盜賊",
+  "personality": [
+    "兇悍",
+    "貪婪",
+    "蠻橫",
+    "執拗"
+  ],
+  "traits": [
+    "持械",
+    "剪徑",
+    "結夥",
+    "追殺不捨"
+  ],
+  "abilities": [
+    "劫道",
+    "伏擊",
+    "圍攻"
+  ],
+  "summary": "六賊持械攔路劫掠玄奘師徒，被孫悟空盡誅，盤纏被奪。　六賊復聚眾二十餘人，持械追殺師徒欲奪白馬行囊，終被孫悟空誅滅，致師徒決裂。",
+  "events": [
+    {
+      "event_id": "ch014_009",
+      "event_name": "剪徑伏誅",
+      "event_status": "伏於路傍劫掠，勢單力薄",
+      "character_decision": "持械攔路劫財",
+      "decision_result": "全數被誅"
+    },
+    {
+      "event_id": "ch056_012",
+      "event_name": "雲散誅眾",
+      "event_status": "群賊圍追，勢眾而躁",
+      "character_decision": "持械追殺奪囊",
+      "decision_result": "盡誅於官道"
+    }
+  ]
+}

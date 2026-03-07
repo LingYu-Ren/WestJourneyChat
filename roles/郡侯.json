@@ -1,0 +1,44 @@
+{
+  "name": "郡侯",
+  "aliases": [],
+  "description": "鳳仙郡地方行政長官，主政一方",
+  "personality": [
+    "悔悟向善",
+    "虔誠篤信",
+    "仁厚愛民"
+  ],
+  "traits": [
+    "焚香禮佛",
+    "建寺酬恩",
+    "率眾祈福"
+  ],
+  "abilities": [
+    "治民安境",
+    "組織祭祀",
+    "倡導教化"
+  ],
+  "summary": "在孫悟空點化下幡然悔悟，率全郡皈依向善；災後主持建寺立祠，確立地方信仰中心。",
+  "events": [
+    {
+      "event_id": "ch087_006",
+      "event_name": "勸善解厄",
+      "event_status": "久旱致災，天譴臨頭",
+      "character_decision": "聽從點化皈依向善",
+      "decision_result": "全郡焚香念佛"
+    },
+    {
+      "event_id": "ch087_009",
+      "event_name": "雷雨普降",
+      "event_status": "久旱初霖，萬民仰望",
+      "character_decision": "率黎庶迎謝神恩",
+      "decision_result": "民心歸信"
+    },
+    {
+      "event_id": "ch087_010",
+      "event_name": "賜寺留名",
+      "event_status": "災厄已解，亟需立祠酬恩",
+      "character_decision": "建寺供奉聖僧",
+      "decision_result": "確立信仰中心"
+    }
+  ]
+}

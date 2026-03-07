@@ -1,0 +1,36 @@
+{
+  "name": "眾送行人",
+  "aliases": [],
+  "description": "沿途护送唐僧师徒的当地民众",
+  "personality": [
+    "淳朴",
+    "热忱",
+    "虔敬"
+  ],
+  "traits": [
+    "集体行动",
+    "供饭接力",
+    "自发参与"
+  ],
+  "abilities": [
+    "协作劳作",
+    "后勤支援"
+  ],
+  "summary": "在稀柿衕事件中，众送行人主动供饭助力八戒开路，体现民间信众对取经事业的虔诚支持与务实襄助。",
+  "events": [
+    {
+      "event_id": "ch067_009",
+      "event_name": "八戒化豕",
+      "event_status": "污衕阻道，恶臭难行",
+      "character_decision": "列队送行并见证神变",
+      "decision_result": "见证秽途初通"
+    },
+    {
+      "event_id": "ch067_010",
+      "event_name": "開山浄衕",
+      "event_status": "八戒拱衕两日，需持续支援",
+      "character_decision": "供饭接力保障体力",
+      "decision_result": "助力通途速成"
+    }
+  ]
+}

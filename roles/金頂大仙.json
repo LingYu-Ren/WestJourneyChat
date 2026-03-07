@@ -1,0 +1,30 @@
+{
+  "name": "金頂大仙",
+  "aliases": [],
+  "description": "靈山腳下玉真觀主持，護持西行僧侶的道教仙真",
+  "personality": [
+    "謙和",
+    "盡責",
+    "莊重"
+  ],
+  "traits": [
+    "道袍整肅",
+    "白鬚飄然",
+    "持拂塵"
+  ],
+  "abilities": [
+    "迎送聖僧",
+    "淨化休憩",
+    "通曉靈山路徑"
+  ],
+  "summary": "於玉真觀為唐僧師徒沐浴休整後親自送別，標誌西行最後階段正式啟程。",
+  "events": [
+    {
+      "event_id": "ch098_001",
+      "event_name": "辭觀赴靈",
+      "event_status": "寇案已雪，師徒整裝待發",
+      "character_decision": "拜別師徒並送行",
+      "decision_result": "師徒啟程登靈山"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "諸仙",
+  "aliases": [],
+  "description": "斜月三星洞中聽道的仙真群體",
+  "personality": [
+    "莊重",
+    "靜默"
+  ],
+  "traits": [
+    "環列瑤臺",
+    "垂袖凝神"
+  ],
+  "abilities": [
+    "聽講悟道",
+    "靜觀玄機"
+  ],
+  "summary": "於瑤臺講壇靜列旁聽，見悟空拒學四門而祖師心許密授，彰顯其作為道場常駐仙真的見證者角色。",
+  "events": [
+    {
+      "event_id": "ch002_003",
+      "event_name": "四門問道",
+      "event_status": "列席瑤臺，觀祖師考問悟空",
+      "character_decision": "靜默旁聽不發一言",
+      "decision_result": "見證真訣轉機"
+    }
+  ]
+}

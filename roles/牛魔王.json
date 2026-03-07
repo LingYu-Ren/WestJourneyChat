@@ -1,0 +1,119 @@
+{
+  "name": "牛魔王",
+  "aliases": [],
+  "description": "積雷山摩雲洞洞主，曾為齊天大聖結義兄弟",
+  "personality": [
+    "多疑",
+    "暴烈",
+    "重顏面",
+    "驕傲",
+    "剛愎",
+    "易怒",
+    "護短"
+  ],
+  "traits": [
+    "巨力",
+    "牛首人身",
+    "持混鐵棍",
+    "坐金睛獸",
+    "善偽裝",
+    "好鬥",
+    "佩劍"
+  ],
+  "abilities": [
+    "七十二變",
+    "大力神通",
+    "武藝超群",
+    "識破變化",
+    "多頭再生",
+    "火輪抗性",
+    "照鏡定形豁免（原初）"
+  ],
+  "summary": "因玉面公主誣告而誤信悟空欺門，與之反目交戰；後於碧波潭識破悟空變蟹盜獸，怒而追討芭蕉扇，夫妻互責，衝突升級。　於摩雲洞前與悟空鏖戰一日夜，屢遭戲弄羞辱後轉向玉面公主傾訴懊恨；洞門被毀後再鬥不敵，終被四大金剛與天王父子合圍降伏，乞命歸佛。",
+  "events": [
+    {
+      "event_id": "ch060_004",
+      "event_name": "潑妾哭訴",
+      "event_status": "洞內聽信寵妾誣告，疑心頓起",
+      "character_decision": "決意出廳驗人",
+      "decision_result": "動身查證"
+    },
+    {
+      "event_id": "ch060_005",
+      "event_name": "兄弟反目",
+      "event_status": "洞前遭悟空挑戰，怒其欺妻滅妾",
+      "character_decision": "與悟空鬥百十回合",
+      "decision_result": "未分勝負"
+    },
+    {
+      "event_id": "ch060_006",
+      "event_name": "蟹形潛潭",
+      "event_status": "赴碧波潭赴宴，渾然不覺被窺",
+      "character_decision": "參與龍宮宴飲",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch060_011",
+      "event_name": "龍宮醒悟",
+      "event_status": "金睛獸失蹤，推知悟空潛入",
+      "character_decision": "識破變蟹並決意奪扇",
+      "decision_result": "持劍追出"
+    },
+    {
+      "event_id": "ch060_012",
+      "event_name": "夫妻對訟",
+      "event_status": "芭蕉洞內與羅剎女互相指責",
+      "character_decision": "持劍直奔火焰山",
+      "decision_result": "開啟新衝突"
+    },
+    {
+      "event_id": "ch061_001",
+      "event_name": "申時初戰",
+      "event_status": "悟空偽裝八戒騙扇後現形挑戰",
+      "character_decision": "持棍迎戰悟空",
+      "decision_result": "鏖戰一日一夜"
+    },
+    {
+      "event_id": "ch061_002",
+      "event_name": "夜戰不休",
+      "event_status": "三方混戰至天明，力疲仍頑抗",
+      "character_decision": "持續力戰八戒與土地",
+      "decision_result": "玉面遣妖助陣"
+    },
+    {
+      "event_id": "ch061_003",
+      "event_name": "玉面遣兵",
+      "event_status": "洞外廝殺驚動內宅，群妖待命",
+      "character_decision": "默許玉面調兵助戰",
+      "decision_result": "八戒敗退、大聖跳圍"
+    },
+    {
+      "event_id": "ch061_004",
+      "event_name": "洞中懊恨",
+      "event_status": "奪扇受辱、欺騙反目、顏面盡失",
+      "character_decision": "向玉面訴說屈辱",
+      "decision_result": "玉面垂淚獻扇"
+    },
+    {
+      "event_id": "ch061_006",
+      "event_name": "洞前再鬥",
+      "event_status": "芭蕉洞門被毀，羞怒交加出戰",
+      "character_decision": "持劍出洞迎敵",
+      "decision_result": "五十合後敗走"
+    },
+    {
+      "event_id": "ch061_007",
+      "event_name": "四面合圍",
+      "event_status": "四大金剛與天王父子布網圍剿",
+      "character_decision": "施展多頭再生突圍",
+      "decision_result": "火輪灼身、鏡鎖本相"
+    },
+    {
+      "event_id": "ch061_008",
+      "event_name": "降伏乞命",
+      "event_status": "照妖鏡定形、無路可逃",
+      "character_decision": "跪地求饒歸佛",
+      "decision_result": "供出扇藏羅剎處"
+    }
+  ]
+}

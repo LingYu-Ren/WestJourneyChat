@@ -1,0 +1,28 @@
+{
+  "name": "廣智",
+  "aliases": [],
+  "description": "觀音禪院僧人，老院主心腹之一",
+  "personality": [
+    "貪婪",
+    "陰險",
+    "從眾"
+  ],
+  "traits": [
+    "僧侶裝束",
+    "參與密謀"
+  ],
+  "abilities": [
+    "策劃行動",
+    "協同作惡"
+  ],
+  "summary": "廣智與廣謀、老院主等密謀放火奪取唐僧袈裟，積極參與焚殺師徒的預備行動。",
+  "events": [
+    {
+      "event_id": "ch016_008",
+      "event_name": "密謀放火",
+      "event_status": "夜聚後房，共商縱火",
+      "character_decision": "附和定計放火",
+      "decision_result": "全寺搬柴圍禪堂"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "name": "多官",
+  "aliases": [],
+  "description": "朱紫國奉旨取藥問診的朝廷官員",
+  "personality": [
+    "恭谨",
+    "守制",
+    "謹慎",
+    "忠職",
+    "莊重"
+  ],
+  "traits": [
+    "朝服冠带",
+    "持节肃立",
+    "奉旨行事",
+    "隨駕侍從",
+    "瑞靄臨京時列班迎聖"
+  ],
+  "abilities": [
+    "传旨",
+    "仪典司礼",
+    "奉命问药",
+    "宮廷協理",
+    "朝儀迎駕"
+  ],
+  "summary": "作为朝廷代表，在长安关外参与玄奘辞行仪式，履行敕命送行之职，标志其正式介入取经事件的官方程序。　转任朱紫国会同馆，奉旨向取经团询药名及引子，并呈丹入宫，参与御前试药关键环节。　奉旨隨駕入比丘國皇宮內院參與搜宮行動，在謹身殿後協助確認國王藏匿位置，展現其作為朝廷使臣在危局中的協同應變之責。　于长安望经楼奉敕列班，亲历瑞霭临京盛况，见证取经功成、圣僧返国之历史性时刻，标志其全程参与取经事件官方仪典的圆满收官。",
+  "events": [
+    {
+      "event_id": "ch013_001",
+      "event_name": "御弟辭行",
+      "event_status": "奉敕于关外送行御弟",
+      "character_decision": "列队持节送玄奘西行",
+      "decision_result": "完成朝廷饯别仪典"
+    },
+    {
+      "event_id": "ch069_003",
+      "event_name": "烏金丹名詰問",
+      "event_status": "奉旨取藥問診於會同館",
+      "character_decision": "詰問烏金丹名與引子",
+      "decision_result": "獲知六物引子詳情"
+    },
+    {
+      "event_id": "ch069_004",
+      "event_name": "御前吞丹試水",
+      "event_status": "陪侍御前呈丹待命",
+      "character_decision": "奉旨呈丹入宮獻王",
+      "decision_result": "國王依方吞丹痊癒"
+    },
+    {
+      "event_id": "ch079_005",
+      "event_name": "搜宮尋主",
+      "event_status": "國王失蹤，宮廷大亂",
+      "character_decision": "隨悟空入宮協查",
+      "decision_result": "確認國王藏於謹身殿"
+    },
+    {
+      "event_id": "ch100_003",
+      "event_name": "瑞靄臨京",
+      "event_status": "瑞靄現長安，朝野震動",
+      "character_decision": "列班望經樓迎聖",
+      "decision_result": "親證功成祥瑞"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "五百靈官",
+  "aliases": [],
+  "description": "真武蕩魔天尊麾下統率的神將群體",
+  "personality": [
+    "忠勇",
+    "聽令如流",
+    "嚴肅持重"
+  ],
+  "traits": [
+    "神將集群",
+    "武當駐守",
+    "天門協防"
+  ],
+  "abilities": [
+    "協同作戰",
+    "奉敕出征",
+    "辨妖識源"
+  ],
+  "summary": "應孫悟空求援之請，隨真武天尊調遣參與對抗黃眉老佛之戰。　於西天門外參與金星指源之議，明確三犀本相與降伏關鍵，強化對妖邪本源的辨識與協同應變能力。",
+  "events": [
+    {
+      "event_id": "ch066_001",
+      "event_name": "南嶽求援",
+      "event_status": "武當待命，突接急援之召",
+      "character_decision": "奉真武之命整軍助戰",
+      "decision_result": "隨龜蛇二將五龍出征"
+    },
+    {
+      "event_id": "ch092_005",
+      "event_name": "金星指源",
+      "event_status": "西天門外待命，聽取金星剖解妖源",
+      "character_decision": "靜聆指點，確認降伏路徑",
+      "decision_result": "鎖定四木禽星為關鍵"
+    }
+  ]
+}

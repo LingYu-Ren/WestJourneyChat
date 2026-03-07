@@ -1,0 +1,30 @@
+{
+  "name": "合縣官吏",
+  "aliases": [],
+  "description": "地靈縣全體在任官吏的統稱，負責地方行政與司法",
+  "personality": [
+    "畏懼威權",
+    "趨利避害",
+    "從眾順服"
+  ],
+  "traits": [
+    "官服整肅",
+    "神色惶遽",
+    "集體行動"
+  ],
+  "abilities": [
+    "公文呈報",
+    "審案協理",
+    "上情下達"
+  ],
+  "summary": "面對孫悟空巨足法身威嚇，全體官吏震懾失措，被迫加速提審流程。",
+  "events": [
+    {
+      "event_id": "ch097_010",
+      "event_name": "法身威嚇",
+      "event_status": "遭巨足威脅，性命懸於一線",
+      "character_decision": "急報刺史求援",
+      "decision_result": "提審流程加速"
+    }
+  ]
+}

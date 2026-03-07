@@ -1,0 +1,29 @@
+{
+  "name": "李定",
+  "aliases": [],
+  "description": "長安城外涇河岸邊的樵夫",
+  "personality": [
+    "閒適",
+    "風雅",
+    "豁達"
+  ],
+  "traits": [
+    "善吟詩",
+    "好酒",
+    "與漁翁交厚"
+  ],
+  "abilities": [
+    "詩詞唱和",
+    "即興賦詠"
+  ],
+  "summary": "李定與漁翁張稍於涇河岸邊酒後唱和，其詩詞才情意外引發夜叉竊聽，成為龍王違旨行雨的導火索之一。",
+  "events": [
+    {
+      "event_id": "ch010_001",
+      "event_name": "漁樵對詠",
+      "event_status": "長安局勢暫穩，民間恢復日常",
+      "character_decision": "沿涇河與張稍唱和詩詞",
+      "decision_result": "夜叉竊聽，釀成連鎖禍端"
+    }
+  ]
+}

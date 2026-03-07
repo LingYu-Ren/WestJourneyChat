@@ -1,0 +1,27 @@
+{
+  "name": "迎陽驛丞",
+  "aliases": [],
+  "description": "西梁女國迎陽驛負責登記驗引的基層官吏",
+  "personality": [
+    "恪守職分",
+    "謹慎奉上"
+  ],
+  "traits": [
+    "持簿執印",
+    "通報勤敏"
+  ],
+  "abilities": [
+    "驗引註籍",
+    "奏事通稟"
+  ],
+  "summary": "依制為唐僧師徒辦理驛站登記，並即刻入朝啟奏女王，成為招親決策的關鍵觸發者。",
+  "events": [
+    {
+      "event_id": "ch054_003",
+      "event_name": "投驛註名",
+      "event_status": "女官引僧眾至驛，亟待驗引放行",
+      "character_decision": "依例登記四眾名籍",
+      "decision_result": "啟奏女王觸發招親"
+    }
+  ]
+}

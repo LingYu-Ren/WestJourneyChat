@@ -1,0 +1,105 @@
+{
+  "name": "羅剎女",
+  "aliases": [],
+  "description": "牛魔王之妻，紅孩兒之母，芭蕉洞主人",
+  "personality": [
+    "剛烈",
+    "護子心切",
+    "驕矜",
+    "驚懼時易屈",
+    "輕信",
+    "羞憤",
+    "畏威",
+    "服善",
+    "守諾"
+  ],
+  "traits": [
+    "持芭蕉扇",
+    "怒則現羅剎相",
+    "洞府居翠雲山",
+    "酒酣易泄密",
+    "素服跪獻",
+    "隱姓修行"
+  ],
+  "abilities": [
+    " wield 芭蕉扇",
+    "武藝高強",
+    "變化術",
+    "wield 芭蕉扇",
+    "知扇訣口訣",
+    "斷火根法"
+  ],
+  "summary": "因懷紅孩兒被收之仇拒借扇，先以真扇搧飛悟空；再戰時遭定風丹克制，驚懼閉門，終被變蟲入腹脅迫而獻假扇。　因不辨悟空偽裝而酒後吐露真扇口訣，遭現形奪扇，繼而與牛魔王互相責難，威信與主控權雙重受挫。　於神兵壓境下跪獻真扇，終信守承諾並依諫隱修；親授四十九扇永熄火根之法，實現從抗拒到協作、從失序到正果的轉變。",
+  "events": [
+    {
+      "event_id": "ch059_006",
+      "event_name": "洞前索扇",
+      "event_status": "洞前遭悟空索扇，仇怨當前",
+      "character_decision": "怒而出戰",
+      "decision_result": "搧飛悟空"
+    },
+    {
+      "event_id": "ch059_008",
+      "event_name": "再戰不動",
+      "event_status": "悟空服定風丹立於風中",
+      "character_decision": "全力揮扇試破",
+      "decision_result": "悟空不動，驚懼閉門"
+    },
+    {
+      "event_id": "ch059_009",
+      "event_name": "蟭蟟入腹",
+      "event_status": "閉門不出卻遭悟空入腹",
+      "character_decision": "被迫答應借扇",
+      "decision_result": "獻出假扇"
+    },
+    {
+      "event_id": "ch060_009",
+      "event_name": "偽夫哄扇",
+      "event_status": "誤認牛王歸來，酒酣鬆懈",
+      "character_decision": "吐露真扇口訣",
+      "decision_result": "悟空獲知第七縷紅絲及咒語"
+    },
+    {
+      "event_id": "ch060_010",
+      "event_name": "現形奪扇",
+      "event_status": "真扇在手卻猝遭揭穿",
+      "character_decision": "失措未能阻攔",
+      "decision_result": "真扇被奪，羞憤交加"
+    },
+    {
+      "event_id": "ch060_012",
+      "event_name": "夫妻對訟",
+      "event_status": "扇失事發，夫妻互諉過失",
+      "character_decision": "指責牛王疏於防範",
+      "decision_result": "爭執升級，衝突外溢"
+    },
+    {
+      "event_id": "ch061_005",
+      "event_name": "鈀築洞門",
+      "event_status": "洞門被築，夫藏事洩",
+      "character_decision": "急報牛王",
+      "decision_result": "促其吐扇授妻"
+    },
+    {
+      "event_id": "ch061_009",
+      "event_name": "羅剎獻扇",
+      "event_status": "夫被縛、神兵壓境",
+      "character_decision": "素服捧扇跪獻",
+      "decision_result": "眾聖受扇東返"
+    },
+    {
+      "event_id": "ch061_011",
+      "event_name": "斷根四九",
+      "event_status": "悟空疑火復燃",
+      "character_decision": "告四十九扇斷根法",
+      "decision_result": "火根永熄"
+    },
+    {
+      "event_id": "ch061_012",
+      "event_name": "還扇立誓",
+      "event_status": "扇還在即，土地勸諫",
+      "character_decision": "隱姓修行",
+      "decision_result": "得正果安境"
+    }
+  ]
+}

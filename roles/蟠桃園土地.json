@@ -1,0 +1,61 @@
+{
+  "name": "蟠桃園土地",
+  "aliases": [],
+  "description": "掌管蟠桃園的低階地祇，職司桃樹護育與園務稽查",
+  "personality": [
+    "恭謹",
+    "畏懼權威",
+    "順命守分",
+    "靜默察機"
+  ],
+  "traits": [
+    "守土有責",
+    "形貌樸拙",
+    "奉敕行事",
+    "山前伏侍"
+  ],
+  "abilities": [
+    "辨識仙果",
+    "通報上達",
+    "承旨監押",
+    "聆諦點化"
+  ],
+  "summary": "在悟空初勘桃園時奉命協理清點，後於七仙女摘桃時被捲入驚枝現形事件，被迫直面齊天大聖威壓。　被如來敕令常駐五行山監押悟空，職責從園務轉為鎮壓供給，身陷長期神職拘束。　於五行山前親歷觀音點化悟空之關鍵對話，以土地之身見證取經緣起，職能從單純供給延伸至法緣護持。",
+  "events": [
+    {
+      "event_id": "ch005_002",
+      "event_name": "初勘桃園",
+      "event_status": "奉旨配合新任園主查勘",
+      "character_decision": "稟報桃樹分類與成熟週期",
+      "decision_result": "助悟空掌握仙桃功效"
+    },
+    {
+      "event_id": "ch005_004",
+      "event_name": "驚枝現形",
+      "event_status": "仙女摘桃遇果盡，悟空隱枝被驚",
+      "character_decision": "隨侍現場，未敢阻攔或通報",
+      "decision_result": "見證悟空威嚇獲知蟠桃會名單"
+    },
+    {
+      "event_id": "ch007_016",
+      "event_name": "六字封山",
+      "event_status": "如來親臨施法，威壓瀰漫",
+      "character_decision": "列席受命，伏地聽宣",
+      "decision_result": "確立監押資格"
+    },
+    {
+      "event_id": "ch007_017",
+      "event_name": "敕令監押",
+      "event_status": "奉旨常駐五行山，協同揭諦",
+      "character_decision": "領敕承擔供給之責",
+      "decision_result": "監押體制正式運作"
+    },
+    {
+      "event_id": "ch008_008",
+      "event_name": "山前點化",
+      "event_status": "菩薩駐山勸化，眾神列席聽法",
+      "character_decision": "伏地隨侍，靜聆點化",
+      "decision_result": "確立法緣護持新職"
+    }
+  ]
+}

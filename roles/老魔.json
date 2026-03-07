@@ -1,0 +1,87 @@
+{
+  "name": "老魔",
+  "aliases": [
+    "老妖"
+  ],
+  "description": "獅駝嶺三妖之首，青毛獅子精所化",
+  "personality": [
+    "暴躁",
+    "輕信",
+    "怯懦",
+    "反覆",
+    "憂懼",
+    "多疑"
+  ],
+  "traits": [
+    "腹中藏人",
+    "鼻竅敏感",
+    "門牙易崩",
+    "心肝懸繩",
+    "畏懼神通"
+  ],
+  "abilities": [
+    "吞物化形",
+    "妖力強橫",
+    "口鼻通竅",
+    "幻化分身"
+  ],
+  "summary": "在與孫悟空的周旋中屢遭戲弄，從氣絕復甦到被繩縛心痛跪降，威勢盡喪；最終參與城邊突襲，卻仍不敵悟空，被迫屈服。　因敗於八戒而驚懼孫行者實力，轉向倚賴詭計；採納「分瓣梅花」之策幻化分身埋伏，並親自綁縛唐僧於後園待蒸，展現其避實就虛、借勢用詐的應變傾向。",
+  "events": [
+    {
+      "event_id": "ch076_001",
+      "event_name": "腹中支吾",
+      "event_status": "腹內遭悟空掙扎，氣絕復甦",
+      "character_decision": "哀告求饒",
+      "decision_result": "承諾送僧過山"
+    },
+    {
+      "event_id": "ch076_002",
+      "event_name": "張口誘咬",
+      "event_status": "聽信三魔計策欲咬碎悟空",
+      "character_decision": "張口誘咬",
+      "decision_result": "門牙崩裂"
+    },
+    {
+      "event_id": "ch076_004",
+      "event_name": "鼻竅遁形",
+      "event_status": "悟空化繩縛心自鼻竅迸出",
+      "character_decision": "打噴嚏迸出悟空",
+      "decision_result": "繩扣生效"
+    },
+    {
+      "event_id": "ch076_005",
+      "event_name": "繩扯心痛",
+      "event_status": "心肝拴活扣繩遭猛扯",
+      "character_decision": "劇痛跪降",
+      "decision_result": "三魔乞命"
+    },
+    {
+      "event_id": "ch076_012",
+      "event_name": "城邊突襲",
+      "event_status": "近城發動埋伏齊攻三徒",
+      "character_decision": "參與突襲劫僧",
+      "decision_result": "直入虎狼城"
+    },
+    {
+      "event_id": "ch085_005",
+      "event_name": "獅駝舊事",
+      "event_status": "聽小妖泣訴大鬧天宮舊聞",
+      "character_decision": "驚懼失色決意用計",
+      "decision_result": "避其鋒而謀詭道"
+    },
+    {
+      "event_id": "ch085_006",
+      "event_name": "分瓣梅花",
+      "event_status": "小妖獻計三化身調虎離山",
+      "character_decision": "採納分身埋伏之策",
+      "decision_result": "三妖幻化老妖模樣"
+    },
+    {
+      "event_id": "ch085_008",
+      "event_name": "綁樹囚禪",
+      "event_status": "先鋒勸緩食，洞府存危",
+      "character_decision": "綁唐僧於後園樹上",
+      "decision_result": "禪師被困與樵對泣"
+    }
+  ]
+}

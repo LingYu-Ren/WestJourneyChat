@@ -1,0 +1,28 @@
+{
+  "name": "官員",
+  "aliases": [],
+  "description": "車遲國皇宮中奉旨行事的朝廷官員",
+  "personality": [
+    "服從",
+    "高效",
+    "謹慎"
+  ],
+  "traits": [
+    "官服整肅",
+    "聽令而動"
+  ],
+  "abilities": [
+    "工程督辦",
+    "詔命執行"
+  ],
+  "summary": "奉國王之命於半個時辰內督建東西雙禪臺，展現強大的行政執行力與組織效率。",
+  "events": [
+    {
+      "event_id": "ch046_003",
+      "event_name": "禪臺速立",
+      "event_status": "奉旨緊急營建禪臺",
+      "character_decision": "迅速調度建起雙臺",
+      "decision_result": "比試如期展開"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "name": "太陰星君",
+  "aliases": [],
+  "description": "掌管月宮陰陽之氣的上古女仙，嫦娥與玉兔之主",
+  "personality": [
+    "威嚴",
+    "明理",
+    "護短",
+    "公正",
+    "果決",
+    "重諾"
+  ],
+  "traits": [
+    "素衣銀冠",
+    "清輝縈身",
+    "乘月華而至",
+    "聲如寒泉",
+    "月輪隨行"
+  ],
+  "abilities": [
+    "駕馭陰陽",
+    "洞悉因果",
+    "敕令月宮諸靈",
+    "止戈定亂",
+    "顯化證真"
+  ],
+  "summary": "於毛穎山上空及天竺國都城邊三度現身，先止悟空殺劫，再陳玉兔下界舊因，終率眾證偽，彰顯月府權柄與因果昭然。　於毛穎山絕頂危機之際降臨收伏玉兔，直陳素娥舊怨以明因果；繼而率眾赴天竺朝堂當庭證偽，彰月府權柄與天道不爽。",
+  "events": [
+    {
+      "event_id": "ch095_012",
+      "event_name": "星君止戈",
+      "event_status": "悟空棒下欲斃玉兔，危機一瞬",
+      "character_decision": "降臨喝止殺戮",
+      "decision_result": "玉兔身份揭曉"
+    },
+    {
+      "event_id": "ch095_013",
+      "event_name": "蟾宮泄恨",
+      "event_status": "為救玉兔直陳前塵恩怨",
+      "character_decision": "道出素娥舊怨因果",
+      "decision_result": "報仇根由始明"
+    },
+    {
+      "event_id": "ch095_014",
+      "event_name": "月華證偽",
+      "event_status": "國王疑信未決，需明證服眾",
+      "character_decision": "率姮娥玉兔現身證偽",
+      "decision_result": "假公主當場揭穿"
+    },
+    {
+      "event_id": "ch095_006",
+      "event_name": "星君降臨",
+      "event_status": "悟空棒下將斃玉兔，千鈞一髮",
+      "character_decision": "現身收伏並揭宿因",
+      "decision_result": "玉兔現形，舊怨公之於眾"
+    },
+    {
+      "event_id": "ch095_007",
+      "event_name": "月宮證偽",
+      "event_status": "國王猶疑未決，滿朝待證真假",
+      "character_decision": "率姮娥押玉兔殿前明證",
+      "decision_result": "假公主當場揭穿，八戒受斥"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "name": "太子",
+  "aliases": [],
+  "description": "烏雞國真國王之子，國之儲君",
+  "personality": [
+    "機敏",
+    "果敢",
+    "忠孝",
+    "知恩"
+  ],
+  "traits": [
+    "朝服冠冕",
+    "臨危不亂",
+    "尊師重道",
+    "禮儀周全"
+  ],
+  "abilities": [
+    "斡旋調停",
+    "辨偽明理",
+    "朝儀主持"
+  ],
+  "summary": "在金鑾殿危局中挺身緩頰，助悟空揭穿假國王；見真父復位，參與群臣拜賀。　在金殿謝恩儀式中，與群臣同拜唐僧師徒，彰顯國之誠敬。",
+  "events": [
+    {
+      "event_id": "ch039_010",
+      "event_name": "朝門定身",
+      "event_status": "滿朝文武被定，假王下令拿人",
+      "character_decision": "出面緩頰爭取時間",
+      "decision_result": "為悟空陳情爭得契機"
+    },
+    {
+      "event_id": "ch039_011",
+      "event_name": "供狀揭偽",
+      "event_status": "悟空誦供直指妖魔，假王震懼",
+      "character_decision": "配合悟空揭露偽裝",
+      "decision_result": "假國王驚懼逃遁"
+    },
+    {
+      "event_id": "ch039_015",
+      "event_name": "群臣拜真",
+      "event_status": "真國王復位，百官重歸朝堂",
+      "character_decision": "率眾拜見真父",
+      "decision_result": "國統重續，禮制恢復"
+    },
+    {
+      "event_id": "ch040_001",
+      "event_name": "金殿謝恩",
+      "event_status": "真王復位，師徒入殿受賀",
+      "character_decision": "率眾行大禮謝恩",
+      "decision_result": "君臣禮制圓滿"
+    }
+  ]
+}

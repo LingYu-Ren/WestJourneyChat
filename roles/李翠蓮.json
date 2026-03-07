@@ -1,0 +1,51 @@
+{
+  "name": "李翠蓮",
+  "aliases": [],
+  "description": "劉全之妻，因夫信義感天而得借屍還魂",
+  "personality": [
+    "貞烈",
+    "堅忍",
+    "忠篤"
+  ],
+  "traits": [
+    "節婦",
+    "陰司登仙者",
+    "借屍復生者"
+  ],
+  "abilities": [
+    "承陰陽契約",
+    "借屍重生",
+    "宿緣不昧"
+  ],
+  "summary": "李翠蓮在劉全進瓜赴陰後，與其同被閻王判定具登仙壽祿，獲准借御妹李玉英之屍還陽，完成道德閉環。　李翠蓮於玉英宮花陰下借御妹之屍成功還陽，繼而在白玉階前當庭扯住劉全相認，獲太宗賜妝奩、免差徭，實證神識如舊、節義通神。　本次新增事件中未出現李翠蓮，其角色檔案無實質更新。",
+  "events": [
+    {
+      "event_id": "ch011_015",
+      "event_name": "劉全進瓜",
+      "event_status": "已亡故，魂系陰司待判",
+      "character_decision": "隨夫赴陰，守節不渝",
+      "decision_result": "確立信義節婦身份"
+    },
+    {
+      "event_id": "ch011_017",
+      "event_name": "借屍還魂",
+      "event_status": "陰司審定登仙壽祿，待借屍還陽",
+      "character_decision": "接受閻王特許借屍還魂",
+      "decision_result": "復生人間，成就三重道德閉環"
+    },
+    {
+      "event_id": "ch012_001",
+      "event_name": "借屍還魂",
+      "event_status": "陰司特許附體，玉英屍身待甦",
+      "character_decision": "依契入主玉英之軀",
+      "decision_result": "甦醒自稱翠蓮"
+    },
+    {
+      "event_id": "ch012_003",
+      "event_name": "夫婦相認",
+      "event_status": "還陽初醒，群臣環伺於殿前",
+      "character_decision": "扯住劉全當庭相認",
+      "decision_result": "獲賜妝奩，永免差徭"
+    }
+  ]
+}

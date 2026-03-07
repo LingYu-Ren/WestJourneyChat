@@ -1,0 +1,74 @@
+{
+  "name": "百花羞",
+  "aliases": [],
+  "description": "寶象國三公主，被黃袍怪擄至波月洞十三年",
+  "personality": [
+    "機智",
+    "隱忍",
+    "忠孝",
+    "果決",
+    "沉著",
+    "臨危不亂",
+    "明理",
+    "自省"
+  ],
+  "traits": [
+    "善書信",
+    "通情理",
+    "偽夢托神",
+    "善察妖心",
+    "重倫常"
+  ],
+  "abilities": [
+    "詭辯",
+    "密寫",
+    "察言觀色",
+    "應變周旋",
+    "聆音辨因果"
+  ],
+  "summary": "在波月洞中主動探問唐僧身世，密修家書託寄求援，並巧施夢誑之計助其脫身，展現深謀與膽識。　面對黃袍怪挾持審問，默然承壓以護沙僧；於駙馬認親之議中隱忍不發，暗察妖意流變，為後續破局蓄勢。　面對孫悟空剖陳天界前緣，主動傾聽、內省自責，藉因果之說消解心結，確立重返人倫之志。",
+  "events": [
+    {
+      "event_id": "ch029_001",
+      "event_name": "洞中問籍",
+      "event_status": "身陷妖洞十三年，唐僧被縛定魂樁",
+      "character_decision": "主動現身互述身世",
+      "decision_result": "確立公主身份與被攝經歷"
+    },
+    {
+      "event_id": "ch029_002",
+      "event_name": "修書託寄",
+      "event_status": "妖洞禁錮之中，無外援可倚",
+      "character_decision": "密修家書付唐僧捎遞",
+      "decision_result": "引發寶象國征妖行動"
+    },
+    {
+      "event_id": "ch029_003",
+      "event_name": "夢誑釋師",
+      "event_status": "黃袍怪監控嚴密，放人風險極高",
+      "character_decision": "假托金甲神人索願",
+      "decision_result": "唐僧獲准從後門脫身"
+    },
+    {
+      "event_id": "ch030_001",
+      "event_name": "怒審沙僧",
+      "event_status": "妖威逼問，性命懸於一線",
+      "character_decision": "默然受審不辯不懇",
+      "decision_result": "沙僧代諱保其無恙"
+    },
+    {
+      "event_id": "ch030_003",
+      "event_name": "駙馬認親",
+      "event_status": "妖欲入朝認親，形勢驟緊",
+      "character_decision": "靜觀默應未加勸阻",
+      "decision_result": "誘使黃袍怪離洞涉險"
+    },
+    {
+      "event_id": "ch031_008",
+      "event_name": "剖陳前緣",
+      "event_status": "妖伏心懼，罪疚難安",
+      "character_decision": "靜聽天界因果",
+      "decision_result": "心結釋然，倫理歸正"
+    }
+  ]
+}

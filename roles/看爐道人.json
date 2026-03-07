@@ -1,0 +1,53 @@
+{
+  "name": "看爐道人",
+  "aliases": [],
+  "description": "兜率宮八卦爐守爐道人，太上老君座下煉丹執事",
+  "personality": [
+    "恪守職分",
+    "謹慎順從",
+    "畏懼強力"
+  ],
+  "traits": [
+    "守爐",
+    "司火位",
+    "持爐鉤",
+    "駕雲遁逃"
+  ],
+  "abilities": [
+    "控火調溫",
+    "辨爐氣",
+    "守爐巡檢",
+    "駕雲"
+  ],
+  "summary": "在八卦爐鍛煉孫悟空期間，依令值守巽位；後於悟空破爐時隨眾驚避，未能阻其蹬倒丹爐。　於黑風山芳草坡參與三妖密議，遭孫悟空突襲時駕雲驚遁，顯露臨危避讓之習性。",
+  "events": [
+    {
+      "event_id": "ch007_003",
+      "event_name": "推入巽位",
+      "event_status": "奉老君命操持文武火，監爐待變",
+      "character_decision": "守爐定位，維持巽位煙勢",
+      "decision_result": "助成火眼金睛異變"
+    },
+    {
+      "event_id": "ch007_005",
+      "event_name": "蹬倒丹爐",
+      "event_status": "丹爐震裂，悟空暴起，現場大亂",
+      "character_decision": "隨眾驚退，未及攔阻",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch017_001",
+      "event_name": "潛蹤竊聽",
+      "event_status": "隱身旁聽三妖密謀佛衣會",
+      "character_decision": "隨眾靜伏，未發一言",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch017_002",
+      "event_name": "怒棒驚遁",
+      "event_status": "行者暴起擊殺白蛇精，現場大亂",
+      "character_decision": "駕雲倉皇遁走",
+      "decision_result": "脫離戰場，未受創"
+    }
+  ]
+}

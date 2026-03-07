@@ -1,0 +1,44 @@
+{
+  "name": "可韓丈人真君",
+  "aliases": [],
+  "description": "天庭星宿稽查之神，掌可韓司，司理諸天星斗",
+  "personality": [
+    "恪守職分",
+    "嚴謹務實",
+    "沉穩持重"
+  ],
+  "traits": [
+    "執玉簡",
+    "著星紋袍",
+    "步履如衡"
+  ],
+  "abilities": [
+    "星垣勘驗",
+    "天官協調",
+    "宿曜推演"
+  ],
+  "summary": "奉玉帝敕令全面查勘諸天星宿，歷查四門三垣二十八宿，確認無一思凡下界，並於南天門外向悟空覆命。",
+  "events": [
+    {
+      "event_id": "ch051_004",
+      "event_name": "玉陛奏魔",
+      "event_status": "靈霄殿上受詔查星，位處樞要",
+      "character_decision": "領旨承命",
+      "decision_result": "獲敕專查星斗"
+    },
+    {
+      "event_id": "ch051_005",
+      "event_name": "遍查星斗",
+      "event_status": "統轄可韓司遍巡三十三天",
+      "character_decision": "歷查四門三垣二十八宿",
+      "decision_result": "確認星宿無思凡"
+    },
+    {
+      "event_id": "ch051_006",
+      "event_name": "查無所獲",
+      "event_status": "南天門外面對悟空質詢",
+      "character_decision": "據實覆命",
+      "decision_result": "促玉帝另遣天兵"
+    }
+  ]
+}

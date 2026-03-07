@@ -1,0 +1,54 @@
+{
+  "name": "陳澄",
+  "aliases": [],
+  "description": "陳家莊莊主，通天河畔殷實人家之長兄",
+  "personality": [
+    "敦厚",
+    "重義",
+    "憂慮",
+    "熱忱"
+  ],
+  "traits": [
+    "莊主身份",
+    "待客誠懇",
+    "關切僧人安危",
+    "親迎重禮"
+  ],
+  "abilities": [
+    "識途",
+    "待客周全",
+    "協調家眾",
+    "組織供養"
+  ],
+  "summary": "在雪封通天河之際，與弟陳清一同留宿唐僧師徒；見八戒試冰後支持即刻過河；師徒落水後悲泣報信，信任悟空判斷。　師徒曬經後歸來，陳澄聞訊親迎入莊，設齋建寺以表至誠。",
+  "events": [
+    {
+      "event_id": "ch048_004",
+      "event_name": "雪寒驚僧",
+      "event_status": "大雪封境，僧眾憂限行程",
+      "character_decision": "留宿師徒並共商對策",
+      "decision_result": "三藏決意踏冰過河"
+    },
+    {
+      "event_id": "ch048_005",
+      "event_name": "踏冰勘路",
+      "event_status": "冰面可渡，行人已往西梁",
+      "character_decision": "陪同勘視並支持即渡",
+      "decision_result": "師徒決意即刻過河"
+    },
+    {
+      "event_id": "ch048_008",
+      "event_name": "負水返莊",
+      "event_status": "師徒落水、白馬失蹤",
+      "character_decision": "迎回負水三人並聞噩耗",
+      "decision_result": "舉家悲泣，信悟空所言"
+    },
+    {
+      "event_id": "ch099_010",
+      "event_name": "陳莊迎請入宅",
+      "event_status": "師徒曬經畢返東岸",
+      "character_decision": "聞訊親迎師徒入莊",
+      "decision_result": "建寺奉香，設齋延留"
+    }
+  ]
+}

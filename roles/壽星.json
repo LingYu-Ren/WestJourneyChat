@@ -1,0 +1,48 @@
+{
+  "name": "壽星",
+  "aliases": [],
+  "description": "道教仙官，司掌長壽之神，天庭重要祥瑞象徵",
+  "personality": [
+    "莊重",
+    "恭謹",
+    "祥和",
+    "誠懇",
+    "守分"
+  ],
+  "traits": [
+    "白鬚鶴髮",
+    "持蟠桃或靈芝",
+    "慈眉善目",
+    "衣袂飄然"
+  ],
+  "abilities": [
+    "賜福延壽",
+    "獻瑞呈祥",
+    "通曉天機",
+    "辨識靈根本源"
+  ],
+  "summary": "於安天大會中參與群仙獻瑞，以祥瑞之寶賀會，彰顯其在天庭—佛界聯盟儀典中的核心禮儀地位。　於蓬萊白雲洞明言無法治活人參果樹，展現其恪守天道法則的審慎立場；後赴五莊觀果會，見證因果圓滿與仙凡結盟。",
+  "events": [
+    {
+      "event_id": "ch007_015",
+      "event_name": "群仙獻瑞",
+      "event_status": "安天大會盛況空前，諸聖齊聚玉京金闕",
+      "character_decision": "獻寶賀會",
+      "decision_result": "強化聯盟合法性"
+    },
+    {
+      "event_id": "ch026_004",
+      "event_name": "三星拒方",
+      "event_status": "悟空急求醫樹，情勢緊迫",
+      "character_decision": "坦陳力所不及",
+      "decision_result": "促使悟空另尋良策"
+    },
+    {
+      "event_id": "ch026_009",
+      "event_name": "果會結盟",
+      "event_status": "果樹復活，五莊觀喜慶盈門",
+      "character_decision": "列席人參果會",
+      "decision_result": "共證仙凡和合"
+    }
+  ]
+}

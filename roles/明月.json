@@ -1,0 +1,102 @@
+{
+  "name": "明月",
+  "aliases": [],
+  "description": "五莊觀鎮元子座下童子，司掌人參果園",
+  "personality": [
+    "恭敬",
+    "執拗",
+    "耿直",
+    "惶懼",
+    "護主心切",
+    "敬畏神明"
+  ],
+  "traits": [
+    "道童裝束",
+    "持果為禮",
+    "重規守矩",
+    "面露驚惶",
+    "閉門自保",
+    "伏地泣稟"
+  ],
+  "abilities": [
+    "看守果園",
+    "奉果待客",
+    "辨物察異",
+    "察言觀色",
+    "欺瞞應變",
+    "迎駕侍神"
+  ],
+  "summary": "明月與清風共同承擔供果之責，在天地供奉、拒果私食、查園失果及殿前對質等連環事件中，展現其恪守師命卻缺乏變通的特質，並深度捲入師徒信任危機。　面對人參樹被毀的災變，明月與清風由剛直指責轉向恐懼隱瞞，採取佯謊鎖門、閉殿囚僧等非常之舉，展現其在師命威壓與現實危局夾縫中的應激性退守。　在甘露灌根事件中，明月親見菩薩施法、果樹復生，由極度惶懼轉為虔敬信服，全程伏侍於後園，展現其對神聖救贖的深切依歸。",
+  "events": [
+    {
+      "event_id": "ch024_004",
+      "event_name": "天地供奉",
+      "event_status": "正殿受問，解釋供奉緣由",
+      "character_decision": "申明只供天地",
+      "decision_result": "埋下衝突伏筆"
+    },
+    {
+      "event_id": "ch024_005",
+      "event_name": "奉果受拒",
+      "event_status": "依囑獻果遭拒，面臨禮儀困境",
+      "character_decision": "與清風私食人參果",
+      "decision_result": "引發偷竊契機"
+    },
+    {
+      "event_id": "ch024_008",
+      "event_name": "查園失果",
+      "event_status": "果園少果，疑遭竊取",
+      "character_decision": "聯同清風查園核數",
+      "decision_result": "確證失果四枚"
+    },
+    {
+      "event_id": "ch024_009",
+      "event_name": "殿前誣罵",
+      "event_status": "當眾指責唐僧師徒偷果",
+      "character_decision": "怒斥師徒並索償",
+      "decision_result": "激化信任危機"
+    },
+    {
+      "event_id": "ch025_001",
+      "event_name": "當堂對質",
+      "event_status": "三藏當庭質問失果事",
+      "character_decision": "附和清風指認盜者",
+      "decision_result": "坐實師徒罪名"
+    },
+    {
+      "event_id": "ch025_003",
+      "event_name": "查園驚變",
+      "event_status": "人參樹倒，魂飛魄散",
+      "character_decision": "與清風共商哄騙之策",
+      "decision_result": "決意封門拖延問罪"
+    },
+    {
+      "event_id": "ch025_004",
+      "event_name": "佯謊鎖門",
+      "event_status": "正殿閉門，囚禁四眾",
+      "character_decision": "假稱果數無誤鎖殿",
+      "decision_result": "師徒陷入被動困局"
+    },
+    {
+      "event_id": "ch025_007",
+      "event_name": "歸觀問罪",
+      "event_status": "大仙歸觀聽哭訴",
+      "character_decision": "跪稟樹倒始末",
+      "decision_result": "引發大仙震怒追拿"
+    },
+    {
+      "event_id": "ch025_008",
+      "event_name": "雲蹤疾趕",
+      "event_status": "騰雲追截西行僧眾",
+      "character_decision": "指認和尚去向帶路",
+      "decision_result": "助大仙路旁截人"
+    },
+    {
+      "event_id": "ch026_008",
+      "event_name": "甘露灌根",
+      "event_status": "菩薩臨觀施法，果樹將朽",
+      "character_decision": "伏園侍立，默然觀禮",
+      "decision_result": "親證神蹟，心魂俱安"
+    }
+  ]
+}

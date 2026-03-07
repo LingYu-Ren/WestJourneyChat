@@ -1,0 +1,54 @@
+{
+  "name": "老者",
+  "aliases": [],
+  "description": "南莊村舍居住的普通農家老人",
+  "personality": [
+    "謹慎",
+    "吝嗇",
+    "樸實",
+    "樂助"
+  ],
+  "traits": [
+    "年邁",
+    "持齋",
+    "好客",
+    "識途"
+  ],
+  "abilities": [
+    "供齋",
+    "拒施",
+    "指路",
+    "辨地"
+  ],
+  "summary": "因唐僧飢餒而被行者隱身取齋，事後發現師徒已杳無蹤跡。　於紅瓦莊院為唐僧師徒叩門問訊提供火焰山與鐵扇仙情報，後欣然接納悟空獻扇報捷。　於玉華縣郊樹林遇唐僧師徒，主動指明玉華縣與玉華王所在，助其確立天竺國下郡為當前目的地。",
+  "events": [
+    {
+      "event_id": "ch050_004",
+      "event_name": "攝飯南莊",
+      "event_status": "面對隱身取齋，無力阻攔",
+      "character_decision": "拒齋於唐僧師徒",
+      "decision_result": "齋飯被竊，師徒失蹤"
+    },
+    {
+      "event_id": "ch059_003",
+      "event_name": "叩門問訊",
+      "event_status": "莊院靜居，突遇僧眾問路",
+      "character_decision": "應門答問",
+      "decision_result": "告知火焰山與鐵扇仙"
+    },
+    {
+      "event_id": "ch059_010",
+      "event_name": "獻扇報捷",
+      "event_status": "莊院內見悟空持扇而歸",
+      "character_decision": "欣然受扇稱喜",
+      "decision_result": "師徒啟程試扇"
+    },
+    {
+      "event_id": "ch088_002",
+      "event_name": "林遇指路",
+      "event_status": "郊林偶遇僧眾問路",
+      "character_decision": "指明玉華縣與玉華王",
+      "decision_result": "確立目的地"
+    }
+  ]
+}

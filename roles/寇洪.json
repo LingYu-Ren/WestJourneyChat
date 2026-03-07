@@ -1,0 +1,85 @@
+{
+  "name": "寇洪",
+  "aliases": [],
+  "description": "富厚虔誠的寇員外，誓願齋萬僧以積功德",
+  "personality": [
+    "虔誠",
+    "熱忱",
+    "慷慨",
+    "執著",
+    "冤屈中仍守善念"
+  ],
+  "traits": [
+    "拄拐",
+    "年高",
+    "重禮儀",
+    "守誓願",
+    "遭劫身死",
+    "魂歸復活"
+  ],
+  "abilities": [
+    "辦齋道場",
+    "待客周全",
+    "持誦佛儀",
+    "陰司對證"
+  ],
+  "summary": "寇洪迎請唐僧師徒補足萬僧之數，圓滿齋僧宏願，並殷勤備宴送行，展現其篤信重諾之德。　寇洪夜間遭賊徒劫殺身亡，魂赴地府後蒙地藏王菩薩延壽一紀，復活歸陽當堂澄清誣告，彰顯其至誠感通神明。",
+  "events": [
+    {
+      "event_id": "ch096_003",
+      "event_name": "蒼頭報信",
+      "event_status": "門前驚見異相僧眾，事出倉促",
+      "character_decision": "拄拐急迎四僧",
+      "decision_result": "開啟萬僧齋圓滿之局"
+    },
+    {
+      "event_id": "ch096_004",
+      "event_name": "齋緣圓滿",
+      "event_status": "經堂敘話，功德將滿未滿",
+      "character_decision": "自陳已齋九千九百九十六僧",
+      "decision_result": "確立四僧為最後四眾"
+    },
+    {
+      "event_id": "ch096_005",
+      "event_name": "圓滿道場",
+      "event_status": "齋僧誓願僅缺四眾，時機關鍵",
+      "character_decision": "舉辦三晝夜圓滿佛事",
+      "decision_result": "功德圓滿，堅留師徒"
+    },
+    {
+      "event_id": "ch096_007",
+      "event_name": "備宴送行",
+      "event_status": "師徒決意即行，時間緊迫",
+      "character_decision": "連夜籌辦餞行諸務",
+      "decision_result": "次日十里長亭盛儀相送"
+    },
+    {
+      "event_id": "ch096_008",
+      "event_name": "舉箸謁齋",
+      "event_status": "大廠廳盛宴開席，賓眾齊集",
+      "character_decision": "依佛儀靜候三藏誦經",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch097_001",
+      "event_name": "夜劫寇宅",
+      "event_status": "夜雨驟至，賊眾破門行兇",
+      "character_decision": "未能防備突襲",
+      "decision_result": "被踢死於寢室"
+    },
+    {
+      "event_id": "ch097_008",
+      "event_name": "材頭顯魂",
+      "event_status": "停靈孝堂，家人誤信誣告",
+      "character_decision": "假魂訓誡子母撤狀",
+      "decision_result": "促寇家投解誣狀"
+    },
+    {
+      "event_id": "ch097_014",
+      "event_name": "魂歸復活",
+      "event_status": "棺中僵臥，魂返肉身待證",
+      "character_decision": "甦醒當堂指證真相",
+      "decision_result": "師徒冤屈徹底洗刷"
+    }
+  ]
+}

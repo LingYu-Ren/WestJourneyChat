@@ -1,0 +1,61 @@
+{
+  "name": "奔波兒灞",
+  "aliases": [],
+  "description": "碧波潭巡塔鮎魚精，萬聖龍王麾下小妖",
+  "personality": [
+    "懈怠",
+    "畏懼",
+    "從眾",
+    "屈服",
+    "惶恐"
+  ],
+  "traits": [
+    "鮎魚形",
+    "巡塔職守",
+    "飲酒鬆懈",
+    "負傷示威"
+  ],
+  "abilities": [
+    "巡邏監視",
+    "水族遁行",
+    "水下通報"
+  ],
+  "summary": "於金光寺寶塔頂被孫悟空突襲擒獲，被迫供出萬聖龍王與碧波潭巢穴；隨後被挾持赴潭，成為剿滅龍族行動的關鍵導引。　被孫悟空割唇脅迫，負痛入水報信，成為龍宮震懼與駙馬出戰的直接導火索。",
+  "events": [
+    {
+      "event_id": "ch062_009",
+      "event_name": "塔頂擒賊",
+      "event_status": "塔頂飲酒鬆懈，突遭襲擊",
+      "character_decision": "被擒後供述賊巢情報",
+      "decision_result": "吐露萬聖龍王與九頭駙馬"
+    },
+    {
+      "event_id": "ch062_014",
+      "event_name": "攝妖赴潭",
+      "event_status": "被孫豬二仙挾持駕風飛行",
+      "character_decision": "被迫引路赴碧波潭",
+      "decision_result": "導向萬聖龍族老巢"
+    },
+    {
+      "event_id": "ch063_001",
+      "event_name": "攝妖赴潭",
+      "event_status": "被挾持離朝赴碧波潭",
+      "character_decision": "被迫隨行飛赴龍潭",
+      "decision_result": "抵達亂石山碧波潭"
+    },
+    {
+      "event_id": "ch063_002",
+      "event_name": "割耳示威",
+      "event_status": "雲頭遭割唇脅迫",
+      "character_decision": "負痛潛水報信",
+      "decision_result": "引發龍宮震懼"
+    },
+    {
+      "event_id": "ch063_003",
+      "event_name": "禍事急報",
+      "event_status": "負傷入宮稟告齊天大聖索寶",
+      "character_decision": "跪稟佛寶被索之禍",
+      "decision_result": "龍王驚懼，駙馬請戰"
+    }
+  ]
+}

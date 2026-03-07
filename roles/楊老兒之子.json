@@ -1,0 +1,28 @@
+{
+  "name": "楊老兒之子",
+  "aliases": [],
+  "description": "楊家莊少主，莊主之子，參與守莊抗寇",
+  "personality": [
+    "警覺",
+    "忠孝",
+    "隱忍"
+  ],
+  "traits": [
+    "夜巡習慣",
+    "莊院熟悉者"
+  ],
+  "abilities": [
+    "識別賊蹤",
+    "協同防禦"
+  ],
+  "summary": "在賊眾夜聚報仇之際，與父協力應對危局，暗助師徒脫身，展現家族責任感與道德抉擇能力。",
+  "events": [
+    {
+      "event_id": "ch056_010",
+      "event_name": "夜聚報仇",
+      "event_status": "賊眾圍門報復，形勢危急",
+      "character_decision": "配合父親暗助師徒脫身",
+      "decision_result": "促成道德張力與脫身成功"
+    }
+  ]
+}

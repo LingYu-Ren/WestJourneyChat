@@ -1,0 +1,29 @@
+{
+  "name": "眾婦人",
+  "aliases": [],
+  "description": "西梁女國邊境村舍的當地婦女群體",
+  "personality": [
+    "樸實",
+    "熱心",
+    "守秘"
+  ],
+  "traits": [
+    "聚居村舍",
+    "知曉國俗",
+    "通曉子母河秘聞"
+  ],
+  "abilities": [
+    "傳述風土",
+    "辨識藥性"
+  ],
+  "summary": "在師徒腹痛求醫時，配合婆婆揭破西梁女國懷胎真相，透露子母河與落胎泉的關鍵信息。",
+  "events": [
+    {
+      "event_id": "ch053_003",
+      "event_name": "揭破女國",
+      "event_status": "師徒腹痛求醫，村中問診",
+      "character_decision": "配合婆婆講述國俗秘聞",
+      "decision_result": "確知懷胎源於子母河水"
+    }
+  ]
+}

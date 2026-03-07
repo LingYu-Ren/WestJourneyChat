@@ -1,0 +1,27 @@
+{
+  "name": "天佑",
+  "aliases": [],
+  "description": "天庭仙官，灵霄宝殿侍列之神",
+  "personality": [
+    "恭谨",
+    "守序"
+  ],
+  "traits": [
+    "肃立殿侧",
+    "执礼如仪"
+  ],
+  "abilities": [
+    "司仪赞礼",
+    "通传诏命"
+  ],
+  "summary": "于灵霄宝殿参与安天大会筹备，见证玉帝亲迎如来、宣旨设宴，彰显其天庭典礼执事之职。",
+  "events": [
+    {
+      "event_id": "ch007_013",
+      "event_name": "謝恩設宴",
+      "event_status": "天庭初定，万圣云集灵霄",
+      "character_decision": "肃立侍列，襄理大典",
+      "decision_result": "安天大会顺利颁诏"
+    }
+  ]
+}

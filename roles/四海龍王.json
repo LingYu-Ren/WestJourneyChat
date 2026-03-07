@@ -1,0 +1,185 @@
+{
+  "name": "四海龍王",
+  "aliases": [
+    "东海龙王",
+    "南海龙王",
+    "西海龙王",
+    "北海龙王",
+    "涇河龍王",
+    "井龍王"
+  ],
+  "description": "掌管四方海域的神祇，统御水族，隶属天庭",
+  "personality": [
+    "怯懦",
+    "顺从",
+    "畏惧强权",
+    "知恩重义",
+    "刚愎",
+    "侥幸",
+    "怨愤",
+    "务实权变",
+    "趋利避害",
+    "协同应变",
+    "令行禁止",
+    "敬畏元神",
+    "隐忍周旋",
+    "宴席维稳",
+    "察言辨伪",
+    "守丧失备",
+    "临危失序",
+    "临机护持"
+  ],
+  "traits": [
+    "龙形",
+    "冠冕珠旒",
+    "执掌水符",
+    "居水府深宫",
+    "擅化人形",
+    "持雨簿雷令",
+    "藏定颜珠",
+    "聚兵列阵",
+    "随召即至",
+    "奉敕如律",
+    "设宴待宾",
+    "潭底设席",
+    "水族列侍",
+    "挂孝停丧",
+    "水府治丧",
+    "化风护器"
+  ],
+  "abilities": [
+    "呼风唤雨",
+    "控驭水族",
+    "腾云驾雾",
+    "护魂守魄",
+    "篡改雨数",
+    "夜游显形",
+    "定颜固魄",
+    "聚兵协战",
+    "私雨施降",
+    "应元神敕令",
+    "顷刻布霖",
+    "辨形识变",
+    "宴席调度",
+    "水府隐匿",
+    "丧仪主理",
+    "水府守备",
+    "化风护物",
+    "冷器隔火"
+  ],
+  "summary": "在孙悟空武力胁迫下，被迫献出凤翅紫金冠、锁子黄金甲与藕丝步云履，显其权柄受限、难抗妖威。　因陈光蕊昔日放生之恩，主动报德，收留其魂魄于洪江水府，授都领之职，并以定颜珠护其尸身待还阳。　因袁守誠算卦精准而心生忌惮，私改玉帝雨旨致触天条，终遭魏徵梦斩；魂魄不散，索命唐皇，反促成观音显圣、佛法东传之机。　于井龙王水晶宫中以定颜珠为凭，与猪八戒达成交易，以物易驮，促成陈光蕊尸身出井，使关键物证得以移交取用。　应孙悟空之请齐聚东海水晶宫调兵助雨，然所降之雨反助红孩儿三昧真火，暴露出对异火属性无知与法术局限。　于车迟国祈雨坛受悟空元神敕令，即时止雨以破道士法术；继而依金箍棒号令顷刻沛霖，显其对上位神力绝对服从与高效执行之能。　于碧波潭设宴款待牛魔王，面对悟空化蟹潜入，初未察觉而照常宴饮；后因金睛兽失窃与蟹精异状被牛王点破，方显其临机辨察之能，然仍陷被动受制之局。　于碧波潭水府值万圣龙王丧期，因停丧挂孝致防备松懈，未能及时察觉猪八戒突袭，暴露出治丧期间安防失序、应变迟滞之弊。　于狮驼国金銮殿三更时分应孙悟空急召，化风护笼阻火气蒸僧，显其临危听调、以风代寒之应变新能，亦拓展其护持职能由魂魄尸身延至活体僧众。",
+  "events": [
+    {
+      "event_id": "ch003_008",
+      "event_name": "強索披掛",
+      "event_status": "遭孙悟空武力胁迫，形势危殆",
+      "character_decision": "献出镇宫宝甲披挂",
+      "decision_result": "悟空获三件神装"
+    },
+    {
+      "event_id": "ch009_006",
+      "event_name": "龍王報恩",
+      "event_status": "受恩未忘，水府秘境施援",
+      "character_decision": "收留光蕊魂魄并授都领",
+      "decision_result": "魂得安驻，尸获定颜"
+    },
+    {
+      "event_id": "ch010_002",
+      "event_name": "夜叉報禍",
+      "event_status": "密报渔樵泄天机，震怒难抑",
+      "character_decision": "遣夜叉查证袁守誠术数",
+      "decision_result": "确信其术通玄"
+    },
+    {
+      "event_id": "ch010_003",
+      "event_name": "龍王問卜",
+      "event_status": "化身秀士设局试探，心存疑惧",
+      "character_decision": "与袁守誠立赌雨期",
+      "decision_result": "获知玉帝敕令详情"
+    },
+    {
+      "event_id": "ch010_004",
+      "event_name": "違旨行雨",
+      "event_status": "受军师蛊惑，铤而走险违天",
+      "character_decision": "篡改时辰点数私降三尺雨",
+      "decision_result": "触犯天条，死劫已定"
+    },
+    {
+      "event_id": "ch010_006",
+      "event_name": "龍魂索命",
+      "event_status": "魂断未消业力，夜闯皇宫索命",
+      "character_decision": "血首现形揪扯太宗赴阴司",
+      "decision_result": "被观音喝退，业力转为弘法契機"
+    },
+    {
+      "event_id": "ch038_008",
+      "event_name": "定顏索馱",
+      "event_status": "八戒逼索烧埋钱，形势被动",
+      "character_decision": "以定颜珠换驮尸",
+      "decision_result": "八戒驮尸出井"
+    },
+    {
+      "event_id": "ch041_007",
+      "event_name": "龍王聚兵",
+      "event_status": "悟空急召，四海齐赴东海",
+      "character_decision": "率龙兵集结待命",
+      "decision_result": "龙兵随行赴号山"
+    },
+    {
+      "event_id": "ch041_008",
+      "event_name": "私雨潑火",
+      "event_status": "误判火性，降雨反助妖焰",
+      "character_decision": "依令喷雨灭火",
+      "decision_result": "火势愈炽，悟空被熏"
+    },
+    {
+      "event_id": "ch045_007",
+      "event_name": "元神敕令",
+      "event_status": "元神巡天勒令待命，天律在前",
+      "character_decision": "奉敕止雨待命",
+      "decision_result": "法术立溃"
+    },
+    {
+      "event_id": "ch045_009",
+      "event_name": "頃刻沛霖",
+      "event_status": "悟空持棒号令，时限紧迫",
+      "character_decision": "一柱香内遍洒甘雨",
+      "decision_result": "春旱立解"
+    },
+    {
+      "event_id": "ch060_006",
+      "event_name": "蟹形潛潭",
+      "event_status": "宴席待宾，水府戒备松懈",
+      "character_decision": "照常设宴不加盘查",
+      "decision_result": "悟空潜入成功"
+    },
+    {
+      "event_id": "ch060_007",
+      "event_name": "蟹供瞞天",
+      "event_status": "被擒当场，宴席秩序将乱",
+      "character_decision": "默许蟹精供职混宴",
+      "decision_result": "放行离席获盗机"
+    },
+    {
+      "event_id": "ch060_011",
+      "event_name": "龍宮醒悟",
+      "event_status": "金睛獸失，疑云骤起",
+      "character_decision": "配合牛王推演识破",
+      "decision_result": "真相暴露引追击"
+    },
+    {
+      "event_id": "ch063_010",
+      "event_name": "晨破麻殯",
+      "event_status": "值丧挂孝，水府防备松懈",
+      "character_decision": "未加戒备照常治丧",
+      "decision_result": "龙子被杀，秩序溃乱"
+    },
+    {
+      "event_id": "ch077_004",
+      "event_name": "龍護冷鍋",
+      "event_status": "奉召护锅，火势迫在眉睫",
+      "character_decision": "化风裹笼隔绝热气",
+      "decision_result": "铁笼不热，四众得安"
+    }
+  ]
+}

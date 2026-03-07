@@ -1,0 +1,76 @@
+{
+  "name": "靈感大王",
+  "aliases": [],
+  "description": "通天河水府妖王，假托神明受祭賽供奉",
+  "personality": [
+    "狡詐",
+    "畏懼強敵",
+    "善借外力",
+    "剛愎易怒",
+    "臨危趨避"
+  ],
+  "traits": [
+    "水族真身",
+    "廟中現形",
+    "倚重鱖婆",
+    "閉門自守"
+  ],
+  "abilities": [
+    "興風作雪",
+    "冰封河道",
+    "水下伏擊",
+    "水底久戰"
+  ],
+  "summary": "從廟門現形交鋒轉為退守水府定計，施展法術凍結通天河，最終於冰面裂隙劫走唐僧。　於水底與八戒、沙僧激戰不勝，遭悟空岸上突襲後閉門不出；經鱖婆點破悟空來歷，轉為堅守水府、拒不出戰。",
+  "events": [
+    {
+      "event_id": "ch048_001",
+      "event_name": "廟門鬥妖",
+      "event_status": "赴祭現形，遭悟空八戒突襲",
+      "character_decision": "倉皇退入通天河",
+      "decision_result": "暴露水族身份"
+    },
+    {
+      "event_id": "ch048_002",
+      "event_name": "水府定計",
+      "event_status": "畏懼悟空神通，亟需新策擒僧",
+      "character_decision": "採納鱖婆凍河誘敵之計",
+      "decision_result": "啟動降雪結冰"
+    },
+    {
+      "event_id": "ch048_003",
+      "event_name": "興風作雪",
+      "event_status": "獨施法術，覆蓋八百里河道",
+      "character_decision": "召風雪凍河成鏡",
+      "decision_result": "河道盡凍可渡"
+    },
+    {
+      "event_id": "ch048_007",
+      "event_name": "冰裂劫師",
+      "event_status": "潛伏冰下已久，待師徒行至中段",
+      "character_decision": "迸裂冰面擒拿唐僧",
+      "decision_result": "囚於石匣水府"
+    },
+    {
+      "event_id": "ch049_008",
+      "event_name": "水底三鬥",
+      "event_status": "水底遭三徒圍攻，局勢被動",
+      "character_decision": "率眾水族迎戰三徒",
+      "decision_result": "詐敗誘敵出水"
+    },
+    {
+      "event_id": "ch049_009",
+      "event_name": "岸棍驚妖",
+      "event_status": "追敵出水暴露弱點，遭突襲",
+      "character_decision": "倉促應戰悟空金箍棒",
+      "decision_result": "淬水敗退閉門"
+    },
+    {
+      "event_id": "ch049_010",
+      "event_name": "鱖婆識聖",
+      "event_status": "敗回水府，疑懼悟空身份",
+      "character_decision": "聽鱖婆勸諫決意固守",
+      "decision_result": "拒戰自保"
+    }
+  ]
+}

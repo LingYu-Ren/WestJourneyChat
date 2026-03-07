@@ -1,0 +1,58 @@
+{
+  "name": "二十八宿",
+  "aliases": [],
+  "description": "天庭星官集团，奉玉帝敕命协战降妖的二十八位星神",
+  "personality": [
+    "忠谨",
+    "协作",
+    "坚韧"
+  ],
+  "traits": [
+    "星辉映身",
+    "列阵成宿",
+    "奉旨行事"
+  ],
+  "abilities": [
+    "群力掀器",
+    "天界协同",
+    "星宿布阵"
+  ],
+  "summary": "在小雷音寺救援中屡遭黄眉老佛法宝压制，虽合力难破浑金鐃，但亢金龙献计促成转机；两度被搭包所收，显其受限于先天克制，亦彰其不避危难、护法卫道之职守。",
+  "events": [
+    {
+      "event_id": "ch065_007",
+      "event_name": "星宿撬鐃",
+      "event_status": "奉旨救援却困于浑金之宝",
+      "character_decision": "合力掀鐃未果",
+      "decision_result": "亢金龍獻計破縫"
+    },
+    {
+      "event_id": "ch065_009",
+      "event_name": "初戰狼牙",
+      "event_status": "随行者出战黄眉老佛",
+      "character_decision": "列阵参战",
+      "decision_result": "全員被搭包收盡"
+    },
+    {
+      "event_id": "ch065_010",
+      "event_name": "師徒泣訴",
+      "event_status": "被囚地窖，性命垂危",
+      "character_decision": "静听师徒泣诉",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch065_011",
+      "event_name": "遁繩解眾",
+      "event_status": "地窖受缚待援",
+      "character_decision": "助行者解縛脫逃",
+      "decision_result": "護師奔坡待援"
+    },
+    {
+      "event_id": "ch065_013",
+      "event_name": "再戰遭收",
+      "event_status": "西山坡再遇黃眉拋包",
+      "character_decision": "隨眾迎戰復陷",
+      "decision_result": "全軍再封地窖"
+    }
+  ]
+}

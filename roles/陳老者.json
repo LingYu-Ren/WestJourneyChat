@@ -1,0 +1,36 @@
+{
+  "name": "陳老者",
+  "aliases": [],
+  "description": "陳家莊莊主，當地德高望重的長者",
+  "personality": [
+    "和善",
+    "謙遜",
+    "重禮"
+  ],
+  "traits": [
+    "年長",
+    "姓陳",
+    "居莊院"
+  ],
+  "abilities": [
+    "待客",
+    "敘宗聯譜"
+  ],
+  "summary": "與玄奘因同姓而敘宗，確認血脈淵源；次日親送師徒離莊，標誌人間溫情告一段落。",
+  "events": [
+    {
+      "event_id": "ch014_007",
+      "event_name": "同姓敘宗",
+      "event_status": "莊中待客，遇僧自陳俗姓",
+      "character_decision": "應悟空戲言與玄奘聯宗",
+      "decision_result": "強化玄奘人間根脈"
+    },
+    {
+      "event_id": "ch014_008",
+      "event_name": "辭莊西進",
+      "event_status": "天明送客，莊外臨別",
+      "character_decision": "備食送行",
+      "decision_result": "師徒啟程入荒野"
+    }
+  ]
+}

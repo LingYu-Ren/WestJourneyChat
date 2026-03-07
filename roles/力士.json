@@ -1,0 +1,54 @@
+{
+  "name": "力士",
+  "aliases": [],
+  "description": "御馬監中負責雜務的低階宦官",
+  "personality": [
+    "勤勉",
+    "守職",
+    "謹慎",
+    "忠於職守"
+  ],
+  "traits": [
+    "服色制式",
+    "常駐御馬監",
+    "隨眾行動",
+    "天門值守經驗"
+  ],
+  "abilities": [
+    "飼養馬匹",
+    "協理監務",
+    "園囿巡值",
+    "天界通行協從"
+  ],
+  "summary": "作為御馬監基層職員，與孫悟空等同僚協作飼養天駒，見證並參與天馬肥壯、眾官賀喜之事。　奉命參與蟠桃園查勘與摘桃事務，於悟空驚枝現形之際在場見證，身處天庭禮制與突發衝突交匯之關鍵情境。　奉命星夜隨行赴東天門外，參與孫悟空求援太乙救苦天尊之緊急行動，展現其作為天庭常備侍從的應變與協同能力。",
+  "events": [
+    {
+      "event_id": "ch004_005",
+      "event_name": "勤養天駒",
+      "event_status": "與新任弼馬溫共事飼馬",
+      "character_decision": "協同飼養天馬",
+      "decision_result": "天馬肥壯，設宴賀喜"
+    },
+    {
+      "event_id": "ch005_002",
+      "event_name": "初勘桃園",
+      "event_status": "隨悟空初入蟠桃園查勘",
+      "character_decision": "協同巡查桃樹",
+      "decision_result": "完成園務初步清點"
+    },
+    {
+      "event_id": "ch005_004",
+      "event_name": "驚枝現形",
+      "event_status": "七仙女摘桃時在場侍立",
+      "character_decision": "靜立旁觀未介入",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch090_011",
+      "event_name": "星夜赴宮",
+      "event_status": "寅時東天門外待命隨行",
+      "character_decision": "隨隊護送赴妙巖宮",
+      "decision_result": "抵達妙巖宮見天尊"
+    }
+  ]
+}

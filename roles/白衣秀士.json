@@ -1,0 +1,34 @@
+{
+  "name": "白衣秀士",
+  "aliases": [],
+  "description": "化形為白衣秀士的白蛇精，黑風山三妖之一",
+  "personality": [
+    "陰險",
+    "怯懦"
+  ],
+  "traits": [
+    "白衣書生形貌",
+    "蛇精本相"
+  ],
+  "abilities": [
+    "幻化",
+    "潛行"
+  ],
+  "summary": "作為黑風怪同黨參與佛衣會密議，因孫悟空突襲而被當場誅殺。",
+  "events": [
+    {
+      "event_id": "ch017_001",
+      "event_name": "潛蹤竊聽",
+      "event_status": "與黑風怪、道人密議佛衣會",
+      "character_decision": "參與密謀籌辦佛衣會",
+      "decision_result": "暴露袈裟下落與慶壽計畫"
+    },
+    {
+      "event_id": "ch017_002",
+      "event_name": "怒棒驚遁",
+      "event_status": "遭孫悟空突襲圍攻",
+      "character_decision": "試圖逃遁",
+      "decision_result": "被行者打死"
+    }
+  ]
+}

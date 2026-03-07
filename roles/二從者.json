@@ -1,0 +1,34 @@
+{
+  "name": "二從者",
+  "aliases": [],
+  "description": "玄奘西行初期的兩名隨行僕從",
+  "personality": [
+    "忠誠",
+    "怯懦"
+  ],
+  "traits": [
+    "凡俗體質",
+    "無神通護持"
+  ],
+  "abilities": [
+    "鞍馬勞頓",
+    "隨行侍奉"
+  ],
+  "summary": "隨玄奘辭別法門寺眾僧西進，途中於雙叉嶺遭妖擒殺，慘死虎穴，標誌西行首劫之始。",
+  "events": [
+    {
+      "event_id": "ch013_003",
+      "event_name": "辭別眾僧",
+      "event_status": "整裝待發，離寺西行",
+      "character_decision": "隨師辭眾啟程",
+      "decision_result": "離開大唐腹地"
+    },
+    {
+      "event_id": "ch013_006",
+      "event_name": "虎穴遭劫",
+      "event_status": "墮坑被妖圍困，性命垂危",
+      "character_decision": "未能自保，遭分食",
+      "decision_result": "身死道消"
+    }
+  ]
+}

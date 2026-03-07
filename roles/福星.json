@@ -1,0 +1,37 @@
+{
+  "name": "福星",
+  "aliases": [],
+  "description": "道教三星之一，主司人间福气与吉祥",
+  "personality": [
+    "谦和",
+    "审慎",
+    "守礼"
+  ],
+  "traits": [
+    "白须长眉",
+    "手持如意",
+    "慈颜含笑"
+  ],
+  "abilities": [
+    "祥云驾行",
+    "福泽显化",
+    "仙术通晓"
+  ],
+  "summary": "在蓬莱白云洞明确表示无力救治人参果树，后出席五庄观果会，见证镇元子与悟空结义。",
+  "events": [
+    {
+      "event_id": "ch026_004",
+      "event_name": "三星拒方",
+      "event_status": "被悟空恳求救治灵根，处境为难",
+      "character_decision": "坦言无法治活人参果树",
+      "decision_result": "悟空转赴方丈仙山"
+    },
+    {
+      "event_id": "ch026_009",
+      "event_name": "果會結盟",
+      "event_status": "列席人參果會，恩怨已解氛围融洽",
+      "character_decision": "参与果会并见证结拜",
+      "decision_result": "促成情谊升华，四众欢喜"
+    }
+  ]
+}

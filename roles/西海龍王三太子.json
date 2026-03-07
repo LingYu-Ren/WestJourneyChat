@@ -1,0 +1,70 @@
+{
+  "name": "西海龍王三太子",
+  "aliases": [
+    "小白龍",
+    "玉龍三太子"
+  ],
+  "description": "西海龍王敖閏之子，因縱火燒毀殿上明珠被罰懸吊待誅",
+  "personality": [
+    "傲岸",
+    "悔悟",
+    "順從",
+    "忠勇",
+    "機變",
+    "隱忍"
+  ],
+  "traits": [
+    "龍形",
+    "白馬化身",
+    "戴枷受縛",
+    "腿傷負創",
+    "潛行善偽",
+    "被攝受縛"
+  ],
+  "abilities": [
+    "騰雲駕霧",
+    "變化之術",
+    "水性通玄",
+    "夜探隱蹤",
+    "宮娥擬態",
+    "負重承役"
+  ],
+  "summary": "於南天門外被觀音菩薩奏請玉帝赦免死罪，改為潛澗待變白馬，成為取經腳力。　於寶象國危局中主動化龍夜探、變妝刺妖，雖敗猶奮；力竭後勸請悟空，展現護法之誠與應變之智。　於平頂山山徑遭銀角大王一併攝入蓮花洞，與師同陷囹圄，展現護法之身亦難脫厄運的現實困境。",
+  "events": [
+    {
+      "event_id": "ch008_007",
+      "event_name": "天門請赦",
+      "event_status": "懸吊待誅，性命垂危",
+      "character_decision": "靜候菩薩援救",
+      "decision_result": "獲玉帝特赦"
+    },
+    {
+      "event_id": "ch030_008",
+      "event_name": "白馬化龍",
+      "event_status": "師陷虎形，援軍杳然，情勢危急",
+      "character_decision": "聞訊化龍夜探銀安殿",
+      "decision_result": "潛入妖殿覓機救師"
+    },
+    {
+      "event_id": "ch030_009",
+      "event_name": "宮娥戲妖",
+      "event_status": "近身刺妖失敗，腿傷遁水",
+      "character_decision": "變宮娥近身刺妖",
+      "decision_result": "反遭敗退，負傷潛逃"
+    },
+    {
+      "event_id": "ch030_011",
+      "event_name": "驛中密議",
+      "event_status": "力竭難救，唯倚悟空可制妖",
+      "character_decision": "詳述災變勸請悟空",
+      "decision_result": "八戒應允東行請援"
+    },
+    {
+      "event_id": "ch033_007",
+      "event_name": "攝師入洞",
+      "event_status": "沙僧不敵，師徒連同白馬被擒",
+      "character_decision": "隨師同被攝入蓮花洞",
+      "decision_result": "與唐僧沙僧同吊洞中"
+    }
+  ]
+}

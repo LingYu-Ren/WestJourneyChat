@@ -1,0 +1,37 @@
+{
+  "name": "烏巢禪師",
+  "aliases": [],
+  "description": "隱居浮屠山烏巢的得道高僧，精通般若心法",
+  "personality": [
+    "超然",
+    "機鋒銳利",
+    "含蓄詼諧"
+  ],
+  "traits": [
+    "居烏巢",
+    "化金光而去",
+    "善作偈詩"
+  ],
+  "abilities": [
+    "授心經",
+    "預知因果",
+    "詩讖點化"
+  ],
+  "summary": "於浮屠山授《多心經》予唐僧，並以詩暗諷悟空、八戒，展現其深諳修行本質與人情機鋒。",
+  "events": [
+    {
+      "event_id": "ch019_011",
+      "event_name": "浮屠受經",
+      "event_status": "西行初遇魔瘴險境",
+      "character_decision": "授《多心經》護持",
+      "decision_result": "三藏得修心法要"
+    },
+    {
+      "event_id": "ch019_012",
+      "event_name": "搗巢嗔罵",
+      "event_status": "遭行者怒搗巢穴",
+      "character_decision": "化金光離去並留詩",
+      "decision_result": "師徒啟程入險境"
+    }
+  ]
+}

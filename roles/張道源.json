@@ -1,0 +1,35 @@
+{
+  "name": "張道源",
+  "aliases": [],
+  "description": "唐初朝廷重臣，參與佛道政務辯議",
+  "personality": [
+    "持重",
+    "務實",
+    "中立"
+  ],
+  "traits": [
+    "朝堂老臣",
+    "禮法嚴謹"
+  ],
+  "abilities": [
+    "政務協調",
+    "典章熟稔"
+  ],
+  "summary": "張道源作為核心朝臣參與佛道辯難與水陸大會籌備，在宗教政策定調與高僧選任中發揮關鍵協理作用。",
+  "events": [
+    {
+      "event_id": "ch012_005",
+      "event_name": "佛道辯難",
+      "event_status": "群臣激辯佛道地位，政令待決",
+      "character_decision": "列席辯難並參議國策",
+      "decision_result": "促成佛教立為國教"
+    },
+    {
+      "event_id": "ch012_006",
+      "event_name": "選舉壇主",
+      "event_status": "三朝臣共審僧才，壇主人選待定",
+      "character_decision": "參與推舉玄奘為壇主",
+      "decision_result": "玄奘受封都僧綱"
+    }
+  ]
+}

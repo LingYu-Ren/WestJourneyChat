@@ -1,0 +1,29 @@
+{
+  "name": "賊首二人",
+  "aliases": [],
+  "description": "占山為寇的盜賊首領，率眾劫道",
+  "personality": [
+    "兇悍",
+    "狂妄",
+    "暴戾"
+  ],
+  "traits": [
+    "持棍",
+    "聚眾",
+    "辱罵毆打"
+  ],
+  "abilities": [
+    "聚眾行劫",
+    "近身搏鬥"
+  ],
+  "summary": "因辱罵毆打唐僧師徒，觸怒孫悟空，遭金箍棒當場擊斃。",
+  "events": [
+    {
+      "event_id": "ch056_006",
+      "event_name": "金箍誅首",
+      "event_status": "路口山坡圍攻師徒，形勢佔優",
+      "character_decision": "辱罵毆打唐僧師徒",
+      "decision_result": "被孫悟空一棍擊斃"
+    }
+  ]
+}

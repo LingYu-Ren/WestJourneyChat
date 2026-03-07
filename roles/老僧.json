@@ -1,0 +1,35 @@
+{
+  "name": "老僧",
+  "aliases": [],
+  "description": "給孤布金寺中識破真相、指認真公主的老僧",
+  "personality": [
+    "睿智",
+    "沉穩",
+    "慈悲"
+  ],
+  "traits": [
+    "年高德劭",
+    "言簡意賅"
+  ],
+  "abilities": [
+    "辨偽識真",
+    "臨機指證"
+  ],
+  "summary": "老僧在後房指認囚女即為真公主，促成國王開鎖、父女相認，推動一家團圓。　老僧見證國王親迎真公主返寺，全程靜立隨喜，彰顯其見證者與精神支柱之角色。",
+  "events": [
+    {
+      "event_id": "ch095_018",
+      "event_name": "鐵鎖開真",
+      "event_status": "後房囚女身份未明，王室存疑",
+      "character_decision": "指認囚女即真公主",
+      "decision_result": "國王開鎖相認"
+    },
+    {
+      "event_id": "ch095_009",
+      "event_name": "迎駕取真",
+      "event_status": "國王率眾迎駕，寺中氣氛莊嚴肅穆",
+      "character_decision": "靜立見證迎駕儀式",
+      "decision_result": "促成團圓圓滿"
+    }
+  ]
+}

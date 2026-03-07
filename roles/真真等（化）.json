@@ -1,0 +1,52 @@
+{
+  "name": "真真等（化）",
+  "aliases": [
+    "真真等"
+  ],
+  "description": "黎山老母所化考驗取經人定力的幻形婦人",
+  "personality": [
+    "機智",
+    "嚴厲",
+    "善誘",
+    "沉穩",
+    "端莊"
+  ],
+  "traits": [
+    "幻形",
+    "設局",
+    "持禮",
+    "儀態雍容",
+    "言辭得體"
+  ],
+  "abilities": [
+    "幻化",
+    "試心",
+    "縛術",
+    "察言觀色",
+    "導引誘問"
+  ],
+  "summary": "以「撞天婚」設局考驗豬八戒，展現其作為考官的權威性與試煉手段的精準性。　於廳堂明言招婿以試禪心，在後門密約中默許八戒應諾，展現層遞式誘導策略與對人性弱點的精準拿捏。",
+  "events": [
+    {
+      "event_id": "ch023_007",
+      "event_name": "撞婚受縛",
+      "event_status": "主導考驗，布下幻局",
+      "character_decision": "設撞天婚誘八戒失儀",
+      "decision_result": "八戒被縛跌傷"
+    },
+    {
+      "event_id": "ch023_005",
+      "event_name": "寡婦招婿",
+      "event_status": "廳堂設宴，以禮明示招贅",
+      "character_decision": "主動提議坐山招夫",
+      "decision_result": "三藏拒婚，八戒動心"
+    },
+    {
+      "event_id": "ch023_006",
+      "event_name": "後門密約",
+      "event_status": "後門私晤，美色富貴並施",
+      "character_decision": "默許八戒應贅之議",
+      "decision_result": "悟空監視獲實證"
+    }
+  ]
+}

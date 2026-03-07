@@ -1,0 +1,37 @@
+{
+  "name": "三十小怪",
+  "aliases": [],
+  "description": "莲花洞银角大王麾下小妖，负责巡山警戒",
+  "personality": [
+    "尽职",
+    "警觉",
+    "凶悍"
+  ],
+  "traits": [
+    "巡山小怪",
+    "听令行事",
+    "持锣为号"
+  ],
+  "abilities": [
+    "巡山警戒",
+    "协同围捕",
+    "鸣锣截道"
+  ],
+  "summary": "作为莲花洞巡山队伍一员，参与围捕八戒行动，标志其正式卷入取经团队与妖魔的首次正面冲突。　转为草寇同伙，在平阳路口鸣锣拦路劫财，标志其从山野小妖向流动作恶的盗匪角色延伸。",
+  "events": [
+    {
+      "event_id": "ch032_009",
+      "event_name": "八戒遭擒",
+      "event_status": "协同银角设伏，围捕误入者",
+      "character_decision": "配合银角围堵八戒",
+      "decision_result": "成功擒获八戒"
+    },
+    {
+      "event_id": "ch056_003",
+      "event_name": "鑼響截道",
+      "event_status": "混迹贼群，奉命鸣锣截道",
+      "character_decision": "击锣拦路索财",
+      "decision_result": "三藏被擒吊树"
+    }
+  ]
+}

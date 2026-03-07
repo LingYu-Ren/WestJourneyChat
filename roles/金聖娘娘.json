@@ -1,0 +1,78 @@
+{
+  "name": "金聖娘娘",
+  "aliases": [],
+  "description": "朱紫國王之正宮王后，被賽太歲擄至麒麟山為壓寨夫人",
+  "personality": [
+    "隱忍",
+    "機敏",
+    "忠貞",
+    "沉著",
+    "果決"
+  ],
+  "traits": [
+    "垂淚示弱",
+    "善察妖心",
+    "隨身不離金鈴",
+    "假意承歡",
+    "臨危不亂"
+  ],
+  "abilities": [
+    "偽裝順從",
+    "臨機應變",
+    "情報傳遞",
+    "協同策應",
+    "心理周旋"
+  ],
+  "summary": "在孫悟空現形密議後，主動配合行者計策，以夫妻情誼哄騙賽太歲交出金鈴，展現關鍵時刻的果敢與智略。　在「耳畔密語」中主動接納悟空計策，全程配合偽裝、誘酒、擾妖等環節，展現高度戰術協同意識與心理操控力；返國後雖遭毒刺所困，仍堅守倫理底線，待解魘後方得團圓。",
+  "events": [
+    {
+      "event_id": "ch070_012",
+      "event_name": "現形通款",
+      "event_status": "身陷妖洞，孤立無援",
+      "character_decision": "垂淚拜謝並詳告金鈴實情",
+      "decision_result": "取得行者信任與合作基礎"
+    },
+    {
+      "event_id": "ch070_013",
+      "event_name": "誘取金鈴",
+      "event_status": "妖王戒備鬆懈，時機稍縱即逝",
+      "character_decision": "假意承歡哄騙解鈴交付",
+      "decision_result": "成功取得封口金鈴"
+    },
+    {
+      "event_id": "ch071_002",
+      "event_name": "耳畔密語",
+      "event_status": "孤身面對行者，信疑交織",
+      "character_decision": "傾訴實情確立合作",
+      "decision_result": "敲定誘取金鈴之計"
+    },
+    {
+      "event_id": "ch071_004",
+      "event_name": "雙喜遞杯",
+      "event_status": "宴席對飲，妖王戒備未消",
+      "character_decision": "親奉美酒助悟空惑妖",
+      "decision_result": "妖王鬆懈允准同寢"
+    },
+    {
+      "event_id": "ch071_005",
+      "event_name": "三蟲攻體",
+      "event_status": "寢殿共處，妖王衣冠嚴整",
+      "character_decision": "默許蟲擾引其解衣",
+      "decision_result": "暴露金鈴懸佩位置"
+    },
+    {
+      "event_id": "ch071_011",
+      "event_name": "草龍馳歸",
+      "event_status": "妖洞已破，亟待返國復位",
+      "character_decision": "乘雲疾歸不避風露",
+      "decision_result": "即刻重返朱紫國都"
+    },
+    {
+      "event_id": "ch071_012",
+      "event_name": "棕衣解魘",
+      "event_status": "遍體毒刺，夫妻難近",
+      "character_decision": "靜待真人施法解厄",
+      "decision_result": "倫理障礙徹底消除"
+    }
+  ]
+}

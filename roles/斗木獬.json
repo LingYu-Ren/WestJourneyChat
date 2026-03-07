@@ -1,0 +1,27 @@
+{
+  "name": "斗木獬",
+  "aliases": [],
+  "description": "二十八宿之一，四木禽星之斗木獬",
+  "personality": [
+    "忠谨",
+    "服从"
+  ],
+  "traits": [
+    "星官装束",
+    "持兵列阵"
+  ],
+  "abilities": [
+    "天界点将",
+    "协剿降妖"
+  ],
+  "summary": "作为四木禽星之一，奉玉帝旨意被许天师点将，随孙悟空下界协剿妖魔。",
+  "events": [
+    {
+      "event_id": "ch092_006",
+      "event_name": "奉旨點將",
+      "event_status": "天师宣旨点将，四星列阵待命",
+      "character_decision": "应旨受命随行者下界",
+      "decision_result": "随行协剿"
+    }
+  ]
+}

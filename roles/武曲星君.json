@@ -1,0 +1,30 @@
+{
+  "name": "武曲星君",
+  "aliases": [],
+  "description": "天庭掌管武事与军政的星君，御马监管辖者",
+  "personality": [
+    "尽职",
+    "审慎",
+    "守序"
+  ],
+  "traits": [
+    "持剑",
+    "披甲",
+    "星辉萦身"
+  ],
+  "abilities": [
+    "统御天兵",
+    "稽查官署",
+    "奏报廷议"
+  ],
+  "summary": "武曲星君奏报御馬監缺員，促成玉帝敕封孫悟空為弼馬溫，展現其職司內務調配之責。",
+  "events": [
+    {
+      "event_id": "ch004_004",
+      "event_name": "授職弼馬",
+      "event_status": "靈霄寶殿議政，天庭官制運作中",
+      "character_decision": "奏報御馬監缺員",
+      "decision_result": "悟空受封弼馬溫"
+    }
+  ]
+}

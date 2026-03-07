@@ -1,0 +1,102 @@
+{
+  "name": "玉皇大天尊",
+  "aliases": [
+    "玉帝",
+    "昊天金阙无上至尊自然妙有弥罗至真玉皇上帝"
+  ],
+  "description": "天庭最高统治者，统御三界十方诸神",
+  "personality": [
+    "威严",
+    "审慎",
+    "果决",
+    "权衡深远",
+    "善纳谏言",
+    "宽严相济",
+    "因势利导",
+    "明察幽微"
+  ],
+  "traits": [
+    "冠冕旒珠",
+    "端坐灵霄",
+    "金口玉言",
+    "临朝听奏",
+    "龙章凤篆",
+    "天威难测",
+    "玉陛垂询"
+  ],
+  "abilities": [
+    "洞悉天机",
+    "调遣神将",
+    "勘验灵异",
+    "裁断仙凡讼案",
+    "敕封神职",
+    "权衡战和",
+    "星宿稽查"
+  ],
+  "summary": "面对石猴目射金光异象，玉帝即刻遣千里眼、顺风耳勘验，确认其为天地精华所生，展现对异常天象的敏锐响应与权威裁断。　面对东海龙王告状与十代冥王联名奏劾，玉帝兼听并察，权衡利害后采纳太白金星招安之议，展现其统御全局的政略智慧与灵活应变的治理手腕。　面对悟空失礼御前，玉帝特赦其罪并授弼马温之职，显其容人之量与用人之机；闻其叛逃即遣天兵征讨，复于战不利时采纳金星再谏，诏封齐天大圣，凸显其刚柔并济、顺势而为的统御之道。　面对悟空殿前指认思凡兇星为妖，玉帝当即敕令可韩丈人真君全面查勘诸天星宿，展现其对天象异动的即时响应与制度化稽核能力。",
+  "events": [
+    {
+      "event_id": "ch001_008",
+      "event_name": "天庭勘驗",
+      "event_status": "金光异象突现，天庭震动",
+      "character_decision": "遣千里眼顺风耳查异",
+      "decision_result": "确认石猴天地所生"
+    },
+    {
+      "event_id": "ch003_011",
+      "event_name": "龍王告狀",
+      "event_status": "龍王上表控訴，天庭震怒",
+      "character_decision": "准奏立案，決意遣將",
+      "decision_result": "確立擒拿方略"
+    },
+    {
+      "event_id": "ch003_012",
+      "event_name": "冥王奏劾",
+      "event_status": "冥府秩序崩壞，群臣震懾",
+      "character_decision": "聽取奏劾，靜待建言",
+      "decision_result": null
+    },
+    {
+      "event_id": "ch003_013",
+      "event_name": "金星招安",
+      "event_status": "龍冥雙劾交迫，亟需權宜之策",
+      "character_decision": "採納招安，敕命金星宣詔",
+      "decision_result": "悟空初登天界"
+    },
+    {
+      "event_id": "ch004_003",
+      "event_name": "御前覲見",
+      "event_status": "悟空失礼惊动群仙",
+      "character_decision": "特赦不拜之罪",
+      "decision_result": "命授官职"
+    },
+    {
+      "event_id": "ch004_004",
+      "event_name": "授職弼馬",
+      "event_status": "御馬監缺員待補",
+      "character_decision": "敕封弼馬溫",
+      "decision_result": "悟空赴任養馬"
+    },
+    {
+      "event_id": "ch004_009",
+      "event_name": "天庭震怒",
+      "event_status": "悟空叛逃天庭震怒",
+      "character_decision": "遣李靖哪吒征討",
+      "decision_result": "天兵下界擒拿"
+    },
+    {
+      "event_id": "ch004_012",
+      "event_name": "金星再諫",
+      "event_status": "天兵兩敗欲添兵",
+      "character_decision": "准奏詔封齊天大聖",
+      "decision_result": "詔封空銜聖號"
+    },
+    {
+      "event_id": "ch051_004",
+      "event_name": "玉陛奏魔",
+      "event_status": "悟空殿前指妖，群仙屏息",
+      "character_decision": "敕可韩司查勘星宿",
+      "decision_result": "启动天界星官稽查"
+    }
+  ]
+}

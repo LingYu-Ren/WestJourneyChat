@@ -1,0 +1,30 @@
+{
+  "name": "官兵",
+  "aliases": [],
+  "description": "奉命缉拿盗贼的官府差役",
+  "personality": [
+    "奉命行事",
+    "轻信证物",
+    "缺乏审慎"
+  ],
+  "traits": [
+    "持械",
+    "着公服",
+    "依令而动"
+  ],
+  "abilities": [
+    "缉捕",
+    "押解",
+    "验看赃物"
+  ],
+  "summary": "因刺史未审实情即依失状行事，官兵凭赃物误捕唐僧师徒，致四众下狱受辱。",
+  "events": [
+    {
+      "event_id": "ch097_006",
+      "event_name": "官兵誤捕",
+      "event_status": "依失狀緝拿，未加詳查",
+      "character_decision": "以贓物為證捉拿師徒",
+      "decision_result": "四眾下獄受辱"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "如意真仙",
+  "aliases": [],
+  "description": "解陽山聚仙庵主人，原破兒洞道人，紅孩兒叔父",
+  "personality": [
+    "記仇",
+    "護短",
+    "驕矜"
+  ],
+  "traits": [
+    "持鉤",
+    "道袍",
+    "蓄鬚",
+    "守泉"
+  ],
+  "abilities": [
+    "鉤法精熟",
+    "道術修為",
+    "守庵拒敵"
+  ],
+  "summary": "因認出孫悟空為紅孩兒仇人而拒供水，兩度交鋒皆失利，最終落胎泉水被奪。",
+  "events": [
+    {
+      "event_id": "ch053_004",
+      "event_name": "鉤棒初鬥",
+      "event_status": "悟空強索落胎泉水，形勢緊迫",
+      "character_decision": "拒供水並持鉤迎戰",
+      "decision_result": "敗走庵內"
+    },
+    {
+      "event_id": "ch053_006",
+      "event_name": "庵門再戰",
+      "event_status": "悟空佯攻、沙僧潛入，腹背受敵",
+      "character_decision": "應對佯攻疏於防備",
+      "decision_result": "道童被傷，泉水被奪"
+    }
+  ]
+}

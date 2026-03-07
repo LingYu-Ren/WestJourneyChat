@@ -1,0 +1,29 @@
+{
+  "name": "莊人",
+  "aliases": [],
+  "description": "王家莊普通村民，代表民間對異相的本能畏懼者",
+  "personality": [
+    "驚懼",
+    "從眾",
+    "質樸"
+  ],
+  "traits": [
+    "平民裝束",
+    "無特異外貌",
+    "反應真實"
+  ],
+  "abilities": [
+    "辨識常態",
+    "群體應激"
+  ],
+  "summary": "面對豬八戒醜相當場驚退，展現民間對超常形貌的集體性恐慌與排斥。",
+  "events": [
+    {
+      "event_id": "ch020_005",
+      "event_name": "醜相驚眾",
+      "event_status": "突見異相，全家震懾",
+      "character_decision": "驚惶避退",
+      "decision_result": "全莊人四散奔逃"
+    }
+  ]
+}

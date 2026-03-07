@@ -1,0 +1,28 @@
+{
+  "name": "廣謀",
+  "aliases": [],
+  "description": "觀音禪院僧人，老院主心腹之一",
+  "personality": [
+    "貪婪",
+    "陰險",
+    "從眾"
+  ],
+  "traits": [
+    "參與密謀",
+    "聽命行事"
+  ],
+  "abilities": [
+    "策劃縱火",
+    "協同作案"
+  ],
+  "summary": "廣謀參與夜間密謀，與眾僧合謀放火奪取唐僧袈裟，並協助搬柴圍困禪堂。",
+  "events": [
+    {
+      "event_id": "ch016_008",
+      "event_name": "密謀放火",
+      "event_status": "群僧集會，共商焚殺之計",
+      "character_decision": "附議縱火奪寶",
+      "decision_result": "參與搬柴圍禪堂"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "一秤金",
+  "aliases": [],
+  "description": "陳家莊陳澄之女，即將被獻祭給靈感大王的童女",
+  "personality": [
+    "無辜",
+    "被動",
+    "柔弱"
+  ],
+  "traits": [
+    "待祭童女",
+    "凡人女子",
+    "無自保之力"
+  ],
+  "abilities": [
+    "無顯著能力"
+  ],
+  "summary": "本為祭品，在八戒幻形替代後暫免獻祭，但仍處於被操控與危殆境地。",
+  "events": [
+    {
+      "event_id": "ch047_008",
+      "event_name": "八戒化女",
+      "event_status": "身陷祭賽儀式，命懸一線",
+      "character_decision": "被八戒幻形替代",
+      "decision_result": "暫免被焚祭"
+    }
+  ]
+}

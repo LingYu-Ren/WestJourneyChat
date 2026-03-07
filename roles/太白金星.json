@@ -1,0 +1,164 @@
+{
+  "name": "太白金星",
+  "aliases": [
+    "太白長庚星",
+    "金星"
+  ],
+  "description": "天庭重臣，玉帝近侍，主司招安与外交事务的星君",
+  "personality": [
+    "睿智",
+    "圆融",
+    "善谏",
+    "务实",
+    "沉着",
+    "应变迅捷",
+    "慈悲",
+    "隐忍",
+    "洞悉机宜",
+    "导引有方",
+    "警敏",
+    "未雨绸缪",
+    "公允持中",
+    "调和鼎鼐",
+    "明察隐微"
+  ],
+  "traits": [
+    "白发长须",
+    "手持玉圭",
+    "常着素袍",
+    "步履从容",
+    "言辞恳切",
+    "化身凡叟",
+    "授简指路",
+    "倏忽显隐",
+    "持诏秉节",
+    "居中斡旋",
+    "列班天师之侧"
+  ],
+  "abilities": [
+    "通晓天机",
+    "擅辞令",
+    "精于权衡",
+    "奉旨宣诏",
+    "临机释疑",
+    "斡旋调停",
+    "化形济世",
+    "断厄护正",
+    "示迹指要",
+    "导引正途",
+    "预警示险",
+    "揭伪明实",
+    "辨诬理讼",
+    "协理神司",
+    "厘清谱系",
+    "溯本辨源"
+  ],
+  "summary": "在龙王与冥王联名弹劾之际，太白金星主动建言招安孙悟空，获玉帝采纳并亲赴花果山宣诏，促成悟空首次入天庭。　在南天门受阻时及时释疑稳住悟空；于灵霄殿前力谏封齐天大圣，促成二次招安成功。　于双叉岭坑坎化身老叟，断绳吹气解玄奘之厄，以天星感应昭示神助不绝，坚其西行信念。　于黄风岭化老翁授简，精准指明灵吉菩萨居所与降妖法器渊源，为取经团队破障定策。　于黄风岭大路旁化老者授简，精准揭示灵吉菩萨居所方位及飞龙宝杖渊源，为取经团队破障提供关键路径与法器认知。　于狮驼岭化老叟预警妖势，使取经团队知险生慎；复被悟空识破真身，坦陈三魔底细并许天兵协力，彰显其预判之先与信诺之重。　于南天门至灵霄殿御前呈状环节，太白金星承旨传召托塔天王问案；在云楼宫父子辨亲僵局中，以中立身份促成真相揭示；继而主动调停，将告状转为协同降妖，彰显其统摄神司、弥缝裂隙的枢机之能。　于西天门外点明三犀本相，直指妖源本质，确立四木禽星为降伏关键，彰显其溯本辨源、精准定策之能。",
+  "events": [
+    {
+      "event_id": "ch003_013",
+      "event_name": "金星招安",
+      "event_status": "群臣缄默，玉帝亟需权宜之策",
+      "character_decision": "建言招安孙悟空",
+      "decision_result": "玉帝准奏，授招安之命"
+    },
+    {
+      "event_id": "ch003_014",
+      "event_name": "奉詔上天",
+      "event_status": "花果山水帘洞，群猴初闻天命",
+      "character_decision": "持旨宣诏，引悟空升天",
+      "decision_result": "悟空随行入天庭"
+    },
+    {
+      "event_id": "ch004_001",
+      "event_name": "天門受阻",
+      "event_status": "悟空被天丁持械拦阻南天门",
+      "character_decision": "居中调停，澄清身份疑虑",
+      "decision_result": "暂抑冲突，维系招安大局"
+    },
+    {
+      "event_id": "ch004_002",
+      "event_name": "金星釋疑",
+      "event_status": "悟空怒斥受骗，拒信天命",
+      "character_decision": "解释授籙方得通行之制",
+      "decision_result": "悟空暂信，随行入内"
+    },
+    {
+      "event_id": "ch004_003",
+      "event_name": "御前覲見",
+      "event_status": "悟空失礼惊动群仙，殿前气氛紧绷",
+      "character_decision": "引见奏对，护持初入天界者",
+      "decision_result": "玉帝特赦，开启授职程序"
+    },
+    {
+      "event_id": "ch004_012",
+      "event_name": "金星再諫",
+      "event_status": "天兵两败，玉帝欲添兵征讨",
+      "character_decision": "建言封齐天大圣以安其心",
+      "decision_result": "玉帝准奏，定下空衔之封"
+    },
+    {
+      "event_id": "ch004_013",
+      "event_name": "二度招安",
+      "event_status": "花果山群妖环伺，悟空疑信参半",
+      "character_decision": "携诏重申名号，礼遇有加",
+      "decision_result": "悟空欣然应召，受封齐天大圣府"
+    },
+    {
+      "event_id": "ch013_007",
+      "event_name": "金星解厄",
+      "event_status": "玄奘被缚妖穴，性命垂危",
+      "character_decision": "化叟断绳吹气施救",
+      "decision_result": "玄奘脱厄，志念愈坚"
+    },
+    {
+      "event_id": "ch021_010",
+      "event_name": "金星指路",
+      "event_status": "悟空八戒困于黄风，急觅降妖之法",
+      "character_decision": "化翁授简指明灵吉所在",
+      "decision_result": "确立赴小须弥山路线"
+    },
+    {
+      "event_id": "ch074_002",
+      "event_name": "老叟報險",
+      "event_status": "狮驼岭妖氛炽盛，取经人浑然不觉",
+      "character_decision": "化叟警示妖魔凶险",
+      "decision_result": "三藏惊堕马，八戒再询实情"
+    },
+    {
+      "event_id": "ch074_003",
+      "event_name": "金星揭偽",
+      "event_status": "行者追云识破化身，亟需确证妖情",
+      "character_decision": "坦陈三魔威势及天兵协力",
+      "decision_result": "悟空获知实情，得天兵承诺"
+    },
+    {
+      "event_id": "ch083_007",
+      "event_name": "御前呈狀",
+      "event_status": "行者持证上奏，玉帝亟需查实",
+      "character_decision": "承旨召李靖赴阙问案",
+      "decision_result": "天王奉敕即刻入朝"
+    },
+    {
+      "event_id": "ch083_008",
+      "event_name": "父子辨親",
+      "event_status": "天王哪吒各执一词，真相难明",
+      "character_decision": "列席见证，厘清亲缘旧案",
+      "decision_result": "揭明老鼠精三名及窃烛旧事"
+    },
+    {
+      "event_id": "ch083_009",
+      "event_name": "金星調停",
+      "event_status": "天王惧责、行者难缠，势将破裂",
+      "character_decision": "劝化改状为协同降妖",
+      "decision_result": "天王点兵随行者下界"
+    },
+    {
+      "event_id": "ch092_005",
+      "event_name": "金星指源",
+      "event_status": "行者不识妖源，奏请天兵",
+      "character_decision": "点明三犀本相",
+      "decision_result": "确立四木禽星为关键"
+    }
+  ]
+}
