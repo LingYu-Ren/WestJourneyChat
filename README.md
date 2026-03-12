@@ -234,3 +234,10 @@ python ..\scripts\run_frontend_server.py --port 8000
 
 
 ```
+
+## Demo Video
+
+<video src="./bandicam%202026-03-12%2020-52-10-472.mp4" controls width="960"></video>
+
+If the embedded player does not load in your Markdown viewer, open the file directly:
+[bandicam 2026-03-12 20-52-10-472.mp4](./bandicam%202026-03-12%2020-52-10-472.mp4)
