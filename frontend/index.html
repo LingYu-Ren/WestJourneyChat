@@ -10,12 +10,12 @@
       href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800&family=Noto+Serif+SC:wght@400;600;700&family=ZCOOL+XiaoWei&display=swap"
       rel="stylesheet"
     />
-    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./styles.css?v=20260312c" />
   </head>
   <body>
     <div class="page-shell">
       <header class="hero">
-        <img class="hero-banner" src="../pics/top.png" alt="西游记宣传图" />
+        <img class="hero-banner" src="../pics/top.png" alt="西游记主题图" />
         <div class="hero-copy">
           <p class="eyebrow">Journey To The West Archive</p>
           <h1>西游角色 & 事件档案</h1>
@@ -31,6 +31,9 @@
               <span class="stat-label">当前选中</span>
               <strong id="selectedName">加载中</strong>
             </div>
+            <button id="openDialogueButton" class="hero-action-button" type="button">
+              角色对话
+            </button>
           </div>
         </div>
       </header>
@@ -44,11 +47,7 @@
             </div>
             <label class="search-box">
               <span>检索</span>
-              <input
-                id="searchInput"
-                type="search"
-                placeholder="输入角色名或别名"
-              />
+              <input id="searchInput" type="search" placeholder="输入角色名或别名" />
             </label>
           </div>
           <div id="rosterGrid" class="roster-grid"></div>
@@ -67,10 +66,7 @@
             <div class="detail-summary-shell">
               <div id="detailDescription" class="detail-description"></div>
               <div class="summary-progress-track" aria-hidden="true">
-                <div
-                  id="summaryProgressThumb"
-                  class="summary-progress-thumb"
-                ></div>
+                <div id="summaryProgressThumb" class="summary-progress-thumb"></div>
               </div>
             </div>
             <div class="detail-metrics">

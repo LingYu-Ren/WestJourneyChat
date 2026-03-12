@@ -166,6 +166,41 @@ input {
   align-items: stretch;
 }
 
+.hero-action-button {
+  appearance: none;
+  -webkit-appearance: none;
+  margin-left: auto;
+  min-width: 140px;
+  padding: 15px 18px;
+  border: 1px solid rgba(229, 173, 88, 0.22);
+  border-radius: 18px;
+  background: rgba(255, 248, 237, 0.08);
+  color: #ffffff;
+  font: inherit;
+  font-size: clamp(1.5rem, 2.1vw, 2rem);
+  font-weight: 800;
+  line-height: 1.2;
+  cursor: pointer;
+  display: block;
+  text-align: left;
+  transition: border-color 180ms ease, background-color 180ms ease;
+}
+
+.hero-action-button:hover,
+.hero-action-button:focus-visible {
+  border-color: rgba(229, 173, 88, 0.4);
+  background: rgba(255, 248, 237, 0.14);
+}
+
+/* Keep this button visually identical to hero stat cards even under external style overrides. */
+.hero .hero-stats .hero-action-button {
+  border: 1px solid rgba(229, 173, 88, 0.22) !important;
+  border-radius: 18px !important;
+  background: rgba(255, 248, 237, 0.08) !important;
+  color: #ffffff !important;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.45) !important;
+}
+
 .hero-stats > div,
 .metric-card {
   min-width: 140px;
@@ -585,6 +620,203 @@ input {
   text-align: center;
 }
 
+.dialogue-shell {
+  width: min(1440px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 24px 0 48px;
+}
+
+.dialogue-hero {
+  position: relative;
+  overflow: hidden;
+  padding: 32px;
+  border: 1px solid rgba(255, 247, 235, 0.7);
+  border-radius: 28px;
+  background:
+    radial-gradient(circle at top left, rgba(229, 173, 88, 0.22), transparent 28%),
+    linear-gradient(135deg, rgba(20, 32, 43, 0.98), rgba(34, 52, 70, 0.94));
+  box-shadow: var(--shadow);
+}
+
+.dialogue-back {
+  display: inline-flex;
+  align-items: center;
+  min-height: 42px;
+  padding: 0 16px;
+  border: 1px solid rgba(229, 173, 88, 0.28);
+  border-radius: 999px;
+  color: #fff5e6;
+  text-decoration: none;
+}
+
+.dialogue-hero-copy {
+  max-width: 880px;
+  margin-top: 22px;
+}
+
+.dialogue-hero h1 {
+  margin: 0;
+  color: #fff7ea;
+  font-family: var(--font-display);
+  font-size: clamp(2.8rem, 5vw, 4.6rem);
+  line-height: 1.04;
+}
+
+.dialogue-role-aliases,
+.dialogue-role-summary {
+  color: rgba(249, 240, 227, 0.82);
+}
+
+.dialogue-role-aliases {
+  margin: 18px 0 0;
+}
+
+.dialogue-summary-shell {
+  position: relative;
+  margin-top: 14px;
+  padding-left: 18px;
+}
+
+.dialogue-role-summary {
+  margin: 0;
+  max-width: 64rem;
+  max-height: 220px;
+  overflow-y: auto;
+  padding-right: 8px;
+  line-height: 1.9;
+  word-break: break-word;
+  overflow-wrap: anywhere;
+  scrollbar-width: none;
+}
+
+.dialogue-role-summary::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+.dialogue-summary-progress-track {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  width: 6px;
+  border-radius: 999px;
+  background: rgba(255, 240, 220, 0.2);
+  overflow: hidden;
+}
+
+.dialogue-summary-progress-thumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 30%;
+  min-height: 28px;
+  border-radius: 999px;
+  background: linear-gradient(180deg, var(--accent-strong), var(--accent));
+  transform: translateY(0);
+  opacity: 0;
+  transition: transform 120ms linear, height 120ms linear, opacity 120ms linear;
+}
+
+.dialogue-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(300px, 360px);
+  gap: 22px;
+  margin-top: 22px;
+}
+
+.dialogue-chat-panel,
+.dialogue-side-card {
+  padding: 24px;
+  border: 1px solid rgba(255, 247, 235, 0.8);
+  border-radius: 24px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(18px);
+}
+
+.chat-messages {
+  display: grid;
+  gap: 14px;
+  align-content: start;
+  min-height: 280px;
+  max-height: 60vh;
+  overflow: auto;
+}
+
+.chat-message {
+  max-width: min(100%, 42rem);
+  padding: 14px 16px;
+  border-radius: 18px;
+  line-height: 1.8;
+}
+
+.chat-message-user {
+  justify-self: end;
+  background: linear-gradient(180deg, rgba(32, 52, 72, 0.96), rgba(22, 32, 43, 0.98));
+  color: #fff7ea;
+}
+
+.chat-message-role {
+  justify-self: start;
+  background: rgba(255, 251, 245, 0.96);
+  border: 1px solid rgba(60, 45, 24, 0.08);
+  color: var(--text);
+}
+
+.chat-composer {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.chat-composer textarea {
+  resize: vertical;
+  min-height: 88px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 252, 247, 0.92);
+  color: var(--ink-blue);
+}
+
+.chat-composer button {
+  align-self: end;
+  min-width: 112px;
+  min-height: 52px;
+  padding: 0 20px;
+  border: 1px solid rgba(200, 129, 45, 0.22);
+  border-radius: 16px;
+  background: linear-gradient(180deg, rgba(255, 251, 245, 0.96), rgba(245, 236, 221, 0.94));
+  color: var(--ink-blue);
+  font-family: var(--font-ui);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}
+
+.dialogue-side-panel {
+  display: grid;
+  gap: 22px;
+}
+
+.dialogue-hints {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.dialogue-hint {
+  padding: 10px 14px;
+  border: 1px solid rgba(200, 129, 45, 0.18);
+  border-radius: 999px;
+  background: rgba(255, 250, 244, 0.92);
+  color: #5f574b;
+  cursor: pointer;
+}
+
 @media (max-width: 1200px) {
   .content-grid,
   .hero {
@@ -641,6 +873,19 @@ input {
   .hero-stats,
   .detail-metrics {
     flex-direction: column;
+  }
+
+  .hero-action-button {
+    margin-left: 0;
+    min-height: 58px;
+  }
+
+  .dialogue-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .chat-composer {
+    grid-template-columns: 1fr;
   }
 
   .roster-grid {

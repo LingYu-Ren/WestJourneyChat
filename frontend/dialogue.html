@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>角色对话</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700;800&family=Noto+Serif+SC:wght@400;600;700&family=ZCOOL+XiaoWei&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./styles.css?v=20260312c" />
+  </head>
+  <body>
+    <div class="dialogue-shell">
+      <header class="dialogue-hero">
+        <a id="backToIndexLink" class="dialogue-back" href="./index.html"
+          >返回角色页</a
+        >
+        <div class="dialogue-hero-copy">
+          <p class="panel-kicker">Character Dialogue</p>
+          <h1 id="dialogueRoleName">角色加载中</h1>
+          <p id="dialogueRoleAliases" class="dialogue-role-aliases"></p>
+          <div class="dialogue-summary-shell">
+            <div class="dialogue-summary-progress-track" aria-hidden="true">
+              <div
+                id="dialogueSummaryProgressThumb"
+                class="dialogue-summary-progress-thumb"
+              ></div>
+            </div>
+            <p id="dialogueRoleSummary" class="dialogue-role-summary"></p>
+          </div>
+        </div>
+      </header>
+
+      <main class="dialogue-layout">
+        <section class="dialogue-chat-panel">
+          <div id="chatMessages" class="chat-messages"></div>
+          <form id="chatForm" class="chat-composer">
+            <textarea
+              id="chatInput"
+              rows="3"
+              placeholder="输入你想和当前角色说的话"
+            ></textarea>
+            <button type="submit">发送</button>
+          </form>
+        </section>
+
+        <aside class="dialogue-side-panel">
+          <div class="dialogue-side-card">
+            <p class="panel-kicker">Role Traits</p>
+            <div id="dialogueTraits" class="trait-list"></div>
+          </div>
+          <div class="dialogue-side-card">
+            <p class="panel-kicker">Story Hints</p>
+            <div id="dialogueHints" class="dialogue-hints"></div>
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script type="module" src="./dialogue.js"></script>
+  </body>
+</html>

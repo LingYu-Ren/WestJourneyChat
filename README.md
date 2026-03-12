@@ -227,3 +227,10 @@ MATCH (n) DETACH DELETE n;
 - `timeline/timeline.py.md`
 - `scripts/import_roles_to_neo4j.py.md`
 - `scripts/neo4j命令.md`
+
+```sh
+python scripts\run_frontend_server.py --port 8000
+python ..\scripts\run_frontend_server.py --port 8000
+
+
+```

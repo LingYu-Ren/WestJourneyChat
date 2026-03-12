@@ -1,4 +1,4 @@
-api_key: sk-**********************
+api_key:
 
 neo4j:
   uri: "neo4j://127.0.0.1:7687"
@@ -9,5 +9,6 @@ project_id: "6eecbd25-6d19-4ab1-85a2-453e5edd941c"
 
 qwen:
   model: "qwen-plus"
+  chat_model: "qwen3.5-flash"
   base_url: "https://dashscope.aliyuncs.com/compatible-mode/v1"
   delay: 0.5
