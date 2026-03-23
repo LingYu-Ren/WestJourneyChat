@@ -136,6 +136,10 @@ python ..\scripts\run_frontend_server.py --port 8000
 
 ## Demo Video
 
-./example-video.mp4
+
+
+https://github.com/user-attachments/assets/b13babae-baee-43f7-a3c2-ee5ccafc4a4e
+
+
 
 [Download video](./example-video.mp4)
