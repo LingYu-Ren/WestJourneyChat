@@ -187,9 +187,6 @@ MATCH (n) DETACH DELETE n;
 - `timeline/timeline.py`  
   滚动叙事抽取核心。每章执行“提取事件 → 更新角色 → 压缩摘要”。
 
-- `scripts/import_roles_to_neo4j.py`  
-  图导入核心。读取 `events.json` + `roles`，做简繁归一、并查集合并、标签优化、图写入。
-
 - `scripts/download_journey_to_the_west.py`  
   从中文维基文库抓取章节文本并落盘。
 
@@ -197,19 +194,10 @@ MATCH (n) DETACH DELETE n;
 
 ## 常见问题与排查
 
-1. 报 `openai/pyyaml/neo4j/zhconv not installed`  
-   执行依赖安装命令并确认当前 Python 环境正确。
-
-2. Neo4j 连接失败  
-   检查 `config.yaml` 中 `neo4j.uri/user/password`，确认数据库已启动且网络可达。
-
-3. 导入脚本报找不到 `timeline/events.json`  
-   先运行 `python timeline/timeline.py` 生成事件文件。
-
-4. 角色合并结果不符合预期  
+1. 角色合并结果不符合预期  
    目前按“主名/别名交叉引用 + 简体归一”做并查集合并；若别名不完整，会影响聚合效果。
 
-5. LLM 输出 JSON 解析失败  
+2. LLM 输出 JSON 解析失败  
    常见于模型返回额外文本或格式不规范，可重试或降低并发/提高提示约束。
 
 ---
@@ -225,8 +213,6 @@ MATCH (n) DETACH DELETE n;
 ## 参考文档
 
 - `timeline/timeline.py.md`
-- `scripts/import_roles_to_neo4j.py.md`
-- `scripts/neo4j命令.md`
 
 ```sh
 python scripts\run_frontend_server.py --port 8000
