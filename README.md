@@ -136,6 +136,6 @@ python ..\scripts\run_frontend_server.py --port 8000
 
 ## Demo Video
 
-example-video.mp4
+.\example-video.mp4
 
 [Download video](./example-video.mp4)
