@@ -136,7 +136,6 @@ python ..\scripts\run_frontend_server.py --port 8000
 
 ## Demo Video
 
-<video src="./example-video.mp4" controls width="960"></video>
+example-video.mp4
 
-If the embedded player does not load in your Markdown viewer, open the file directly:
-[example-video.mp4](./example-video.mp4)
+[Download video](./example-video.mp4)
