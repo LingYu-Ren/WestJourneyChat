@@ -161,15 +161,9 @@ python ..\scripts\run_frontend_server.py --port 8000
 
 ## Demo Video
 
-GitHub repository READMEs do not render repository `.mp4` files as an inline player.
-Click the preview image below to open the demo video.
 
-[![Watch demo video](./pics/top.png)](./example-video.mp4)
-
-Alternative hosted preview:
 https://github.com/user-attachments/assets/b13babae-baee-43f7-a3c2-ee5ccafc4a4e
 
-[Download video](./example-video.mp4)
 
 ---
 
