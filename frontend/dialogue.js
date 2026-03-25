@@ -83,6 +83,7 @@ function rolePayload() {
 
   return {
     name: role.name,
+    title: role.title || role.name,
     aliases: role.aliases || [],
     summary: role.summary || role.description || "",
     personality: role.personality || [],

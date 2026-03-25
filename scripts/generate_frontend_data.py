@@ -48,6 +48,7 @@ def fetch_roles() -> list[dict]:
     OPTIONAL MATCH (c)-[r:PARTICIPATED_IN]->(e:Event)
     RETURN
       c.name AS name,
+      c.title AS title,
       c.aliases AS aliases,
       c.description AS description,
       c.summary AS summary,
@@ -104,6 +105,7 @@ def build_role_payload(raw: dict, placeholder_image: str) -> dict:
 
     return {
         "name": clean_text(raw.get("name", "")),
+        "title": clean_text(raw.get("title", "")) or clean_text(raw.get("name", "")),
         "aliases": aliases[:3],
         "description": clean_text(raw.get("description", "")),
         "summary": clean_text(raw.get("summary", "")),
